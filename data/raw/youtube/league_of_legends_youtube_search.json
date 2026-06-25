@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "-X1Lx0OKYYcSUZVr8_HGZo2XIzU",
+    "etag": "5hDc3IKxtGx50CBf5QNP38u42Zw",
     "nextPageToken": "CAoQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -40,74 +40,6 @@
                 "channelTitle": "\u4ec1\u5e0c \u306a\u306a\u304e\u3010uber\u3011\u9854\u51fa\u3057Vtuber",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-25T03:00:22Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "13GVs5W1zGH4RY0NdSeVXYgJw8k",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "jiTi27zSl5M"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-25T03:00:39Z",
-                "channelId": "UCROmFpLvs0qu45LPFcy5jEw",
-                "title": "LEAGUE OF LEGENDS PERO EN LA VIDA REAL &quot;EL ADC FLAMEA SUPP DIFF Y TIRA SURRENDER&quot; - MEMES",
-                "description": "LEAGUE OF LEGENDS PERO EN LA VIDA REAL \"EL ADC FLAMEA SUPP DIFF Y TIRA SURRENDER\" - MEMES ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/jiTi27zSl5M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/jiTi27zSl5M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/jiTi27zSl5M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "GORDO LOLERO ARGENTINO",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-25T03:00:39Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "2JZ4UgXRl2jK4zL9Y8QigmD6V8A",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "L86fs-WhOHU"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-25T02:17:28Z",
-                "channelId": "UCiWo6CnFYMlfHltx9MaGf4Q",
-                "title": "JUGADOR DE LEAGUE OF LEGENDS PRODIGIO",
-                "description": "JUGADOR DE LEAGUE OF LEGENDS PRODIGIO.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/L86fs-WhOHU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/L86fs-WhOHU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/L86fs-WhOHU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Jonnijuro",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-25T02:17:28Z"
             }
         },
         {
@@ -346,6 +278,74 @@
                 "channelTitle": "TouTTo NaRouTTo",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-24T22:34:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SKnDwWo_4Odwj9l_5uAy_sf-1bQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V8dXk70X9d0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:29:51Z",
+                "channelId": "UCAjoGUDYfAwj6eTzfZ19Iqg",
+                "title": "Why Did he Explode | League of Legends",
+                "description": "Why Did he Explode | League of Legends.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V8dXk70X9d0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V8dXk70X9d0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V8dXk70X9d0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CAMSSY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:29:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Kri5--NgBeuZfjpE00qYaZ42lbs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8EcycF-e2tM"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:31:19Z",
+                "channelId": "UCVMZTjlhaJELt4dXfR3q5uw",
+                "title": "league of legend7",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8EcycF-e2tM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8EcycF-e2tM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8EcycF-e2tM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sakhiboiha",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:31:19Z"
             }
         }
     ]

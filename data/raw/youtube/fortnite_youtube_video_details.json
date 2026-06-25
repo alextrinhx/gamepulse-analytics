@@ -1,177 +1,60 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "p136IhoxxZYnkFGCIcn97wR_gY4",
+    "etag": "kSI3CLkVEEflAQOFF_NFYUCZXnY",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "hcf-Kfrxu36_GiaHiVNcmZMj7dg",
-            "id": "Stwe0BYYMso",
+            "etag": "X28BOIhrzDmxLorrjxthE8uQW9o",
+            "id": "pPVJBzi84es",
             "snippet": {
-                "publishedAt": "2026-06-25T03:38:13Z",
-                "channelId": "UCioKD98eakiGv9DZwmjR08A",
-                "title": "\ud83d\udd34*FORTNITE* SPRITE GIVEAWAY TO SUBSCRIBERS *NEW SPRITES TOMORROW*",
-                "description": "I Just Play Fortnite Twin\n\n\n#fortnite",
+                "publishedAt": "2026-06-25T02:36:39Z",
+                "channelId": "UCgewignMTv1bbiJ3HKcvCpg",
+                "title": "Father And Son Duos LIVE!!",
+                "description": "Playing some Fortnite LIVE with my son.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Stwe0BYYMso/default_live.jpg",
+                        "url": "https://i.ytimg.com/vi/pPVJBzi84es/default_live.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Stwe0BYYMso/mqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/pPVJBzi84es/mqdefault_live.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Stwe0BYYMso/hqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/pPVJBzi84es/hqdefault_live.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Stwe0BYYMso/sddefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/pPVJBzi84es/sddefault_live.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/Stwe0BYYMso/maxresdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/pPVJBzi84es/maxresdefault_live.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "RellLive",
+                "channelTitle": "Tabor Hill",
                 "tags": [
-                    "Fortnite"
+                    "#PS5Live",
+                    "Fortnite",
+                    "Fortnite_live",
+                    "PlayStation 5",
+                    "Sony Interactive Entertainment",
+                    "Tabor_hill",
+                    "Tabor_hill_live",
+                    "Tabor_hill_stream"
                 ],
                 "categoryId": "20",
                 "liveBroadcastContent": "live",
                 "defaultLanguage": "en",
                 "localized": {
-                    "title": "\ud83d\udd34*FORTNITE* SPRITE GIVEAWAY TO SUBSCRIBERS *NEW SPRITES TOMORROW*",
-                    "description": "I Just Play Fortnite Twin\n\n\n#fortnite"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "P0D",
-                "dimension": "2d",
-                "definition": "sd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "435",
-                "likeCount": "5",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "FgPzRq9tXqRMRFGctTDbJEfej_M",
-            "id": "KPKCDbaBjaQ",
-            "snippet": {
-                "publishedAt": "2026-06-25T00:57:11Z",
-                "channelId": "UCl5cp-JxSQAjnAXzk7crbGg",
-                "title": "This Is Why NickEh30 Is the Nicest Streamer! \ud83d\ude2d #fortnite #shorts",
-                "description": "This Is Why NickEh30 Is the Nicest Streamer!\n\n#abstics #fortniteclips #trending",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KPKCDbaBjaQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KPKCDbaBjaQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KPKCDbaBjaQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/KPKCDbaBjaQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/KPKCDbaBjaQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Abstics",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en-US",
-                "localized": {
-                    "title": "This Is Why NickEh30 Is the Nicest Streamer! \ud83d\ude2d #fortnite #shorts",
-                    "description": "This Is Why NickEh30 Is the Nicest Streamer!\n\n#abstics #fortniteclips #trending"
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "contentDetails": {
-                "duration": "PT37S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "5418",
-                "likeCount": "218",
-                "favoriteCount": "0",
-                "commentCount": "8"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "X_koVqS-FQ341S4di52juEyVFEs",
-            "id": "EolR5DJIYOo",
-            "snippet": {
-                "publishedAt": "2026-06-25T00:53:36Z",
-                "channelId": "UC2wKfjlioOCLP4xQMOWNcgg",
-                "title": "\ud83d\udd34 LIVE! - NEW DUO?! WINNING the SUPERGIRL CUP in FORTNITE! (Free Skin Early)",
-                "description": "New Supergirl tournament in Chapter 7, Season 3 in Fortnite Battle Royale with Typical Gamer.\nUse code TYPICALGAMER in the item shop \ud83d\udc99 (Epic Partner)\n\u2764\ufe0f SUBSCRIBE! \u25ba http://bit.ly/SubToTG\n\n\ud83c\udfae I build Fortnite games with my studio JOGO\n\u2b50 Follow us in Fortnite for new maps and updates first \ud83d\udc47\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n\ud83d\udcac Join the Discord: https://discord.gg/TypicalGamer\n\ud83d\udc26 Twitter: https://twitter.com/TypicalGamer\n\ud83d\udcf8 Instagram: https://instagram.com/typicalgamer  \n\ud83e\udde2 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EolR5DJIYOo/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EolR5DJIYOo/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EolR5DJIYOo/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/EolR5DJIYOo/sddefault_live.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/EolR5DJIYOo/maxresdefault_live.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Typical Gamer",
-                "categoryId": "20",
-                "liveBroadcastContent": "live",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "\ud83d\udd34 LIVE! - NEW DUO?! WINNING the SUPERGIRL CUP in FORTNITE! (Free Skin Early)",
-                    "description": "New Supergirl tournament in Chapter 7, Season 3 in Fortnite Battle Royale with Typical Gamer.\nUse code TYPICALGAMER in the item shop \ud83d\udc99 (Epic Partner)\n\u2764\ufe0f SUBSCRIBE! \u25ba http://bit.ly/SubToTG\n\n\ud83c\udfae I build Fortnite games with my studio JOGO\n\u2b50 Follow us in Fortnite for new maps and updates first \ud83d\udc47\nhttps://www.fortnite.com/@TypicalGamer\nhttps://www.fortnite.com/@JOGO\n\n\ud83d\udcac Join the Discord: https://discord.gg/TypicalGamer\n\ud83d\udc26 Twitter: https://twitter.com/TypicalGamer\n\ud83d\udcf8 Instagram: https://instagram.com/typicalgamer  \n\ud83e\udde2 Shop Merch: https://typical.store\n\nMusic by Epidemic Sound: https://www.epidemicsound.com"
+                    "title": "Father And Son Duos LIVE!!",
+                    "description": "Playing some Fortnite LIVE with my son."
                 },
                 "defaultAudioLanguage": "en"
             },
@@ -185,60 +68,64 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "46039",
-                "likeCount": "1755",
+                "viewCount": "6132",
+                "likeCount": "762",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "j4O-g2Jvx79sKADIJn7qIkEGyP0",
-            "id": "bVYh6Y5qPJ8",
+            "etag": "ReRBzqsPk9VB8PU1802kwGUrtaU",
+            "id": "o5iYoVDFB9E",
             "snippet": {
-                "publishedAt": "2026-06-25T00:30:06Z",
-                "channelId": "UCkGqwURQz9EW5zO1ieTsYuw",
-                "title": "Bro believed I was one HP \ud83d\ude2d\ud83d\udc80 #fortnite #fortniteclips",
-                "description": "",
+                "publishedAt": "2026-06-25T00:14:53Z",
+                "channelId": "UC_Ks-dqvBvD18Q85qbadKbg",
+                "title": "Fortnite Daily Item Shop 25.6.2026 | SERVER OFFLINE",
+                "description": "Fortnite Daily Item Shop 25.6.2026 | SERVER OFFLINE\n \nHier bekommt ihr Guthaben G\u00fcnstiger  (werbung)\n*PSN Guthaben: https://www.instant-gaming.com/de/suche/?cat%5B0%5D=29&igr=ferjus\n*XBOX Guthaben: https://www.instant-gaming.com/de/xbox/gaming-karten/?igr=ferjus\n*SWITCH Guthaben: https://www.instant-gaming.com/de/nintendo/switch/gaming-karten/?igr=ferjus\n\n*Weitere Inhalte findest du hier*\nhttps://www.instant-gaming.com/?igr=ferjus\n\nFortnite Shop 25.6.2026 | Shop von heute 25.6\n\nS\u00e4mtliche mit \"*\" gekennzeichneten Links h\u00e4ngen mit Partnerprogrammen zusammen. Sie dienen dem potentiellen K\u00e4ufer als Orientierung und verweisen explizit auf bestimmte Produkte. Sofern diese Links genutzt werde",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/bVYh6Y5qPJ8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/o5iYoVDFB9E/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/bVYh6Y5qPJ8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o5iYoVDFB9E/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/bVYh6Y5qPJ8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o5iYoVDFB9E/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/bVYh6Y5qPJ8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o5iYoVDFB9E/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/bVYh6Y5qPJ8/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o5iYoVDFB9E/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "SmashFN",
+                "channelTitle": "FERJUS",
+                "tags": [
+                    "fortnite",
+                    "shop"
+                ],
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "hu",
+                "defaultLanguage": "de",
                 "localized": {
-                    "title": "Bro believed I was one HP \ud83d\ude2d\ud83d\udc80 #fortnite #fortniteclips",
-                    "description": ""
+                    "title": "Fortnite Daily Item Shop 25.6.2026 | SERVER OFFLINE",
+                    "description": "Fortnite Daily Item Shop 25.6.2026 | SERVER OFFLINE\n \nHier bekommt ihr Guthaben G\u00fcnstiger  (werbung)\n*PSN Guthaben: https://www.instant-gaming.com/de/suche/?cat%5B0%5D=29&igr=ferjus\n*XBOX Guthaben: https://www.instant-gaming.com/de/xbox/gaming-karten/?igr=ferjus\n*SWITCH Guthaben: https://www.instant-gaming.com/de/nintendo/switch/gaming-karten/?igr=ferjus\n\n*Weitere Inhalte findest du hier*\nhttps://www.instant-gaming.com/?igr=ferjus\n\nFortnite Shop 25.6.2026 | Shop von heute 25.6\n\nS\u00e4mtliche mit \"*\" gekennzeichneten Links h\u00e4ngen mit Partnerprogrammen zusammen. Sie dienen dem potentiellen K\u00e4ufer als Orientierung und verweisen explizit auf bestimmte Produkte. Sofern diese Links genutzt werde"
                 },
-                "defaultAudioLanguage": "en-US"
+                "defaultAudioLanguage": "de"
             },
             "contentDetails": {
-                "duration": "PT45S",
+                "duration": "PT8M8S",
                 "dimension": "2d",
                 "definition": "hd",
                 "caption": "false",
@@ -247,77 +134,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "5088",
-                "likeCount": "209",
+                "viewCount": "795",
+                "likeCount": "96",
                 "favoriteCount": "0",
-                "commentCount": "4"
+                "commentCount": "15"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "hZAwyp1l7Xap5fUSomdMgRQk0Gw",
-            "id": "MKCbXblcB_Q",
-            "snippet": {
-                "publishedAt": "2026-06-24T22:10:34Z",
-                "channelId": "UC8VKBYkfZHx1-jBFQ8wrOLQ",
-                "title": "Stealing the *RAREST* Sprite in Fortnite\u2026",
-                "description": "#biphilus30 #fortnite #ogfortnite #fortniteclips #gaming #sniperclips #fortnitememes #fortnitenews",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/MKCbXblcB_Q/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/MKCbXblcB_Q/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/MKCbXblcB_Q/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/MKCbXblcB_Q/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/MKCbXblcB_Q/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Biphilus30",
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Stealing the *RAREST* Sprite in Fortnite\u2026",
-                    "description": "#biphilus30 #fortnite #ogfortnite #fortniteclips #gaming #sniperclips #fortnitememes #fortnitenews"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT1M24S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "49092",
-                "likeCount": "3905",
-                "favoriteCount": "0",
-                "commentCount": "398"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "02_x16E7HF8Dnvs5x84_vuubR4s",
+            "etag": "dhHf9WPSQcS0fR381n53WnB_Uho",
             "id": "54WoqXXli-Q",
             "snippet": {
                 "publishedAt": "2026-06-24T21:37:14Z",
@@ -383,93 +208,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "33035",
-                "likeCount": "1052",
+                "viewCount": "37005",
+                "likeCount": "1109",
                 "favoriteCount": "0",
-                "commentCount": "160"
+                "commentCount": "167"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "-VXlMiDMM4kB7NLffhpbMhVa0UI",
-            "id": "lfC-ShmsxqI",
-            "snippet": {
-                "publishedAt": "2026-06-24T20:22:18Z",
-                "channelId": "UCQD2pMoMY-pj0nSJ-r1F7Ug",
-                "title": "Fortnite X JJK Season 4 \ud83d\udd25\ud83d\udc80",
-                "description": "#edit #fortnite #fortniteclips #funk #simpsons #fortnitesimpsons #thesimpsons #fortnitebattleroyale #fortniteedit #animeedit #peeker1k #naruto #animeedit #anime #jjk #dbz #dbs #demonslayer #gojoedit #gojo",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lfC-ShmsxqI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lfC-ShmsxqI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lfC-ShmsxqI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/lfC-ShmsxqI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/lfC-ShmsxqI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Peeker",
-                "tags": [
-                    "fortnite x simpsons",
-                    "simpson season fortnite",
-                    "the simpsons",
-                    "fortnite collab",
-                    "fortnite",
-                    "edit",
-                    "fortnite trailer",
-                    "fortniite collab trailer",
-                    "fortnite simpsons trailer",
-                    "fortnite simpsons collab",
-                    "fortnite edit",
-                    "fortnite x jjk",
-                    "jjk season 4",
-                    "jujutsu kaisen season 4"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Fortnite X JJK Season 4 \ud83d\udd25\ud83d\udc80",
-                    "description": "#edit #fortnite #fortniteclips #funk #simpsons #fortnitesimpsons #thesimpsons #fortnitebattleroyale #fortniteedit #animeedit #peeker1k #naruto #animeedit #anime #jjk #dbz #dbs #demonslayer #gojoedit #gojo"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT17S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "39359",
-                "likeCount": "863",
-                "favoriteCount": "0",
-                "commentCount": "11"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "aE_si_dNwn8U5Xf4MIEOXb-hDaw",
+            "etag": "71Mv_LLG9HSW-tEqQoygIEpewU8",
             "id": "QBO1VlMFR1Y",
             "snippet": {
                 "publishedAt": "2026-06-24T20:15:15Z",
@@ -551,15 +298,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "148373",
-                "likeCount": "6826",
+                "viewCount": "164873",
+                "likeCount": "7335",
                 "favoriteCount": "0",
-                "commentCount": "728"
+                "commentCount": "748"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "I8VGd5XvW0y-QQEMPNPWD71GtIE",
+            "etag": "TQ2GA6vxcIZvGG9eo6RmKZSzYss",
             "id": "lTSSAsAoj4A",
             "snippet": {
                 "publishedAt": "2026-06-24T17:55:41Z",
@@ -613,15 +360,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "115931",
-                "likeCount": "3335",
+                "viewCount": "123794",
+                "likeCount": "3551",
                 "favoriteCount": "0",
-                "commentCount": "272"
+                "commentCount": "283"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "aNOzLRxPXY6o0PCl9F-yJCHuZyA",
+            "etag": "-o3_cwfnlea3OwTE7EPGdVg5uOI",
             "id": "rY_6TFWOK5I",
             "snippet": {
                 "publishedAt": "2026-06-24T17:00:23Z",
@@ -715,10 +462,343 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3553",
-                "likeCount": "227",
+                "viewCount": "3630",
+                "likeCount": "230",
                 "favoriteCount": "0",
                 "commentCount": "16"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7UlDq-5xGxEt95MTqYD67d_gulo",
+            "id": "eAaRf0Riswo",
+            "snippet": {
+                "publishedAt": "2026-06-24T16:55:02Z",
+                "channelId": "UCCu3tv9XDC11VaIgTdlwwxw",
+                "title": "Best Setting Map Code 9994-1942-8746 \ud83d\ude0d #clowzen #fortnite",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eAaRf0Riswo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eAaRf0Riswo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eAaRf0Riswo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eAaRf0Riswo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eAaRf0Riswo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "nL Clowzen",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "fr",
+                "localized": {
+                    "title": "Best Setting Map Code 9994-1942-8746 \ud83d\ude0d #clowzen #fortnite",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "fr"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8673",
+                "likeCount": "286",
+                "favoriteCount": "0",
+                "commentCount": "17"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8ZmQ1wHebAf7DUZ3ly5H4abBKiY",
+            "id": "8yg2QaEcWBw",
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:10Z",
+                "channelId": "UCHnGh6ClNwEy4aK-bnufo1w",
+                "title": "Die legend\u00e4re GESCHICHTE von EDWARD..\ud83d\ude31 [Fortnite]",
+                "description": "Die legend\u00e4re GESCHICHTE von EDWARD..\ud83d\ude31 [Fortnite]\n\nDas ist die legend\u00e4re Fortnite Geschichte von dem Spieler Edward. Er will unbedingt den Sprite Contest gewinnen und hat daf\u00fcr einen coolen Sprite gezeichnet!\ud83e\udd2f\n\n#gaming #shorts #glitch #youtubeshorts #fortnite #chapter7 #fyp\u30b7\n\nCreator Code: Addi \u2764\ufe0f #Werbung\n\n\ud83d\udcf2 Folgt mir gerne:\n\ud83d\udcde WhatsApp: https://addi.yt/whatsapp\n\ud83d\udcf7 Instagram: https://www.instagram.com/yt_addi\n\ud83c\udfa5 TikTok: https://www.tiktok.com/@addiaufdie1\n\nDenkt an ein Like\ud83d\udc4d\ud83c\udffb und ein Kommentar\ud83d\udcac, wenn euch das Video gefallen hat!\u2764\ufe0f\n\nFortnite Tipps und Tricks Fortnite Mythen Fortnite Kapitel 7 Season 2 Fortnite Glitch deutsch Fortnite shorts deutsch fortnite mythen deutsch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8yg2QaEcWBw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8yg2QaEcWBw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8yg2QaEcWBw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8yg2QaEcWBw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8yg2QaEcWBw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Addi LIVE",
+                "tags": [
+                    "fortnite",
+                    "fortnite shorts",
+                    "shorts",
+                    "short",
+                    "#shorts",
+                    "#short",
+                    "#fortnite",
+                    "peely",
+                    "fortnite emote",
+                    "fortnite dance",
+                    "fortnite skin",
+                    "fortnite live event",
+                    "fortnite item shop",
+                    "fortnite skins",
+                    "fortnite vbucks",
+                    "vbucks",
+                    "new",
+                    "fortnite update",
+                    "new fortnite update",
+                    "fortnite bosses",
+                    "fortnite boss",
+                    "fortnite season",
+                    "fortnite chapter",
+                    "fortnite myths",
+                    "youtube shorts",
+                    "shorts video",
+                    "funny",
+                    "fortnite funny",
+                    "fortnite trailer",
+                    "fortnite battle royale",
+                    "battle royale",
+                    "gaming",
+                    "gameplay",
+                    "event",
+                    "mrbeast",
+                    "mr beast",
+                    "gattu"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "Die legend\u00e4re GESCHICHTE von EDWARD..\ud83d\ude31 [Fortnite]",
+                    "description": "Die legend\u00e4re GESCHICHTE von EDWARD..\ud83d\ude31 [Fortnite]\n\nDas ist die legend\u00e4re Fortnite Geschichte von dem Spieler Edward. Er will unbedingt den Sprite Contest gewinnen und hat daf\u00fcr einen coolen Sprite gezeichnet!\ud83e\udd2f\n\n#gaming #shorts #glitch #youtubeshorts #fortnite #chapter7 #fyp\u30b7\n\nCreator Code: Addi \u2764\ufe0f #Werbung\n\n\ud83d\udcf2 Folgt mir gerne:\n\ud83d\udcde WhatsApp: https://addi.yt/whatsapp\n\ud83d\udcf7 Instagram: https://www.instagram.com/yt_addi\n\ud83c\udfa5 TikTok: https://www.tiktok.com/@addiaufdie1\n\nDenkt an ein Like\ud83d\udc4d\ud83c\udffb und ein Kommentar\ud83d\udcac, wenn euch das Video gefallen hat!\u2764\ufe0f\n\nFortnite Tipps und Tricks Fortnite Mythen Fortnite Kapitel 7 Season 2 Fortnite Glitch deutsch Fortnite shorts deutsch fortnite mythen deutsch"
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "contentDetails": {
+                "duration": "PT37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "221003",
+                "likeCount": "13536",
+                "favoriteCount": "0",
+                "commentCount": "49"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "j_CZPA-A5yu7qhOMUX4zY0XnlQ0",
+            "id": "fS0Jm2ti4Iw",
+            "snippet": {
+                "publishedAt": "2026-06-24T15:45:56Z",
+                "channelId": "UCNMJiOohMtdGClWdc4LScBg",
+                "title": "Je me suis pris pour PETERBOT en TOURNOI FORTNITE ! \ud83d\ude32 | BEST OF LIVE #170",
+                "description": "\ud83c\udfae Ma manette SCUF (5% de r\u00e9duction avec le code \"zetfar\") \u2794 https://scuf.co/zetfar\n\n\ud83d\udc9b Code cr\u00e9ateur Fortnite \u2794 \"zetfar\" #publicit\u00e9 #fortnitelive \n\ud83d\udecd\ufe0f La boutique Fortnite \u2794 https://www.fortnite.com/item-shop?cr...\n\n\ud83d\udc55 Ma boutique officielle \u2794 https://zetfar.com\n\ud83d\udcd6  Le tome 1 de mon livre \u2794 https://l1nq.com/9fRQW\n\ud83d\udcd6  Le tome 2 de mon livre \u2794 https://t.co/0a6KODaHTi\n\n\ud83d\udc9b Si tu veux commander ton maillot HavoK \u2794 https://teamhavok.fr\n\ud83d\udc8e Pour devenir sponsor de la chaine \u2794 https://t.co/pDX8HuXI3r\n\ud83d\udce7 Contact \u2794 contact@zetfar.fr\n\n---------------------------------------------\n\n\ud83c\udf1f Mes autres r\u00e9seaux\ud83c\udf1f\n\n\ud83d\udd34 ZetFarTV \u2794 www.youtube.com/@zetfartv\n\ud83d\udcfa Twitch \u2794 https://www.twitch.tv/zetfartv\n\ud83d\udc25 Twitter (X) \u2794 https://twitter.com/ZetFarYT\n\ud83d\udc8c Discord \u2794 https://discord.gg/zetfar\n\ud83d\udcf7 Instagram \u2794 https://Instagram.com/zetfaryt\n\ud83d\udcfd\ufe0f TikTok \u2794 https://www.tiktok.com/@zetfaryt \n\ud83d\uddbc\ufe0f Snapchat \u2794 https://www.snapchat.com/@youtubezetfartv\n\ud83c\udfad Facebook \u2794 https://www.facebook.com/zetfaryt\n\ud83c\udfb5 Spotify \u2794 https://open.spotify.com/show/5Vk9ofw6MjbmB1ivYdqtmx\n\n--------------------------------------------\n\n\u2728 Mes maps Fortnite \u2728 (https://www.fortnite.com/@zetfar) \n\n\ud83d\udd2b Super Pistol Oneshot \u2794 https://play.fn.gg/island/4916-2632-4742\n\ud83c\udfc3 Mega Parkour 500+ \u2794 https://play.fn.gg/island/9322-4074-5000\n\u2694\ufe0f Maps de combat \u2794 \"wzf\" dans la barre de recherche Fortnite \ud83d\udd0e",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fS0Jm2ti4Iw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fS0Jm2ti4Iw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fS0Jm2ti4Iw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fS0Jm2ti4Iw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fS0Jm2ti4Iw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ZetFar",
+                "tags": [
+                    "zetfar",
+                    "fortnite",
+                    "havok",
+                    "ranked",
+                    "manette",
+                    "scuf",
+                    "wazz",
+                    "je",
+                    "me",
+                    "suis",
+                    "pris",
+                    "pour",
+                    "peterbot",
+                    "en",
+                    "tournoi",
+                    "best of live #170"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "fr",
+                "localized": {
+                    "title": "Je me suis pris pour PETERBOT en TOURNOI FORTNITE ! \ud83d\ude32 | BEST OF LIVE #170",
+                    "description": "\ud83c\udfae Ma manette SCUF (5% de r\u00e9duction avec le code \"zetfar\") \u2794 https://scuf.co/zetfar\n\n\ud83d\udc9b Code cr\u00e9ateur Fortnite \u2794 \"zetfar\" #publicit\u00e9 #fortnitelive \n\ud83d\udecd\ufe0f La boutique Fortnite \u2794 https://www.fortnite.com/item-shop?cr...\n\n\ud83d\udc55 Ma boutique officielle \u2794 https://zetfar.com\n\ud83d\udcd6  Le tome 1 de mon livre \u2794 https://l1nq.com/9fRQW\n\ud83d\udcd6  Le tome 2 de mon livre \u2794 https://t.co/0a6KODaHTi\n\n\ud83d\udc9b Si tu veux commander ton maillot HavoK \u2794 https://teamhavok.fr\n\ud83d\udc8e Pour devenir sponsor de la chaine \u2794 https://t.co/pDX8HuXI3r\n\ud83d\udce7 Contact \u2794 contact@zetfar.fr\n\n---------------------------------------------\n\n\ud83c\udf1f Mes autres r\u00e9seaux\ud83c\udf1f\n\n\ud83d\udd34 ZetFarTV \u2794 www.youtube.com/@zetfartv\n\ud83d\udcfa Twitch \u2794 https://www.twitch.tv/zetfartv\n\ud83d\udc25 Twitter (X) \u2794 https://twitter.com/ZetFarYT\n\ud83d\udc8c Discord \u2794 https://discord.gg/zetfar\n\ud83d\udcf7 Instagram \u2794 https://Instagram.com/zetfaryt\n\ud83d\udcfd\ufe0f TikTok \u2794 https://www.tiktok.com/@zetfaryt \n\ud83d\uddbc\ufe0f Snapchat \u2794 https://www.snapchat.com/@youtubezetfartv\n\ud83c\udfad Facebook \u2794 https://www.facebook.com/zetfaryt\n\ud83c\udfb5 Spotify \u2794 https://open.spotify.com/show/5Vk9ofw6MjbmB1ivYdqtmx\n\n--------------------------------------------\n\n\u2728 Mes maps Fortnite \u2728 (https://www.fortnite.com/@zetfar) \n\n\ud83d\udd2b Super Pistol Oneshot \u2794 https://play.fn.gg/island/4916-2632-4742\n\ud83c\udfc3 Mega Parkour 500+ \u2794 https://play.fn.gg/island/9322-4074-5000\n\u2694\ufe0f Maps de combat \u2794 \"wzf\" dans la barre de recherche Fortnite \ud83d\udd0e"
+                },
+                "defaultAudioLanguage": "fr"
+            },
+            "contentDetails": {
+                "duration": "PT14M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "32375",
+                "likeCount": "2201",
+                "favoriteCount": "0",
+                "commentCount": "127"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "s7RGP7yfK4oi3ocI1G9T7k5sz6c",
+            "id": "4q4LWU-sLfU",
+            "snippet": {
+                "publishedAt": "2026-06-24T15:05:10Z",
+                "channelId": "UCLDozS2TJo_qr8XXkZCscWg",
+                "title": "I Tried The Hardest Challenge Ever Against The #1 Fortnite Player",
+                "description": "I was carrying the rarest sprite in Fortnite and trying to win without firing a single bullet. Everything was going according to plan... until I ran into the #1 Fortnite player. \ud83d\ude33\n@ShipStreaming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4q4LWU-sLfU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4q4LWU-sLfU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4q4LWU-sLfU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4q4LWU-sLfU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4q4LWU-sLfU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FortniteDad ",
+                "tags": [
+                    "Fortnite",
+                    "Fortnite Shorts",
+                    "Fortnite Challenge",
+                    "FortniteDad",
+                    "Fortnite Battle Royale",
+                    "Fortnite Gameplay",
+                    "Fortnite Ranked",
+                    "Unreal Rank",
+                    "Fortnite Zero Build",
+                    "Fortnite Funny Moments",
+                    "Fortnite Clips",
+                    "Fortnite Highlights",
+                    "Fortnite Streamer",
+                    "Rare Sprite",
+                    "Fortnite Sprite",
+                    "No Shooting Challenge",
+                    "Pacifist Challenge",
+                    "Hardest Fortnite Challenge",
+                    "Gaming Shorts",
+                    "Fortnite TikTok",
+                    "Fortnite YouTube Shorts",
+                    "Best Fortnite Player",
+                    "#1 Fortnite Player",
+                    "Viral Fortnite",
+                    "Fortnite Win",
+                    "Epic Games"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I Tried The Hardest Challenge Ever Against The #1 Fortnite Player",
+                    "description": "I was carrying the rarest sprite in Fortnite and trying to win without firing a single bullet. Everything was going according to plan... until I ran into the #1 Fortnite player. \ud83d\ude33\n@ShipStreaming"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11623",
+                "likeCount": "390",
+                "favoriteCount": "0",
+                "commentCount": "23"
             }
         }
     ],

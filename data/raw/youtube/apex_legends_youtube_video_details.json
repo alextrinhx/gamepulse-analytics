@@ -1,7 +1,216 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "jJGuP9Fc6CBD-x9ry7pyKr_azK0",
+    "etag": "tRQU_P6Fd5sEb6B2kJ59Hn0n530",
     "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8UOmgz35k6TCyQQ9UmznwxV2WFA",
+            "id": "nrHJK-9b2KM",
+            "snippet": {
+                "publishedAt": "2026-06-25T04:05:22Z",
+                "channelId": "UCpfBDeCBYnCjA8k3bY2JDCw",
+                "title": "They added Ai to Apex legends \ud83d\ude2d\ud83d\ude2d #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nrHJK-9b2KM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nrHJK-9b2KM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nrHJK-9b2KM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nrHJK-9b2KM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nrHJK-9b2KM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BigMoGames",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "They added Ai to Apex legends \ud83d\ude2d\ud83d\ude2d #shorts",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "448",
+                "likeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ZVKG9baqGwfJAhI5ZkvWcLBs4c0",
+            "id": "vWBc1hfwrEo",
+            "snippet": {
+                "publishedAt": "2026-06-25T04:00:27Z",
+                "channelId": "UC8gKWw73m-iACVF6_ncdccA",
+                "title": "How to 1v5 as VALKYRIE in APEX LEGENDS!",
+                "description": "This Apex Legends clip shows you how to clutch smart, stay calm under pressure, and play like a pro in ranked AND pubs. Every decision counts, whether its aim, movement, or game sense.\n\nGet 5% OFF the GameSir G7 Pro 8K (PC) controller I use:\n\nOfficial Website:\nCode: SONYX8K\nhttps://bit.ly/SONYX8K\n\nAmazon:\nCode: SONYXG8K\nhttps://amzn.to/43yVFu5\n\nWant me to break down YOUR fights like this? Coaching info here \ud83d\udc49 https://discord.gg/Z8E3JrT4Ky\n\n\u2764\ufe0f Use *Creator Code: SONYX* whenever you pick up Apex Coins or a Battle Pass at https://store.ea.com\nIt\u2019s free to use and goes a long way in supporting future Apex Legends guides.\n\n#ApexLegends #apexlegendsseason29 #sponsoredbyea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vWBc1hfwrEo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vWBc1hfwrEo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vWBc1hfwrEo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vWBc1hfwrEo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vWBc1hfwrEo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sonyx",
+                "tags": [
+                    "apex legends",
+                    "apex clutch",
+                    "apex coaching",
+                    "apex fight breakdown",
+                    "apex tips",
+                    "sonyx",
+                    "sonyxapex",
+                    "apex 1v3",
+                    "apex 1v2",
+                    "apex legends ranked",
+                    "apex legends tier list",
+                    "apex legends meta",
+                    "apex legends how to get better",
+                    "apex legends tips",
+                    "apex legends tips and tricks",
+                    "apex legends movement",
+                    "apex legends settings",
+                    "apex axle",
+                    "apex valkyrie",
+                    "apex legends axle",
+                    "apex legends valkyrie"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "How to 1v5 as VALKYRIE in APEX LEGENDS!",
+                    "description": "This Apex Legends clip shows you how to clutch smart, stay calm under pressure, and play like a pro in ranked AND pubs. Every decision counts, whether its aim, movement, or game sense.\n\nGet 5% OFF the GameSir G7 Pro 8K (PC) controller I use:\n\nOfficial Website:\nCode: SONYX8K\nhttps://bit.ly/SONYX8K\n\nAmazon:\nCode: SONYXG8K\nhttps://amzn.to/43yVFu5\n\nWant me to break down YOUR fights like this? Coaching info here \ud83d\udc49 https://discord.gg/Z8E3JrT4Ky\n\n\u2764\ufe0f Use *Creator Code: SONYX* whenever you pick up Apex Coins or a Battle Pass at https://store.ea.com\nIt\u2019s free to use and goes a long way in supporting future Apex Legends guides.\n\n#ApexLegends #apexlegendsseason29 #sponsoredbyea"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "809",
+                "likeCount": "26",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TBB3U9BOG_MI0hqFm1uclFG51i8",
+            "id": "Ma1p5W6L2ms",
+            "snippet": {
+                "publishedAt": "2026-06-25T03:50:17Z",
+                "channelId": "UCtZH18enp9h8v_sW2FpNJ3A",
+                "title": "bro was stressin lmao #apex #legends",
+                "description": "#CapCut I made this amazing video with CapCut. Open the link to try it out:  capcut.com/tools/desktop-video-editor",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ma1p5W6L2ms/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ma1p5W6L2ms/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ma1p5W6L2ms/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ma1p5W6L2ms/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ma1p5W6L2ms/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KrazyClipz99",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "bro was stressin lmao #apex #legends",
+                    "description": "#CapCut I made this amazing video with CapCut. Open the link to try it out:  capcut.com/tools/desktop-video-editor"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT32S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "498",
+                "likeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        },
         {
             "kind": "youtube#video",
             "etag": "lyrv-gsTd8lj6k5t5D_RlP6CV18",
@@ -66,7 +275,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "vj0pSy7TYLgsDghwYm4jzjOxx64",
+            "etag": "69lH3El2w6WcXDwHGymMlf3UG5Q",
             "id": "cTKq6Z1gQMc",
             "snippet": {
                 "publishedAt": "2026-06-25T03:00:36Z",
@@ -129,15 +338,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3347",
-                "likeCount": "113",
+                "viewCount": "5307",
+                "likeCount": "208",
                 "favoriteCount": "0",
-                "commentCount": "8"
+                "commentCount": "14"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Vd7zy7gnBiQeP8qQsb1f4EGvmo4",
+            "etag": "jrbLxx6ugA0hLnQTJMA1N8xcGRI",
             "id": "L38zP0Sc5j0",
             "snippet": {
                 "publishedAt": "2026-06-25T03:00:03Z",
@@ -195,14 +404,14 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "367",
+                "viewCount": "904",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "SysoitzfaSTjoAWikIOp61BLvuM",
+            "etag": "Ph-yXx0PKrFyGZlqegHWc88iNzM",
             "id": "ip66s2Qc0Fs",
             "snippet": {
                 "publishedAt": "2026-06-25T02:43:12Z",
@@ -256,7 +465,7 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2368",
+                "viewCount": "2475",
                 "likeCount": "26",
                 "favoriteCount": "0",
                 "commentCount": "0"
@@ -264,7 +473,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "pMLoQglKqLZ8Kpk7_9G9Qk04Jt0",
+            "etag": "hMfOgSpHuR1vV3jbE0lCk96ysw8",
             "id": "H64Kg4gf9iY",
             "snippet": {
                 "publishedAt": "2026-06-25T00:59:05Z",
@@ -324,15 +533,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1525",
-                "likeCount": "186",
+                "viewCount": "2011",
+                "likeCount": "231",
                 "favoriteCount": "0",
-                "commentCount": "6"
+                "commentCount": "7"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Ks06eMpUtBo0IkABM_dpkYjAXmw",
+            "etag": "vJwc4GS6Ofh83oJDK1M1DmJbsNk",
             "id": "I7Mwti_Eaxo",
             "snippet": {
                 "publishedAt": "2026-06-25T00:49:08Z",
@@ -394,7 +603,7 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "525",
+                "viewCount": "576",
                 "likeCount": "1",
                 "favoriteCount": "0",
                 "commentCount": "0"
@@ -402,7 +611,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "DR5ye0Epg8t6lwg5AUnb2k1theM",
+            "etag": "XMqb25YLcwqTN9wjT-XJl8Ej5ss",
             "id": "_3LYwZe_KZg",
             "snippet": {
                 "publishedAt": "2026-06-25T00:27:18Z",
@@ -490,246 +699,10 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "757",
-                "likeCount": "52",
+                "viewCount": "868",
+                "likeCount": "58",
                 "favoriteCount": "0",
                 "commentCount": "3"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "NuUEoCovYWiKq9dhdmGt0qZeZaI",
-            "id": "-J4RUg6sHJk",
-            "snippet": {
-                "publishedAt": "2026-06-24T23:39:42Z",
-                "channelId": "UCVlhSj1nXYiy4vCQlQWjybw",
-                "title": "New Pathfinder Movement ft. Aceu",
-                "description": "Watch this gameplay live on Twitch!!! \ud83d\udd34: https://www.twitch.tv/extesyy\nExtesyy's Discord!!! \ud83d\udd34  https://discord.gg/cmAEKgxMZc\n\nFollow the Twitter \ud83d\udc26 https://x.com/Extesyy\n\n\ud83e\udde0Channel Management &  \ud83c\udfacVideo Editing by ----\u2aa2 https://twitter.com/AdoLol22\n\ud83c\udfa8Thumbnail concept by Ado \n\n\nBest Controller Movement in Apex Legends\n#ApexLegends #Extesyy #apex",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Extesyy",
-                "tags": [
-                    "Console Movement",
-                    "Controller movement",
-                    "Apex movement",
-                    "20 bomb apex",
-                    "ApexController",
-                    "Controller movement guide",
-                    "Controller Movement God",
-                    "Best controller movement",
-                    "tap-strafe controller",
-                    "Controller tap strafes",
-                    "tap-strafing controller guide",
-                    "BEST ALC APEX",
-                    "BEST APEX SETTINGS",
-                    "BEST settings apex",
-                    "Best settings for movement apex",
-                    "Best controller settings apex",
-                    "Extesyy",
-                    "Exastyy",
-                    "Extessy",
-                    "new pathfinder",
-                    "new pathfinder buffs",
-                    "aceu",
-                    "aceu apex",
-                    "new apex update",
-                    "new apex buffs and nerfs"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "New Pathfinder Movement ft. Aceu",
-                    "description": "Watch this gameplay live on Twitch!!! \ud83d\udd34: https://www.twitch.tv/extesyy\nExtesyy's Discord!!! \ud83d\udd34  https://discord.gg/cmAEKgxMZc\n\nFollow the Twitter \ud83d\udc26 https://x.com/Extesyy\n\n\ud83e\udde0Channel Management &  \ud83c\udfacVideo Editing by ----\u2aa2 https://twitter.com/AdoLol22\n\ud83c\udfa8Thumbnail concept by Ado \n\n\nBest Controller Movement in Apex Legends\n#ApexLegends #Extesyy #apex"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT29M",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "3222",
-                "likeCount": "171",
-                "favoriteCount": "0",
-                "commentCount": "9"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "1JSJAzwb0_IkfhOV4KQNR4Zu3to",
-            "id": "AYDmwI38wYs",
-            "snippet": {
-                "publishedAt": "2026-06-24T23:15:40Z",
-                "channelId": "UCL_9YlNAN908yzN1m_l5wCg",
-                "title": "PATHFINDER HA SIDO MEJORADO EN APEX LEGENDS",
-                "description": "PATHFINDER HA SIDO MEJORADO EN APEX LEGENDS\nDescubre todas las novedades que trae el segundo split de la temporada 29 para Pathfinder y c\u00f3mo estas mejoras cambiar\u00e1n tu forma de jugar. Desde nuevas t\u00e1cticas hasta cambios en su definitiva, \u00a1no te lo puedes perder! #ApexLegends #Apex #ApexLegendsNews #Gaming #Videojuegos",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/AYDmwI38wYs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/AYDmwI38wYs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/AYDmwI38wYs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/AYDmwI38wYs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/AYDmwI38wYs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Karto95v",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "PATHFINDER HA SIDO MEJORADO EN APEX LEGENDS",
-                    "description": "PATHFINDER HA SIDO MEJORADO EN APEX LEGENDS\nDescubre todas las novedades que trae el segundo split de la temporada 29 para Pathfinder y c\u00f3mo estas mejoras cambiar\u00e1n tu forma de jugar. Desde nuevas t\u00e1cticas hasta cambios en su definitiva, \u00a1no te lo puedes perder! #ApexLegends #Apex #ApexLegendsNews #Gaming #Videojuegos"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "contentDetails": {
-                "duration": "PT2M13S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "755",
-                "likeCount": "19",
-                "favoriteCount": "0",
-                "commentCount": "1"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "ECk4t-qSWcWta15u1kaPKIWIXic",
-            "id": "HIkVhEaCAZM",
-            "snippet": {
-                "publishedAt": "2026-06-24T22:00:03Z",
-                "channelId": "UC8gKWw73m-iACVF6_ncdccA",
-                "title": "How to 1v3 as VALKYRIE in APEX LEGENDS!",
-                "description": "This Apex Legends clip shows you how to clutch smart, stay calm under pressure, and play like a pro in ranked AND pubs. Every decision counts, whether its aim, movement, or game sense.\n\nGet 5% OFF the GameSir G7 Pro 8K (PC) controller I use:\n\nOfficial Website:\nCode: SONYX8K\nhttps://bit.ly/SONYX8K\n\nAmazon:\nCode: SONYXG8K\nhttps://amzn.to/43yVFu5\n\nWant me to break down YOUR fights like this? Coaching info here \ud83d\udc49 https://discord.gg/Z8E3JrT4Ky\n\n\u2764\ufe0f Use *Creator Code: SONYX* whenever you pick up Apex Coins or a Battle Pass at https://store.ea.com\nIt\u2019s free to use and goes a long way in supporting future Apex Legends guides.\n\n#ApexLegends #apexlegendsseason29 #sponsoredbyea",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Sonyx",
-                "tags": [
-                    "apex legends",
-                    "apex clutch",
-                    "apex coaching",
-                    "apex fight breakdown",
-                    "apex tips",
-                    "sonyx",
-                    "sonyxapex",
-                    "apex 1v3",
-                    "apex 1v2",
-                    "apex legends ranked",
-                    "apex legends tier list",
-                    "apex legends meta",
-                    "apex legends how to get better",
-                    "apex legends tips",
-                    "apex legends tips and tricks",
-                    "apex legends movement",
-                    "apex legends settings",
-                    "apex axle",
-                    "apex valkyrie",
-                    "apex legends axle",
-                    "apex legends valkyrie"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "How to 1v3 as VALKYRIE in APEX LEGENDS!",
-                    "description": "This Apex Legends clip shows you how to clutch smart, stay calm under pressure, and play like a pro in ranked AND pubs. Every decision counts, whether its aim, movement, or game sense.\n\nGet 5% OFF the GameSir G7 Pro 8K (PC) controller I use:\n\nOfficial Website:\nCode: SONYX8K\nhttps://bit.ly/SONYX8K\n\nAmazon:\nCode: SONYXG8K\nhttps://amzn.to/43yVFu5\n\nWant me to break down YOUR fights like this? Coaching info here \ud83d\udc49 https://discord.gg/Z8E3JrT4Ky\n\n\u2764\ufe0f Use *Creator Code: SONYX* whenever you pick up Apex Coins or a Battle Pass at https://store.ea.com\nIt\u2019s free to use and goes a long way in supporting future Apex Legends guides.\n\n#ApexLegends #apexlegendsseason29 #sponsoredbyea"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT45S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "867",
-                "likeCount": "27",
-                "favoriteCount": "0",
-                "commentCount": "2"
             }
         }
     ],

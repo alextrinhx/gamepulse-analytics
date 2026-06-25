@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "6GCkfWmkRkjkNmR3wSElnGgcg30",
+    "etag": "RaJuXY3_CFeG-DthA58vzJIFt_M",
     "nextPageToken": "CAoQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -8,6 +8,108 @@
         "resultsPerPage": 10
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "26Wd1FTDRAPyvAQgTWg8xAnG3XE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nrHJK-9b2KM"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T04:05:22Z",
+                "channelId": "UCpfBDeCBYnCjA8k3bY2JDCw",
+                "title": "They added Ai to Apex legends \ud83d\ude2d\ud83d\ude2d #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nrHJK-9b2KM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nrHJK-9b2KM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nrHJK-9b2KM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BigMoGames",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T04:05:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1Ik4JkUMp4h7Vyj0m1hEN-ReUpI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vWBc1hfwrEo"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T04:00:27Z",
+                "channelId": "UC8gKWw73m-iACVF6_ncdccA",
+                "title": "How to 1v5 as VALKYRIE in APEX LEGENDS!",
+                "description": "This Apex Legends clip shows you how to clutch smart, stay calm under pressure, and play like a pro in ranked AND pubs.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vWBc1hfwrEo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vWBc1hfwrEo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vWBc1hfwrEo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sonyx",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T04:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SpKm3I2Uqai8CDo1mIyk63yyTGg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ma1p5W6L2ms"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:50:17Z",
+                "channelId": "UCtZH18enp9h8v_sW2FpNJ3A",
+                "title": "bro was stressin lmao #apex #legends",
+                "description": "CapCut I made this amazing video with CapCut. Open the link to try it out: capcut.com/tools/desktop-video-editor.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ma1p5W6L2ms/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ma1p5W6L2ms/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ma1p5W6L2ms/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KrazyClipz99",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T03:50:17Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "Chu3GRR_a-IBYqwHN37stad5n0s",
@@ -244,108 +346,6 @@
                 "channelTitle": "jhallballer",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-25T00:27:18Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "MYfXjil6gOmUn3t99ePxL7THEYo",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "-J4RUg6sHJk"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T23:39:42Z",
-                "channelId": "UCVlhSj1nXYiy4vCQlQWjybw",
-                "title": "New Pathfinder Movement ft. Aceu",
-                "description": "Watch this gameplay live on Twitch!!! : https://www.twitch.tv/extesyy Extesyy's Discord!!! https://discord.gg/cmAEKgxMZc ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Extesyy",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T23:39:42Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "3TbyhrQ6xzbDbwYudzqZs5aCcVU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "AYDmwI38wYs"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T23:15:40Z",
-                "channelId": "UCL_9YlNAN908yzN1m_l5wCg",
-                "title": "PATHFINDER HA SIDO MEJORADO EN APEX LEGENDS",
-                "description": "PATHFINDER HA SIDO MEJORADO EN APEX LEGENDS Descubre todas las novedades que trae el segundo split de la ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/AYDmwI38wYs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/AYDmwI38wYs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/AYDmwI38wYs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Karto95v",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T23:15:40Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "wB8wETQcm-jNIiawej4WZULts1g",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "HIkVhEaCAZM"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T22:00:03Z",
-                "channelId": "UC8gKWw73m-iACVF6_ncdccA",
-                "title": "How to 1v3 as VALKYRIE in APEX LEGENDS!",
-                "description": "This Apex Legends clip shows you how to clutch smart, stay calm under pressure, and play like a pro in ranked AND pubs.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sonyx",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T22:00:03Z"
             }
         }
     ]

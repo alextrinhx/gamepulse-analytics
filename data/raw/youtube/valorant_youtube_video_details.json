@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "diLX70oppfmHC8Vud8f4soS_Bqw",
+    "etag": "ArdLXT0gul-JJaw7GOc0gSyXC-Q",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "taDtGp7-KouIYBg3M2jvRbIoiSQ",
+            "etag": "mOmNTiB0veHG8M26I2q07B0IIzU",
             "id": "dWbC_qp8FPs",
             "snippet": {
                 "publishedAt": "2026-06-25T03:22:04Z",
@@ -94,60 +94,60 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3361",
-                "likeCount": "108",
+                "viewCount": "5038",
+                "likeCount": "210",
                 "favoriteCount": "0",
-                "commentCount": "7"
+                "commentCount": "9"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "p4UVCJoGe-NRyw6wsWf4PZ3p6ao",
-            "id": "WnzBnaHxMho",
+            "etag": "LkKDz5KqcHE7XUeDk3UY9Xe5fAY",
+            "id": "lmVP5wG3tj4",
             "snippet": {
-                "publishedAt": "2026-06-25T03:10:52Z",
-                "channelId": "UCqJGxuaHaSHJnXK8Y5V5YSQ",
-                "title": "The BEST Viper Orb for Split   B Attack #valorant #valoranttips #valorantviper #ghostvalorant",
-                "description": "",
+                "publishedAt": "2026-06-25T03:00:38Z",
+                "channelId": "UCtWnv62Bg8jx5p2weqWMxhQ",
+                "title": "\ubc1c\ub85c\ub780\ud2b8 \ub2e4\uc74c \uc694\uc6d0 \uc720\ucd9c?!?!",
+                "description": "#\ubc1c\ub85c #\ubc1c\ub85c\ub780\ud2b8 #\uc1fc\uce20 #\uc720\ucd9c \n\n\ub124 \uc548\ub155\ud558\uc138\uc694!! \ub300\ud559\uad50\uc640\uc11c \ud558\uace0 \uc2f6\uc740\uac70 \ub2e4\ud558\ub294 \uae40\ubc84\ube14\uc785\ub2c8\ub2e4!!\n\uc81c \ucc44\ub110\uc5d0 \uc624\uc2e0\uac78 \ud658\uc601\ud558\uace0 \uad6c\ub3c5\uacfc \uc88b\uc544\uc694 \ud55c\ubc88\ub9cc \ub20c\ub7ec\uc8fc\uc2dc\uba74... \uc800\uc5d0\uac8c \ud070 \ud589\ubcf5\uc774!!",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lmVP5wG3tj4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lmVP5wG3tj4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lmVP5wG3tj4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lmVP5wG3tj4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lmVP5wG3tj4/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "adrsh12",
-                "categoryId": "22",
+                "channelTitle": "\uae40\ubc84\ube14",
+                "categoryId": "20",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
+                "defaultLanguage": "ko",
                 "localized": {
-                    "title": "The BEST Viper Orb for Split   B Attack #valorant #valoranttips #valorantviper #ghostvalorant",
-                    "description": ""
+                    "title": "\ubc1c\ub85c\ub780\ud2b8 \ub2e4\uc74c \uc694\uc6d0 \uc720\ucd9c?!?!",
+                    "description": "#\ubc1c\ub85c #\ubc1c\ub85c\ub780\ud2b8 #\uc1fc\uce20 #\uc720\ucd9c \n\n\ub124 \uc548\ub155\ud558\uc138\uc694!! \ub300\ud559\uad50\uc640\uc11c \ud558\uace0 \uc2f6\uc740\uac70 \ub2e4\ud558\ub294 \uae40\ubc84\ube14\uc785\ub2c8\ub2e4!!\n\uc81c \ucc44\ub110\uc5d0 \uc624\uc2e0\uac78 \ud658\uc601\ud558\uace0 \uad6c\ub3c5\uacfc \uc88b\uc544\uc694 \ud55c\ubc88\ub9cc \ub20c\ub7ec\uc8fc\uc2dc\uba74... \uc800\uc5d0\uac8c \ud070 \ud589\ubcf5\uc774!!"
                 },
-                "defaultAudioLanguage": "en-US"
+                "defaultAudioLanguage": "ko"
             },
             "contentDetails": {
-                "duration": "PT58S",
+                "duration": "PT42S",
                 "dimension": "2d",
                 "definition": "hd",
                 "caption": "false",
@@ -156,15 +156,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "432",
-                "likeCount": "8",
+                "viewCount": "783",
+                "likeCount": "16",
                 "favoriteCount": "0",
-                "commentCount": "2"
+                "commentCount": "3"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "yClzXvWaw_1FXmbKB-dZSiBgoC8",
+            "etag": "qmHFA-izNf93vJaIaXy3w_6-wuY",
             "id": "39ELGgXqvk0",
             "snippet": {
                 "publishedAt": "2026-06-25T03:00:15Z",
@@ -225,67 +225,127 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "4104",
-                "likeCount": "206",
+                "viewCount": "6437",
+                "likeCount": "341",
                 "favoriteCount": "0",
-                "commentCount": "30"
+                "commentCount": "41"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "HBB0GspiDLqawm59YoNlBbc68Ro",
-            "id": "DNYpFkFeFbk",
+            "etag": "gYnrbV73TN9hEPFkPFulIJPZHfw",
+            "id": "o7suMADRaqY",
             "snippet": {
-                "publishedAt": "2026-06-25T02:57:47Z",
-                "channelId": "UCuWxNATedlUsnD9B5FeiZMw",
-                "title": "Best advice on Shorts #valorant #valorantclips #valorantedit #aim #fyp",
-                "description": "Stop being hardstuck in Valorant by mastering these simple tips\n\nI break down specific gameplay moments where focus on crosshair placement and movement makes the difference between a loss and a win. If you are tired of losing close rounds, these techniques will help you climb.\n\nSubscribe for more Valorant tips and also let me know which rank you are you are so i can help you guys improve :D\n\n\n\nMy Glasspad:\nhttps://theclustrs.com/DIA\n\nMy Links:\nhttps://guns.lol/diasp\n\nJoin my Community Discord: \nhttps://discord.gg/VdAfhRxUNe\n\nBusiness Contact:\ndiaspfps@gmail.com \u2709\ufe0f",
+                "publishedAt": "2026-06-25T03:00:05Z",
+                "channelId": "UCISWk92AMJLF59sb8bbR67g",
+                "title": "f0rsakeN\u3092\u5f77\u5f7f\u3068\u3055\u305b\u308b\u30c8\u30eb\u30cd\u30fc\u30c9\u89e3\u9664 #valorant",
+                "description": "\u662f\u975e\u30b3\u30e1\u30f3\u30c8\u3001\u9ad8\u8a55\u4fa1\u3001\u305d\u3057\u3066\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u306e\u65b9\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\uff01\n\n\u25c7Credits\nhttps://www.twitch.tv/valorant_jpn",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/o7suMADRaqY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o7suMADRaqY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o7suMADRaqY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o7suMADRaqY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o7suMADRaqY/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Dia",
+                "channelTitle": "\u30f4\u30a1\u30f4\u30a1\u30f4\u30a1\u3010VALORANT CLIP\u3011",
                 "tags": [
-                    "Valorant improvement",
-                    "hardstuck Valorant",
-                    "Valorant micro adjustments",
-                    "Valorant gameplay tips",
-                    "how to rank up Valorant"
+                    "\u30f4\u30a1\u30ed",
+                    "\u30f4\u30a1\u30ed\u30e9\u30f3\u30c8",
+                    "VCT"
                 ],
                 "categoryId": "20",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
+                "defaultLanguage": "ja",
                 "localized": {
-                    "title": "Best advice on Shorts #valorant #valorantclips #valorantedit #aim #fyp",
-                    "description": "Stop being hardstuck in Valorant by mastering these simple tips\n\nI break down specific gameplay moments where focus on crosshair placement and movement makes the difference between a loss and a win. If you are tired of losing close rounds, these techniques will help you climb.\n\nSubscribe for more Valorant tips and also let me know which rank you are you are so i can help you guys improve :D\n\n\n\nMy Glasspad:\nhttps://theclustrs.com/DIA\n\nMy Links:\nhttps://guns.lol/diasp\n\nJoin my Community Discord: \nhttps://discord.gg/VdAfhRxUNe\n\nBusiness Contact:\ndiaspfps@gmail.com \u2709\ufe0f"
+                    "title": "f0rsakeN\u3092\u5f77\u5f7f\u3068\u3055\u305b\u308b\u30c8\u30eb\u30cd\u30fc\u30c9\u89e3\u9664 #valorant",
+                    "description": "\u662f\u975e\u30b3\u30e1\u30f3\u30c8\u3001\u9ad8\u8a55\u4fa1\u3001\u305d\u3057\u3066\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u306e\u65b9\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\uff01\n\n\u25c7Credits\nhttps://www.twitch.tv/valorant_jpn"
                 },
                 "defaultAudioLanguage": "en"
             },
             "contentDetails": {
-                "duration": "PT26S",
+                "duration": "PT13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "6677",
+                "likeCount": "76",
+                "favoriteCount": "0",
+                "commentCount": "4"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "bVaJjaBMdgYcH7MNKbrmLXHV3vU",
+            "id": "3k7gAnjopBc",
+            "snippet": {
+                "publishedAt": "2026-06-25T02:49:54Z",
+                "channelId": "UCDXpSIu_aNIkbbvBnsedTLA",
+                "title": "#Outplayedtv 4 kills x WON #fyp ##valorantclips #ValorantPH #valorant #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mitzy A.",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "#Outplayedtv 4 kills x WON #fyp ##valorantclips #ValorantPH #valorant #shorts",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT45S",
                 "dimension": "2d",
                 "definition": "hd",
                 "caption": "false",
@@ -294,15 +354,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "456",
-                "likeCount": "7",
+                "viewCount": "536",
+                "likeCount": "3",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0JFXaEX1cFyrP9eOStKEM8UQnTI",
+            "etag": "ipv3hp6QO233FWWdBLSbAtNyxBU",
             "id": "ZVoQ7xZD6M8",
             "snippet": {
                 "publishedAt": "2026-06-25T02:45:11Z",
@@ -390,14 +450,14 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "813",
+                "viewCount": "1314",
                 "favoriteCount": "0",
-                "commentCount": "5"
+                "commentCount": "9"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GoRautU30Audh3KY1lwyNaA4OYA",
+            "etag": "xPUgvGtrO5Mq0fzA7q9uEaEFEzA",
             "id": "KJ_k46mqNpI",
             "snippet": {
                 "publishedAt": "2026-06-25T01:37:40Z",
@@ -454,15 +514,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "10618",
-                "likeCount": "844",
+                "viewCount": "15357",
+                "likeCount": "1006",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mSvrJ8-ZTInsxYm1XFe_GCsuJvc",
+            "etag": "xk_fkefNmpcGa5tYbzSzoHISFrw",
             "id": "dpmicsp9u8w",
             "snippet": {
                 "publishedAt": "2026-06-25T01:36:10Z",
@@ -525,15 +585,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "10674",
-                "likeCount": "83",
+                "viewCount": "10807",
+                "likeCount": "86",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3cHiSdP3OowwhmC0wvXc4z53H0s",
+            "etag": "hV6pN0DW5Kabnu3b0HUK7JxmnSc",
             "id": "KXFAm77Fqsc",
             "snippet": {
                 "publishedAt": "2026-06-25T01:04:11Z",
@@ -587,7 +647,7 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "798",
+                "viewCount": "1006",
                 "likeCount": "24",
                 "favoriteCount": "0",
                 "commentCount": "0"
@@ -595,69 +655,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "y8X-YyLgib83hZ_Kh4kbi53U8RM",
-            "id": "s77ijV8A68E",
-            "snippet": {
-                "publishedAt": "2026-06-25T00:17:24Z",
-                "channelId": "UCd4L1CjQgoUSKBe_GldtV8Q",
-                "title": "PLS JUST REMOVE SUNSET #valorantclips #valorantfunny #valorantnews #valorant",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Valorantaner",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "de",
-                "localized": {
-                    "title": "PLS JUST REMOVE SUNSET #valorantclips #valorantfunny #valorantnews #valorant",
-                    "description": ""
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT44S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "534",
-                "likeCount": "14",
-                "favoriteCount": "0",
-                "commentCount": "1"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "8FItPp6_DxdRjl8At4Q11JYrdEs",
+            "etag": "kNq-isK5cbMJcucHbHtZXpawjYM",
             "id": "UcuIRSrQSao",
             "snippet": {
                 "publishedAt": "2026-06-25T00:17:43Z",
@@ -711,10 +709,10 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2673",
-                "likeCount": "154",
+                "viewCount": "3429",
+                "likeCount": "217",
                 "favoriteCount": "0",
-                "commentCount": "9"
+                "commentCount": "10"
             }
         }
     ],

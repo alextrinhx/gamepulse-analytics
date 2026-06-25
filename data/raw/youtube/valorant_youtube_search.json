@@ -1,10 +1,10 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "_uVghgOpFv2Mgv2JvUqlPfMzBQM",
+    "etag": "JdoZZPQ7Ii0kcL-XD8wQSzKeBJA",
     "nextPageToken": "CAoQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 667481,
+        "totalResults": 667960,
         "resultsPerPage": 10
     },
     "items": [
@@ -44,41 +44,41 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "gR-oTm1xKHpimfvF3taqTy89D0o",
+            "etag": "G-TCU-XKYlVsDpVUE_668Y4z1Ko",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "WnzBnaHxMho"
+                "videoId": "lmVP5wG3tj4"
             },
             "snippet": {
-                "publishedAt": "2026-06-25T03:10:52Z",
-                "channelId": "UCqJGxuaHaSHJnXK8Y5V5YSQ",
-                "title": "The BEST Viper Orb for Split   B Attack #valorant #valoranttips #valorantviper #ghostvalorant",
-                "description": "",
+                "publishedAt": "2026-06-25T03:00:38Z",
+                "channelId": "UCtWnv62Bg8jx5p2weqWMxhQ",
+                "title": "\ubc1c\ub85c\ub780\ud2b8 \ub2e4\uc74c \uc694\uc6d0 \uc720\ucd9c?!?!",
+                "description": "\ubc1c\ub85c #\ubc1c\ub85c\ub780\ud2b8 #\uc1fc\uce20 #\uc720\ucd9c \ub124 \uc548\ub155\ud558\uc138\uc694!! \ub300\ud559\uad50\uc640\uc11c \ud558\uace0 \uc2f6\uc740\uac70 \ub2e4\ud558\ub294 \uae40\ubc84\ube14\uc785\ub2c8\ub2e4!! \uc81c \ucc44\ub110\uc5d0 \uc624\uc2e0\uac78 \ud658\uc601\ud558\uace0 \uad6c\ub3c5\uacfc ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lmVP5wG3tj4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lmVP5wG3tj4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lmVP5wG3tj4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "adrsh12",
+                "channelTitle": "\uae40\ubc84\ube14",
                 "liveBroadcastContent": "none",
-                "publishTime": "2026-06-25T03:10:52Z"
+                "publishTime": "2026-06-25T03:00:38Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "BrwRDFCFMjuFRQp2dM76cfy_gNg",
+            "etag": "9bUylvxmy-3j7iq_vIwHPoyMw00",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "39ELGgXqvk0"
@@ -112,41 +112,75 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "SrHBG3siVgE0epkmqg1uG4pYVpE",
+            "etag": "aUTzgDuUgDy1BZD7UlytIHb7FiQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "DNYpFkFeFbk"
+                "videoId": "o7suMADRaqY"
             },
             "snippet": {
-                "publishedAt": "2026-06-25T02:57:47Z",
-                "channelId": "UCuWxNATedlUsnD9B5FeiZMw",
-                "title": "Best advice on Shorts #valorant #valorantclips #valorantedit #aim #fyp",
-                "description": "Stop being hardstuck in Valorant by mastering these simple tips I break down specific gameplay moments where focus on ...",
+                "publishedAt": "2026-06-25T03:00:05Z",
+                "channelId": "UCISWk92AMJLF59sb8bbR67g",
+                "title": "f0rsakeN\u3092\u5f77\u5f7f\u3068\u3055\u305b\u308b\u30c8\u30eb\u30cd\u30fc\u30c9\u89e3\u9664 #valorant",
+                "description": "\u662f\u975e\u30b3\u30e1\u30f3\u30c8\u3001\u9ad8\u8a55\u4fa1\u3001\u305d\u3057\u3066\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u306e\u65b9\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\uff01 \u25c7Credits https://www.twitch.tv/valorant_jpn.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/o7suMADRaqY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o7suMADRaqY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o7suMADRaqY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Dia",
+                "channelTitle": "\u30f4\u30a1\u30f4\u30a1\u30f4\u30a1\u3010VALORANT CLIP\u3011",
                 "liveBroadcastContent": "none",
-                "publishTime": "2026-06-25T02:57:47Z"
+                "publishTime": "2026-06-25T03:00:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "RnMT8dtNGxtIzoM3jRLj5gcLj80",
+            "etag": "AC630buiBcN6HZXGg_ZAtoidGbs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3k7gAnjopBc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:49:54Z",
+                "channelId": "UCDXpSIu_aNIkbbvBnsedTLA",
+                "title": "#Outplayedtv 4 kills x WON #fyp ##valorantclips #ValorantPH #valorant #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mitzy A.",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T02:49:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LyIGTcmVwEcxxZiozH5JOaI5PNw",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "ZVoQ7xZD6M8"
@@ -278,40 +312,6 @@
                 "channelTitle": "\u6211\u662f\u97cb\u97cb",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-25T01:04:11Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "t9kPmImZ94FfVpWYwAh4Jp46Ei8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "s77ijV8A68E"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-25T00:17:24Z",
-                "channelId": "UCd4L1CjQgoUSKBe_GldtV8Q",
-                "title": "PLS JUST REMOVE SUNSET #valorantclips #valorantfunny #valorantnews #valorant",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Valorantaner",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-25T00:17:24Z"
             }
         },
         {

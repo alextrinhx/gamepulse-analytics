@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "Uz2h7BGziVT85k0Px0_EmKu0Akw",
+    "etag": "XNtTbvNhd_m1cTY0nyaTc3M-wR4",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "XRgW1XEnFX0it4rw3IiPWJlWQuc",
+            "etag": "Q-A24JrPexB5Y4dokFVn5l7L29M",
             "id": "9C1q5pXvsV0",
             "snippet": {
                 "publishedAt": "2026-06-25T03:18:02Z",
@@ -58,15 +58,105 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "6270",
-                "likeCount": "1248",
+                "viewCount": "18141",
+                "likeCount": "2589",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "K81ow82ngitdzPEH8Kp5hvdayD8",
+            "etag": "NbMT0Du1aSrryniEKLxUm-Ksgqs",
+            "id": "dZJQaGc-TAQ",
+            "snippet": {
+                "publishedAt": "2026-06-25T02:33:12Z",
+                "channelId": "UCKpKC3M5fkcEvtOr06dmYlA",
+                "title": "\u3010MINECRAFT HARDCORE\u3011KRISIS REVENGE\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
+                "description": "\u3010DONATIONS\u3011\nhttps://streamlabs.com/yuqwilson\n\n#NIJISANJI #nijisanji_en \n\n\u2605\u2606\u2605\n\n\u3010Chat Rules\u3011\n Don't spam or troll.\n Don't bring up other streamers unless I mention them first.\n Keep the comments relevant to the stream.\n Refrain chatting with others viewers.\n Please get along with each others and use block if needed.\n Let's have a fun stream together!\n Guidance for minors:\nhttps://www.anycolor.co.jp/notice-for-minors-en\n\n\ud83e\udd7d\ud83e\udd7d\ud83e\udd7d\n\n\u3010Socials\u3011\n\u2605 https://twitter.com/YuQWilson\n\n\u3010Hashtags\u3011\n\u2605 General: #YuQWilson\n\u2606 Live: #OhHiYu\n\u2605 Art: #YuDrawWilson\n\u2606 NSFW: #NSFYu\n\n\u2605\u2606\u2605\n\n\u3010KRISIS\u3011\n\u2605 Vezalius Bandage\nhttps://twitter.com/VezaliusBandage\n @VezaliusBandage \n\n\u2606 Vantacrow Bringer\nhttps://twitter.com/Tyrant_Vanta\n@VantacrowBringer \n\n\u2605 Yu Q. Wilson\nhttps://twitter.com/YuQWilson\n@YuQ.Wilson \n\u2605\u2606\u2605\n\n\u3010NIJISANJI Official Website\u3011\nhttps://www.nijisanji.jp/en\n\n\u3010Official NIJISANJI EN Twitter\u3011\nhttps://twitter.com/NIJISANJI_World \n\n\u3010NIJISANJI Official Twitch\u3011\nhttps://www.twitch.tv/nijisanji_en\n\n\u3010Official ANYCOLOR Website\u3011\nhttps://www.anycolor.co.jp/ \n\n\u3010For Business and PR Inquiries\u3011\nhttps://www.anycolor.co.jp/en/contact\n\n\u2605\u2606\u2605\n\n[Credits]\n\n\u30fbThumbnail Art: me, smile.\n\u30fbIntro BGM - \"ride a comet\" by \u30de\u30cb\u30fc\u30e9\n\u30fbBGM - \"\u30b9\u30bf\u30f3\u30d0\u30a410\" by Kazuchi\n\u30fbMembership Emotes: https://x.com/MadamMito\n\u30fbChatting Background: https://x.com/ArtNailum\n\u30fbOverlay & Logo: https://x.com/p_a_r_a_l_l_e_l",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dZJQaGc-TAQ/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dZJQaGc-TAQ/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dZJQaGc-TAQ/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dZJQaGc-TAQ/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dZJQaGc-TAQ/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
+                "tags": [
+                    "NIJISANJI",
+                    "NIJISANJIEN",
+                    "YuQWilson",
+                    "Vtuber",
+                    "ENVtuber",
+                    "Nijisanji_EN",
+                    "nijisanjien",
+                    "nijisanji en",
+                    "nijisanji english",
+                    "krisis",
+                    "minecraft",
+                    "minecraft mods",
+                    "minecraft smp",
+                    "minecraft server",
+                    "minecraft survival",
+                    "minecraft multiplayer",
+                    "minecraft modpack",
+                    "roleplay server",
+                    "minecraft storytelling",
+                    "minecraft adventure",
+                    "minecraft content creator",
+                    "minecraft series",
+                    "minecraft gameplay",
+                    "minecraft stream",
+                    "minecraft live",
+                    "vtuber minecraft",
+                    "minecraft hardcore"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "upcoming",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "\u3010MINECRAFT HARDCORE\u3011KRISIS REVENGE\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
+                    "description": "\u3010DONATIONS\u3011\nhttps://streamlabs.com/yuqwilson\n\n#NIJISANJI #nijisanji_en \n\n\u2605\u2606\u2605\n\n\u3010Chat Rules\u3011\n Don't spam or troll.\n Don't bring up other streamers unless I mention them first.\n Keep the comments relevant to the stream.\n Refrain chatting with others viewers.\n Please get along with each others and use block if needed.\n Let's have a fun stream together!\n Guidance for minors:\nhttps://www.anycolor.co.jp/notice-for-minors-en\n\n\ud83e\udd7d\ud83e\udd7d\ud83e\udd7d\n\n\u3010Socials\u3011\n\u2605 https://twitter.com/YuQWilson\n\n\u3010Hashtags\u3011\n\u2605 General: #YuQWilson\n\u2606 Live: #OhHiYu\n\u2605 Art: #YuDrawWilson\n\u2606 NSFW: #NSFYu\n\n\u2605\u2606\u2605\n\n\u3010KRISIS\u3011\n\u2605 Vezalius Bandage\nhttps://twitter.com/VezaliusBandage\n @VezaliusBandage \n\n\u2606 Vantacrow Bringer\nhttps://twitter.com/Tyrant_Vanta\n@VantacrowBringer \n\n\u2605 Yu Q. Wilson\nhttps://twitter.com/YuQWilson\n@YuQ.Wilson \n\u2605\u2606\u2605\n\n\u3010NIJISANJI Official Website\u3011\nhttps://www.nijisanji.jp/en\n\n\u3010Official NIJISANJI EN Twitter\u3011\nhttps://twitter.com/NIJISANJI_World \n\n\u3010NIJISANJI Official Twitch\u3011\nhttps://www.twitch.tv/nijisanji_en\n\n\u3010Official ANYCOLOR Website\u3011\nhttps://www.anycolor.co.jp/ \n\n\u3010For Business and PR Inquiries\u3011\nhttps://www.anycolor.co.jp/en/contact\n\n\u2605\u2606\u2605\n\n[Credits]\n\n\u30fbThumbnail Art: me, smile.\n\u30fbIntro BGM - \"ride a comet\" by \u30de\u30cb\u30fc\u30e9\n\u30fbBGM - \"\u30b9\u30bf\u30f3\u30d0\u30a410\" by Kazuchi\n\u30fbMembership Emotes: https://x.com/MadamMito\n\u30fbChatting Background: https://x.com/ArtNailum\n\u30fbOverlay & Logo: https://x.com/p_a_r_a_l_l_e_l"
+                }
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "0",
+                "likeCount": "185",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "s12G9eHFD7f2ROunaflaVOVoxZE",
             "id": "6trelTmZh8U",
             "snippet": {
                 "publishedAt": "2026-06-25T00:52:27Z",
@@ -150,260 +240,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "4791",
-                "likeCount": "665",
+                "viewCount": "6341",
+                "likeCount": "781",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Vc8X5MT9tZnwdopNVV3IMfAIsUk",
-            "id": "V1W999Xd4Vc",
-            "snippet": {
-                "publishedAt": "2026-06-17T18:00:18Z",
-                "channelId": "UCt9ML0agwoMVcZ5vCpc_iLw",
-                "title": "I Cheated With MICHAEL JACKSON in Minecraft Build Battle!",
-                "description": "Today, Drift builds MICHAEL JACKSON in a Minecraft build challenge... and his friends had NO idea! Using the smoothest moonwalk moves and some seriously OP build hacks, Drift takes on Poppy, Joey, and Kate to see who can build the best. But will the King of Pop carry him to victory, or will his friends finally catch him cheating? Watch to the end to find out who WON!\n\n#Minecraft #MinecraftMod #Drift",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/V1W999Xd4Vc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/V1W999Xd4Vc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/V1W999Xd4Vc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/V1W999Xd4Vc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/V1W999Xd4Vc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Drift",
-                "tags": [
-                    "drift",
-                    "minecraft",
-                    "minecraft mod",
-                    "Realistic Morph",
-                    "Morph mod",
-                    "Snake",
-                    "Prank",
-                    "oneblock",
-                    "Build Battle",
-                    "Build Challenge",
-                    "Cheats",
-                    "Cheating in a build battle",
-                    "OP build hacks",
-                    "I Cheated With HOPPERS in Minecraft Build Battle!",
-                    "Tiny Takeover",
-                    "I Cheated With TINY TAKEOVER MOBS in Minecraft Build Battle!",
-                    "Tiny Mobs",
-                    "I Cheated With MICHAEL JACKSON in Minecraft Build Battle!",
-                    "Michael Jackson",
-                    "MJ",
-                    "Thriller",
-                    "Popstar",
-                    "Moonwalk",
-                    "Cheating as Michael Jackson",
-                    "Smooth Criminal"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en-US",
-                "localized": {
-                    "title": "I Cheated With MICHAEL JACKSON in Minecraft Build Battle!",
-                    "description": "Today, Drift builds MICHAEL JACKSON in a Minecraft build challenge... and his friends had NO idea! Using the smoothest moonwalk moves and some seriously OP build hacks, Drift takes on Poppy, Joey, and Kate to see who can build the best. But will the King of Pop carry him to victory, or will his friends finally catch him cheating? Watch to the end to find out who WON!\n\n#Minecraft #MinecraftMod #Drift"
-                },
-                "defaultAudioLanguage": "en-US"
-            },
-            "contentDetails": {
-                "duration": "PT29M40S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "531309",
-                "likeCount": "4865",
-                "favoriteCount": "0",
-                "commentCount": "1316"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "_uoKf4BRLJxSStcJ--Qcr6d1XtE",
-            "id": "ElNPZkALI2M",
-            "snippet": {
-                "publishedAt": "2025-08-15T15:00:31Z",
-                "channelId": "UCfIZB4PmH8LPesRVZNjDRxQ",
-                "title": "DARK JJ SQUID GAME Season 3 Challenge : JJ and MIKEY MAIZEN Minecraft Animation",
-                "description": "DARK JJ SQUID GAME Season 3 Challenge : JJ and MIKEY MAIZEN Minecraft Animation\n\nThis video is an unofficial video and was not created by MAIZEN.\nThis video is produced based on Maizen Sisters Fan Content Guidelines.\nClick here for details \u2192 https://maizen.com/usage-guidelines/\n\n#minecraft  #animation #maizen #jj #mikey",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ElNPZkALI2M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ElNPZkALI2M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ElNPZkALI2M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ElNPZkALI2M/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ElNPZkALI2M/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Circus Craft",
-                "tags": [
-                    "minecraft",
-                    "maizen",
-                    "animation",
-                    "jj",
-                    "mikey",
-                    "\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8",
-                    "\u307e\u3044\u305c\u3093",
-                    "\u307e\u3044\u305c\u3093\u30b7\u30b9\u30bf\u30fc\u30ba",
-                    "\u305c\u3093\u3044\u3061",
-                    "\u30de\u30a4\u30c3\u30ad\u30fc",
-                    "\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-                    "\u30de\u30a4\u30af\u30e9",
-                    "\u30de\u30a4\u30af\u30e9\u30a2\u30cb\u30e1",
-                    "minecraft animation",
-                    "jj and mikey",
-                    "maizen animation",
-                    "maizen minecraft animation",
-                    "jj and mikey minecraft animation",
-                    "jj and mikey vs sprunki",
-                    "maizen squid game",
-                    "jj and mikey in squid game",
-                    "jj and mikey squid game",
-                    "maizen love curse",
-                    "jj and mikey love curse",
-                    "love curse challenge",
-                    "love curse",
-                    "love curse animation",
-                    "maizen squid game season 3",
-                    "dark jj squid game",
-                    "maizen dark",
-                    "jj and mikey dark"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "DARK JJ SQUID GAME Season 3 Challenge : JJ and MIKEY MAIZEN Minecraft Animation",
-                    "description": "DARK JJ SQUID GAME Season 3 Challenge : JJ and MIKEY MAIZEN Minecraft Animation\n\nThis video is an unofficial video and was not created by MAIZEN.\nThis video is produced based on Maizen Sisters Fan Content Guidelines.\nClick here for details \u2192 https://maizen.com/usage-guidelines/\n\n#minecraft  #animation #maizen #jj #mikey"
-                }
-            },
-            "contentDetails": {
-                "duration": "PT19M6S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "1431139",
-                "likeCount": "6907",
-                "favoriteCount": "0",
-                "commentCount": "35"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "MtCUD9qiChg1zTKe1NAshLeQDUE",
-            "id": "jfEbs7PSu5E",
-            "snippet": {
-                "publishedAt": "2026-06-24T11:15:08Z",
-                "channelId": "UCIxsIDzsf5UXH8dlJy_OzDA",
-                "title": "Hunting the REAL Verity Mod...",
-                "description": "ENEBA: Get the best deals for the games, add-ons, gift cards, and anything games-related:https://ene.ba/Burps-Minecraft\nSnakzy Play-to-earn app, get a $10 welcome bonus using my promo code: BURPSYT http://snakzy.me/BurpsYT\n\nIn this Minecraft video, I face a unique minecraft challenge where I am hunting the REAL Verity mod. Can I conquer this minecraft but challenging run? Watch to find out! \ud83d\ude09\n\nWorld Save - https://www.patreon.com/15043898/join\n\nFor any questions or inquiries regarding this video, please reach out to walktheplank@screenwavemedia.com\n\nmods:\n[TaCZ] Guns - https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero\nVerity Mod - https://www.curseforge.com/minecraft/mc-mods/verity-mod\n\nOne of these mods has been added by me, they are animations and are used to heighten the scary atmosphere and storytelling.\n\nThis video is a Minecraft Horror Mod or Horror Mods, from creators like Swayle, Calvin, Wisp, CaylusCraft, or Forge Labs where players survive 100 days in Hardcore Horror Minecraft... Lets see what happens...\n\nEven though these are survival/hardcore videos they are lightly scripted for pacing and entertainment purposes. \n\n#minecraft #100days #minecraftmods  \n\n---------------------------------------------",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Burps",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en-GB",
-                "localized": {
-                    "title": "Hunting the REAL Verity Mod...",
-                    "description": "ENEBA: Get the best deals for the games, add-ons, gift cards, and anything games-related:https://ene.ba/Burps-Minecraft\nSnakzy Play-to-earn app, get a $10 welcome bonus using my promo code: BURPSYT http://snakzy.me/BurpsYT\n\nIn this Minecraft video, I face a unique minecraft challenge where I am hunting the REAL Verity mod. Can I conquer this minecraft but challenging run? Watch to find out! \ud83d\ude09\n\nWorld Save - https://www.patreon.com/15043898/join\n\nFor any questions or inquiries regarding this video, please reach out to walktheplank@screenwavemedia.com\n\nmods:\n[TaCZ] Guns - https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero\nVerity Mod - https://www.curseforge.com/minecraft/mc-mods/verity-mod\n\nOne of these mods has been added by me, they are animations and are used to heighten the scary atmosphere and storytelling.\n\nThis video is a Minecraft Horror Mod or Horror Mods, from creators like Swayle, Calvin, Wisp, CaylusCraft, or Forge Labs where players survive 100 days in Hardcore Horror Minecraft... Lets see what happens...\n\nEven though these are survival/hardcore videos they are lightly scripted for pacing and entertainment purposes. \n\n#minecraft #100days #minecraftmods  \n\n---------------------------------------------"
-                },
-                "defaultAudioLanguage": "en-GB"
-            },
-            "contentDetails": {
-                "duration": "PT33M40S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "22475",
-                "likeCount": "764",
-                "favoriteCount": "0",
-                "commentCount": "120"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "N5I9gneMDunvZgA-ztN0CDcI_X4",
+            "etag": "Q2wAFmzX75dmhtaJFptxfZf4bWA",
             "id": "omuuQxHmBB4",
             "snippet": {
                 "publishedAt": "2026-06-24T23:30:06Z",
@@ -489,15 +334,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "21544",
-                "likeCount": "1284",
+                "viewCount": "24878",
+                "likeCount": "1349",
                 "favoriteCount": "0",
                 "commentCount": "11"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "q7g11Y7VmwowctUgClz01GGodA4",
+            "etag": "mWVsgA5Kjk6E3sMta2-T-QHUP3g",
             "id": "6_5m9-GKMsI",
             "snippet": {
                 "publishedAt": "2026-06-24T19:30:16Z",
@@ -584,15 +429,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "33700",
-                "likeCount": "1386",
+                "viewCount": "34235",
+                "likeCount": "1407",
                 "favoriteCount": "0",
                 "commentCount": "26"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "jGk6ZLrXcXQwQOeBlAGFwVYqVsw",
+            "etag": "5vj0s4ua7l25QLfjmb-IeggCmfM",
             "id": "HOJ92annVhg",
             "snippet": {
                 "publishedAt": "2026-06-24T19:00:31Z",
@@ -654,15 +499,88 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "72021",
-                "likeCount": "1222",
+                "viewCount": "73450",
+                "likeCount": "1259",
                 "favoriteCount": "0",
                 "commentCount": "6"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "OnS_jM11pU5LJJ2yh3v3_F7XidA",
+            "etag": "qlKALc1RgUjEEhi4wkHAeR9fiHQ",
+            "id": "4YTSCGUrczg",
+            "snippet": {
+                "publishedAt": "2026-06-24T19:00:07Z",
+                "channelId": "UCYAe0STFd6k3xM1X5UJZZQQ",
+                "title": "\ud83d\udc80 Me enfrento a Verity en Minecraft....",
+                "description": "#minecraft #minecraftmemes #Andersonicmemes #minecrafthumor #lageado #historiasMinecraft",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4YTSCGUrczg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4YTSCGUrczg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4YTSCGUrczg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4YTSCGUrczg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4YTSCGUrczg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andersonic",
+                "tags": [
+                    "minecraft",
+                    "minecraftmemes",
+                    "minecraftviral",
+                    "viral",
+                    "mods",
+                    "addons",
+                    "version",
+                    "memes",
+                    "andersonic"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "\ud83d\udc80 Me enfrento a Verity en Minecraft....",
+                    "description": "#minecraft #minecraftmemes #Andersonicmemes #minecrafthumor #lageado #historiasMinecraft"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "contentDetails": {
+                "duration": "PT9M25S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "114454",
+                "likeCount": "6747",
+                "favoriteCount": "0",
+                "commentCount": "345"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "plOC3cWwKUK04Pp37KaUgH0Xl9w",
             "id": "Fvoe3nOeIgQ",
             "snippet": {
                 "publishedAt": "2026-06-24T18:31:04Z",
@@ -731,15 +649,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "253959",
-                "likeCount": "6070",
+                "viewCount": "266128",
+                "likeCount": "6363",
                 "favoriteCount": "0",
-                "commentCount": "48"
+                "commentCount": "52"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "_pKPieAigGfc8DxumGep3xAd5jA",
+            "etag": "CxjNYg9xIkLOEONgWN6LJCfTHTU",
             "id": "IVzGEaNfFCI",
             "snippet": {
                 "publishedAt": "2026-06-24T18:29:50Z",
@@ -821,10 +739,72 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "57357",
-                "likeCount": "3231",
+                "viewCount": "62567",
+                "likeCount": "3295",
                 "favoriteCount": "0",
                 "commentCount": "17"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ZSLhFwjUnX_mIwrzFxSa8_7rff0",
+            "id": "U6xQLDj7lj8",
+            "snippet": {
+                "publishedAt": "2026-06-24T18:13:59Z",
+                "channelId": "UCsMDJgIExN_-MFn6upIHt0A",
+                "title": "Les astuces que les speedrunner utilisent sur Minecraft #minecraft",
+                "description": "Quelques secondes gagn\u00e9es ici et l\u00e0 peuvent compl\u00e8tement changer ta fa\u00e7on de jouer \u00e0 Minecraft.\n#minecraft #gaming #shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U6xQLDj7lj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U6xQLDj7lj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U6xQLDj7lj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U6xQLDj7lj8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U6xQLDj7lj8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yorick",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "fr",
+                "localized": {
+                    "title": "Les astuces que les speedrunner utilisent sur Minecraft #minecraft",
+                    "description": "Quelques secondes gagn\u00e9es ici et l\u00e0 peuvent compl\u00e8tement changer ta fa\u00e7on de jouer \u00e0 Minecraft.\n#minecraft #gaming #shorts"
+                },
+                "defaultAudioLanguage": "fr"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3864",
+                "likeCount": "115",
+                "favoriteCount": "0",
+                "commentCount": "1"
             }
         }
     ],

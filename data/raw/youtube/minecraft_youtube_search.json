@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "NiURYEcuZiHj-RdoaPPZTU3DCnQ",
+    "etag": "NPP84BeGLZdAjYZK4McKS9TWvrI",
     "nextPageToken": "CAoQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -10,7 +10,7 @@
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "-Nkz_GKpuJ_lghru-8rZIAVDwBs",
+            "etag": "zsN_Vf6JJ78QyQDk-PwASdFxDgw",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "9C1q5pXvsV0"
@@ -40,6 +40,40 @@
                 "channelTitle": "Ingot MC",
                 "liveBroadcastContent": "live",
                 "publishTime": "2026-06-25T03:18:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hqqzfy7W5crPVq6ZGNXaIcgfoOw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dZJQaGc-TAQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:33:12Z",
+                "channelId": "UCKpKC3M5fkcEvtOr06dmYlA",
+                "title": "\u3010MINECRAFT HARDCORE\u3011KRISIS REVENGE\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
+                "description": "\u3010DONATIONS\u3011 https://streamlabs.com/yuqwilson #NIJISANJI #nijisanji_en \u3010Chat Rules\u3011 Don't spam or troll.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dZJQaGc-TAQ/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dZJQaGc-TAQ/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dZJQaGc-TAQ/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2026-06-25T02:33:12Z"
             }
         },
         {
@@ -74,108 +108,6 @@
                 "channelTitle": "Luca Kaneshiro\u3010NIJISANJI EN\u3011",
                 "liveBroadcastContent": "live",
                 "publishTime": "2026-06-25T00:52:27Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ugEsnv_gV8EwP0r937sXIc44NHQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "V1W999Xd4Vc"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-17T18:00:18Z",
-                "channelId": "UCt9ML0agwoMVcZ5vCpc_iLw",
-                "title": "I Cheated With MICHAEL JACKSON in Minecraft Build Battle!",
-                "description": "Today, Drift builds MICHAEL JACKSON in a Minecraft build challenge... and his friends had NO idea! Using the smoothest ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/V1W999Xd4Vc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/V1W999Xd4Vc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/V1W999Xd4Vc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Drift",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-17T18:00:18Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "YqXcbYe7Dt_wuDAcBYRlzzD5Yq0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ElNPZkALI2M"
-            },
-            "snippet": {
-                "publishedAt": "2025-08-15T15:00:31Z",
-                "channelId": "UCfIZB4PmH8LPesRVZNjDRxQ",
-                "title": "DARK JJ SQUID GAME Season 3 Challenge : JJ and MIKEY MAIZEN Minecraft Animation",
-                "description": "DARK JJ SQUID GAME Season 3 Challenge : JJ and MIKEY MAIZEN Minecraft Animation This video is an unofficial video and ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ElNPZkALI2M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ElNPZkALI2M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ElNPZkALI2M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Circus Craft",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-08-15T15:00:31Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "QRGjYBUhaLgn7f0bB_9A4r_jVjw",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "jfEbs7PSu5E"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T11:15:08Z",
-                "channelId": "UCIxsIDzsf5UXH8dlJy_OzDA",
-                "title": "Hunting the REAL Verity Mod...",
-                "description": "ENEBA: Get the best deals for the games, add-ons, gift cards, and anything games-related:https://ene.ba/Burps-Minecraft Snakzy ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Burps",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T11:15:08Z"
             }
         },
         {
@@ -282,6 +214,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "-5SzFCDX7D5YYjOHjvvVy-6nUXw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4YTSCGUrczg"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:00:07Z",
+                "channelId": "UCYAe0STFd6k3xM1X5UJZZQQ",
+                "title": "\ud83d\udc80 Me enfrento a Verity en Minecraft....",
+                "description": "minecraft #minecraftmemes #Andersonicmemes #minecrafthumor #lageado #historiasMinecraft.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4YTSCGUrczg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4YTSCGUrczg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4YTSCGUrczg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Andersonic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "8EBTPlrBAxPK97qT1jRYpxPaBW4",
             "id": {
                 "kind": "youtube#video",
@@ -346,6 +312,40 @@
                 "channelTitle": "Liux",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-24T18:29:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5OrM4VcskhMFbke8SvN5Rd2ykwg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U6xQLDj7lj8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:13:59Z",
+                "channelId": "UCsMDJgIExN_-MFn6upIHt0A",
+                "title": "Les astuces que les speedrunner utilisent sur Minecraft #minecraft",
+                "description": "Quelques secondes gagn\u00e9es ici et l\u00e0 peuvent compl\u00e8tement changer ta fa\u00e7on de jouer \u00e0 Minecraft. #minecraft #gaming #shorts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U6xQLDj7lj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U6xQLDj7lj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U6xQLDj7lj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yorick",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:13:59Z"
             }
         }
     ]

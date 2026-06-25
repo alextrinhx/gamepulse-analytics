@@ -1,0 +1,1952 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "o8YAi_K5HJEYnX7P8dlElalxMPc",
+    "pageInfo": {
+        "totalResults": 50,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "s5SnNFYEOVv6HMm6a0s6AQd0nsQ",
+            "id": "UCBFFs28vsi5vnEAs_85N4RA",
+            "snippet": {
+                "title": "Diael",
+                "description": "Design, lore e opini\u00e3o sobre personagens de games, s\u00e9ries e anima\u00e7\u00f5es. Tamb\u00e9m sou parceiro oficial da Riot Games e dublador, s\u00f3 n\u00e3o tenho DRT (ainda!).\n",
+                "customUrl": "@diogoael",
+                "publishedAt": "2023-05-09T14:31:54.078355Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/aR1uX9IOZPsjqZDYnHo7uJrmogDZRX9rBCBCoXjj08-tBPOrgG7Alw41jhhePGZJzIp6mfI1OA=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/aR1uX9IOZPsjqZDYnHo7uJrmogDZRX9rBCBCoXjj08-tBPOrgG7Alw41jhhePGZJzIp6mfI1OA=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/aR1uX9IOZPsjqZDYnHo7uJrmogDZRX9rBCBCoXjj08-tBPOrgG7Alw41jhhePGZJzIp6mfI1OA=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Diael",
+                    "description": "Design, lore e opini\u00e3o sobre personagens de games, s\u00e9ries e anima\u00e7\u00f5es. Tamb\u00e9m sou parceiro oficial da Riot Games e dublador, s\u00f3 n\u00e3o tenho DRT (ainda!).\n"
+                },
+                "country": "BR"
+            },
+            "statistics": {
+                "viewCount": "55021273",
+                "subscriberCount": "88000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "679"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "RJ5qITmohz1cnzzSvTwT68jftXY",
+            "id": "UCHewDdgC_tNsRc7ymqoFVeg",
+            "snippet": {
+                "title": "Deckht",
+                "description": "brochacho y arnt u subbed yet\n\n69  - 4/20/26\n100 - 4/20/26\n200- 6/7/26\n300- 6/13/26\n\nhttps://streamelements.com/deckht/tip\n",
+                "customUrl": "@deckht",
+                "publishedAt": "2024-09-27T01:31:22.049236Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/v9uQuPK5ooHg3p6EsKbYX-ZywAgzOpINGUs-uwdnPAa4l1jdsURAgsHNSxalN-brO2pCk5dx8w=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/v9uQuPK5ooHg3p6EsKbYX-ZywAgzOpINGUs-uwdnPAa4l1jdsURAgsHNSxalN-brO2pCk5dx8w=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/v9uQuPK5ooHg3p6EsKbYX-ZywAgzOpINGUs-uwdnPAa4l1jdsURAgsHNSxalN-brO2pCk5dx8w=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Deckht",
+                    "description": "brochacho y arnt u subbed yet\n\n69  - 4/20/26\n100 - 4/20/26\n200- 6/7/26\n300- 6/13/26\n\nhttps://streamelements.com/deckht/tip\n"
+                }
+            },
+            "statistics": {
+                "viewCount": "189156",
+                "subscriberCount": "381",
+                "hiddenSubscriberCount": false,
+                "videoCount": "53"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "yAEEYfVdkLkVe42h61ASMxihtT0",
+            "id": "UCA1d3HFGFUmkKr2JIUA5Vlw",
+            "snippet": {
+                "title": "VALORANT Champions Tour",
+                "description": "THE source for all things VALORANT Champions Tour, all the time. #valorantchampions #vct \n\nWatch VALORANT Esports at http://www.valorantesports.com\n",
+                "customUrl": "@valorantesports",
+                "publishedAt": "2020-02-22T01:03:53.572404Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/qg3C4Bgjk5gclZdpX59zEBqwpygBM9uxgLwqJviZJVECyBBPp67y4cJzzfdw9uwsR1zbVlFKJw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/qg3C4Bgjk5gclZdpX59zEBqwpygBM9uxgLwqJviZJVECyBBPp67y4cJzzfdw9uwsR1zbVlFKJw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/qg3C4Bgjk5gclZdpX59zEBqwpygBM9uxgLwqJviZJVECyBBPp67y4cJzzfdw9uwsR1zbVlFKJw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "VALORANT Champions Tour",
+                    "description": "THE source for all things VALORANT Champions Tour, all the time. #valorantchampions #vct \n\nWatch VALORANT Esports at http://www.valorantesports.com\n"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "396444551",
+                "subscriberCount": "1290000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "3888"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "y0-ThMwE2La9xLZHuDUJrXaLdV8",
+            "id": "UCIfsJcLaMpjdGBNcBXYK9rQ",
+            "snippet": {
+                "title": "Amur",
+                "description": "My name is Amur and I love opening cases in CS2\n\nMy goal: Open a knife from any container\n\nI have both leather parents and unlimited food, so I'm always fed, they always play with me and in general I have a very happy life.\n\nIf you want, you can support me with a case. The link to my steam is below after the description \n",
+                "customUrl": "@amurcs",
+                "publishedAt": "2023-11-14T05:18:23.766365Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ynmH6xQSZM2fh_5FUq0w69nStElfqjxBbItKyfGu6vK79BDKsPiFgRAR4BrkbEineskCSqHk=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ynmH6xQSZM2fh_5FUq0w69nStElfqjxBbItKyfGu6vK79BDKsPiFgRAR4BrkbEineskCSqHk=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ynmH6xQSZM2fh_5FUq0w69nStElfqjxBbItKyfGu6vK79BDKsPiFgRAR4BrkbEineskCSqHk=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Amur",
+                    "description": "My name is Amur and I love opening cases in CS2\n\nMy goal: Open a knife from any container\n\nI have both leather parents and unlimited food, so I'm always fed, they always play with me and in general I have a very happy life.\n\nIf you want, you can support me with a case. The link to my steam is below after the description \n"
+                }
+            },
+            "statistics": {
+                "viewCount": "3896032",
+                "subscriberCount": "4140",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1500"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "6g325Nmqoir8vVH37win8FHVNag",
+            "id": "UC9mpbcyY7E4jQIBNNPUYO2Q",
+            "snippet": {
+                "title": "ClassicMan D",
+                "description": "Welcome to the ClassicCrew\n\n I create content surrounding all things geek culture,cartoons, tv shows, movies, comics, marvel. DC and anime. I base my content off bringing content that can inform and entertain while you watch. I hope you come to my channel and end up laughing while walking away with a new perspective.",
+                "customUrl": "@classicmand",
+                "publishedAt": "2014-11-27T03:22:47Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/7aAY_7nZvw4P5YeQ0mqaUVCCyiHTcXAGQ_6kVIiGtIyGFZtxkb3l4qKbhZc-kjh7rTDXeFykuNI=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/7aAY_7nZvw4P5YeQ0mqaUVCCyiHTcXAGQ_6kVIiGtIyGFZtxkb3l4qKbhZc-kjh7rTDXeFykuNI=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/7aAY_7nZvw4P5YeQ0mqaUVCCyiHTcXAGQ_6kVIiGtIyGFZtxkb3l4qKbhZc-kjh7rTDXeFykuNI=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "ClassicMan D",
+                    "description": "Welcome to the ClassicCrew\n\n I create content surrounding all things geek culture,cartoons, tv shows, movies, comics, marvel. DC and anime. I base my content off bringing content that can inform and entertain while you watch. I hope you come to my channel and end up laughing while walking away with a new perspective."
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "3151122042",
+                "subscriberCount": "1260000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "4142"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "_iGC0AZCWEbW2n52UHkcvxvhHN8",
+            "id": "UCDTPr41rTygOH5coR9eM_Ig",
+            "snippet": {
+                "title": "CSTrend",
+                "description": "\u23ec\u0412\u0421\u0415 \u0421\u0421\u042b\u041b\u041a\u0418 \u0422\u0423\u0422\u23ec\n\n\n@cstrendoff - \u043f\u043e \u0440\u0435\u043a\u043b\u0430\u043c\u0435 \u0441\u044e\u0434\u0430\n\n\n@mitsub1si\n",
+                "customUrl": "@cstrend",
+                "publishedAt": "2020-12-25T19:07:47.865236Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/U7Avmpd5jKofWxqgMvhPRRQm0GbkDOyXMybVJ2AqJOsd7iobv3SsEvH4dH2TYTNXcL7VSz8Gr8Q=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/U7Avmpd5jKofWxqgMvhPRRQm0GbkDOyXMybVJ2AqJOsd7iobv3SsEvH4dH2TYTNXcL7VSz8Gr8Q=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/U7Avmpd5jKofWxqgMvhPRRQm0GbkDOyXMybVJ2AqJOsd7iobv3SsEvH4dH2TYTNXcL7VSz8Gr8Q=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "CSTrend",
+                    "description": "\u23ec\u0412\u0421\u0415 \u0421\u0421\u042b\u041b\u041a\u0418 \u0422\u0423\u0422\u23ec\n\n\n@cstrendoff - \u043f\u043e \u0440\u0435\u043a\u043b\u0430\u043c\u0435 \u0441\u044e\u0434\u0430\n\n\n@mitsub1si\n"
+                },
+                "country": "KZ"
+            },
+            "statistics": {
+                "viewCount": "577183554",
+                "subscriberCount": "389000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2558"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "kuefZ71MSFhcSS-rB4f2XvSKC9Y",
+            "id": "UCCGr2T_MAiCUeDAfpbtwQkA",
+            "snippet": {
+                "title": "El Jostiv",
+                "description": "Stream y creador de contenido.",
+                "customUrl": "@eljostiv",
+                "publishedAt": "2019-12-10T03:19:08.449653Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/qbS-sHh8g1jwrR2dh2EAtt0KDzGqV3vB8XNANuP1Echg8a0kLKGJPSfzV7RD_gcfpzU1lyqR=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/qbS-sHh8g1jwrR2dh2EAtt0KDzGqV3vB8XNANuP1Echg8a0kLKGJPSfzV7RD_gcfpzU1lyqR=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/qbS-sHh8g1jwrR2dh2EAtt0KDzGqV3vB8XNANuP1Echg8a0kLKGJPSfzV7RD_gcfpzU1lyqR=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "El Jostiv",
+                    "description": "Stream y creador de contenido."
+                },
+                "country": "CO"
+            },
+            "statistics": {
+                "viewCount": "12585460",
+                "subscriberCount": "10700",
+                "hiddenSubscriberCount": false,
+                "videoCount": "297"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "dYC8xH_bL8f1y7odMsnU0MlAeMY",
+            "id": "UCIBcR0GsS3lEC1ythGB06QA",
+            "snippet": {
+                "title": "Crackly",
+                "description": "That One Bro. \ud83c\udfaf\n\nUse creator code \"Crackly\" in the item shop #EpicPartner  \ud83d\udc9b \n\nContact Me - crackly@xenggs.com \n\nCreator For Xen\n",
+                "customUrl": "@cracklyy",
+                "publishedAt": "2013-10-20T00:50:00Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/yvYdfyW3Csk_ftlYHHScxM6MsdxOqtQ-kQ_Jj1GFrsJJU5jWRgh_st8-SVKxk6HPezXwtV3WJg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/yvYdfyW3Csk_ftlYHHScxM6MsdxOqtQ-kQ_Jj1GFrsJJU5jWRgh_st8-SVKxk6HPezXwtV3WJg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/yvYdfyW3Csk_ftlYHHScxM6MsdxOqtQ-kQ_Jj1GFrsJJU5jWRgh_st8-SVKxk6HPezXwtV3WJg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Crackly",
+                    "description": "That One Bro. \ud83c\udfaf\n\nUse creator code \"Crackly\" in the item shop #EpicPartner  \ud83d\udc9b \n\nContact Me - crackly@xenggs.com \n\nCreator For Xen\n"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "302144053",
+                "subscriberCount": "300000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1295"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "5--Nhp-VUgww4ZXTnpGDCy3ff_s",
+            "id": "UCDvm7YoLE5r3ZZ6MWyD2vGQ",
+            "snippet": {
+                "title": "NICKMERCS",
+                "description": "Nick \u2018Nickmercs\u2019 Kolcheff is a gaming streamer & content creator with tens of millions of followers across all his platforms.\n\nKnown as one of the world\u2019s biggest controller gamers, Nick has competed professionally in numerous gaming titles, becoming an MLG National Champion at an early age. He\u2019s gone on to win thousands of online tournaments, hold multiple world records, & earn close to a million in prize winnings.\n\nThroughout his career, Nick has partnered up with NFL, UFC & major organizations to build unprecedented bridges between gaming & other mainstream entertainment.\n\nNick\u2019s MFAM community is one of the most well-known in the gaming scene. He\u2019s regularly hosted tens of thousands of his fans at numerous annual events across the country.\n\nNick streams live on Twitch & YouTube, along with daily uploads to both YT channels! Follow @Nickmercs on all platforms to stay connected & never miss content!\n\nTake care of yourself\nTake care of each other\nGet better together\nPeace & Love!\n",
+                "customUrl": "@nickmercs",
+                "publishedAt": "2011-12-05T02:42:02Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/zDlHdBVWPQkUwFhs-sNHs00-DtFWZ523BfpJQ0evXftiIXr5lGS8l2-6DHBybuOB3hZSkqbEfg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/zDlHdBVWPQkUwFhs-sNHs00-DtFWZ523BfpJQ0evXftiIXr5lGS8l2-6DHBybuOB3hZSkqbEfg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/zDlHdBVWPQkUwFhs-sNHs00-DtFWZ523BfpJQ0evXftiIXr5lGS8l2-6DHBybuOB3hZSkqbEfg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "NICKMERCS",
+                    "description": "Nick \u2018Nickmercs\u2019 Kolcheff is a gaming streamer & content creator with tens of millions of followers across all his platforms.\n\nKnown as one of the world\u2019s biggest controller gamers, Nick has competed professionally in numerous gaming titles, becoming an MLG National Champion at an early age. He\u2019s gone on to win thousands of online tournaments, hold multiple world records, & earn close to a million in prize winnings.\n\nThroughout his career, Nick has partnered up with NFL, UFC & major organizations to build unprecedented bridges between gaming & other mainstream entertainment.\n\nNick\u2019s MFAM community is one of the most well-known in the gaming scene. He\u2019s regularly hosted tens of thousands of his fans at numerous annual events across the country.\n\nNick streams live on Twitch & YouTube, along with daily uploads to both YT channels! Follow @Nickmercs on all platforms to stay connected & never miss content!\n\nTake care of yourself\nTake care of each other\nGet better together\nPeace & Love!\n"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "941518825",
+                "subscriberCount": "4100000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2993"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "Wx7DPIOL67KISGyrzcLUIBDdgJ0",
+            "id": "UCDq_zu9EUNuF5Rn8Zye8RNQ",
+            "snippet": {
+                "title": "Krutobok",
+                "description": "League of Legends Enthusiast & Content Creator.\n\nExploring the best of the Rift through high-skill matchups, Arena brawls, and ARAM highlights. Delivering daily LoL Shorts for the global gaming community.\n",
+                "customUrl": "@krutobok",
+                "publishedAt": "2013-03-09T23:29:08Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/jKMHVTQSG0VF10oTVK6GNRgc9kFhE0YZEHLtWn754OiBYxnwFAj1w7Wu3T-K7tX9z-kM3yH7=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/jKMHVTQSG0VF10oTVK6GNRgc9kFhE0YZEHLtWn754OiBYxnwFAj1w7Wu3T-K7tX9z-kM3yH7=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/jKMHVTQSG0VF10oTVK6GNRgc9kFhE0YZEHLtWn754OiBYxnwFAj1w7Wu3T-K7tX9z-kM3yH7=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Krutobok",
+                    "description": "League of Legends Enthusiast & Content Creator.\n\nExploring the best of the Rift through high-skill matchups, Arena brawls, and ARAM highlights. Delivering daily LoL Shorts for the global gaming community.\n"
+                },
+                "country": "UA"
+            },
+            "statistics": {
+                "viewCount": "11951821",
+                "subscriberCount": "2510",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2425"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "PFhFDhfV1_yyV4hdcuJ8Fjmv7aE",
+            "id": "UCHugk6U_Ty9nOx2DjD_P3WQ",
+            "snippet": {
+                "title": "Clementdav",
+                "description": "#1 Speedrunner Minecraft Indonesia.\n\nHello guys! Aku Clementdav (dibaca: Kl\u00e8-m\u00ean-dav), bukan clement dev, bukan clement day, bukan clemendav.\n\nInstagram: https://instagram.com/clementdavv\nTikTok: https://www.tiktok.com/@clementdavtok\nDiscord: https://discord.gg/UHFEDAW\nWiki Clementdav: https://minecraftid.fandom.com/id/wiki/Clementdav\nDonate: https://sociabuzz.com/clementdav/donate\nBusiness Email: clementdavbiz@gmail.com\n",
+                "customUrl": "@clementdav",
+                "publishedAt": "2014-11-03T14:05:31Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/fjIDf4Qe8NoaBRj2PBx8Ko04t3Tz2uxcPs4_aQzTOaQBjTtklHXlIZ-Ts_ruRtSb8AhxrJ7j=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/fjIDf4Qe8NoaBRj2PBx8Ko04t3Tz2uxcPs4_aQzTOaQBjTtklHXlIZ-Ts_ruRtSb8AhxrJ7j=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/fjIDf4Qe8NoaBRj2PBx8Ko04t3Tz2uxcPs4_aQzTOaQBjTtklHXlIZ-Ts_ruRtSb8AhxrJ7j=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Clementdav",
+                    "description": "#1 Speedrunner Minecraft Indonesia.\n\nHello guys! Aku Clementdav (dibaca: Kl\u00e8-m\u00ean-dav), bukan clement dev, bukan clement day, bukan clemendav.\n\nInstagram: https://instagram.com/clementdavv\nTikTok: https://www.tiktok.com/@clementdavtok\nDiscord: https://discord.gg/UHFEDAW\nWiki Clementdav: https://minecraftid.fandom.com/id/wiki/Clementdav\nDonate: https://sociabuzz.com/clementdav/donate\nBusiness Email: clementdavbiz@gmail.com\n"
+                },
+                "country": "ID"
+            },
+            "statistics": {
+                "viewCount": "2234447327",
+                "subscriberCount": "6660000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1357"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "9KAEnaiuJIiLEJc9kjOoW0CB43E",
+            "id": "UCIGdEoFOsZsjoqpMl0vhvHA",
+            "snippet": {
+                "title": "Adilswrld",
+                "description": "I stream on Twitch DAILY at 5PM EST\n\nBusiness Inquiries: adilswlrdd@gmail.com\n",
+                "customUrl": "@adilswrld",
+                "publishedAt": "2022-11-28T00:28:45.749184Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/qWadwD7kTvhGpse_zUc3uHd4BEiTvZyl9r3ukte-1OXVgy9UnAWpSFbjEXAbKzW448uMXZAugso=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/qWadwD7kTvhGpse_zUc3uHd4BEiTvZyl9r3ukte-1OXVgy9UnAWpSFbjEXAbKzW448uMXZAugso=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/qWadwD7kTvhGpse_zUc3uHd4BEiTvZyl9r3ukte-1OXVgy9UnAWpSFbjEXAbKzW448uMXZAugso=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Adilswrld",
+                    "description": "I stream on Twitch DAILY at 5PM EST\n\nBusiness Inquiries: adilswlrdd@gmail.com\n"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "37979219",
+                "subscriberCount": "24500",
+                "hiddenSubscriberCount": false,
+                "videoCount": "887"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "kq5rBv7mEa99n-VYyc9-BOGde-Y",
+            "id": "UCFe5JHJqZ02_cbN3VtWbppQ",
+            "snippet": {
+                "title": "Rafa Plus",
+                "description": "Wsp\u00f3\u0142praca: biznes.rafa@gmail.com",
+                "customUrl": "@rafatojaplus",
+                "publishedAt": "2017-07-06T13:32:52Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/eCOhjBQmEJkw-xiJwQvWVgwk9VYg0Iz15XFa2SLBs8E1PWNW3h2R8rtzFHP8FdYJ2KRoUc9omQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/eCOhjBQmEJkw-xiJwQvWVgwk9VYg0Iz15XFa2SLBs8E1PWNW3h2R8rtzFHP8FdYJ2KRoUc9omQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/eCOhjBQmEJkw-xiJwQvWVgwk9VYg0Iz15XFa2SLBs8E1PWNW3h2R8rtzFHP8FdYJ2KRoUc9omQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Rafa Plus",
+                    "description": "Wsp\u00f3\u0142praca: biznes.rafa@gmail.com"
+                },
+                "country": "PL"
+            },
+            "statistics": {
+                "viewCount": "24423991",
+                "subscriberCount": "418000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "651"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "6QgOVqrybqRhYQtoWrZ6bkJvyOE",
+            "id": "UCGTPNs0ZEt9HHXlBW9FZAgg",
+            "snippet": {
+                "title": "Jabuti",
+                "description": "Ol\u00e1 bem-vindo ao canal!\n\nEmail de contato: jabuti@stormmedia.gg\n\n0jguRDyb\n",
+                "customUrl": "@ojabuti123",
+                "publishedAt": "2009-12-18T11:43:50Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_l0ghbW3w0OHjVW5zQpqJ1nBvHIVEJMQ2cNlIJEvBqWY4Q=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_l0ghbW3w0OHjVW5zQpqJ1nBvHIVEJMQ2cNlIJEvBqWY4Q=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_l0ghbW3w0OHjVW5zQpqJ1nBvHIVEJMQ2cNlIJEvBqWY4Q=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Jabuti",
+                    "description": "Ol\u00e1 bem-vindo ao canal!\n\nEmail de contato: jabuti@stormmedia.gg\n\n0jguRDyb\n"
+                },
+                "country": "BR"
+            },
+            "statistics": {
+                "viewCount": "158784013",
+                "subscriberCount": "1370000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "4509"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "WZKimcEX7OKFQ687GETW_N43E00",
+            "id": "UCIXKVF_6oj8cth7c8sJRxXg",
+            "snippet": {
+                "title": "GameCrashed",
+                "description": "",
+                "customUrl": "@gamecrashed8418",
+                "publishedAt": "2018-03-20T16:26:21Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_knGs93fwTWAqJnBJvbzfptiTRH--R0-uCCsPVgu7jaiOc=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_knGs93fwTWAqJnBJvbzfptiTRH--R0-uCCsPVgu7jaiOc=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_knGs93fwTWAqJnBJvbzfptiTRH--R0-uCCsPVgu7jaiOc=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "GameCrashed",
+                    "description": ""
+                },
+                "country": "IN"
+            },
+            "statistics": {
+                "viewCount": "139879",
+                "subscriberCount": "56",
+                "hiddenSubscriberCount": false,
+                "videoCount": "228"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "xxmWp6dVPyVPucOLgyP9vJDbfNQ",
+            "id": "UCBLnF36YuCXtDOBaBvtfFgg",
+            "snippet": {
+                "title": "COLT CS2",
+                "description": "Herkese selamlar ben Colt CS2 bu benim ikinci kanal\u0131m bu kanalda kasa a\u00e7\u0131l\u0131mlar\u0131,trade uplar,envanter dizme gibi i\u00e7erikler olacak.\n\ud83d\udce7 \u0130\u015fbirli\u011fi : colluthusyt@gmail.com\n",
+                "customUrl": "@coltcsv2",
+                "publishedAt": "2026-04-27T14:24:34.251026Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/1BoRl97H6_HRB3lq7Vp8b43jsiPHsiKhrbqIJwq3jWLLSm7VEhi8Y-EUwpiKy4pJlWivdzFu=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/1BoRl97H6_HRB3lq7Vp8b43jsiPHsiKhrbqIJwq3jWLLSm7VEhi8Y-EUwpiKy4pJlWivdzFu=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/1BoRl97H6_HRB3lq7Vp8b43jsiPHsiKhrbqIJwq3jWLLSm7VEhi8Y-EUwpiKy4pJlWivdzFu=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "COLT CS2",
+                    "description": "Herkese selamlar ben Colt CS2 bu benim ikinci kanal\u0131m bu kanalda kasa a\u00e7\u0131l\u0131mlar\u0131,trade uplar,envanter dizme gibi i\u00e7erikler olacak.\n\ud83d\udce7 \u0130\u015fbirli\u011fi : colluthusyt@gmail.com\n"
+                },
+                "country": "TR"
+            },
+            "statistics": {
+                "viewCount": "22481",
+                "subscriberCount": "447",
+                "hiddenSubscriberCount": false,
+                "videoCount": "17"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "VpDPiJ7gKo3dD4liWr5qoIHfZRQ",
+            "id": "UCAIK8boWlL8evswDj3GOq3g",
+            "snippet": {
+                "title": "Davryu / \u3060\u3076\u308a\u3085\u30fcch",
+                "description": "\u4e3b\u306bApex Legends\u306e\u52d5\u753b\u3092\u6295\u7a3f\u3057\u3066\u3044\u307e\u3059\u3002\n\u305f\u307e\u306b\u30de\u30a4\u30af\u30e9\u306a\u3069\u3001\u5225\u30b2\u30fc\u306e\u52d5\u753b\u3082\u6295\u7a3f\u3057\u307e\u3059\u3002\n\u3088\u3051\u308c\u3070\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u304a\u9858\u3044\u3057\u307e\u3059\uff01\n\nX\u2192https://x.com/Reo26589997?\nt=PSteFADtLsKHo3IPIlFOwg&s=09",
+                "customUrl": "@davryu2",
+                "publishedAt": "2018-10-20T05:01:46Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Vd3QGEIDdl1G4qDkwofl4F30GqDVaMatsHnQ6AD5sZTAs3bxMa8WYQEPFnYnEWMFLKGHFSk4Fg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Vd3QGEIDdl1G4qDkwofl4F30GqDVaMatsHnQ6AD5sZTAs3bxMa8WYQEPFnYnEWMFLKGHFSk4Fg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Vd3QGEIDdl1G4qDkwofl4F30GqDVaMatsHnQ6AD5sZTAs3bxMa8WYQEPFnYnEWMFLKGHFSk4Fg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Davryu / \u3060\u3076\u308a\u3085\u30fcch",
+                    "description": "\u4e3b\u306bApex Legends\u306e\u52d5\u753b\u3092\u6295\u7a3f\u3057\u3066\u3044\u307e\u3059\u3002\n\u305f\u307e\u306b\u30de\u30a4\u30af\u30e9\u306a\u3069\u3001\u5225\u30b2\u30fc\u306e\u52d5\u753b\u3082\u6295\u7a3f\u3057\u307e\u3059\u3002\n\u3088\u3051\u308c\u3070\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u304a\u9858\u3044\u3057\u307e\u3059\uff01\n\nX\u2192https://x.com/Reo26589997?\nt=PSteFADtLsKHo3IPIlFOwg&s=09"
+                },
+                "country": "JP"
+            },
+            "statistics": {
+                "viewCount": "5876790",
+                "subscriberCount": "672",
+                "hiddenSubscriberCount": false,
+                "videoCount": "680"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "PSFaaPUmuATW8XtZYJXL2Ea4mvo",
+            "id": "UCAHQGIKolfBfoeXXMY79SBA",
+            "snippet": {
+                "title": "\u767d\u90a3\u3057\u305a\u304f",
+                "description": "Neo-Porte\u6240\u5c5e 5\u671f\u751f \u767d\u90a3\u3057\u305a\u304f\u3067\u3059\u3002\n\u307f\u3093\u306a\u3044\u3064\u3082\u3042\u308a\u304c\u3068\u3046\uff01\uff01\n\n\nURL\n\n\u25bcX\n\u3000https://twitter.com/shizuku_shirona\n\n\u30bf\u30b0\n\n\u25bc\u7dcf\u5408\u30bf\u30b0 #\u767d\u90a3\u3057\u305a\u304f\n\n\u25bc\u914d\u4fe1\u30bf\u30b0 #\u751f\u3057\u305a\u304f\n\n\u25bcFA\u30bf\u30b0 #\u3057\u305a\u304f\u308c\u3088\u3093\n\n\u25bc\u30d5\u30a1\u30f3\u30de\u30fc\u30af\u3000\ud83d\udcaa\ud83c\udf4e\n\n\u25bc5\u671f\u751f\u30bf\u30b0\u3000#\u3057\u306e\u305a\u304f\u3082\n\n-----------------------------------\n\u25bcNeo-Porte\u516c\u5f0fTwitter\n\u3000https://twitter.com/NeoPorte_info\n\n\u25bcNeo-Porte\u516c\u5f0fHP\n\u3000https://neo-porte.jp/\n\n\u25bc\u304a\u554f\u3044\u5408\u308f\u305b\n\u3000info@neo-porte.jp\n-----------------------------------\n",
+                "customUrl": "@shironashizuku",
+                "publishedAt": "2023-11-02T12:17:49.959206Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "\u767d\u90a3\u3057\u305a\u304f",
+                    "description": "Neo-Porte\u6240\u5c5e 5\u671f\u751f \u767d\u90a3\u3057\u305a\u304f\u3067\u3059\u3002\n\u307f\u3093\u306a\u3044\u3064\u3082\u3042\u308a\u304c\u3068\u3046\uff01\uff01\n\n\nURL\n\n\u25bcX\n\u3000https://twitter.com/shizuku_shirona\n\n\u30bf\u30b0\n\n\u25bc\u7dcf\u5408\u30bf\u30b0 #\u767d\u90a3\u3057\u305a\u304f\n\n\u25bc\u914d\u4fe1\u30bf\u30b0 #\u751f\u3057\u305a\u304f\n\n\u25bcFA\u30bf\u30b0 #\u3057\u305a\u304f\u308c\u3088\u3093\n\n\u25bc\u30d5\u30a1\u30f3\u30de\u30fc\u30af\u3000\ud83d\udcaa\ud83c\udf4e\n\n\u25bc5\u671f\u751f\u30bf\u30b0\u3000#\u3057\u306e\u305a\u304f\u3082\n\n-----------------------------------\n\u25bcNeo-Porte\u516c\u5f0fTwitter\n\u3000https://twitter.com/NeoPorte_info\n\n\u25bcNeo-Porte\u516c\u5f0fHP\n\u3000https://neo-porte.jp/\n\n\u25bc\u304a\u554f\u3044\u5408\u308f\u305b\n\u3000info@neo-porte.jp\n-----------------------------------\n"
+                }
+            },
+            "statistics": {
+                "viewCount": "26930733",
+                "subscriberCount": "144000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "690"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "6rRhjafaE_eyPRTvWwyRy1Ld4Dw",
+            "id": "UCHnGh6ClNwEy4aK-bnufo1w",
+            "snippet": {
+                "title": "Addi LIVE",
+                "description": "\u2728Addi, vergiss den Namen nie!\u2728\nWillkommen auf meinem Kanal, neben den neuesten Fortnite Infos und Leaks, gibt es regelm\u00e4\u00dfige Update- und Community-Streams zu den wichtigsten Themen. Auch Kurzvideos (Shorts) sorgen daf\u00fcr, dass du nichts verpasst!\n\nEs sind Fortnite Battle Royale familienfreundliche Inhalte f\u00fcr Kinder! Fortnite Kapitel 6 Videos mit Live-Events, Gameplay, Leaks, Neuigkeiten, Infos, Trailer, lustige Momente, Battle Pass, Countdown, Map, Ver\u00f6ffentlichungsdatum, V-Bucks \u2013 einfach alles rund um Fortnite!\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nDir gef\u00e4llt mein Kanal? \n\u21aa Abonniere & aktiviere die Glocke\ud83d\udd14, um ein Teil der Community zu sein!\u2764\ufe0f\n\u21aa Trage meinen Support-a-Creator Code \"Addi\" in den Fortnite Shop ein, um mich bei deinem Kauf kostenfrei zu unterst\u00fctzen!\ud83d\udd2e #EpicPartner\n\u21aa Folge mir auf all meinen anderen Socials: https://addi.yt/ \u203c\ufe0f\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\ud83d\udce7 Impressum:\nAdrian Mohnhaupt (Addi LIVE)\nc/o a-Quadrat\nMeterstra\u00dfe 2\n70839 Gerlingen\n\nE-Mail: info@adrianmohnhaupt.de\nWebsite: https://addi.yt/\n",
+                "customUrl": "@addilive",
+                "publishedAt": "2016-03-09T19:37:03Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/VcKvspOhEyQ_3doHUKOSWxZilkrqoCahnyUoS5dyZFKtGygOWiM09S-1KdBnK25e5bx2-9uP=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/VcKvspOhEyQ_3doHUKOSWxZilkrqoCahnyUoS5dyZFKtGygOWiM09S-1KdBnK25e5bx2-9uP=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/VcKvspOhEyQ_3doHUKOSWxZilkrqoCahnyUoS5dyZFKtGygOWiM09S-1KdBnK25e5bx2-9uP=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Addi LIVE",
+                    "description": "\u2728Addi, vergiss den Namen nie!\u2728\nWillkommen auf meinem Kanal, neben den neuesten Fortnite Infos und Leaks, gibt es regelm\u00e4\u00dfige Update- und Community-Streams zu den wichtigsten Themen. Auch Kurzvideos (Shorts) sorgen daf\u00fcr, dass du nichts verpasst!\n\nEs sind Fortnite Battle Royale familienfreundliche Inhalte f\u00fcr Kinder! Fortnite Kapitel 6 Videos mit Live-Events, Gameplay, Leaks, Neuigkeiten, Infos, Trailer, lustige Momente, Battle Pass, Countdown, Map, Ver\u00f6ffentlichungsdatum, V-Bucks \u2013 einfach alles rund um Fortnite!\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nDir gef\u00e4llt mein Kanal? \n\u21aa Abonniere & aktiviere die Glocke\ud83d\udd14, um ein Teil der Community zu sein!\u2764\ufe0f\n\u21aa Trage meinen Support-a-Creator Code \"Addi\" in den Fortnite Shop ein, um mich bei deinem Kauf kostenfrei zu unterst\u00fctzen!\ud83d\udd2e #EpicPartner\n\u21aa Folge mir auf all meinen anderen Socials: https://addi.yt/ \u203c\ufe0f\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\ud83d\udce7 Impressum:\nAdrian Mohnhaupt (Addi LIVE)\nc/o a-Quadrat\nMeterstra\u00dfe 2\n70839 Gerlingen\n\nE-Mail: info@adrianmohnhaupt.de\nWebsite: https://addi.yt/\n"
+                },
+                "country": "DE"
+            },
+            "statistics": {
+                "viewCount": "409940085",
+                "subscriberCount": "698000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2360"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "TXBQlwuvVM7GFl6m-qeYMTNA7b8",
+            "id": "UCBYaYq0II3qo8-9N8a-Bdfg",
+            "snippet": {
+                "title": "\u308a\u30fc\u3048\u3075\u3074\u30fc\u3048\u3059\u3002",
+                "description": "\u305f\u307e\u306b\u53eb\u3076\u3001\u6b4c\u3068\u30b2\u30fc\u30e0\u304c\u597d\u304d\u306a\u4eba\u3002\n",
+                "customUrl": "@riyfpsjp",
+                "publishedAt": "2022-08-15T08:37:54.300862Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/hnvCFAmhEzzmL6PjyC2vcoKT3issADQPxlr1aUXRDChz0_6bYRBMkb04JSgYg5pvwGaVuXgl=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/hnvCFAmhEzzmL6PjyC2vcoKT3issADQPxlr1aUXRDChz0_6bYRBMkb04JSgYg5pvwGaVuXgl=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/hnvCFAmhEzzmL6PjyC2vcoKT3issADQPxlr1aUXRDChz0_6bYRBMkb04JSgYg5pvwGaVuXgl=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "\u308a\u30fc\u3048\u3075\u3074\u30fc\u3048\u3059\u3002",
+                    "description": "\u305f\u307e\u306b\u53eb\u3076\u3001\u6b4c\u3068\u30b2\u30fc\u30e0\u304c\u597d\u304d\u306a\u4eba\u3002\n"
+                }
+            },
+            "statistics": {
+                "viewCount": "259705389",
+                "subscriberCount": "101000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1765"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "6GTsvGn2un8UewISDATSpgwcoj8",
+            "id": "UCCWyZ61lxV_n13mYP-iA4Cg",
+            "snippet": {
+                "title": "TONN616",
+                "description": "Marvel, DC, Yu-Gi-Oh!, Pok\u00e9mon e v\u00e1rios outros assuntos nerds s\u00e3o os temas do canal TONN616. O canal focado em v\u00eddeos curtos com a maior quantidade de views falando sobre Quadrinhos com mais de 400 Milh\u00f5es de views.",
+                "customUrl": "@tonn616",
+                "publishedAt": "2014-10-05T12:59:21Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/AeniN5q_nh-y7gKvn61Cog1lfyeYhmfrfcZjekeb0hbwPnB8xAHgB8_5QVbqML5XSjfRGuYd=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/AeniN5q_nh-y7gKvn61Cog1lfyeYhmfrfcZjekeb0hbwPnB8xAHgB8_5QVbqML5XSjfRGuYd=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/AeniN5q_nh-y7gKvn61Cog1lfyeYhmfrfcZjekeb0hbwPnB8xAHgB8_5QVbqML5XSjfRGuYd=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "TONN616",
+                    "description": "Marvel, DC, Yu-Gi-Oh!, Pok\u00e9mon e v\u00e1rios outros assuntos nerds s\u00e3o os temas do canal TONN616. O canal focado em v\u00eddeos curtos com a maior quantidade de views falando sobre Quadrinhos com mais de 400 Milh\u00f5es de views."
+                },
+                "country": "BR"
+            },
+            "statistics": {
+                "viewCount": "826311264",
+                "subscriberCount": "838000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "6432"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "F-S-UmTuOKOJsq5OgaI3Sjptbng",
+            "id": "UCBWBB27oP6M5MroKUJQPDgw",
+            "snippet": {
+                "title": "Suetam",
+                "description": "Canal de Games voltado ao Fortnite! Usem o C\u00f3digo SUETAM na loja de itens!\n#EpicPartner \n\nLOJA DO CANAL - https://www.shopsuetam.com\nMINHAS REDES SOCIAIS SIGAM L\u00c1 - https://bio.site/suetam\n\nMEU MAPA DE X1: 2437-9857-3062\nMAPA LATE GAME: 6071-0800-4490\n\nSEJA MEMBRO! - https://www.youtube.com/suetam/join\nINSCREVA-SE NO CANAL DE CORTES SUETAM - https://www.youtube.com/@cortesdosuet...\n\nContato: contato.suetam@gmail.com\n",
+                "customUrl": "@suetam",
+                "publishedAt": "2015-05-28T22:32:36Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ouYPWfxdXR5MtsT-Zt_ww7WjP6Gu4QX_RAmg2DdzzM_kYbgqS5Jxjbw4YXxNZzMjiNuCNGpS_g=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ouYPWfxdXR5MtsT-Zt_ww7WjP6Gu4QX_RAmg2DdzzM_kYbgqS5Jxjbw4YXxNZzMjiNuCNGpS_g=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ouYPWfxdXR5MtsT-Zt_ww7WjP6Gu4QX_RAmg2DdzzM_kYbgqS5Jxjbw4YXxNZzMjiNuCNGpS_g=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Suetam",
+                    "description": "Canal de Games voltado ao Fortnite! Usem o C\u00f3digo SUETAM na loja de itens!\n#EpicPartner \n\nLOJA DO CANAL - https://www.shopsuetam.com\nMINHAS REDES SOCIAIS SIGAM L\u00c1 - https://bio.site/suetam\n\nMEU MAPA DE X1: 2437-9857-3062\nMAPA LATE GAME: 6071-0800-4490\n\nSEJA MEMBRO! - https://www.youtube.com/suetam/join\nINSCREVA-SE NO CANAL DE CORTES SUETAM - https://www.youtube.com/@cortesdosuet...\n\nContato: contato.suetam@gmail.com\n"
+                }
+            },
+            "statistics": {
+                "viewCount": "94573755",
+                "subscriberCount": "688000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "656"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "MeQajSdQYltFhDu_vowO_rt0IZY",
+            "id": "UCDhxNmcXycyzgurPmu-UwCg",
+            "snippet": {
+                "title": "\uc774\ub0a8\uc774",
+                "description": "\ube44\uc988\ub2c8\uc2a4 : ad@lolq.co.kr\n\uac1c\uc778\ubb38\uc758/\uc81c\ubcf4 : e5444578@gmail.com\n\nfps\uc88b\uc544\ud569\ub2c8\ub2e4\n",
+                "customUrl": "@\uc774\ub0a8\uc774-e09",
+                "publishedAt": "2025-03-23T10:15:55.347714Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/g3NOYmsRT2yH7Ea1-YxwAIetvtZMBVEI9fIKJj_HbEwU8sgMvEom03Cq1ZHpUM7rIszpsSd6vQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/g3NOYmsRT2yH7Ea1-YxwAIetvtZMBVEI9fIKJj_HbEwU8sgMvEom03Cq1ZHpUM7rIszpsSd6vQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/g3NOYmsRT2yH7Ea1-YxwAIetvtZMBVEI9fIKJj_HbEwU8sgMvEom03Cq1ZHpUM7rIszpsSd6vQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "\uc774\ub0a8\uc774",
+                    "description": "\ube44\uc988\ub2c8\uc2a4 : ad@lolq.co.kr\n\uac1c\uc778\ubb38\uc758/\uc81c\ubcf4 : e5444578@gmail.com\n\nfps\uc88b\uc544\ud569\ub2c8\ub2e4\n"
+                }
+            },
+            "statistics": {
+                "viewCount": "85044094",
+                "subscriberCount": "30600",
+                "hiddenSubscriberCount": false,
+                "videoCount": "861"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "XsD9mUbuU6owhZ8j2tq1Zh8kTCM",
+            "id": "UCED8i3yN0uxVk0GxOxR4bTA",
+            "snippet": {
+                "title": "DoNotDisturb24",
+                "description": "Welcome to my channel DoNotDisturb24! I am an avid gamer with almost a decade experience of gaming. I am here showcasing new and popular games. Whether you are a seasoned player or new to the gaming world, you'll find exciting content and the latest releases here. Hit that subscribe button , grab your controller and let's jump into the action and adventure together!",
+                "customUrl": "@donotdisturb24",
+                "publishedAt": "2023-03-29T16:23:59.318925Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/VWQ1y81atVw9B3v-K8VrallKboANHdTjPQ6X8sLIK6tC2wEmTDYOMRUztGIg2Ankdl-3vIXSPA=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/VWQ1y81atVw9B3v-K8VrallKboANHdTjPQ6X8sLIK6tC2wEmTDYOMRUztGIg2Ankdl-3vIXSPA=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/VWQ1y81atVw9B3v-K8VrallKboANHdTjPQ6X8sLIK6tC2wEmTDYOMRUztGIg2Ankdl-3vIXSPA=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "DoNotDisturb24",
+                    "description": "Welcome to my channel DoNotDisturb24! I am an avid gamer with almost a decade experience of gaming. I am here showcasing new and popular games. Whether you are a seasoned player or new to the gaming world, you'll find exciting content and the latest releases here. Hit that subscribe button , grab your controller and let's jump into the action and adventure together!"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "2374603",
+                "subscriberCount": "3240",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1814"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "eGfwImZpyCoaW9qV11JqlrlzRMQ",
+            "id": "UCBVw8AnAy8ifXpysv2fiVYQ",
+            "snippet": {
+                "title": "\u30d8\u30a4\u30c7\u30f3Game",
+                "description": "FPS\u5927\u597d\u304d\u3086\u3063\u304f\u308a\u5b9f\u6cc1\u30c1\u30e3\u30f3\u30cd\u30eb\u3067\u3059\u3002\n\u5272\u3068\u4f55\u3067\u3082\u3084\u308a\u307e\u3059\u3002\n",
+                "customUrl": "@heiden_yukkuri",
+                "publishedAt": "2021-04-25T02:37:48.875947Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/qTsYnXcWy3lS99HOb9L2hwuNGk6AZM4eSebxbuDA8lTzDBwJte6IQr49N-JC71jSJhaTc7Kzjdk=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/qTsYnXcWy3lS99HOb9L2hwuNGk6AZM4eSebxbuDA8lTzDBwJte6IQr49N-JC71jSJhaTc7Kzjdk=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/qTsYnXcWy3lS99HOb9L2hwuNGk6AZM4eSebxbuDA8lTzDBwJte6IQr49N-JC71jSJhaTc7Kzjdk=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "\u30d8\u30a4\u30c7\u30f3Game",
+                    "description": "FPS\u5927\u597d\u304d\u3086\u3063\u304f\u308a\u5b9f\u6cc1\u30c1\u30e3\u30f3\u30cd\u30eb\u3067\u3059\u3002\n\u5272\u3068\u4f55\u3067\u3082\u3084\u308a\u307e\u3059\u3002\n"
+                },
+                "country": "JP"
+            },
+            "statistics": {
+                "viewCount": "5892587",
+                "subscriberCount": "10600",
+                "hiddenSubscriberCount": false,
+                "videoCount": "512"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "qqDAK8FUKG68a0G6TxL48sGxoVs",
+            "id": "UCGpDy0env5GGdxBINPXkIdA",
+            "snippet": {
+                "title": "qamb",
+                "description": "I make videos about minecraft",
+                "customUrl": "@qambb",
+                "publishedAt": "2025-04-01T11:05:50.7765Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/nctMVwIelpS4pUuddmlGlWxMTuHj4pqKjvZCYb9vXPRNgpMQPuylQ4Sp6y91R8bHvpr2chJjSQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/nctMVwIelpS4pUuddmlGlWxMTuHj4pqKjvZCYb9vXPRNgpMQPuylQ4Sp6y91R8bHvpr2chJjSQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/nctMVwIelpS4pUuddmlGlWxMTuHj4pqKjvZCYb9vXPRNgpMQPuylQ4Sp6y91R8bHvpr2chJjSQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "qamb",
+                    "description": "I make videos about minecraft"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "471406",
+                "subscriberCount": "427",
+                "hiddenSubscriberCount": false,
+                "videoCount": "20"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "zj6g23zIdMx30hZER5G51j6vU9Y",
+            "id": "UCEwCSAF-j_Vr3EYpb_nZXRg",
+            "snippet": {
+                "title": "Ten'z live",
+                "description": "Welcome to my channel Mr.Singh!\n",
+                "customUrl": "@iamsinghrawat",
+                "publishedAt": "2012-06-27T01:21:56Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/8ovMO87sKOL_RWp5OLjNAg5CoZgpmyI_9f_sjsF1S-73rDrQhYIQ4Djz15t2rEMUNLlUEUU0-Q=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/8ovMO87sKOL_RWp5OLjNAg5CoZgpmyI_9f_sjsF1S-73rDrQhYIQ4Djz15t2rEMUNLlUEUU0-Q=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/8ovMO87sKOL_RWp5OLjNAg5CoZgpmyI_9f_sjsF1S-73rDrQhYIQ4Djz15t2rEMUNLlUEUU0-Q=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Ten'z live",
+                    "description": "Welcome to my channel Mr.Singh!\n"
+                },
+                "country": "IN"
+            },
+            "statistics": {
+                "viewCount": "2589701",
+                "subscriberCount": "10500",
+                "hiddenSubscriberCount": false,
+                "videoCount": "187"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "YU0dFi_zgmMbazDVtczZxdH0jug",
+            "id": "UCDo6K6q-444XkhIIxP3RW-g",
+            "snippet": {
+                "title": "UBetter Apex",
+                "description": "Hi there, If you like this channel, the best reward for me is to share your opinion by leaving a comment. I will attach popular comments in the description area for other commenters to read.\n",
+                "customUrl": "@ubetterapex",
+                "publishedAt": "2022-10-28T11:11:48.764598Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/hNZGYMWCBua02zMAs2sSa1crSN_0hhPVly-cMa_2KzdvjIfO2nAt6_DQu4TN6qC3GMavyYd9lQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/hNZGYMWCBua02zMAs2sSa1crSN_0hhPVly-cMa_2KzdvjIfO2nAt6_DQu4TN6qC3GMavyYd9lQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/hNZGYMWCBua02zMAs2sSa1crSN_0hhPVly-cMa_2KzdvjIfO2nAt6_DQu4TN6qC3GMavyYd9lQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "UBetter Apex",
+                    "description": "Hi there, If you like this channel, the best reward for me is to share your opinion by leaving a comment. I will attach popular comments in the description area for other commenters to read.\n"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "4226392",
+                "subscriberCount": "8060",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1267"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "8oTjYsiblzhMZfS-3aI7d9n6Ing",
+            "id": "UCHazKLThRbMyMFu2bVAKhng",
+            "snippet": {
+                "title": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8",
+                "description": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8\u306f\u8272\u3005\u306a\u4f01\u753b\u3092\u30c1\u30e3\u30ec\u30f3\u30b8\u3057\u307e\u304f\u308a\u307e\u3059\n\u3010\u30c4\u30a4\u30c3\u30bf\u30fc\u3011https://x.com/yuguro1\n\u3010\u9023\u7d61\u5148\u3011water@hifumi-ent.com\n\n\n\n",
+                "customUrl": "@water_challenge",
+                "publishedAt": "2014-03-13T06:55:17Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/miAxxSWVlYHu34y48zd410c9FX7XFiYLCqhs2JQMF59kj9hqFTsg42i520F7tw2g-2a0TcqONw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/miAxxSWVlYHu34y48zd410c9FX7XFiYLCqhs2JQMF59kj9hqFTsg42i520F7tw2g-2a0TcqONw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/miAxxSWVlYHu34y48zd410c9FX7XFiYLCqhs2JQMF59kj9hqFTsg42i520F7tw2g-2a0TcqONw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8",
+                    "description": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8\u306f\u8272\u3005\u306a\u4f01\u753b\u3092\u30c1\u30e3\u30ec\u30f3\u30b8\u3057\u307e\u304f\u308a\u307e\u3059\n\u3010\u30c4\u30a4\u30c3\u30bf\u30fc\u3011https://x.com/yuguro1\n\u3010\u9023\u7d61\u5148\u3011water@hifumi-ent.com\n\n\n\n"
+                },
+                "country": "JP"
+            },
+            "statistics": {
+                "viewCount": "3417223565",
+                "subscriberCount": "3210000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2283"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "l5qWRlcMjiNzHf8gbhYzczPyk3Y",
+            "id": "UCDH4iOwF3Fl6ll88UnCnBHg",
+            "snippet": {
+                "title": "MrPerfectRob",
+                "description": "",
+                "customUrl": "@mrperfectrob",
+                "publishedAt": "2021-10-14T03:50:11.348312Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/aWDxWLWy391O3aKrHbEKQi5dDUK3alaGTRvA68eEcxgikp3MAVLumnfP5KGfo_pk7E1KWbFN=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/aWDxWLWy391O3aKrHbEKQi5dDUK3alaGTRvA68eEcxgikp3MAVLumnfP5KGfo_pk7E1KWbFN=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/aWDxWLWy391O3aKrHbEKQi5dDUK3alaGTRvA68eEcxgikp3MAVLumnfP5KGfo_pk7E1KWbFN=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "MrPerfectRob",
+                    "description": ""
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "232754",
+                "subscriberCount": "116",
+                "hiddenSubscriberCount": false,
+                "videoCount": "161"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "8pqS2oMzXcRwa3Uau6jVm3O1HcM",
+            "id": "UCGsiYLUcAaLt59KF4-QXiVQ",
+            "snippet": {
+                "title": "Also Vanexx",
+                "description": "vanexxshop.com\n\nbusiness ventures - ofcvanexxbusiness@gmail.com\n\n",
+                "customUrl": "@alsovanexx",
+                "publishedAt": "2023-11-12T04:53:36.043268Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/1vej3LYz2miXsMru7tpa19Brh21T7wZ22_vIEPodykS-PEdtrkp6Gy8-fPlNcD_Dg0UX8iSb=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/1vej3LYz2miXsMru7tpa19Brh21T7wZ22_vIEPodykS-PEdtrkp6Gy8-fPlNcD_Dg0UX8iSb=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/1vej3LYz2miXsMru7tpa19Brh21T7wZ22_vIEPodykS-PEdtrkp6Gy8-fPlNcD_Dg0UX8iSb=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Also Vanexx",
+                    "description": "vanexxshop.com\n\nbusiness ventures - ofcvanexxbusiness@gmail.com\n\n"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "32836244",
+                "subscriberCount": "23400",
+                "hiddenSubscriberCount": false,
+                "videoCount": "805"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "7kXMmP8Wmy3DDyaj9imB3osXQpk",
+            "id": "UCGF5H53_h3Y6IGpANbDEh6w",
+            "snippet": {
+                "title": "JumperWho",
+                "description": "just here to make someone smile\n",
+                "customUrl": "@jumperwho",
+                "publishedAt": "2022-07-25T16:07:10.085669Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/VsByoTyh-JXhabkOz5bveV7fcGOJLWRyVZzu2w05oP4B_nADcSr3qkEfmoVCeDwbodg-wDQM=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/VsByoTyh-JXhabkOz5bveV7fcGOJLWRyVZzu2w05oP4B_nADcSr3qkEfmoVCeDwbodg-wDQM=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/VsByoTyh-JXhabkOz5bveV7fcGOJLWRyVZzu2w05oP4B_nADcSr3qkEfmoVCeDwbodg-wDQM=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "JumperWho",
+                    "description": "just here to make someone smile\n"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "28734638",
+                "subscriberCount": "576000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "42"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "sYP0CiMxLW2E_t3arqWr96OYm8M",
+            "id": "UCBaYSqnXbF0AxYOzCuunnZA",
+            "snippet": {
+                "title": "Kare Kafa",
+                "description": "Selam Kare Kafa kanal\u0131nda herkes i\u00e7in haz\u0131rlanm\u0131\u015f, Minecraft oyun videolar\u0131 ve T\u00fcrk\u00e7e Minecraft videolar\u0131 izleyeceksiniz. Kare Kafa ile birlikte E\u011flenceli Minecraft Videolar\u0131 ile beraber olaca\u011f\u0131z. Minecraft zengin ve fakir, zengin vs fakir, Minecraft vs, Kerem komiser, Tepeg\u00f6z, Bebek tepeg\u00f6z g\u00f6receksiniz.\n\nAbone ol ve ailemize kat\u0131l.\n\n\u0130\u015f g\u00f6r\u00fc\u015fmeleri i\u00e7in : tugrulkaan299@gmail.com\n#zenginfakir #Minecraft #oyun\n",
+                "customUrl": "@karekafa",
+                "publishedAt": "2018-05-16T10:24:50Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/dnO572PMvkdLXPVZPJ-sRuU6z23FCBhsMlq7Vaixtg2mlCRxs1zYbAgh6w5oeVLQRpMonAbngg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/dnO572PMvkdLXPVZPJ-sRuU6z23FCBhsMlq7Vaixtg2mlCRxs1zYbAgh6w5oeVLQRpMonAbngg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/dnO572PMvkdLXPVZPJ-sRuU6z23FCBhsMlq7Vaixtg2mlCRxs1zYbAgh6w5oeVLQRpMonAbngg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "Kare Kafa",
+                    "description": "Selam Kare Kafa kanal\u0131nda herkes i\u00e7in haz\u0131rlanm\u0131\u015f, Minecraft oyun videolar\u0131 ve T\u00fcrk\u00e7e Minecraft videolar\u0131 izleyeceksiniz. Kare Kafa ile birlikte E\u011flenceli Minecraft Videolar\u0131 ile beraber olaca\u011f\u0131z. Minecraft zengin ve fakir, zengin vs fakir, Minecraft vs, Kerem komiser, Tepeg\u00f6z, Bebek tepeg\u00f6z g\u00f6receksiniz.\n\nAbone ol ve ailemize kat\u0131l.\n\n\u0130\u015f g\u00f6r\u00fc\u015fmeleri i\u00e7in : tugrulkaan299@gmail.com\n#zenginfakir #Minecraft #oyun\n"
+                },
+                "country": "TR"
+            },
+            "statistics": {
+                "viewCount": "487670198",
+                "subscriberCount": "1550000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1165"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "qhABxZEGxeIU34-sLXcLJlLO7Dk",
+            "id": "UCEuOLYqiHuOPB6IYCykj2VQ",
+            "snippet": {
+                "title": "NesKy",
+                "description": "SE INSCREVE AI, N\u00c3O CUSTA NADA POW\n\nEae guys, aqui quem fala \u00e9 o NesKy, sejam bem-vindo ao meu canal de Valorant!\ud83d\udc9c\nAs vezes jogo algumas coisas diferentes mas quase sempre ser\u00e1 valorant!!\n\nAqui no canal voc\u00ea vai encontrar v\u00eddeos com os melhores momentos das streams que eu fa\u00e7o na https://www.twitch.tv/neskyzz\n\nSempre quero ter uma hist\u00f3ria boa pra contar, chega mais que tem conte\u00fado de sobra a\u00ed, espero que gostem.\ud83d\udc9c\n\nVivendo um sonho\ud83d\udc9c\nFico feliz que tenha vindo aqui\n\nTodas as minhas redes sociais\n\ud83d\udc47\ud83c\udffc",
+                "customUrl": "@neskygg",
+                "publishedAt": "2021-12-16T16:28:41.40313Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/RDQS0nJxIu7pe_A7DI99MtHCX--qjReUwUYy0EvEzx0Kq5WXgdsSgaGlmp7LOzaxxXYX7YKAow=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/RDQS0nJxIu7pe_A7DI99MtHCX--qjReUwUYy0EvEzx0Kq5WXgdsSgaGlmp7LOzaxxXYX7YKAow=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/RDQS0nJxIu7pe_A7DI99MtHCX--qjReUwUYy0EvEzx0Kq5WXgdsSgaGlmp7LOzaxxXYX7YKAow=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "NesKy",
+                    "description": "SE INSCREVE AI, N\u00c3O CUSTA NADA POW\n\nEae guys, aqui quem fala \u00e9 o NesKy, sejam bem-vindo ao meu canal de Valorant!\ud83d\udc9c\nAs vezes jogo algumas coisas diferentes mas quase sempre ser\u00e1 valorant!!\n\nAqui no canal voc\u00ea vai encontrar v\u00eddeos com os melhores momentos das streams que eu fa\u00e7o na https://www.twitch.tv/neskyzz\n\nSempre quero ter uma hist\u00f3ria boa pra contar, chega mais que tem conte\u00fado de sobra a\u00ed, espero que gostem.\ud83d\udc9c\n\nVivendo um sonho\ud83d\udc9c\nFico feliz que tenha vindo aqui\n\nTodas as minhas redes sociais\n\ud83d\udc47\ud83c\udffc"
+                },
+                "country": "BR"
+            },
+            "statistics": {
+                "viewCount": "3909939",
+                "subscriberCount": "2200",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1218"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "ebKCxjZrEs31KgrXlhEz7oa85z4",
+            "id": "UCAXUExVh4rPM4UAO7_4tSMg",
+            "snippet": {
+                "title": "HEROKAYAR",
+                "description": "\ud83c\udfae\u0623\u0642\u062f\u0645 \u0645\u062d\u062a\u0648\u0649 \u0628\u0633\u064a\u0637 \u0648\u062e\u0641\u064a\u0641 \u0639\u0646 \u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0628\u062a\u062c\u0631\u0628\u062a\u064a \u0627\u0644\u062e\u0627\u0635\u0629\n \u0648\u0623\u062d\u0627\u0648\u0644 \u0642\u062f\u0631 \u0627\u0644\u0625\u0645\u0643\u0627\u0646 \u0623\u0643\u0648\u0646 \u0628\u0639\u064a\u062f \u0639\u0646 \u0627\u0644\u062a\u0635\u0646\u0651\u0639 \u0627\u0648 \u0627\u0644\u062a\u0639\u0635\u0628 .\n\u2b50\u062d\u064a\u0627\u0643\u0645 \u0627\u0644\u0644\u0647 \u062c\u0645\u064a\u0639\u0627\u064b\n",
+                "customUrl": "@herokayar01",
+                "publishedAt": "2023-05-31T18:44:50.930409Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/iNymY590BqKLiMwDZaRx0L9_8Pd3h2Sm7nKVfwlYmRyCsJIFIdMbMPQsMljEKDpktT_KHxcyGw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/iNymY590BqKLiMwDZaRx0L9_8Pd3h2Sm7nKVfwlYmRyCsJIFIdMbMPQsMljEKDpktT_KHxcyGw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/iNymY590BqKLiMwDZaRx0L9_8Pd3h2Sm7nKVfwlYmRyCsJIFIdMbMPQsMljEKDpktT_KHxcyGw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "ar",
+                "localized": {
+                    "title": "HEROKAYAR",
+                    "description": "\ud83c\udfae\u0623\u0642\u062f\u0645 \u0645\u062d\u062a\u0648\u0649 \u0628\u0633\u064a\u0637 \u0648\u062e\u0641\u064a\u0641 \u0639\u0646 \u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0628\u062a\u062c\u0631\u0628\u062a\u064a \u0627\u0644\u062e\u0627\u0635\u0629\n \u0648\u0623\u062d\u0627\u0648\u0644 \u0642\u062f\u0631 \u0627\u0644\u0625\u0645\u0643\u0627\u0646 \u0623\u0643\u0648\u0646 \u0628\u0639\u064a\u062f \u0639\u0646 \u0627\u0644\u062a\u0635\u0646\u0651\u0639 \u0627\u0648 \u0627\u0644\u062a\u0639\u0635\u0628 .\n\u2b50\u062d\u064a\u0627\u0643\u0645 \u0627\u0644\u0644\u0647 \u062c\u0645\u064a\u0639\u0627\u064b\n"
+                },
+                "country": "TR"
+            },
+            "statistics": {
+                "viewCount": "1044943",
+                "subscriberCount": "3550",
+                "hiddenSubscriberCount": false,
+                "videoCount": "319"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "nZEO96b7uw_B2-SCCdsvYWRQGR4",
+            "id": "UCHqUb_awGVW1_nE_d0w0Ucw",
+            "snippet": {
+                "title": "xLaurenLandx",
+                "description": "\u2728Mostly FPS With A Hint Of Variety\u2728 | \ud83c\udfad Theatre Nerd | Sniper Queen \ud83d\udc51\n",
+                "customUrl": "@xlaurenlandx",
+                "publishedAt": "2007-02-13T20:43:47Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/A_e-UkKmnkaG0FRNa7PReVGOZumhzqHM2AGpQdKK6z0LwtglyexSDSGe0aqSqsVuUtv1FDkz5Zw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/A_e-UkKmnkaG0FRNa7PReVGOZumhzqHM2AGpQdKK6z0LwtglyexSDSGe0aqSqsVuUtv1FDkz5Zw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/A_e-UkKmnkaG0FRNa7PReVGOZumhzqHM2AGpQdKK6z0LwtglyexSDSGe0aqSqsVuUtv1FDkz5Zw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "xLaurenLandx",
+                    "description": "\u2728Mostly FPS With A Hint Of Variety\u2728 | \ud83c\udfad Theatre Nerd | Sniper Queen \ud83d\udc51\n"
+                }
+            },
+            "statistics": {
+                "viewCount": "221351",
+                "subscriberCount": "182",
+                "hiddenSubscriberCount": false,
+                "videoCount": "140"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "GiURekUtcU5IWuFcNPOyBLk5R70",
+            "id": "UCCu3tv9XDC11VaIgTdlwwxw",
+            "snippet": {
+                "title": "nL Clowzen",
+                "description": "La difference entre eux et moi, c\u2019est que je n\u2019ai pas le choix. #Numero1UnJourOuL\u2019Autre \ud83c\udfc6\n\nS.F.M\n\nFondateur de la NoLimits \u2b50\ufe0f\n\nMes Infos \ud83e\udd8b https://taplink.cc/clowzen\n",
+                "customUrl": "@clowzen",
+                "publishedAt": "2022-03-01T23:10:06.086982Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/m72cpYK-9doqjvt6VD7UPoBt_fmtU5YHpgblFeR8tKv-bZgz6ADqZ18nVtQrMn4MOLOkHjJVhQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/m72cpYK-9doqjvt6VD7UPoBt_fmtU5YHpgblFeR8tKv-bZgz6ADqZ18nVtQrMn4MOLOkHjJVhQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/m72cpYK-9doqjvt6VD7UPoBt_fmtU5YHpgblFeR8tKv-bZgz6ADqZ18nVtQrMn4MOLOkHjJVhQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "nL Clowzen",
+                    "description": "La difference entre eux et moi, c\u2019est que je n\u2019ai pas le choix. #Numero1UnJourOuL\u2019Autre \ud83c\udfc6\n\nS.F.M\n\nFondateur de la NoLimits \u2b50\ufe0f\n\nMes Infos \ud83e\udd8b https://taplink.cc/clowzen\n"
+                },
+                "country": "FR"
+            },
+            "statistics": {
+                "viewCount": "26998476",
+                "subscriberCount": "68900",
+                "hiddenSubscriberCount": false,
+                "videoCount": "763"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "8jbqepn8IEpCWBKJY53U3yLcxg4",
+            "id": "UCIK63JNuvtRqQHjARrm0QiQ",
+            "snippet": {
+                "title": "GettClutch",
+                "description": "Your Daily CS2 Lineups\n\n\u2022Socials:\nDiscord: https://discord.gg/d8xQQW9wkN\nInstagram: https://www.instagram.com/gett.clutch\nTwitch: https://www.twitch.tv/gettclutch\nTikTok: https://www.tiktok.com/@gettclutch\nAll Links: https://linktr.ee/gettclutch\n\nMy Config: https://github.com/GettClutch/CS2-Config\n\n\u2022Business Inquiries: GettClutch@gmail.com\n",
+                "customUrl": "@gettclutch",
+                "publishedAt": "2023-08-10T09:26:35.297978Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Mac7PKl2i3_N3PVN8vyC5qXUjei2D3mi7bkhRS2zCvhRFABYMiOtzSc_V5RPkhDTggkF7sdo=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Mac7PKl2i3_N3PVN8vyC5qXUjei2D3mi7bkhRS2zCvhRFABYMiOtzSc_V5RPkhDTggkF7sdo=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Mac7PKl2i3_N3PVN8vyC5qXUjei2D3mi7bkhRS2zCvhRFABYMiOtzSc_V5RPkhDTggkF7sdo=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "GettClutch",
+                    "description": "Your Daily CS2 Lineups\n\n\u2022Socials:\nDiscord: https://discord.gg/d8xQQW9wkN\nInstagram: https://www.instagram.com/gett.clutch\nTwitch: https://www.twitch.tv/gettclutch\nTikTok: https://www.tiktok.com/@gettclutch\nAll Links: https://linktr.ee/gettclutch\n\nMy Config: https://github.com/GettClutch/CS2-Config\n\n\u2022Business Inquiries: GettClutch@gmail.com\n"
+                }
+            },
+            "statistics": {
+                "viewCount": "11541282",
+                "subscriberCount": "3860",
+                "hiddenSubscriberCount": false,
+                "videoCount": "293"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "g9RtrcM_-Dymt26zPJpt5Ov2BYI",
+            "id": "UCE-Gc_WVNEnMpfKY_ejwabQ",
+            "snippet": {
+                "title": "Samantha Wilson",
+                "description": "",
+                "customUrl": "@samanthawilson-b4r",
+                "publishedAt": "2026-06-23T08:44:13.664247Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/DZcPSF-IfJhcYhvsUA7mR4AP9WRlstyP-CJpymV4OBnPulgQ4jbAb8L_zwpM41SYnGqUVWZhoA=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/DZcPSF-IfJhcYhvsUA7mR4AP9WRlstyP-CJpymV4OBnPulgQ4jbAb8L_zwpM41SYnGqUVWZhoA=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/DZcPSF-IfJhcYhvsUA7mR4AP9WRlstyP-CJpymV4OBnPulgQ4jbAb8L_zwpM41SYnGqUVWZhoA=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Samantha Wilson",
+                    "description": ""
+                }
+            },
+            "statistics": {
+                "viewCount": "0",
+                "subscriberCount": "0",
+                "hiddenSubscriberCount": false,
+                "videoCount": "6"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "oFVa4dCmdXHUbcaOQaVTo0bTlkg",
+            "id": "UCGY1zhMS-dW1BHnfNfQe5gA",
+            "snippet": {
+                "title": "Alvi",
+                "description": "Content Creator im Bereich Gaming.\n_\n\nImpressum\n\nMYI AG\nLieferadresse:\nMYI AG\nEinschlagweg 37b\n3400 Burgdorf\n\nRechnungsadresse:\nMYI AG\nElfenaustrasse 29\n3074 Muri b. Bern\n\nVAT-ID No: CHE-446.396.561\nCommercial Register Number: CH-036.4.067.226-8\ndaniel.homann@myi.de\n",
+                "customUrl": "@alvivb",
+                "publishedAt": "2014-10-19T15:19:00Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/zeFOX2fQPdI7aPkEKStcNBtkhg7gIaVSGfJNX_4RmbOEohRNdpqVJPwLTp_SN1v_e6R9dE7o=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/zeFOX2fQPdI7aPkEKStcNBtkhg7gIaVSGfJNX_4RmbOEohRNdpqVJPwLTp_SN1v_e6R9dE7o=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/zeFOX2fQPdI7aPkEKStcNBtkhg7gIaVSGfJNX_4RmbOEohRNdpqVJPwLTp_SN1v_e6R9dE7o=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Alvi",
+                    "description": "Content Creator im Bereich Gaming.\n_\n\nImpressum\n\nMYI AG\nLieferadresse:\nMYI AG\nEinschlagweg 37b\n3400 Burgdorf\n\nRechnungsadresse:\nMYI AG\nElfenaustrasse 29\n3074 Muri b. Bern\n\nVAT-ID No: CHE-446.396.561\nCommercial Register Number: CH-036.4.067.226-8\ndaniel.homann@myi.de\n"
+                },
+                "country": "DE"
+            },
+            "statistics": {
+                "viewCount": "462754042",
+                "subscriberCount": "721000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1868"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "tJXonkNYnCrn50eHUozuZmXjkB4",
+            "id": "UCDGLL2uk-oZCG6G5gRVAi6g",
+            "snippet": {
+                "title": "Liux",
+                "description": "DISCORD : https://discord.gg/4vT59tGztd\nSuscribete :3\n\n",
+                "customUrl": "@liux7",
+                "publishedAt": "2022-12-26T07:19:31.336685Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/LGNmk4z9l7wc_ALQQY1h1K3SNyZ3-3Kn4jXASwtKaZJHc1_6cUFirbrXwIgCf3BHoY2CGeob=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/LGNmk4z9l7wc_ALQQY1h1K3SNyZ3-3Kn4jXASwtKaZJHc1_6cUFirbrXwIgCf3BHoY2CGeob=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/LGNmk4z9l7wc_ALQQY1h1K3SNyZ3-3Kn4jXASwtKaZJHc1_6cUFirbrXwIgCf3BHoY2CGeob=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Liux",
+                    "description": "DISCORD : https://discord.gg/4vT59tGztd\nSuscribete :3\n\n"
+                },
+                "country": "HN"
+            },
+            "statistics": {
+                "viewCount": "389001675",
+                "subscriberCount": "374000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1033"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "4gA91mb_fhCaq6TP-YoWdimc5cg",
+            "id": "UCD0CYiRS9ARP9PY1ANgPdhw",
+            "snippet": {
+                "title": "LeapingCobra",
+                "description": "gaming out with friends playing different games like rocket league, axton td, marvel rivals, etc. ",
+                "customUrl": "@leapingcobra",
+                "publishedAt": "2021-07-10T03:25:52.445284Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ZCBoJPCBaa4taz7ZxEo9yeGXyybvvJijoW0klBKhdrPp9XtX1F6zaFvxQdFeeqrHh9ULAwSh=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ZCBoJPCBaa4taz7ZxEo9yeGXyybvvJijoW0klBKhdrPp9XtX1F6zaFvxQdFeeqrHh9ULAwSh=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ZCBoJPCBaa4taz7ZxEo9yeGXyybvvJijoW0klBKhdrPp9XtX1F6zaFvxQdFeeqrHh9ULAwSh=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "LeapingCobra",
+                    "description": "gaming out with friends playing different games like rocket league, axton td, marvel rivals, etc. "
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "83706",
+                "subscriberCount": "254",
+                "hiddenSubscriberCount": false,
+                "videoCount": "198"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "Y_cPi_-TwKrNzt0KFPIY67qLz30",
+            "id": "UCAjoGUDYfAwj6eTzfZ19Iqg",
+            "snippet": {
+                "title": "CAMSSY",
+                "description": "Nothing more than Average League player",
+                "customUrl": "@camssy-yt",
+                "publishedAt": "2023-11-06T12:51:50.696325Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/WMXV8cJJmMw1zMJCRYFf7hX5yWb0q9PmGujGSWWI_DucVsox2mf9qvcQilNUZOYDNFK3LhrrNQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/WMXV8cJJmMw1zMJCRYFf7hX5yWb0q9PmGujGSWWI_DucVsox2mf9qvcQilNUZOYDNFK3LhrrNQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/WMXV8cJJmMw1zMJCRYFf7hX5yWb0q9PmGujGSWWI_DucVsox2mf9qvcQilNUZOYDNFK3LhrrNQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "CAMSSY",
+                    "description": "Nothing more than Average League player"
+                }
+            },
+            "statistics": {
+                "viewCount": "2364520",
+                "subscriberCount": "150",
+                "hiddenSubscriberCount": false,
+                "videoCount": "953"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "S22D-zO2XddYTp460Xq9_b1_0YY",
+            "id": "UCGSO3Nhy1Av92o3Sp0tHDlA",
+            "snippet": {
+                "title": "AlanVerse Clips",
+                "description": "CANAL DE CORTES NAO OFICAL DO NOSSO TOP ONE!!\n\nBem-vindo(a) l! Aqui voc\u00ea encontra os melhores cortes das lives do Alanzoka, reunindo momentos engra\u00e7ados, sustos, rea\u00e7\u00f5es e gameplays. Novos Shorts todos os dias!!\n\nSe inscreva se voc\u00ea  gosta de  assistir o alinho todo o tempo!!\n",
+                "customUrl": "@alanverseclips",
+                "publishedAt": "2018-08-01T23:04:55Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/55DB1crS-XlCKzZbGYxHCYmccusz8jN1KaLBlBjkq2xx174oJlU7eJB9aXhi9iOyz4--KMzrl70=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/55DB1crS-XlCKzZbGYxHCYmccusz8jN1KaLBlBjkq2xx174oJlU7eJB9aXhi9iOyz4--KMzrl70=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/55DB1crS-XlCKzZbGYxHCYmccusz8jN1KaLBlBjkq2xx174oJlU7eJB9aXhi9iOyz4--KMzrl70=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "AlanVerse Clips",
+                    "description": "CANAL DE CORTES NAO OFICAL DO NOSSO TOP ONE!!\n\nBem-vindo(a) l! Aqui voc\u00ea encontra os melhores cortes das lives do Alanzoka, reunindo momentos engra\u00e7ados, sustos, rea\u00e7\u00f5es e gameplays. Novos Shorts todos os dias!!\n\nSe inscreva se voc\u00ea  gosta de  assistir o alinho todo o tempo!!\n"
+                },
+                "country": "BR"
+            },
+            "statistics": {
+                "viewCount": "59431",
+                "subscriberCount": "24",
+                "hiddenSubscriberCount": false,
+                "videoCount": "12"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "0LIhCuJOZUgJ71S2NuYRFI0Sftg",
+            "id": "UCCUxGe-BJ4W8xCRwSFVzUog",
+            "snippet": {
+                "title": "Archous",
+                "description": "Use Code Archous\nSecond Channel - @archousplays\n\nArchousfn@gmail.com",
+                "customUrl": "@archouss",
+                "publishedAt": "2016-07-04T20:25:49Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/58Tn63KkhI6YBesV9tzpkuEfjshVBLeuosQK4vz40F_ZgLyMeO1ThZsH1CU6O22H7e_Cgo02MQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/58Tn63KkhI6YBesV9tzpkuEfjshVBLeuosQK4vz40F_ZgLyMeO1ThZsH1CU6O22H7e_Cgo02MQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/58Tn63KkhI6YBesV9tzpkuEfjshVBLeuosQK4vz40F_ZgLyMeO1ThZsH1CU6O22H7e_Cgo02MQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Archous",
+                    "description": "Use Code Archous\nSecond Channel - @archousplays\n\nArchousfn@gmail.com"
+                },
+                "country": "US"
+            },
+            "statistics": {
+                "viewCount": "299341874",
+                "subscriberCount": "304000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "932"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "kzGZY3wF9kRoQiaNtkQPccEOTYM",
+            "id": "UCDnVo_35vewJG47ZMIMi_kw",
+            "snippet": {
+                "title": "Nenn",
+                "description": "Marvel Rivals analysis, discussions, critiques and more in order to push the community and game forward for the better! stay tuned : )",
+                "customUrl": "@nennbbs",
+                "publishedAt": "2024-01-16T16:47:05.392947Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/jaK0kDEvL_rZJkFXen4vR8rZb6NWh690nsJ_Bnwp-1M57oU2uWjz8S78tm_HCCkFlzf7s4q4=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/jaK0kDEvL_rZJkFXen4vR8rZb6NWh690nsJ_Bnwp-1M57oU2uWjz8S78tm_HCCkFlzf7s4q4=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/jaK0kDEvL_rZJkFXen4vR8rZb6NWh690nsJ_Bnwp-1M57oU2uWjz8S78tm_HCCkFlzf7s4q4=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Nenn",
+                    "description": "Marvel Rivals analysis, discussions, critiques and more in order to push the community and game forward for the better! stay tuned : )"
+                }
+            },
+            "statistics": {
+                "viewCount": "2144718",
+                "subscriberCount": "7300",
+                "hiddenSubscriberCount": false,
+                "videoCount": "173"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "Gc33qCcd32fRK0QaWZ5qeiehLm4",
+            "id": "UCCZPnTT5zxqQViT8jEgYh6w",
+            "snippet": {
+                "title": "Protegod",
+                "description": "Bienvenidos al mejor canal para SOPORTES de habla HISPANA :)",
+                "customUrl": "@protegod",
+                "publishedAt": "2018-03-23T05:31:06Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/t3140DO8lZGWx4rBA-UsO_4uaz2wzEIMUmVebGYsAZ6CM5EQg2DWZH1wlPooRYb4_z87U3N8=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/t3140DO8lZGWx4rBA-UsO_4uaz2wzEIMUmVebGYsAZ6CM5EQg2DWZH1wlPooRYb4_z87U3N8=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/t3140DO8lZGWx4rBA-UsO_4uaz2wzEIMUmVebGYsAZ6CM5EQg2DWZH1wlPooRYb4_z87U3N8=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Protegod",
+                    "description": "Bienvenidos al mejor canal para SOPORTES de habla HISPANA :)"
+                },
+                "country": "ES"
+            },
+            "statistics": {
+                "viewCount": "27004571",
+                "subscriberCount": "28500",
+                "hiddenSubscriberCount": false,
+                "videoCount": "759"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "nUr3SO__2Pgp1cl1dYdKlaanJxM",
+            "id": "UCBKnI4lCzZvBSmar8ldMf8Q",
+            "snippet": {
+                "title": "\u3042\u3086\u3080\u3010\u3042\u3086\u3080\u306e\u79d8\u5bc6\u57fa\u5730\u3011",
+                "description": "\u3042\u3086\u3080\u306e\u79d8\u5bc6\u57fa\u5730\n\n\u306f\u3044\u3001\u3069\u3046\u3082\u3042\u3086\u3080\u3067\u3059\u3002\n\u30b2\u30fc\u30e0\u52d5\u753b\u30e1\u30a4\u30f3\u3067\u6295\u7a3f\u3057\u3066\u3044\u307e\u3059\uff01\uff01\n\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u3001\u9ad8\u8a55\u4fa1\u3001\u30b3\u30e1\u30f3\u30c8\u3001\n\u30c4\u30a4\u30c3\u30bf\u30fc\u3001\u30a4\u30f3\u30b9\u30bf\u30b0\u30e9\u30e0\u3001TikTok\u306e\u30d5\u30a9\u30ed\u30fc\n\u305c\u3072\u304a\u9858\u3044\u3057\u307e\u3059\uff01\uff01\n",
+                "customUrl": "@\u30a2\u30e6\u30e0\u306e\u79d8\u5bc6\u57fa\u5730",
+                "publishedAt": "2014-08-10T04:43:19Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/4YKigdimUwbPKbwYfRRvtJjhzAhJw8a_BJCsc5dacap8lti1cFFjERg1clAHNdZwfgOtbH5SWg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/4YKigdimUwbPKbwYfRRvtJjhzAhJw8a_BJCsc5dacap8lti1cFFjERg1clAHNdZwfgOtbH5SWg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/4YKigdimUwbPKbwYfRRvtJjhzAhJw8a_BJCsc5dacap8lti1cFFjERg1clAHNdZwfgOtbH5SWg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "\u3042\u3086\u3080\u3010\u3042\u3086\u3080\u306e\u79d8\u5bc6\u57fa\u5730\u3011",
+                    "description": "\u3042\u3086\u3080\u306e\u79d8\u5bc6\u57fa\u5730\n\n\u306f\u3044\u3001\u3069\u3046\u3082\u3042\u3086\u3080\u3067\u3059\u3002\n\u30b2\u30fc\u30e0\u52d5\u753b\u30e1\u30a4\u30f3\u3067\u6295\u7a3f\u3057\u3066\u3044\u307e\u3059\uff01\uff01\n\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u3001\u9ad8\u8a55\u4fa1\u3001\u30b3\u30e1\u30f3\u30c8\u3001\n\u30c4\u30a4\u30c3\u30bf\u30fc\u3001\u30a4\u30f3\u30b9\u30bf\u30b0\u30e9\u30e0\u3001TikTok\u306e\u30d5\u30a9\u30ed\u30fc\n\u305c\u3072\u304a\u9858\u3044\u3057\u307e\u3059\uff01\uff01\n"
+                },
+                "country": "JP"
+            },
+            "statistics": {
+                "viewCount": "19187652",
+                "subscriberCount": "6470",
+                "hiddenSubscriberCount": false,
+                "videoCount": "4395"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "91shiRK_bfLmtWjDDd02oyoJZk0",
+            "id": "UCBU31wAwwkT92O7mXAD4TWQ",
+            "snippet": {
+                "title": "Oblivity",
+                "description": "Oblivity is a peak performance tool for FPS players that determines the perfect, intuitive mouse sensitivity based on your mouse movement data and your preferences.\n\n",
+                "customUrl": "@oblivityofficial",
+                "publishedAt": "2018-11-27T14:06:43Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/IVj4UqfcKg5SW2ZviCv_QszAeq7kyHEntuFAC45_mocT1a7RDFR7QPHGgda4qVGDiOMCkNArmws=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/IVj4UqfcKg5SW2ZviCv_QszAeq7kyHEntuFAC45_mocT1a7RDFR7QPHGgda4qVGDiOMCkNArmws=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/IVj4UqfcKg5SW2ZviCv_QszAeq7kyHEntuFAC45_mocT1a7RDFR7QPHGgda4qVGDiOMCkNArmws=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Oblivity",
+                    "description": "Oblivity is a peak performance tool for FPS players that determines the perfect, intuitive mouse sensitivity based on your mouse movement data and your preferences.\n\n"
+                }
+            },
+            "statistics": {
+                "viewCount": "26952812",
+                "subscriberCount": "43100",
+                "hiddenSubscriberCount": false,
+                "videoCount": "217"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "mZUlfIHFKQxrcFlnY94FgxY7N2k",
+            "id": "UCISWk92AMJLF59sb8bbR67g",
+            "snippet": {
+                "title": "\u30f4\u30a1\u30f4\u30a1\u30f4\u30a1\u3010VALORANT CLIP\u3011",
+                "description": "",
+                "customUrl": "@vavavaclip",
+                "publishedAt": "2020-07-25T11:57:50.690995Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/H2fkBcemlFeo3YCz5u7PD70fb2O5cxOJYgLBc0R8u2yup9JaS2g48sUYkKIZJUblVHL7ehibQQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/H2fkBcemlFeo3YCz5u7PD70fb2O5cxOJYgLBc0R8u2yup9JaS2g48sUYkKIZJUblVHL7ehibQQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/H2fkBcemlFeo3YCz5u7PD70fb2O5cxOJYgLBc0R8u2yup9JaS2g48sUYkKIZJUblVHL7ehibQQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "\u30f4\u30a1\u30f4\u30a1\u30f4\u30a1\u3010VALORANT CLIP\u3011",
+                    "description": ""
+                },
+                "country": "JP"
+            },
+            "statistics": {
+                "viewCount": "261059799",
+                "subscriberCount": "21100",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1715"
+            }
+        }
+    ]
+}

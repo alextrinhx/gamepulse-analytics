@@ -1,5 +1,6 @@
 import os
 from pathlib import Path
+
 import pandas as pd
 import psycopg2
 from dotenv import load_dotenv
@@ -7,7 +8,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parents[1]
-YOUTUBE_CSV = BASE_DIR / "data" / "processed" / "youtube" / "youtube_videos.csv"
+YOUTUBE_VIDEO_CSV = BASE_DIR / "data" / "processed" / "youtube" / "youtube_videos.csv"
+YOUTUBE_CREATOR_CSV = BASE_DIR / "data" / "processed" / "youtube" / "youtube_creators.csv"
 
 
 def get_connection():
@@ -49,10 +51,29 @@ def get_or_create_id(cursor, table, id_col, lookup_col, lookup_value, extra_cols
     return cursor.fetchone()[0]
 
 
+def load_creator_lookup():
+    creators_df = pd.read_csv(YOUTUBE_CREATOR_CSV)
+
+    creators_df["channel_published_at"] = pd.to_datetime(
+        creators_df["channel_published_at"],
+        errors="coerce"
+    )
+
+    creators_df["channel_published_at"] = creators_df["channel_published_at"].astype(object)
+    creators_df.loc[
+        creators_df["channel_published_at"].isna(),
+        "channel_published_at"
+    ] = None
+
+    return creators_df.set_index("channel_id").to_dict(orient="index")
+
+
 def load_youtube_data():
-    df = pd.read_csv(YOUTUBE_CSV)
-    df["published_at"] = pd.to_datetime(df["published_at"])
-    df["published_date"] = df["published_at"].dt.date
+    videos_df = pd.read_csv(YOUTUBE_VIDEO_CSV)
+    creator_lookup = load_creator_lookup()
+
+    videos_df["published_at"] = pd.to_datetime(videos_df["published_at"])
+    videos_df["published_date"] = videos_df["published_at"].dt.date
 
     conn = get_connection()
     cursor = conn.cursor()
@@ -65,7 +86,7 @@ def load_youtube_data():
         lookup_value="YouTube"
     )
 
-    for _, row in df.iterrows():
+    for _, row in videos_df.iterrows():
         game_id = get_or_create_id(
             cursor,
             table="dim_game",
@@ -73,6 +94,8 @@ def load_youtube_data():
             lookup_col="game_name",
             lookup_value=row["game"]
         )
+
+        creator_data = creator_lookup.get(row["channel_id"], {})
 
         cursor.execute(
             """
@@ -86,18 +109,51 @@ def load_youtube_data():
 
         if creator:
             creator_id = creator[0]
+
+            cursor.execute(
+                """
+                UPDATE dim_creator
+                SET
+                    creator_name = %s,
+                    subscriber_count = %s,
+                    channel_view_count = %s,
+                    channel_video_count = %s,
+                    channel_created_at = %s
+                WHERE creator_id = %s
+                """,
+                (
+                    creator_data.get("channel_title", row["channel_title"]),
+                    creator_data.get("subscriber_count"),
+                    creator_data.get("channel_view_count"),
+                    creator_data.get("channel_video_count"),
+                    creator_data.get("channel_published_at"),
+                    creator_id
+                )
+            )
         else:
             cursor.execute(
                 """
                 INSERT INTO dim_creator (
                     creator_name,
                     platform_id,
-                    external_creator_id
+                    external_creator_id,
+                    subscriber_count,
+                    channel_view_count,
+                    channel_video_count,
+                    channel_created_at
                 )
-                VALUES (%s, %s, %s)
+                VALUES (%s, %s, %s, %s, %s, %s, %s)
                 RETURNING creator_id
                 """,
-                (row["channel_title"], platform_id, row["channel_id"])
+                (
+                    creator_data.get("channel_title", row["channel_title"]),
+                    platform_id,
+                    row["channel_id"],
+                    creator_data.get("subscriber_count"),
+                    creator_data.get("channel_view_count"),
+                    creator_data.get("channel_video_count"),
+                    creator_data.get("channel_published_at"),
+                )
             )
             creator_id = cursor.fetchone()[0]
 
@@ -183,7 +239,7 @@ def load_youtube_data():
     cursor.close()
     conn.close()
 
-    print(f"Loaded {len(df)} YouTube records into PostgreSQL.")
+    print(f"Loaded {len(videos_df)} YouTube records into PostgreSQL.")
 
 
 if __name__ == "__main__":

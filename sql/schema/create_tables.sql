@@ -1,3 +1,10 @@
+DROP VIEW IF EXISTS vw_game_opportunity;
+DROP VIEW IF EXISTS vw_platform_summary;
+DROP VIEW IF EXISTS vw_creator_performance;
+DROP VIEW IF EXISTS vw_creator_summary;
+DROP VIEW IF EXISTS vw_game_performance;
+DROP VIEW IF EXISTS vw_game_summary;
+
 DROP TABLE IF EXISTS fact_content;
 DROP TABLE IF EXISTS dim_date;
 DROP TABLE IF EXISTS dim_creator;
@@ -18,7 +25,13 @@ CREATE TABLE dim_creator (
     creator_id SERIAL PRIMARY KEY,
     creator_name TEXT NOT NULL,
     platform_id INT REFERENCES dim_platform(platform_id),
-    external_creator_id TEXT,
+    external_creator_id TEXT NOT NULL,
+
+    subscriber_count BIGINT,
+    channel_view_count BIGINT,
+    channel_video_count BIGINT,
+    channel_created_at TIMESTAMP,
+
     UNIQUE(platform_id, external_creator_id)
 );
 

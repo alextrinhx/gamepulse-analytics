@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "hweu5_D-OgCUtQo1T1uRMudcwT0",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UOcYAiTRxE9ETSL_oNFEwju0a0E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Stwe0BYYMso"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:38:13Z",
+                "channelId": "UCioKD98eakiGv9DZwmjR08A",
+                "title": "\ud83d\udd34*FORTNITE* SPRITE GIVEAWAY TO SUBSCRIBERS *NEW SPRITES TOMORROW*",
+                "description": "I Just Play Fortnite Twin #fortnite.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Stwe0BYYMso/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Stwe0BYYMso/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Stwe0BYYMso/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RellLive",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-25T03:38:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dj9GBlR02erpbHqUx3W-hkgiNjU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KPKCDbaBjaQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T00:57:11Z",
+                "channelId": "UCl5cp-JxSQAjnAXzk7crbGg",
+                "title": "This Is Why NickEh30 Is the Nicest Streamer! \ud83d\ude2d #fortnite #shorts",
+                "description": "This Is Why NickEh30 Is the Nicest Streamer! #abstics #fortniteclips #trending.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KPKCDbaBjaQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KPKCDbaBjaQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KPKCDbaBjaQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Abstics",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T00:57:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tI-M3WeYajbTsoRIIWCvElTK2NM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EolR5DJIYOo"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T00:53:36Z",
+                "channelId": "UC2wKfjlioOCLP4xQMOWNcgg",
+                "title": "\ud83d\udd34 LIVE! - NEW DUO?! WINNING the SUPERGIRL CUP in FORTNITE! (Free Skin Early)",
+                "description": "New Supergirl tournament in Chapter 7, Season 3 in Fortnite Battle Royale with Typical Gamer. Use code TYPICALGAMER in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EolR5DJIYOo/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EolR5DJIYOo/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EolR5DJIYOo/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Typical Gamer",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-25T00:53:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FsWJUEBcJNIgT21hfYOw6HhOcxw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bVYh6Y5qPJ8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T00:30:06Z",
+                "channelId": "UCkGqwURQz9EW5zO1ieTsYuw",
+                "title": "Bro believed I was one HP \ud83d\ude2d\ud83d\udc80 #fortnite #fortniteclips",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bVYh6Y5qPJ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bVYh6Y5qPJ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bVYh6Y5qPJ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SmashFN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T00:30:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y6Ulm2GRdGvx32WCkDhd4ROSSdc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MKCbXblcB_Q"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:10:34Z",
+                "channelId": "UC8VKBYkfZHx1-jBFQ8wrOLQ",
+                "title": "Stealing the *RAREST* Sprite in Fortnite\u2026",
+                "description": "biphilus30 #fortnite #ogfortnite #fortniteclips #gaming #sniperclips #fortnitememes #fortnitenews.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MKCbXblcB_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MKCbXblcB_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MKCbXblcB_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Biphilus30",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:10:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "n4aR5YdynykPmEMejs_kFmgCTck",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "54WoqXXli-Q"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:37:14Z",
+                "channelId": "UC3yHtryql8S7y2jukpFsZSg",
+                "title": "Fortnite&#39;s NEW *MYTHICS* are INSANE",
+                "description": "With the recent update of all bosses dropping mythics and the Burnt Peanut Sprite, Fortnite's got some WAY crazier mythics this ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/54WoqXXli-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/54WoqXXli-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/54WoqXXli-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tomato - Fortnite",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:37:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XbD8ucqScfCfHtnv8AMhbPWMkUo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lfC-ShmsxqI"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:22:18Z",
+                "channelId": "UCQD2pMoMY-pj0nSJ-r1F7Ug",
+                "title": "Fortnite X JJK Season 4 \ud83d\udd25\ud83d\udc80",
+                "description": "edit #fortnite #fortniteclips #funk #simpsons #fortnitesimpsons #thesimpsons #fortnitebattleroyale #fortniteedit #animeedit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lfC-ShmsxqI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lfC-ShmsxqI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lfC-ShmsxqI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Peeker",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:22:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GiCZ81HITOcsgtQMsUPo4vud1a4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QBO1VlMFR1Y"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:15:15Z",
+                "channelId": "UC_q5WZtFp36adwqhKpZzxwQ",
+                "title": "Fortnite is actually doing it.",
+                "description": "Fortnite C7 Season 3 is shaping up to be a pivotal moment in Fortnite history, and it's mostly thanks to 1 thing... Sprites. If Epic can ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QBO1VlMFR1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QBO1VlMFR1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QBO1VlMFR1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SypherPK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:15:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fD58pV-Sl08WryFKc4K3AotLOlE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lTSSAsAoj4A"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T17:55:41Z",
+                "channelId": "UCIBcR0GsS3lEC1ythGB06QA",
+                "title": "Fortnite Made ME A Sprite! \ud83d\ude01",
+                "description": "Fortnite Made ME A Sprite! Use Code \"Crackly\" in the Item Shop to support me! #EpicPartner   LIVE Everyday on Twitch: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lTSSAsAoj4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lTSSAsAoj4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lTSSAsAoj4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crackly",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T17:55:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-6zXnIg0Vw6HbjX6iuHPljC3HXk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rY_6TFWOK5I"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T17:00:23Z",
+                "channelId": "UC_2f_XYSFVda64R3DmiYGeQ",
+                "title": "CHASSE AUX ESPRITS RARES sur Fortnite ?! (Ft. Enzo)",
+                "description": "Salutations ! On se retrouve pour une vid\u00e9o o\u00f9 on va faire une course aux esprits avec Enzo o\u00f9 celui qui aura le plus de points ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rY_6TFWOK5I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rY_6TFWOK5I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rY_6TFWOK5I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SlydiZz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T17:00:23Z"
+            }
+        }
+    ]
+}

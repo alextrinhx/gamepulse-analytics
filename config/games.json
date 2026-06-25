@@ -1,0 +1,34 @@
+[
+  {
+    "game_name": "Valorant",
+    "youtube_query": "Valorant"
+  },
+  {
+    "game_name": "Fortnite",
+    "youtube_query": "Fortnite"
+  },
+  {
+    "game_name": "Marvel Rivals",
+    "youtube_query": "\"Marvel Rivals\""
+  },
+  {
+    "game_name": "League of Legends",
+    "youtube_query": "\"League of Legends\""
+  },
+  {
+    "game_name": "Rocket League",
+    "youtube_query": "\"Rocket League\""
+  },
+  {
+    "game_name": "Counter-Strike 2",
+    "youtube_query": "\"Counter-Strike 2\" OR CS2"
+  },
+  {
+    "game_name": "Apex Legends",
+    "youtube_query": "\"Apex Legends\""
+  },
+  {
+    "game_name": "Minecraft",
+    "youtube_query": "Minecraft"
+  }
+]

@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "-X1Lx0OKYYcSUZVr8_HGZo2XIzU",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "akVAVUXxx20G4qRexYul549M4gU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8ez6atDWH2M"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:00:22Z",
+                "channelId": "UCz2L5j6RAa47s22OPQoBRIw",
+                "title": "\u3010League of Legends shorts\u3011\u30b5\u30dd\u72d9\u3063\u3066\u30a8\u30ba\u304c\u6ed1\u308a\u8fbc\u3093\u3067\u304d\u305f\u3060\u3051\u3084\u3051\u3069\u30ef\u30fc\u30b9\u3067\uff57 #\u4ec1\u5e0c\u629c #lol #\u30ca\u30df #leagueoflegends",
+                "description": "\u3010League of Legends shorts\u3011\u518d\u751f\u30ea\u30b9\u30c8\u2193 \u3014 https://x.gd/4qKrT \u3015 -----Game Information----- \uff0a\u30bf\u30a4\u30c8\u30eb: League of Legends ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8ez6atDWH2M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8ez6atDWH2M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8ez6atDWH2M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u4ec1\u5e0c \u306a\u306a\u304e\u3010uber\u3011\u9854\u51fa\u3057Vtuber",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T03:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "13GVs5W1zGH4RY0NdSeVXYgJw8k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jiTi27zSl5M"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:00:39Z",
+                "channelId": "UCROmFpLvs0qu45LPFcy5jEw",
+                "title": "LEAGUE OF LEGENDS PERO EN LA VIDA REAL &quot;EL ADC FLAMEA SUPP DIFF Y TIRA SURRENDER&quot; - MEMES",
+                "description": "LEAGUE OF LEGENDS PERO EN LA VIDA REAL \"EL ADC FLAMEA SUPP DIFF Y TIRA SURRENDER\" - MEMES ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jiTi27zSl5M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jiTi27zSl5M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jiTi27zSl5M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GORDO LOLERO ARGENTINO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T03:00:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2JZ4UgXRl2jK4zL9Y8QigmD6V8A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L86fs-WhOHU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:17:28Z",
+                "channelId": "UCiWo6CnFYMlfHltx9MaGf4Q",
+                "title": "JUGADOR DE LEAGUE OF LEGENDS PRODIGIO",
+                "description": "JUGADOR DE LEAGUE OF LEGENDS PRODIGIO.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L86fs-WhOHU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L86fs-WhOHU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L86fs-WhOHU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jonnijuro",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T02:17:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4UGiSJ1W_HagHRVUH_AYaxldDz4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7D_k7Bb4dns"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:11:05Z",
+                "channelId": "UCn2yH7MlPrhA5cZ0y7lOK4A",
+                "title": "\u2728 Lux Support Carry?! | League of Legends Shorts",
+                "description": "Landing roots, shielding teammates, and firing lasers across the Rift \u2728 A good Lux can change the whole game.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7D_k7Bb4dns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7D_k7Bb4dns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7D_k7Bb4dns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "oojade",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T02:11:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HXw5SCME-uGaYHne3zkzGaynJmo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uMe9Y78jTHQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T01:50:05Z",
+                "channelId": "UCOysemLmg1jUvYc7-yGlNuA",
+                "title": "RANK 1 CLIMB | START RANK 5",
+                "description": "Accounts: Main: https://www.deeplol.gg/summoner/euw/Agurin-DND Smurf: https://www.deeplol.gg/summoner/euw/Bgurin-4000 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uMe9Y78jTHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uMe9Y78jTHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uMe9Y78jTHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Agurin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T01:50:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FATRS6PsnENfupNc4ZlyNjZYRQc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bPTfCAJeaEk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T01:34:37Z",
+                "channelId": "UCkQxEhQUhUMwPfLBHeuKVaQ",
+                "title": "Early Start to Day 11 | League Of Legends",
+                "description": "Like and Sub!!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bPTfCAJeaEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bPTfCAJeaEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bPTfCAJeaEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Talon",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T01:34:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lA4DK5U385n0SnC4nfD2AnSgAgU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "utuao5DBCz0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T01:00:36Z",
+                "channelId": "UCDq_zu9EUNuF5Rn8Zye8RNQ",
+                "title": "Fiora vs Darius - League Of Legends #shorts",
+                "description": "LeagueOfLegends #LoL #Czokled #shorts #\ub9ac\uadf8\uc624\ube0c\ub808\uc804\ub4dc #zedmontage #oneshot #zed #new #newseason.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/utuao5DBCz0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/utuao5DBCz0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/utuao5DBCz0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Krutobok",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T01:00:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y1F0a-_0P02KPAegR9pYveNGCQI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oPzMhPDcS64"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T23:54:06Z",
+                "channelId": "UCCZPnTT5zxqQViT8jEgYh6w",
+                "title": "\u00daltimas NOVEDADES en League of LEGENDS #Leagueoflegends #lol #support",
+                "description": "HAGO STREAM TODOS LOS D\u00cdAS EN: \u25bb Twitch - https://www.twitch.tv/Protegod Pasaros y aprendamos juntos a ser mejores ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oPzMhPDcS64/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oPzMhPDcS64/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oPzMhPDcS64/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Protegod",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T23:54:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gsJ-aT44TLQB7sfEFA-uLQmBJAA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RBOb_K6_cj4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:45:08Z",
+                "channelId": "UCRPONVCyW-jVNWEeuJmXJwA",
+                "title": "League Of Legends in en dengeli \u015fampiyonu Mundo #reels #leagueoflegends #ke\u015ffet",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RBOb_K6_cj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RBOb_K6_cj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RBOb_K6_cj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GB_SHADOW",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:45:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rZyK3b8CxSsyCCOw2ypQiIsePl8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9WjJCkvBPew"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:34:15Z",
+                "channelId": "UC8lhlpzdh0t72-LITVjtNog",
+                "title": "locke Explained in 60 Seconds  League of Legends Basics (A\u2013Z Series) #newchamp #leagueoflegends",
+                "description": "Zyra \u2014 League of Legends (A\u2013Z Series) In this short video, I explain the basics of Zyra \u2014 their abilities, role, and a few quick tips ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9WjJCkvBPew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9WjJCkvBPew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9WjJCkvBPew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TouTTo NaRouTTo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:34:15Z"
+            }
+        }
+    ]
+}

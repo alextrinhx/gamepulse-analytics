@@ -1,0 +1,725 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "diLX70oppfmHC8Vud8f4soS_Bqw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "taDtGp7-KouIYBg3M2jvRbIoiSQ",
+            "id": "dWbC_qp8FPs",
+            "snippet": {
+                "publishedAt": "2026-06-25T03:22:04Z",
+                "channelId": "UCOri0zqQh1uPwSOE2Pih9KQ",
+                "title": "New Music Spray #valorant #summit",
+                "description": "LIKE AND SUBSCRIBE - New valorant capsule the Matchday Capsule showcase. What does Matchday spray do? Matchday music spray valorant \n\n#urnot \n\nMiss ya Autumn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dWbC_qp8FPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dWbC_qp8FPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dWbC_qp8FPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dWbC_qp8FPs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dWbC_qp8FPs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "urnotjustin",
+                "tags": [
+                    "urnotjustin",
+                    "urnot",
+                    "yourenotjustin",
+                    "valorant",
+                    "showcase",
+                    "reveal",
+                    "whats new on valorant",
+                    "new valorant bundle",
+                    "matchday flex valorant",
+                    "matchday Flex showcase valorant",
+                    "matchday Flex price valorant",
+                    "price",
+                    "cost",
+                    "vp",
+                    "matchday Flex valorant",
+                    "matchday flex",
+                    "new flex valorant",
+                    "matchday Flex spam inspect",
+                    "spam inspect",
+                    "spam inspect animation",
+                    "new flex inspect",
+                    "in game",
+                    "easter egg",
+                    "secret",
+                    "all animations",
+                    "matchday",
+                    "flex",
+                    "battle pass",
+                    "new",
+                    "animations",
+                    "matchday spray",
+                    "valorant music sprays",
+                    "music",
+                    "ost"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "New Music Spray #valorant #summit",
+                    "description": "LIKE AND SUBSCRIBE - New valorant capsule the Matchday Capsule showcase. What does Matchday spray do? Matchday music spray valorant \n\n#urnot \n\nMiss ya Autumn"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3361",
+                "likeCount": "108",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "p4UVCJoGe-NRyw6wsWf4PZ3p6ao",
+            "id": "WnzBnaHxMho",
+            "snippet": {
+                "publishedAt": "2026-06-25T03:10:52Z",
+                "channelId": "UCqJGxuaHaSHJnXK8Y5V5YSQ",
+                "title": "The BEST Viper Orb for Split   B Attack #valorant #valoranttips #valorantviper #ghostvalorant",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "adrsh12",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The BEST Viper Orb for Split   B Attack #valorant #valoranttips #valorantviper #ghostvalorant",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "432",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "yClzXvWaw_1FXmbKB-dZSiBgoC8",
+            "id": "39ELGgXqvk0",
+            "snippet": {
+                "publishedAt": "2026-06-25T03:00:15Z",
+                "channelId": "UCjOtzpfj5lF9erwTEQYkxtQ",
+                "title": "\ucd08\ud2b9\uae09 \ubc1c\ub85c\ub780\ud2b8 \ubbf8\ub140 \ub4f1\uc7a5\u314b\u314b\u314b\u314b",
+                "description": "\ud83d\udcac Please use YouTube\u2019s auto-translate feature to watch in English!\ud83d\udcac \n\n[\ud32c\uce74\ud398] https://cafe.naver.com/t3xture\n[\uc0dd\ubc29\uc1a1] https://www.sooplive.co.kr/t3xturekr\n\n\uc2a4\ud2b8\ub9ac\ubc0d \ub0a0\uc9dc \u2714 2026\ub144 06\uc6d4 22\uc77c \n\ub2e4\uc2dc\ubcf4\uae30 \ucc44\ub110 \u2714 https://www.youtube.com/@t3xture_full\n\ud14d\uc2a4\uccd0 \uc138\ud305  \u2714 \uac10\ub3c4: 800 0.45 / \ud574\uc0c1\ub3c4 1920X1080 / \uc870\uc900\uc120 \uc548\ucabd\uc120 1/3/2/2\n\uc138\ud305 (\uc790\uc138\ud788\ubcf4\uae30) \u2714 https://ch.sooplive.co.kr/t3xturekr/post/139059295\n\n#\ubc1c\ub85c\ub780\ud2b8 #\ubc1c\ub85c\ub780\ud2b8 #valorant \n\n \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839 \n\ud83c\udfb5Track : Une Petite Dispute - https://www.youtube.com/watch?v=NWITLjXsBj4\n\ud83c\udfb5Track : \ucc38\ub098 \uc5b4\uc774\uac00\uc5c6\uc5b4\uc11c - https://www.youtube.com/watch?v=sjMoahChxZo\n\ud83c\udfb5Track : \uccc7\ubc14\ud034 \uc778\uc0dd - https://www.youtube.com/watch?v=jpo3kYQpTZs\n\ud83c\udfb5Track : I WANNA BE A ROCKSTAR - https://www.youtube.com/watch?v=ol7L7gNWfes\n\ud83c\udfb5Track : \ud584\uc2a4\ud130\uc758 \ubaa8\ud5d8 - https://www.youtube.com/watch?v=xfFzi-ryDVQ\n\ud83c\udfb5Track : Piggy Cake - https://www.youtube.com/watch?v=BOsYmetTil0\n \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/39ELGgXqvk0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/39ELGgXqvk0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/39ELGgXqvk0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/39ELGgXqvk0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/39ELGgXqvk0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "t3xture \ud14d\uc2a4\uccd0 ",
+                "tags": [
+                    "\ubc1c\ub85c\ub780\ud2b8 \ud14d\uc2a4\uccd0",
+                    "\ubc1c\ub85c\ub780\ud2b8 \ud504\ub85c\uac8c\uc774\uba38",
+                    "\ubc1c\ub85c\ub780\ud2b8 \ucc9c\uc0c1\uacc4",
+                    "\ub808\ub514\uc5b8\ud2b8",
+                    "\ubc1c\ub85c\ub780\ud2b8 \ub300\ud68c"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "\ucd08\ud2b9\uae09 \ubc1c\ub85c\ub780\ud2b8 \ubbf8\ub140 \ub4f1\uc7a5\u314b\u314b\u314b\u314b",
+                    "description": "\ud83d\udcac Please use YouTube\u2019s auto-translate feature to watch in English!\ud83d\udcac \n\n[\ud32c\uce74\ud398] https://cafe.naver.com/t3xture\n[\uc0dd\ubc29\uc1a1] https://www.sooplive.co.kr/t3xturekr\n\n\uc2a4\ud2b8\ub9ac\ubc0d \ub0a0\uc9dc \u2714 2026\ub144 06\uc6d4 22\uc77c \n\ub2e4\uc2dc\ubcf4\uae30 \ucc44\ub110 \u2714 https://www.youtube.com/@t3xture_full\n\ud14d\uc2a4\uccd0 \uc138\ud305  \u2714 \uac10\ub3c4: 800 0.45 / \ud574\uc0c1\ub3c4 1920X1080 / \uc870\uc900\uc120 \uc548\ucabd\uc120 1/3/2/2\n\uc138\ud305 (\uc790\uc138\ud788\ubcf4\uae30) \u2714 https://ch.sooplive.co.kr/t3xturekr/post/139059295\n\n#\ubc1c\ub85c\ub780\ud2b8 #\ubc1c\ub85c\ub780\ud2b8 #valorant \n\n \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\ud83c\udfb5Music provided by \ube0c\uae08\ub300\ud1b5\ub839 \n\ud83c\udfb5Track : Une Petite Dispute - https://www.youtube.com/watch?v=NWITLjXsBj4\n\ud83c\udfb5Track : \ucc38\ub098 \uc5b4\uc774\uac00\uc5c6\uc5b4\uc11c - https://www.youtube.com/watch?v=sjMoahChxZo\n\ud83c\udfb5Track : \uccc7\ubc14\ud034 \uc778\uc0dd - https://www.youtube.com/watch?v=jpo3kYQpTZs\n\ud83c\udfb5Track : I WANNA BE A ROCKSTAR - https://www.youtube.com/watch?v=ol7L7gNWfes\n\ud83c\udfb5Track : \ud584\uc2a4\ud130\uc758 \ubaa8\ud5d8 - https://www.youtube.com/watch?v=xfFzi-ryDVQ\n\ud83c\udfb5Track : Piggy Cake - https://www.youtube.com/watch?v=BOsYmetTil0\n \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT11M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4104",
+                "likeCount": "206",
+                "favoriteCount": "0",
+                "commentCount": "30"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HBB0GspiDLqawm59YoNlBbc68Ro",
+            "id": "DNYpFkFeFbk",
+            "snippet": {
+                "publishedAt": "2026-06-25T02:57:47Z",
+                "channelId": "UCuWxNATedlUsnD9B5FeiZMw",
+                "title": "Best advice on Shorts #valorant #valorantclips #valorantedit #aim #fyp",
+                "description": "Stop being hardstuck in Valorant by mastering these simple tips\n\nI break down specific gameplay moments where focus on crosshair placement and movement makes the difference between a loss and a win. If you are tired of losing close rounds, these techniques will help you climb.\n\nSubscribe for more Valorant tips and also let me know which rank you are you are so i can help you guys improve :D\n\n\n\nMy Glasspad:\nhttps://theclustrs.com/DIA\n\nMy Links:\nhttps://guns.lol/diasp\n\nJoin my Community Discord: \nhttps://discord.gg/VdAfhRxUNe\n\nBusiness Contact:\ndiaspfps@gmail.com \u2709\ufe0f",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dia",
+                "tags": [
+                    "Valorant improvement",
+                    "hardstuck Valorant",
+                    "Valorant micro adjustments",
+                    "Valorant gameplay tips",
+                    "how to rank up Valorant"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Best advice on Shorts #valorant #valorantclips #valorantedit #aim #fyp",
+                    "description": "Stop being hardstuck in Valorant by mastering these simple tips\n\nI break down specific gameplay moments where focus on crosshair placement and movement makes the difference between a loss and a win. If you are tired of losing close rounds, these techniques will help you climb.\n\nSubscribe for more Valorant tips and also let me know which rank you are you are so i can help you guys improve :D\n\n\n\nMy Glasspad:\nhttps://theclustrs.com/DIA\n\nMy Links:\nhttps://guns.lol/diasp\n\nJoin my Community Discord: \nhttps://discord.gg/VdAfhRxUNe\n\nBusiness Contact:\ndiaspfps@gmail.com \u2709\ufe0f"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "456",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0JFXaEX1cFyrP9eOStKEM8UQnTI",
+            "id": "ZVoQ7xZD6M8",
+            "snippet": {
+                "publishedAt": "2026-06-25T02:45:11Z",
+                "channelId": "UCEuOLYqiHuOPB6IYCykj2VQ",
+                "title": "LESS EXPLICA PORQUE KIKARAM SILENTZ! #valorant #shorts #lessvlr",
+                "description": "Se voc\u00ea considera me ajudar no meu \"trabalho\", irei ficar grato!! Qual quer valor j\u00e1 \u00e9 bem vindo!! PIX:\nhttps://livepix.gg/nesky\n \nSOCIAIS:Twitch: https://www.twitch.tv/neskygg\nInstagram: https://www.instagram.com/neskygg/\nTwitter: https://twitter.com/neskygg\nTiktok: https://www.tiktok.com/neskygg\nDiscord: NesKy_\n\nLESS EXPLICA PORQUE KIKARAM SILENTZ! #valorant #shorts #lessvlr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZVoQ7xZD6M8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZVoQ7xZD6M8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZVoQ7xZD6M8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZVoQ7xZD6M8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZVoQ7xZD6M8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NesKy",
+                "tags": [
+                    "shorts",
+                    "valorant",
+                    "valorant br",
+                    "valorant pro",
+                    "valorant esports",
+                    "valorant jett",
+                    "valorant guide",
+                    "valorant clutch",
+                    "ranked valorant",
+                    "valorant vision",
+                    "valorant highlights",
+                    "VCT",
+                    "vct americas",
+                    "vct china",
+                    "vct pacific",
+                    "vct valorant",
+                    "vct emea",
+                    "masters",
+                    "prx",
+                    "SHORTS",
+                    "valorant vod",
+                    "valorant pro gameplay",
+                    "valorant leaks",
+                    "aspas",
+                    "aspas valorant",
+                    "tck10",
+                    "sacy",
+                    "hack valorant",
+                    "wintrade",
+                    "wintrade valorant",
+                    "tips valorant",
+                    "valorant tips"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "LESS EXPLICA PORQUE KIKARAM SILENTZ! #valorant #shorts #lessvlr",
+                    "description": "Se voc\u00ea considera me ajudar no meu \"trabalho\", irei ficar grato!! Qual quer valor j\u00e1 \u00e9 bem vindo!! PIX:\nhttps://livepix.gg/nesky\n \nSOCIAIS:Twitch: https://www.twitch.tv/neskygg\nInstagram: https://www.instagram.com/neskygg/\nTwitter: https://twitter.com/neskygg\nTiktok: https://www.tiktok.com/neskygg\nDiscord: NesKy_\n\nLESS EXPLICA PORQUE KIKARAM SILENTZ! #valorant #shorts #lessvlr"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "contentDetails": {
+                "duration": "PT1M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "813",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GoRautU30Audh3KY1lwyNaA4OYA",
+            "id": "KJ_k46mqNpI",
+            "snippet": {
+                "publishedAt": "2026-06-25T01:37:40Z",
+                "channelId": "UCWRPqA0ehhWV4Hnp27PJCkQ",
+                "title": "\u3010 Splatoon3 \u3011\u795e\u30eb\u30fc\u30eb\u3060\u3063\u305f\u304b\u3089\u305d\u308a\u3083\u3084\u308b\u3057\u304b\u306a\u3044\u304b\u3010\u306b\u3058\u3055\u3093\u3058/\u7345\u5b50\u5802\u3042\u304b\u308a\u3011",
+                "description": "\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3074\u304b\u3074\u304b\u306e\u5f15\u304d\u3053\u3082\u308a\u30cb\u30fc\u30c8\u7345\u5b50\u5802\u3042\u304b\u308a\u3067\u3059\u3002\n\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\u3074\u3063\u304b\u3074\u304b\u306e\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u30d0\u30fc\u30c1\u30e3\u30eb\u30e9\u30a4\u30d0\u30fc\u7345\u5b50\u5802\u3042\u304b\u308a\u3067\u3059\u3002\n\u672a\u719f\u306a\u3075\u3064\u3064\u304b\u3082\u306e\u3067\u3059\u304c\u3053\u308c\u304b\u3089\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002\n\n\u2193\u3042\u304b\u308a\u306eTwitter\u306f\u30b3\u30c1\u30e9\nhttps://twitter.com/44do_akari\n\n\u2193Twich(\u3088\u304fVALORANT\u3057\u3066\u308b\u3088)\nhttps://www.twitch.tv/shishidoakari\n\n\u30d5\u30a9\u30ed\u30fc\u3057\u3066\u306d\uff01\nYouTube\u306e\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u3001\u901a\u77e5on\u3001\u9ad8\u8a55\u4fa1\u304a\u9858\u3044\u3057\u307e\u3059\uff01\uff01\n\n\n\u30e1\u30f3\u30d0\u30fc\u30b7\u30c3\u30d7\uff08\u6708\u984d490\u5186\uff09\u306f\u3053\u3061\u3089\u304b\u3089\ud83d\udc47\nhttps://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ/join\n\n\u307f\u3093\u306a\u3067\u4e00\u7dd2\u306b\u697d\u3057\u3082\u3046\uff01(\u6c17\u5206\u5c4b\u4e0d\u5b9a\u671f)\n\u3010\u7279\u5178\u2460\u3011\u30e1\u30f3\u30d0\u30fc\u9650\u5b9a\u306e\u6b4c\u67a0(\u6708\uff11\u76ee\u6a19)\n\u3010\u7279\u5178\u2461\u3011\u4e00\u7dd2\u306b\u98f2\u3082\u3046\uff01\u98f2\u9152\u96d1\u8ac7\uff01(\u307e\u308c\u306b)(\u666e\u901a\u306e\u96d1\u8ac7\u3082\u307e\u308c\u306b)\n\u3010\u7279\u5178\u2462\u3011\u30e1\u30f3\u30d0\u30fc\u53c2\u52a0\u578b\u306e\u30b2\u30fc\u30e0\u914d\u4fe1(\u6708\uff11\u76ee\u6a19)\n\u3010\u7279\u5178\u2463\u3011\u540c\u6642\u8996\u8074(\u6c17\u5206)\n\u3010\u7279\u5178\u2464\u3011\u9650\u5b9a\u30b9\u30bf\u30f3\u30d7\u30fb\u30d0\u30c3\u30c1\u306e\u4f7f\u7528\n\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\u30dc\u30a4\u30b9\n\u8ca9\u58f2\u30da\u30fc\u30b8\u306f\u3053\u3061\u3089\u25bc\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-01250?ima=2516\n\n\n\u3010Welcome Goods\uff06Voice\u8ca9\u58f2\u4e2d\uff01\uff01\u3011\nhttps://shop.nijisanji.jp/s/niji/item/list?ima=2403&tag=TAG_181\n\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\n\u3000\u30cf\u30c3\u30b7\u30e5\u30bf\u30b0\n\n\u3000\u30d5\u30a1\u30f3\u30de\u30fc\u30af\u3000\u3000\uff1a\ud83d\udc31\ud83d\udcab\n\u3000\u30d5\u30a1\u30f3\u30cd\u30fc\u30e0\u3000\u3000\uff1a\u98fc\u3044\u4e3b\u5019\u88dc\n\u3000\u914d\u4fe1\u30bf\u30b0\u3000\u3000\u3000\u3000\uff1a#\u3042\u304b\u308a\u30fc\u3080\n\u3000\u30d5\u30a1\u30f3\u30a2\u30fc\u30c8\u30bf\u30b0\uff1a#\u7345\u5b50\u3069\u308d\u30fc\u3044\u3093\u3050\n\u3000\u30dc\u30a4\u30b9\u30bf\u30b0\u3000\u3000\u3000\uff1a#\u3042\u304b\u308a\u3063\u3059\u3093\n    \u30b5\u30e0\u30cd\u30a4\u30eb\u30bf\u30b0    \uff1a#\u7345\u5b50\u5802\u3053\u308c\u5802\n\u3000\u30a8\u30b4\u30b5\u30bf\u30b0\u3000\u3000\u3000\uff1a#\u3042\u304b\u308a\u3055\u30fc\u3061 \n\n\n\u2606\u3042\u304b\u308a\u304b\u3089\u306e\u304a\u9858\u3044\n\n\u30fb\u30b3\u30e1\u30f3\u30c8\u6b04\u3067\u55a7\u5629\u3092\u3057\u306a\u3044\u3053\u3068\uff01\u30b3\u30e1\u30f3\u30c8\u540c\u58eb\u306e\u4f1a\u8a71\u3082\u307b\u3069\u307b\u3069\u306b\u306d\uff01\n\u30fb\u914d\u4fe1\u306b\u95a2\u4fc2\u306e\u306a\u3044\u8a71\u984c\u30fb\u4ed6\u306e\u30e9\u30a4\u30d0\u30fc\u69d8\u306e\u540d\u524d\u306f\u306a\u308b\u3079\u304f\u63a7\u3048\u3066\u304f\u3060\u3055\u3044\uff01\n\u30fb\u6c42\u3081\u3066\u3044\u306a\u3044\u6307\u793a\u30fb\u6307\u6458\u30fb\u30cd\u30bf\u30d0\u30ec\u3092\u884c\u308f\u306a\u3044\u3088\u3046\u306b\u6c17\u3092\u4ed8\u3051\u3066\u306d\uff01\n\u30fb\u8352\u3089\u3057\u30fb\u8ff7\u60d1\u306a\u30b3\u30e1\u30f3\u30c8\u30fb\u30b9\u30d1\u30e0\u306b\u53cd\u5fdc\u3057\u306a\u3044\u3067\uff01\u7121\u8996\u3057\u3066\u306d\uff01\n\u30fb\u4ed6\u306e\u914d\u4fe1\u8005\u3055\u3093\u306e\u914d\u4fe1\u3067\u3042\u304b\u308a\u306e\u540d\u524d\u3092\u51fa\u3055\u306a\u3044\u3053\u3068\uff01\n\u30fb\u4ed6\u306e\u914d\u4fe1\u8005\u3055\u3093\u3084\u30ea\u30b9\u30ca\u30fc\u3055\u3093\u306b\u8ff7\u60d1\u3092\u304b\u3051\u308b\u884c\u52d5\u3092\u3057\u306a\u3044\u3053\u3068\uff01(\u4f1d\u66f8\u9ce9\u7b49)\n\n\u30fb\u4e0a\u8a18\u3092\u6c17\u3065\u304b\u305a\u3084\u3063\u3066\u3057\u307e\u3046\u4eba\u304c\u3044\u3066\u3082\u3001\u6307\u6458\u3084\u6ce8\u610f\u306a\u3069\u306f\u305b\u305a\u305d\u3063\u3068\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002\n\n\u307f\u3093\u306a\u3067\u30de\u30ca\u30fc\u3092\u5b88\u3063\u3066\u697d\u3057\u3093\u3067\u304f\u308c\u308b\u3068\u5b09\u3057\u3044\u3067\u3059\u3002\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\n\n\u30de\u30de\uff1a\u9060\u5742\u3042\u3055\u304e\u69d8\nhttps://twitter.com/asagi_0398/media\n\n\n\ud83c\udf1fSpecial Thanks\ud83c\udf1f\n\nBGM\nhttps://www.youtube.com/@SafuWorks\n\n\u4f7f\u7528\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3057\u305fbgm\u3084\u7d20\u6750\n\nhttps://www.youtube.com/@Neruson_F/about\n\nhttps://sozaino.site\n\n\u30c8\u30fc\u30de\u30b9\u5927\u68ee\u97f3\u697d\u5de5\u623f\u3000\u69d8\nhttps://www.youtube.com/c/FreeMusicThomasOomori\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\n\u203b\u672a\u6210\u5e74\u8005\u306e\u8996\u8074\u8005\u306e\u65b9\u3005\u306f\u3001\u4e0b\u8a18\u30ea\u30f3\u30af\u5148\u306e\u6ce8\u610f\u4e8b\u9805\u3082\u3054\u89a7\u304f\u3060\u3055\u3044\u3002\nhttps://www.anycolor.co.jp/notice-for-minors",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u7345\u5b50\u5802 \u3042\u304b\u308a / Shishido Akari\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+                "tags": [
+                    "Nintendo"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "live",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "\u3010 Splatoon3 \u3011\u795e\u30eb\u30fc\u30eb\u3060\u3063\u305f\u304b\u3089\u305d\u308a\u3083\u3084\u308b\u3057\u304b\u306a\u3044\u304b\u3010\u306b\u3058\u3055\u3093\u3058/\u7345\u5b50\u5802\u3042\u304b\u308a\u3011",
+                    "description": "\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3074\u304b\u3074\u304b\u306e\u5f15\u304d\u3053\u3082\u308a\u30cb\u30fc\u30c8\u7345\u5b50\u5802\u3042\u304b\u308a\u3067\u3059\u3002\n\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\u3074\u3063\u304b\u3074\u304b\u306e\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u30d0\u30fc\u30c1\u30e3\u30eb\u30e9\u30a4\u30d0\u30fc\u7345\u5b50\u5802\u3042\u304b\u308a\u3067\u3059\u3002\n\u672a\u719f\u306a\u3075\u3064\u3064\u304b\u3082\u306e\u3067\u3059\u304c\u3053\u308c\u304b\u3089\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002\n\n\u2193\u3042\u304b\u308a\u306eTwitter\u306f\u30b3\u30c1\u30e9\nhttps://twitter.com/44do_akari\n\n\u2193Twich(\u3088\u304fVALORANT\u3057\u3066\u308b\u3088)\nhttps://www.twitch.tv/shishidoakari\n\n\u30d5\u30a9\u30ed\u30fc\u3057\u3066\u306d\uff01\nYouTube\u306e\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u3001\u901a\u77e5on\u3001\u9ad8\u8a55\u4fa1\u304a\u9858\u3044\u3057\u307e\u3059\uff01\uff01\n\n\n\u30e1\u30f3\u30d0\u30fc\u30b7\u30c3\u30d7\uff08\u6708\u984d490\u5186\uff09\u306f\u3053\u3061\u3089\u304b\u3089\ud83d\udc47\nhttps://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ/join\n\n\u307f\u3093\u306a\u3067\u4e00\u7dd2\u306b\u697d\u3057\u3082\u3046\uff01(\u6c17\u5206\u5c4b\u4e0d\u5b9a\u671f)\n\u3010\u7279\u5178\u2460\u3011\u30e1\u30f3\u30d0\u30fc\u9650\u5b9a\u306e\u6b4c\u67a0(\u6708\uff11\u76ee\u6a19)\n\u3010\u7279\u5178\u2461\u3011\u4e00\u7dd2\u306b\u98f2\u3082\u3046\uff01\u98f2\u9152\u96d1\u8ac7\uff01(\u307e\u308c\u306b)(\u666e\u901a\u306e\u96d1\u8ac7\u3082\u307e\u308c\u306b)\n\u3010\u7279\u5178\u2462\u3011\u30e1\u30f3\u30d0\u30fc\u53c2\u52a0\u578b\u306e\u30b2\u30fc\u30e0\u914d\u4fe1(\u6708\uff11\u76ee\u6a19)\n\u3010\u7279\u5178\u2463\u3011\u540c\u6642\u8996\u8074(\u6c17\u5206)\n\u3010\u7279\u5178\u2464\u3011\u9650\u5b9a\u30b9\u30bf\u30f3\u30d7\u30fb\u30d0\u30c3\u30c1\u306e\u4f7f\u7528\n\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\u30dc\u30a4\u30b9\n\u8ca9\u58f2\u30da\u30fc\u30b8\u306f\u3053\u3061\u3089\u25bc\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-01250?ima=2516\n\n\n\u3010Welcome Goods\uff06Voice\u8ca9\u58f2\u4e2d\uff01\uff01\u3011\nhttps://shop.nijisanji.jp/s/niji/item/list?ima=2403&tag=TAG_181\n\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\n\u3000\u30cf\u30c3\u30b7\u30e5\u30bf\u30b0\n\n\u3000\u30d5\u30a1\u30f3\u30de\u30fc\u30af\u3000\u3000\uff1a\ud83d\udc31\ud83d\udcab\n\u3000\u30d5\u30a1\u30f3\u30cd\u30fc\u30e0\u3000\u3000\uff1a\u98fc\u3044\u4e3b\u5019\u88dc\n\u3000\u914d\u4fe1\u30bf\u30b0\u3000\u3000\u3000\u3000\uff1a#\u3042\u304b\u308a\u30fc\u3080\n\u3000\u30d5\u30a1\u30f3\u30a2\u30fc\u30c8\u30bf\u30b0\uff1a#\u7345\u5b50\u3069\u308d\u30fc\u3044\u3093\u3050\n\u3000\u30dc\u30a4\u30b9\u30bf\u30b0\u3000\u3000\u3000\uff1a#\u3042\u304b\u308a\u3063\u3059\u3093\n    \u30b5\u30e0\u30cd\u30a4\u30eb\u30bf\u30b0    \uff1a#\u7345\u5b50\u5802\u3053\u308c\u5802\n\u3000\u30a8\u30b4\u30b5\u30bf\u30b0\u3000\u3000\u3000\uff1a#\u3042\u304b\u308a\u3055\u30fc\u3061 \n\n\n\u2606\u3042\u304b\u308a\u304b\u3089\u306e\u304a\u9858\u3044\n\n\u30fb\u30b3\u30e1\u30f3\u30c8\u6b04\u3067\u55a7\u5629\u3092\u3057\u306a\u3044\u3053\u3068\uff01\u30b3\u30e1\u30f3\u30c8\u540c\u58eb\u306e\u4f1a\u8a71\u3082\u307b\u3069\u307b\u3069\u306b\u306d\uff01\n\u30fb\u914d\u4fe1\u306b\u95a2\u4fc2\u306e\u306a\u3044\u8a71\u984c\u30fb\u4ed6\u306e\u30e9\u30a4\u30d0\u30fc\u69d8\u306e\u540d\u524d\u306f\u306a\u308b\u3079\u304f\u63a7\u3048\u3066\u304f\u3060\u3055\u3044\uff01\n\u30fb\u6c42\u3081\u3066\u3044\u306a\u3044\u6307\u793a\u30fb\u6307\u6458\u30fb\u30cd\u30bf\u30d0\u30ec\u3092\u884c\u308f\u306a\u3044\u3088\u3046\u306b\u6c17\u3092\u4ed8\u3051\u3066\u306d\uff01\n\u30fb\u8352\u3089\u3057\u30fb\u8ff7\u60d1\u306a\u30b3\u30e1\u30f3\u30c8\u30fb\u30b9\u30d1\u30e0\u306b\u53cd\u5fdc\u3057\u306a\u3044\u3067\uff01\u7121\u8996\u3057\u3066\u306d\uff01\n\u30fb\u4ed6\u306e\u914d\u4fe1\u8005\u3055\u3093\u306e\u914d\u4fe1\u3067\u3042\u304b\u308a\u306e\u540d\u524d\u3092\u51fa\u3055\u306a\u3044\u3053\u3068\uff01\n\u30fb\u4ed6\u306e\u914d\u4fe1\u8005\u3055\u3093\u3084\u30ea\u30b9\u30ca\u30fc\u3055\u3093\u306b\u8ff7\u60d1\u3092\u304b\u3051\u308b\u884c\u52d5\u3092\u3057\u306a\u3044\u3053\u3068\uff01(\u4f1d\u66f8\u9ce9\u7b49)\n\n\u30fb\u4e0a\u8a18\u3092\u6c17\u3065\u304b\u305a\u3084\u3063\u3066\u3057\u307e\u3046\u4eba\u304c\u3044\u3066\u3082\u3001\u6307\u6458\u3084\u6ce8\u610f\u306a\u3069\u306f\u305b\u305a\u305d\u3063\u3068\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002\n\n\u307f\u3093\u306a\u3067\u30de\u30ca\u30fc\u3092\u5b88\u3063\u3066\u697d\u3057\u3093\u3067\u304f\u308c\u308b\u3068\u5b09\u3057\u3044\u3067\u3059\u3002\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\n\n\u30de\u30de\uff1a\u9060\u5742\u3042\u3055\u304e\u69d8\nhttps://twitter.com/asagi_0398/media\n\n\n\ud83c\udf1fSpecial Thanks\ud83c\udf1f\n\nBGM\nhttps://www.youtube.com/@SafuWorks\n\n\u4f7f\u7528\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3057\u305fbgm\u3084\u7d20\u6750\n\nhttps://www.youtube.com/@Neruson_F/about\n\nhttps://sozaino.site\n\n\u30c8\u30fc\u30de\u30b9\u5927\u68ee\u97f3\u697d\u5de5\u623f\u3000\u69d8\nhttps://www.youtube.com/c/FreeMusicThomasOomori\n\n\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\n\n\n\u203b\u672a\u6210\u5e74\u8005\u306e\u8996\u8074\u8005\u306e\u65b9\u3005\u306f\u3001\u4e0b\u8a18\u30ea\u30f3\u30af\u5148\u306e\u6ce8\u610f\u4e8b\u9805\u3082\u3054\u89a7\u304f\u3060\u3055\u3044\u3002\nhttps://www.anycolor.co.jp/notice-for-minors"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10618",
+                "likeCount": "844",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mSvrJ8-ZTInsxYm1XFe_GCsuJvc",
+            "id": "dpmicsp9u8w",
+            "snippet": {
+                "publishedAt": "2026-06-25T01:36:10Z",
+                "channelId": "UC_l3b2l822SSWaoA7DLXTiQ",
+                "title": "ADG vs AXG | FLY vs D1 | VALORANT Challengers NA | W4 D1 | Regular Phase | Stage 3",
+                "description": "Games of the Day\nADG vs AXG\nFLY vs D1\n\nThe race for Playoffs is heating up.\n\r\n\nConnect with Challengers NA Esports:\nX/Twitter: http://x.com/valesportsna \nTik Tok: http://tiktok.com/@valesportsna \nInstagram: http://instagram.com/valesportsna \nTwitch: http://twitch.tv/valorant_northamerica \nYouTube: http://youtube.com/@VALORANTChallengersAmericas \nOfficial VALORANT Esports News: http://valorantesports.com/news \nWeb: http://valorantesports.com\n#vct \n#VALORANT",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dpmicsp9u8w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dpmicsp9u8w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dpmicsp9u8w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dpmicsp9u8w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dpmicsp9u8w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "VALORANT Challengers Americas",
+                "tags": [
+                    "valorant",
+                    "valorantesports",
+                    "valorant challengers",
+                    "valorant americas",
+                    "valorant challengers na",
+                    "challengers",
+                    "challengers na"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "ADG vs AXG | FLY vs D1 | VALORANT Challengers NA | W4 D1 | Regular Phase | Stage 3",
+                    "description": "Games of the Day\nADG vs AXG\nFLY vs D1\n\nThe race for Playoffs is heating up.\n\r\n\nConnect with Challengers NA Esports:\nX/Twitter: http://x.com/valesportsna \nTik Tok: http://tiktok.com/@valesportsna \nInstagram: http://instagram.com/valesportsna \nTwitch: http://twitch.tv/valorant_northamerica \nYouTube: http://youtube.com/@VALORANTChallengersAmericas \nOfficial VALORANT Esports News: http://valorantesports.com/news \nWeb: http://valorantesports.com\n#vct \n#VALORANT"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT5H43M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10674",
+                "likeCount": "83",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3cHiSdP3OowwhmC0wvXc4z53H0s",
+            "id": "KXFAm77Fqsc",
+            "snippet": {
+                "publishedAt": "2026-06-25T01:04:11Z",
+                "channelId": "UClhaRX398sIJ13Cmy00wzVA",
+                "title": "\u4f86\u5427\u8d70\u8d77\ud83d\udd25 #valorant #\u7279\u6230\u82f1\u8c6a",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KXFAm77Fqsc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KXFAm77Fqsc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KXFAm77Fqsc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KXFAm77Fqsc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KXFAm77Fqsc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u6211\u662f\u97cb\u97cb",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "zh-Hant",
+                "localized": {
+                    "title": "\u4f86\u5427\u8d70\u8d77\ud83d\udd25 #valorant #\u7279\u6230\u82f1\u8c6a",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "zh-TW"
+            },
+            "contentDetails": {
+                "duration": "PT47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "798",
+                "likeCount": "24",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "y8X-YyLgib83hZ_Kh4kbi53U8RM",
+            "id": "s77ijV8A68E",
+            "snippet": {
+                "publishedAt": "2026-06-25T00:17:24Z",
+                "channelId": "UCd4L1CjQgoUSKBe_GldtV8Q",
+                "title": "PLS JUST REMOVE SUNSET #valorantclips #valorantfunny #valorantnews #valorant",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Valorantaner",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "PLS JUST REMOVE SUNSET #valorantclips #valorantfunny #valorantnews #valorant",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "534",
+                "likeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8FItPp6_DxdRjl8At4Q11JYrdEs",
+            "id": "UcuIRSrQSao",
+            "snippet": {
+                "publishedAt": "2026-06-25T00:17:43Z",
+                "channelId": "UCIGdEoFOsZsjoqpMl0vhvHA",
+                "title": "from mooda clone to adildo \ud83d\ude2d\ud83d\udc94 #valorant #valorantfunny #gaming #adilswrld",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UcuIRSrQSao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UcuIRSrQSao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UcuIRSrQSao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UcuIRSrQSao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UcuIRSrQSao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Adilswrld",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "from mooda clone to adildo \ud83d\ude2d\ud83d\udc94 #valorant #valorantfunny #gaming #adilswrld",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2673",
+                "likeCount": "154",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 10
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "_uVghgOpFv2Mgv2JvUqlPfMzBQM",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 667481,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kB6WDmyvddz3PGlb73fknhfzk1Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dWbC_qp8FPs"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:22:04Z",
+                "channelId": "UCOri0zqQh1uPwSOE2Pih9KQ",
+                "title": "New Music Spray #valorant #summit",
+                "description": "LIKE AND SUBSCRIBE - New valorant capsule the Matchday Capsule showcase. What does Matchday spray do? Matchday ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dWbC_qp8FPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dWbC_qp8FPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dWbC_qp8FPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "urnotjustin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T03:22:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gR-oTm1xKHpimfvF3taqTy89D0o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WnzBnaHxMho"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:10:52Z",
+                "channelId": "UCqJGxuaHaSHJnXK8Y5V5YSQ",
+                "title": "The BEST Viper Orb for Split   B Attack #valorant #valoranttips #valorantviper #ghostvalorant",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WnzBnaHxMho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "adrsh12",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T03:10:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BrwRDFCFMjuFRQp2dM76cfy_gNg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "39ELGgXqvk0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:00:15Z",
+                "channelId": "UCjOtzpfj5lF9erwTEQYkxtQ",
+                "title": "\ucd08\ud2b9\uae09 \ubc1c\ub85c\ub780\ud2b8 \ubbf8\ub140 \ub4f1\uc7a5\u314b\u314b\u314b\u314b",
+                "description": "Please use YouTube's auto-translate feature to watch in English!   [\ud32c\uce74\ud398] https://cafe.naver.com/t3xture [\uc0dd\ubc29\uc1a1] ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/39ELGgXqvk0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/39ELGgXqvk0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/39ELGgXqvk0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "t3xture \ud14d\uc2a4\uccd0 ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T03:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SrHBG3siVgE0epkmqg1uG4pYVpE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DNYpFkFeFbk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:57:47Z",
+                "channelId": "UCuWxNATedlUsnD9B5FeiZMw",
+                "title": "Best advice on Shorts #valorant #valorantclips #valorantedit #aim #fyp",
+                "description": "Stop being hardstuck in Valorant by mastering these simple tips I break down specific gameplay moments where focus on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DNYpFkFeFbk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T02:57:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RnMT8dtNGxtIzoM3jRLj5gcLj80",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZVoQ7xZD6M8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:45:11Z",
+                "channelId": "UCEuOLYqiHuOPB6IYCykj2VQ",
+                "title": "LESS EXPLICA PORQUE KIKARAM SILENTZ! #valorant #shorts #lessvlr",
+                "description": "Se voc\u00ea considera me ajudar no meu \"trabalho\", irei ficar grato!! Qual quer valor j\u00e1 \u00e9 bem vindo!! PIX: https://livepix.gg/nesky ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZVoQ7xZD6M8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZVoQ7xZD6M8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZVoQ7xZD6M8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NesKy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T02:45:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ygfZ7Tvdfp7K990Bus1-FNhPGts",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KJ_k46mqNpI"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T01:37:40Z",
+                "channelId": "UCWRPqA0ehhWV4Hnp27PJCkQ",
+                "title": "\u3010 Splatoon3 \u3011\u795e\u30eb\u30fc\u30eb\u3060\u3063\u305f\u304b\u3089\u305d\u308a\u3083\u3084\u308b\u3057\u304b\u306a\u3044\u304b\u3010\u306b\u3058\u3055\u3093\u3058/\u7345\u5b50\u5802\u3042\u304b\u308a\u3011",
+                "description": "\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3074\u304b\u3074\u304b\u306e\u5f15\u304d\u3053\u3082\u308a\u30cb\u30fc\u30c8\u7345\u5b50\u5802\u3042\u304b\u308a\u3067\u3059\u3002 \ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u7345\u5b50\u5802 \u3042\u304b\u308a / Shishido Akari\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-25T01:37:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5MMLBL6iWnqCDBJvEjq6s1_zy5U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dpmicsp9u8w"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T01:36:10Z",
+                "channelId": "UC_l3b2l822SSWaoA7DLXTiQ",
+                "title": "ADG vs AXG | FLY vs D1 | VALORANT Challengers NA | W4 D1 | Regular Phase | Stage 3",
+                "description": "Games of the Day ADG vs AXG FLY vs D1 The race for Playoffs is heating up. Connect with Challengers NA Esports: X/Twitter: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dpmicsp9u8w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dpmicsp9u8w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dpmicsp9u8w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VALORANT Challengers Americas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T01:36:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "B6H25GWTebNygrWfwuiU8j1JB8o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KXFAm77Fqsc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T01:04:11Z",
+                "channelId": "UClhaRX398sIJ13Cmy00wzVA",
+                "title": "\u4f86\u5427\u8d70\u8d77\ud83d\udd25 #valorant #\u7279\u6230\u82f1\u8c6a",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KXFAm77Fqsc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KXFAm77Fqsc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KXFAm77Fqsc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u6211\u662f\u97cb\u97cb",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T01:04:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t9kPmImZ94FfVpWYwAh4Jp46Ei8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s77ijV8A68E"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T00:17:24Z",
+                "channelId": "UCd4L1CjQgoUSKBe_GldtV8Q",
+                "title": "PLS JUST REMOVE SUNSET #valorantclips #valorantfunny #valorantnews #valorant",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s77ijV8A68E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Valorantaner",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T00:17:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AFWUaKVKoQUJfyTxsw793Jw8Q1w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UcuIRSrQSao"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T00:17:43Z",
+                "channelId": "UCIGdEoFOsZsjoqpMl0vhvHA",
+                "title": "from mooda clone to adildo \ud83d\ude2d\ud83d\udc94 #valorant #valorantfunny #gaming #adilswrld",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UcuIRSrQSao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UcuIRSrQSao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UcuIRSrQSao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Adilswrld",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T00:17:43Z"
+            }
+        }
+    ]
+}

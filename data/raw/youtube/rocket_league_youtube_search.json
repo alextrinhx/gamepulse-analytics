@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "z_jFueq9Uo1Zu6Jfjac0w0xyf0k",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mzOapchUvtjKNA77TT83nDTYidY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ACEjGmxUxFc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:51:52Z",
+                "channelId": "UC4N07KDv7RFHsTtMXoqJvvQ",
+                "title": "\ud83d\udd34 ROCKET LEAGUE EN DIRECTO \u26bd | JUGANDO CON SUBS \ud83d\ude80 RUMBO A LOS 10K #rocketleague #shorts",
+                "description": "ROCKET LEAGUE EN DIRECTO \u26bd | JUGANDO CON SUBS RUMBO A LOS 10K #rocketleague #shorts #rocketleague ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ACEjGmxUxFc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ACEjGmxUxFc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ACEjGmxUxFc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jhona12",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T03:51:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZwBj5y-xmH0fmw9cWxx0jzM675w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QGQIa1YNBp4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T01:26:35Z",
+                "channelId": "UCzoxldw2m51a7Na8yS-bUiA",
+                "title": "Wins Day!  - Rocket League LIVE!",
+                "description": "Let's hit C3! #rocketleague #rocketleaguelive #dirtybaker #dirtybakerlive Memberships are NOW available! Help support the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QGQIa1YNBp4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QGQIa1YNBp4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QGQIa1YNBp4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dirty Baker",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T01:26:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0shDbm8Xo73-9NHfJqjxffgCEiA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2_dBqe5FZhs"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T01:00:05Z",
+                "channelId": "UCfS7v_Y1EJQJiMkP1WUjMMg",
+                "title": "jugue con el peor coche de rocket league 8",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2_dBqe5FZhs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2_dBqe5FZhs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2_dBqe5FZhs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "nefty",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T01:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4uNvJZn4fsV5lueRPQvkshwxnTg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BqHWRjPsFRY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T00:52:25Z",
+                "channelId": "UCXUqS2qdSNCoH1fZrTSDVSw",
+                "title": "How I BEAT ROCKET LEAGUE LEGEND AYYJAYY with FIVEUP in TOP 100 SSL 2v2",
+                "description": "rocketleague #rocketleague #rocketleagueclips #gaming #shorts #rl #settings #rlclips #rlclip rocket league best goals,rocket ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BqHWRjPsFRY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BqHWRjPsFRY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BqHWRjPsFRY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jerbear_rl",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T00:52:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0gD4VyGu9507oWKWzMJlTNDib7I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J6b6EFCv62g"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T00:52:47Z",
+                "channelId": "UCfQf04u6dJBWCu8BscE9hNw",
+                "title": "\ud83d\udd34 LIVE |Chill Rocket League \ud83d\ude97\u26bd Grinding Ranked &amp; Vibing | Simply Sythe",
+                "description": "Welcome to the stream! Tonight we're kicking back with some Rocket League\u2014playing ranked, hitting clips (hopefully ), and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J6b6EFCv62g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J6b6EFCv62g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J6b6EFCv62g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Simply Sythe",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T00:52:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xvZDgVOsFWOi6UaNHuouM08isu0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J5_CRaxH3RY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T23:00:15Z",
+                "channelId": "UCq8mwriWSfkHO2LG8ZLP1yA",
+                "title": "Rocket League Could you Make This #336",
+                "description": "What You'll Find Here: \u2714\ufe0f High-level competitive Rocket League gameplay \u2714\ufe0f Freestyling, air dribbles, and mechanics ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J5_CRaxH3RY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J5_CRaxH3RY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J5_CRaxH3RY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RVA Esports Moxxi33",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T23:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uyhbYZgtn9W1HrhY6hhDjQw9N90",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gV80-EzCF4k"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:53:17Z",
+                "channelId": "UCUOONkCdvqJyXU_9cYrANcA",
+                "title": "Minecraft|Rocket League| Gaming| Reading Chat| Good Vibes | Chat chill n vibe | ROAD TO 5K",
+                "description": "If you would like to show support, likes subs and donations are always appreciated!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gV80-EzCF4k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gV80-EzCF4k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gV80-EzCF4k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haze Frosty zHDz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:53:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xnsnx5ay9seQ6_WNbN5sPL6LJaY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8qLJa1NUjKQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:31:21Z",
+                "channelId": "UC3mi6XiDzccRwQqMoF5Cf2A",
+                "title": "Fortnite Train + Win and Rocket League out of minus again!",
+                "description": "Support the stream: https://streamlabs.com/sl_id_a9a85924-763d-3552-9bf3-049895473041.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8qLJa1NUjKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8qLJa1NUjKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8qLJa1NUjKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mr Peeky Gaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:31:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NcU8lVps5ZFtxg-5sU53zgP8MsY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TxLKhILzKsI"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:24:28Z",
+                "channelId": "UC4HtKAmW8X9NnSLknq9x1yw",
+                "title": "THIS IS ROCKET LEAGUE",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TxLKhILzKsI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TxLKhILzKsI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TxLKhILzKsI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jiggy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:24:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-gE5Gw4Xomr9QHBamVq0WGE1FaE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bQVUBDHerZ8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:49:02Z",
+                "channelId": "UCW2oq8wEN7sDTd1OoP2HE7g",
+                "title": "HYDRATION BREAK IN ROCKET LEAGUE \ud83d\udc80\ud83e\udd40",
+                "description": "Bros doing HYDRATION BREAKS IN ROCKET LEAGUE world cup, world cup hydration break, hydration break world cup, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bQVUBDHerZ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bQVUBDHerZ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bQVUBDHerZ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tyler Ham",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:49:02Z"
+            }
+        }
+    ]
+}

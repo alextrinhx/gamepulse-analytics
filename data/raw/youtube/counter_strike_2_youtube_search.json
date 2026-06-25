@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "D2khQ3-mKIRki-47-tTxemvmI3w",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cCxUFdwnWpN3fm2pFCvZNwsuEWs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Tqlx2IscE-I"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:02:21Z",
+                "channelId": "UCUSjrIIWx4HnYR0j2BQ4qtg",
+                "title": "\u041a\u0430\u043a \u041a\u0438\u043a\u043d\u0443\u0442\u044c \u0411\u043e\u0442\u043e\u0432 \u0418\u0437 \u0420\u0435\u0436\u0438\u043c\u0430 \u0411\u043e\u0439 \u041d\u0430\u0441\u043c\u0435\u0440\u0442\u044c?  #cs2 #\u0438\u043d\u0441\u0430\u0439\u0434 #inside",
+                "description": "\u041c\u043e\u0439 \u0422\u0413 - https://t.me/underground127 \u041c\u043e\u0439 \u0422\u0432\u0438\u0447 - https://www.twitch.tv/ins1de1337 \u041c\u043e\u044f \u0418\u043d\u0441\u0442\u0430 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tqlx2IscE-I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tqlx2IscE-I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tqlx2IscE-I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "INSIDE 1337",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T03:02:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xgsZWmm6rS2uXUiCEB8tRGk0mRw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "blT3IeAOAso"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:49:45Z",
+                "channelId": "UCZBa-Uown80835iILKgAIXw",
+                "title": "\u26a120k \u0434\u044d\u044d\u0440 Ace \u0445\u0438\u0439\u0445 \u0431\u043e\u043b \u0430\u043c\u0430\u0440\u0445\u0430\u043d\u043d\u043d\u043d\u043d #cs2",
+                "description": "Member \u0431\u043e\u043b\u043e\u0445\u044b\u0433 \u0445\u04af\u0441\u0432\u044d\u043b https://youtube.com/spuudamon/join Donation \u0445\u0438\u0439\u0436 \u0443\u0440\u0430\u043c\u0448\u0443\u0443\u043b\u0430\u0445\u044b\u0433 \u0445\u04af\u0441\u0432\u044d\u043b: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/blT3IeAOAso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/blT3IeAOAso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/blT3IeAOAso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SpuudaMon",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T02:49:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oT2KYFzVSbFNVAU8JpBAI4RNvPM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ewowZtYoTlQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T23:55:23Z",
+                "channelId": "UCcCiTm_WSSDriYHFFzTS8hQ",
+                "title": "POP FLASH PARA SEU AMIGO LIMPAR A CAVERNA DA MIRAGE - CS2. #cs2 #counterstrike",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ewowZtYoTlQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ewowZtYoTlQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ewowZtYoTlQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sunnzy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T23:55:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "azBMGeXstmzbgRrE6fO6Iu3wPpc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0ecqSDetbto"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T23:56:41Z",
+                "channelId": "UCWGqXeJaB5s1vNmAmyRJTTA",
+                "title": "MAX RED CS2 RUBY SALE",
+                "description": "shorts #counterstrike #cs2 #counterstrike2 #counterstrikeglobaloffensive.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0ecqSDetbto/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0ecqSDetbto/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0ecqSDetbto/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CAZE GAMING",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T23:56:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0CU4PxGkYJkSGjDAXuY7s-MlU_w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u9MB9WhJZwQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T23:02:24Z",
+                "channelId": "UC8_SkVlFFe4sL4HOHosR1pg",
+                "title": "HeavyGod \u043e\u0446\u0435\u043d\u0438\u043b \u043a\u0430\u043f\u0438\u0442\u0430\u043d\u0430 g2 huNter- #cs2 #g2 #csgo #csmajor #\u043c\u0430\u0436\u043e\u0440 #major #\u043a\u04412 #\u043a\u0441 #\u043a\u0441\u0433\u043e #\u04332",
+                "description": "\u0417\u0432\u0435\u0437\u0434\u0430 G2 Heavygod \u043e\u0446\u0435\u043d\u0438\u043b \u043a\u0430\u043f\u0438\u0442\u0430\u043d\u0430 \u0441\u0432\u043e\u0435\u0439 \u043a\u043e\u043c\u0430\u043d\u0434\u044b huNter- \u043f\u043e 6 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044f\u043c: \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u0430, \u043c\u0443\u0432\u043c\u0435\u043d\u0442, \u0433\u0440\u0430\u043d\u0430\u0442\u044b, \u043a\u043b\u0430\u0442\u0447\u0438, \u043a\u043e\u043b\u044b ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u9MB9WhJZwQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u9MB9WhJZwQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u9MB9WhJZwQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OFFSTAGE CS2",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T23:02:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PlHGSDPdpj8RNByM86KZVgc1l9k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5zxFRI4WSe4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:24:52Z",
+                "channelId": "UCsAGXEmQgStUB-6Up0K2rHA",
+                "title": "donk\uff1a\u8d85\u7ea7\u667a\u6167\u544a\u8bc9\u6211\uff0c\u5e94\u8be5\u4f7f\u7528\u8d85\u7ea7\u6570\u503c\uff01 #cs2 #csgo #\u6e38\u620f #\u79bb\u8c31 #donk",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5zxFRI4WSe4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5zxFRI4WSe4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5zxFRI4WSe4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u4e49\u7236\u5feb\u4e0a\u53f7",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:24:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "o2X-UrQAWxuP9qKumjD-babIL9Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VwmThP3CdFw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:05:10Z",
+                "channelId": "UCa35hHfQNJA6YIaVq6zIOWA",
+                "title": "#shorts de_ancient SMOKE CADIAN!? #cs2 #cs2anubis #counterstrike2 #counterstrike #cs2faceit",
+                "description": "cs2, cs, csgo, counter strike 2, counter-strike, esports, counter strike, gaming, cs 2, \u043a\u04412, cs2 gameplay, \u043a\u0441, thescoreesports, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VwmThP3CdFw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VwmThP3CdFw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VwmThP3CdFw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "vERANT BLOG ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:05:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sOKujQEe3zO4B2zMGY1AJN5-cZo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3S_uaaKB6Yc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:00:28Z",
+                "channelId": "UCFI6Psh1awq0zP5BaVr4clw",
+                "title": "Unboxing Some CS2 Gear \u2013 AK-47 Fan Item \ud83d\udde1\ufe0f#csgo #cs2 #cs2overpass #cs2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3S_uaaKB6Yc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3S_uaaKB6Yc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3S_uaaKB6Yc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ValorantKnifeUnboxing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JY2bLMblXpcPwCnq55HBeq0G7TI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1Y0Gl9_dLgw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:36:47Z",
+                "channelId": "UCSyLXEoYYbvIXYe_SABPTHQ",
+                "title": "ADI\u00d3S GENTLEMATES Y MARTINEZ A FAZE\ud83d\ude32 #cs2 #esports #hltv",
+                "description": "SIGUEME EN REDES Y NO TE PIERDAS NADA DE MI CONTENIDO   KICK https://kick.com/bopomo TWITCH ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1Y0Gl9_dLgw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1Y0Gl9_dLgw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1Y0Gl9_dLgw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bopomo GZ CS2",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:36:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fgzwdmtKTEmNbhm2xI9yNpa8Wrk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ktsElVxrbdw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:26:41Z",
+                "channelId": "UC00c_HMwews3UArujN-Lf6Q",
+                "title": "This Mirage Trick Works Every Time in CS2",
+                "description": "counterstrike #counterstrike2 #cs2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ktsElVxrbdw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ktsElVxrbdw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ktsElVxrbdw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NartOutHere",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:26:41Z"
+            }
+        }
+    ]
+}

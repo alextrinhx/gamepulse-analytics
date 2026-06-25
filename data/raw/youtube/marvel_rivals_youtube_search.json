@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "NjL6fL-PorG-US8fBin-qHuKSMM",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 118021,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a1OgATsQJeIkza08IymA214EX20",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lvGEkz2dAho"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:52:06Z",
+                "channelId": "UCMXp8-441h5pJbinnqRSf0w",
+                "title": "My Magik is still a threat -Marvel Rivals-",
+                "description": "The Empress of (Limbo) #marvelrivals #marvel #magik #gaming #dre3713 #playstation #growyourchannel #youtubegrowth #fyp ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lvGEkz2dAho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lvGEkz2dAho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lvGEkz2dAho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dre",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T02:52:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aiDkgVNr7b5FpmP-d4Pt0tnpQxw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nPD4ACFHzOc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:46:46Z",
+                "channelId": "UCS3CXA4Um4Mh7Qa_KeLyuHw",
+                "title": "The best of Marvel Rivals #marvelrivals #devildinosaur #marvel #viral",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nPD4ACFHzOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nPD4ACFHzOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nPD4ACFHzOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bartholemuel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T02:46:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VvqlCi67_I4dKiAwUs2GG00-faU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LvO-t6B1na4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T02:22:49Z",
+                "channelId": "UCoKKe0XN5Zc1lSTi1_utNOw",
+                "title": "Marvel Rivals UNC is BACK (NEW DROPS ON MY TWITCH)",
+                "description": "SUB NOW!!! Make sure to SUBSCRIBE and HIT THE BELL Become a MEMBER: https://www.youtube.com/@Jay3/join I'm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LvO-t6B1na4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LvO-t6B1na4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LvO-t6B1na4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jay3",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T02:22:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MEYZ3S619AexH-BpXmVnPhncg1U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FN9u8dkOd80"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T00:38:32Z",
+                "channelId": "UCKSWT_9SQYIEbGnyD0zR9nA",
+                "title": "Wolverine Classic Crashout \ud83d\ude2d#funny #marvel #rivals  #comment",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FN9u8dkOd80/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FN9u8dkOd80/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FN9u8dkOd80/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bevan Babineaux",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T00:38:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yCJ3ATbnxH5Iy60MAReKUZo5_pI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bdgc6AqZ2_g"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T00:30:19Z",
+                "channelId": "UCcRYBqsKwBH_2yMKc5QoE0w",
+                "title": "he threw that match \ud83e\udd40 #marvelrivals #marvel #rivals",
+                "description": "marvelrivals #marvel #rivals.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bdgc6AqZ2_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bdgc6AqZ2_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bdgc6AqZ2_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Invasion Show",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T00:30:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a6KNXD-W95n3lp8hnzoIP5Md_bo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EQdYqXNfYDY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:36:42Z",
+                "channelId": "UCO1RaID33uvGW1EtoMSHygA",
+                "title": "Marvel Rivals Just Ruined The Game For Everyone!",
+                "description": "Nice 10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo FIND ME IN THESE PLACES: linktr.ee/Khyo #marvel ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EQdYqXNfYDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EQdYqXNfYDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EQdYqXNfYDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Khyomaru",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:36:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "52yrilEpD4YBMFYLc25GkT-Lm6A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SwggifEXKSU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:27:17Z",
+                "channelId": "UCwUM695Trp3dhL5z27c7qAQ",
+                "title": "The current state of the Marvel Rivals community (A crashout rant)",
+                "description": "Lytes video for context- https://youtu.be/ljOBNZ9UOQs?si=qhjXjPnj3l4JUPe7 The Marvel Rivals community is at war again.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SwggifEXKSU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SwggifEXKSU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SwggifEXKSU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "xFatherDarkx",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:27:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vNl0NI-7iwPTXMXjPMGtd7_2Mmw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tLhrXsBmcRU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:39:54Z",
+                "channelId": "UCSi-jMP9XaKiq19FySHfFwQ",
+                "title": "\ud83d\udea8 \u00daLTIMAS UNIDADES GRATIS + PRIMERA SKIN LEGENDARIA DE WIDOW!! \ud83d\udd25\ud83d\udcb0\ud83c\udfae",
+                "description": "Esta semana en Marvel Rivals llegan las \u00daLTIMAS UNIDADES GRATIS de las 2500 prometidas, junto con nuevas recompensas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tLhrXsBmcRU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tLhrXsBmcRU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tLhrXsBmcRU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CYRET RIVAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:39:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bYMYpz9NImAhdtqIhJ6JI_CPFfs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rwWCjQrgyjY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:09:06Z",
+                "channelId": "UCjCb-0rN6mtzG87rjBQhOIQ",
+                "title": "Revisiting Marvel Rivals (Day 6) \ud83d\udcdd | !schedule",
+                "description": "Part of the process of discovering what game to replace Overwatch with is to try Marvel Rivals again. \u200d\u2642\ufe0f -- Support Me ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rwWCjQrgyjY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rwWCjQrgyjY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rwWCjQrgyjY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gamin4Hope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:09:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l759awi5ph8QevfDHrB4VVNDOW4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SopAXrq_ewE"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:35:21Z",
+                "channelId": "UCd8NFPdgSZcQth4fcQZulEQ",
+                "title": "\ud83d\uded1 THE MARVEL RIVALS GRIND BEGINS \ud83d\uded1",
+                "description": "Become a Member Here - https://www.youtube.com/@SymfuhnyTV/join LIKE and SUBSCRIBE with NOTIFICATIONS ON if you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SopAXrq_ewE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SopAXrq_ewE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SopAXrq_ewE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Symfuhny",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:35:21Z"
+            }
+        }
+    ]
+}

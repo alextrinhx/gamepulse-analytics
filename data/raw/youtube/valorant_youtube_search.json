@@ -1,11 +1,11 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "JdoZZPQ7Ii0kcL-XD8wQSzKeBJA",
-    "nextPageToken": "CAoQAA",
+    "etag": "L2SAJBSGY9ZwLSs84x5o8caINrk",
+    "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 667960,
-        "resultsPerPage": 10
+        "totalResults": 860999,
+        "resultsPerPage": 50
     },
     "items": [
         {
@@ -146,41 +146,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "AC630buiBcN6HZXGg_ZAtoidGbs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "3k7gAnjopBc"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-25T02:49:54Z",
-                "channelId": "UCDXpSIu_aNIkbbvBnsedTLA",
-                "title": "#Outplayedtv 4 kills x WON #fyp ##valorantclips #ValorantPH #valorant #shorts",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/3k7gAnjopBc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Mitzy A.",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-25T02:49:54Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "LyIGTcmVwEcxxZiozH5JOaI5PNw",
+            "etag": "I6vTWirDJknVbFl-8RkdGtbaSZ0",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "ZVoQ7xZD6M8"
@@ -210,40 +176,6 @@
                 "channelTitle": "NesKy",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-25T02:45:11Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ygfZ7Tvdfp7K990Bus1-FNhPGts",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "KJ_k46mqNpI"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-25T01:37:40Z",
-                "channelId": "UCWRPqA0ehhWV4Hnp27PJCkQ",
-                "title": "\u3010 Splatoon3 \u3011\u795e\u30eb\u30fc\u30eb\u3060\u3063\u305f\u304b\u3089\u305d\u308a\u3083\u3084\u308b\u3057\u304b\u306a\u3044\u304b\u3010\u306b\u3058\u3055\u3093\u3058/\u7345\u5b50\u5802\u3042\u304b\u308a\u3011",
-                "description": "\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3074\u304b\u3074\u304b\u306e\u5f15\u304d\u3053\u3082\u308a\u30cb\u30fc\u30c8\u7345\u5b50\u5802\u3042\u304b\u308a\u3067\u3059\u3002 \ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u2316\ua673\u2727\u02d6\u00b0\u22c8 \u0ed2\ua4b1\u2316\ua673\u2727\u02d6\u00b0\u22c8 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KJ_k46mqNpI/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "\u7345\u5b50\u5802 \u3042\u304b\u308a / Shishido Akari\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-                "liveBroadcastContent": "live",
-                "publishTime": "2026-06-25T01:37:40Z"
             }
         },
         {
@@ -346,6 +278,1434 @@
                 "channelTitle": "Adilswrld",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-25T00:17:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XtX0ssiQbNdT3YtMmv7z2xtVzpU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VQHOWlpZk7k"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T23:50:16Z",
+                "channelId": "UCZlXOOS3RIUV7Eg5StSpUig",
+                "title": "\u3010VALORANT\u3011\u908a\u9672\u7d00\u5143\u795e\u5c04\u7684\u9b45\u529b\u6240\u5728\u5c31\u5728\u9019\u88e1 #\u516b\u96e8\u30ca\u30aeLIVE #\u53f0\u7063vtuber  #\u53f0v #valorant #vtuber #valorantclips #\u7279\u6230\u82f1\u8c6a",
+                "description": "\u5982\u679c\u559c\u6b61\u6211\u7684\u5f71\u7247\u4e0d\u8981\u5fd8\u8a18\u6309\u8b9a\u8a02\u95b1\u5594! \u516b\u96e8\u5e73\u6642\u6703\u5728YT\u6216\u8005Twitch\u76f4\u64ad\u8b1d\u8b1d\u4f60\u5011\u5566!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VQHOWlpZk7k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VQHOWlpZk7k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VQHOWlpZk7k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nagi Ch. \u516b\u96e8\u30ca\u30ae",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T23:50:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FxLy9HZYMedMqiat13xWh4JCeU4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zcRCqVZk1Ns"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T23:30:29Z",
+                "channelId": "UCW9kHEzkD_kXmD2IXRkiV4A",
+                "title": "Insane Valorant Play #amgbutter #valorantclips #valorant #CLUTCH #tenz  #Shorts #ytshorts  #toxicrp",
+                "description": "Insane Valorant Play #amgbutter #valorantclips #valorant #CLUTCH #tenz #Shorts #ytshorts #toxicrp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zcRCqVZk1Ns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zcRCqVZk1Ns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zcRCqVZk1Ns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AMG_BUTTER",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T23:30:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jDFrRAFKJB7DB1vidxzAhjyq1Yk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_uUsfTGnWGA"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:00:03Z",
+                "channelId": "UCISWk92AMJLF59sb8bbR67g",
+                "title": "\u30aa\u30da\u3067\u6575\u3092\u9806\u756a\u306b\u6d88\u3057\u3066\u3044\u304fHals #valorant",
+                "description": "\u662f\u975e\u30b3\u30e1\u30f3\u30c8\u3001\u9ad8\u8a55\u4fa1\u3001\u305d\u3057\u3066\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u306e\u65b9\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\uff01 \u25c7Credits https://www.twitch.tv/valorant_jpn.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_uUsfTGnWGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_uUsfTGnWGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_uUsfTGnWGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u30f4\u30a1\u30f4\u30a1\u30f4\u30a1\u3010VALORANT CLIP\u3011",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y0ZnPOND69nHtm0qF5Em59HhEBg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Xbef9KvEWxw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:47:27Z",
+                "channelId": "UCRm3UqpwcxDmoPT9PKn4qPw",
+                "title": "TRYHARD M\u00c1XIMO - TROCAR TIRO \u00c9 MEU \u00daNICO OBJETIVO HOJE - SPEEDRUN ELO NOVO ATO \ud83c\udfc6 !Growth | \ud83c\udfc6 !Bonoxs",
+                "description": "ABSOLUTAMENTE O MELHOR RADIANTE DO VALORANT BRASILEIRO. LIVE TODOS OS DIAS A PARTIR DAS 16:00 DA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xbef9KvEWxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xbef9KvEWxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xbef9KvEWxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TcK10",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:47:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DunPkh_cpRGQ8je5hESue4NDd60",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RbTM86xiAhw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:25:03Z",
+                "channelId": "UCqdrhUKCuzUnAU-t_ZoSEvw",
+                "title": "Bunu Hi\u00e7 Tahmin Etmemi\u015ftim :D #valorant #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RbTM86xiAhw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RbTM86xiAhw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RbTM86xiAhw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EmirV2TR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:25:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jEJK24k2KUsBWc-r7wM-cEhcPfk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J3XvY1yuUr0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:48:06Z",
+                "channelId": "UCIGdEoFOsZsjoqpMl0vhvHA",
+                "title": "how does bro even know this information \ud83d\ude2d\ud83e\udd40 #valorant #valorantfunny #gaming #adilswrld",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J3XvY1yuUr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J3XvY1yuUr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J3XvY1yuUr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Adilswrld",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:48:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dGAGJdZXjcV-GBLVxPZ8-VnTytk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PqXzywNT9Gg"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:40:18Z",
+                "channelId": "UCOEZS-44dq2a4TMk3UWVeng",
+                "title": "\ud83d\udd34 UCAM vs MIR | EMEA Challengers 2026 Stage 3 | Valorant Ti\u1ebfng Vi\u1ec7t",
+                "description": "Challengers 2026: EMEA Stage 3 | Tr\u1ef1c Ti\u1ebfp Ti\u1ebfng Vi\u1ec7t Challengers 2026: EMEA Stage 3 l\u00e0 gi\u1ea3i \u0111\u1ea5u c\u1ea5p \u0111\u1ed9 Challengers h\u00e0ng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PqXzywNT9Gg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PqXzywNT9Gg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PqXzywNT9Gg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VLR Ti\u1ebfng Vi\u1ec7t",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:40:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jBoAQNOuk5VQMXnRilOpuo0FrC0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vBSuPaDfnSc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:17:34Z",
+                "channelId": "UCqa9qZ3dUGzohy4BPGil36g",
+                "title": "Last chance to get Champions 2021 skins! Valorant Premier with subscribers!",
+                "description": "Yo everyone, TenZ here! Chat is off right now. I just came out of a tournament and will talk about it soon! #valorant ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vBSuPaDfnSc/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vBSuPaDfnSc/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vBSuPaDfnSc/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TenZ's Lives",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T20:17:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GlbdAJ9gwkWStBu-QHKlTmBWZY8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O7hksthf9UU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:15:30Z",
+                "channelId": "UCFI6Psh1awq0zP5BaVr4clw",
+                "title": "Bringing VALORANT Home \u2013 Unboxing Some Fan Items \ud83c\udfe0\ud83c\udf81 #valorant #rgx11zpro #kuronami #champion2025",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O7hksthf9UU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O7hksthf9UU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O7hksthf9UU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ValorantKnifeUnboxing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:15:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_DANyBnARyXc0iSdOEKVMkY7vX0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lzB6rhwsajY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:03:05Z",
+                "channelId": "UCqa9qZ3dUGzohy4BPGil36g",
+                "title": "TenZ: The exclusive Arcane Sheriff skins are back \u2014 but not for long",
+                "description": "Hello everyone! TenZ here. Chat is currently unavailable. I had a busy tournament day and will update you all soon. #valorant ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lzB6rhwsajY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lzB6rhwsajY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lzB6rhwsajY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TenZ's Lives",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T20:03:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ey6ZOYuIgZFfzuILEGDk-dJmm6k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kxHVjP4d0t0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:43:15Z",
+                "channelId": "UCqa9qZ3dUGzohy4BPGil36g",
+                "title": "TenZ: The exclusive Arcane Sheriff skins are back \u2014 but not for long",
+                "description": "Hello everyone! TenZ here. Chat is currently unavailable. I had a busy tournament day and will update you all soon. #valorant ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kxHVjP4d0t0/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kxHVjP4d0t0/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kxHVjP4d0t0/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TenZ's Lives",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T19:43:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CmmAsbhpkSgZsBJD5mRSMpmi2Sg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t-tUIssI8WQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:27:16Z",
+                "channelId": "UCrfyyS0SKv_HAeP7v9qkFYA",
+                "title": "Ranking Every Agent on Summit | VALORANT",
+                "description": "Summit went live today for everyone in VALORANT, so I wanted to rank every agent in the game in terms of how good they are on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t-tUIssI8WQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t-tUIssI8WQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t-tUIssI8WQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kanga",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:27:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wQcY6oNKoHBRkDQyCZSMVL4tTkU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1A35CBNA-eg"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:23:01Z",
+                "channelId": "UCEwCSAF-j_Vr3EYpb_nZXRg",
+                "title": "TenZ: Get your Arcane Sheriff right now! Streaming with subs in Valorant!",
+                "description": "TenZ is back on Valorant, this time with the iconic Arcane Sheriff in hand. Watch as he tears through ranked with crisp one taps ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1A35CBNA-eg/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1A35CBNA-eg/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1A35CBNA-eg/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ten'z live",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T19:23:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lFJaOeNJOso80DKnql7MfBCcgLo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QGtc2ZSyUw0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:22:38Z",
+                "channelId": "UCEwCSAF-j_Vr3EYpb_nZXRg",
+                "title": "TenZ: Get your Arcane Sheriff right now! Streaming with subs in Valorant!",
+                "description": "TenZ is back on Valorant, this time with the iconic Arcane Sheriff in hand. Watch as he tears through ranked with crisp one taps ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QGtc2ZSyUw0/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QGtc2ZSyUw0/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QGtc2ZSyUw0/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ten'z live",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T19:22:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EFzKLMAfmhFF-3LkUMCCmv7OR-4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "T9SI4Xzj-QU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:15:17Z",
+                "channelId": "UCs2Mth6jVMxc1TWTKbCCtYw",
+                "title": "TenZ: Get your Arcane Sheriff right now! Streaming with subs in Valorant!",
+                "description": "TenZ is back on Valorant, this time with the iconic Arcane Sheriff in hand. Watch as he tears through ranked with crisp one taps ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T9SI4Xzj-QU/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T9SI4Xzj-QU/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T9SI4Xzj-QU/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T\"enz live",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T19:15:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2CMu33XLvkMGqVJrEPc8GrLKVAo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GQrUBWWf3n4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:15:22Z",
+                "channelId": "UCwcAmErkjJ5dulfrrZjrQEw",
+                "title": "Pride month got unc acting crazy \ud83d\udc80 #subroza #valorant",
+                "description": "Thanks for watching! LIKE & SUBSCRIBE if you want more. FOLLOW ME @ TWITCH \u2794 https://www.Twitch.tv/Subroza ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GQrUBWWf3n4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GQrUBWWf3n4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GQrUBWWf3n4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Subroza",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:15:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "abmdg164fepRgAcvvhIplKTjV6c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EGxTzG2VKFY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:15:28Z",
+                "channelId": "UCs2Mth6jVMxc1TWTKbCCtYw",
+                "title": "TenZ: Get your Arcane Sheriff right now! Streaming with subs in Valorant!",
+                "description": "TenZ is back on Valorant, this time with the iconic Arcane Sheriff in hand. Watch as he tears through ranked with crisp one taps ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EGxTzG2VKFY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EGxTzG2VKFY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EGxTzG2VKFY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T\"enz live",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T19:15:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KoC4pEvE6wfefi3u3zwJ7KYJW-c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZBWRyXJcNRw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:45:18Z",
+                "channelId": "UCTG85qeeUOlEcKKlvq8sg_Q",
+                "title": "Every VALORANT Fan Needs These \u2013 Unboxing \ud83c\udfae\u2764\ufe0f #valorant #rgx11zpro #kuronami #champion2025 #jett",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZBWRyXJcNRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZBWRyXJcNRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZBWRyXJcNRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LEONEUNBOXING",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:45:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZCnuyZiNWGMldKJWirqMJDCukgo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wQH0X8QjBK4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:38:09Z",
+                "channelId": "UCs2Mth6jVMxc1TWTKbCCtYw",
+                "title": "TenZ: Get your Arcane Sheriff right now! Streaming with subs in Valorant!",
+                "description": "TenZ is back on Valorant, this time with the iconic Arcane Sheriff in hand. Watch as he tears through ranked with crisp one taps ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wQH0X8QjBK4/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wQH0X8QjBK4/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wQH0X8QjBK4/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T\"enz live",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T18:38:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kJBCdBmkVjalVOypprQTOljgJmc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XxdvLg7O3Mc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:06:28Z",
+                "channelId": "UCZLsRSXIh4GIuMaboMp7L1g",
+                "title": "TenZ: Get your Arcane Sheriff right now! Streaming with subs in Valorant!",
+                "description": "TenZ is back on Valorant, this time with the iconic Arcane Sheriff in hand. Watch as he tears through ranked with crisp one taps ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XxdvLg7O3Mc/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XxdvLg7O3Mc/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XxdvLg7O3Mc/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T\"en'Z Live",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T18:06:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JSujoA0rMhAQGkjA0TB1akuP6Hs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zQEedGuBdUw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:06:54Z",
+                "channelId": "UCZLsRSXIh4GIuMaboMp7L1g",
+                "title": "TenZ: Get your Arcane Sheriff right now! Streaming with subs in Valorant!",
+                "description": "TenZ is back on Valorant, this time with the iconic Arcane Sheriff in hand. Watch as he tears through ranked with crisp one taps ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zQEedGuBdUw/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zQEedGuBdUw/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zQEedGuBdUw/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T\"en'Z Live",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-24T18:06:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0FPnPIRuoEqJ475B80wQV2MU8vo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OWFqkmPZ9uo"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:59:48Z",
+                "channelId": "UCK8MjJDppR8C-LWhwFjXbkw",
+                "title": "La pause fraicheur sur VALORANT.. #valorant #valorantfr #twitch #ragevl",
+                "description": "abonne toi pour me soutenir.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OWFqkmPZ9uo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OWFqkmPZ9uo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OWFqkmPZ9uo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RaGe",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:59:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cYEFc0AIl4fKrSPOQJN5OJgw6tQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b4mkPA2Q_CE"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:52:50Z",
+                "channelId": "UCA1d3HFGFUmkKr2JIUA5Vlw",
+                "title": "Player cams of PRX after their tough loss against LEV. #valorantmasters #valorant #shorts #vct",
+                "description": "Download VALORANT now: https://playvalorant.com/download/ Follow the VALORANT Champions Tour on social media for more ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b4mkPA2Q_CE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b4mkPA2Q_CE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b4mkPA2Q_CE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VALORANT Champions Tour",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:52:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TtyYNFHR53gnRZsSdurjNdem8Pw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "suit3ruoBqI"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:26:08Z",
+                "channelId": "UCMFmLRffPn3jcibE79ufbYw",
+                "title": "m\u2019enfin bref\u2026 #valorant",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/suit3ruoBqI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/suit3ruoBqI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/suit3ruoBqI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "katarsis",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:26:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iQou43vctp4e-kwoSsyA-qbTPkU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i5a_bn7H30Y"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:23:09Z",
+                "channelId": "UCMFmLRffPn3jcibE79ufbYw",
+                "title": "C\u2019EST QUOI VOS RANKS ?? #reset #valorant",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i5a_bn7H30Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i5a_bn7H30Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i5a_bn7H30Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "katarsis",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:23:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tIXe4BfSB8WGpMskPIpGz0t_Dtg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-QBR0VyhJBU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:03:58Z",
+                "channelId": "UCJW4l-P0ExPXcwG80VlsYdw",
+                "title": "New Map 1V2 Yoru Clutch \ud83e\udd29 #valorant",
+                "description": "Hi everyone, I'm Wenarixx, if you like the video don't forget to like and subscribe ^^ Enjoy watching. Don't forget to like the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-QBR0VyhJBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-QBR0VyhJBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-QBR0VyhJBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wenarixx",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:03:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yrit2vfndBh5gDXAcE59PESkizg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WflazhePpOE"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:16Z",
+                "channelId": "UCZRH94I89Ps7giJYeK6DlWA",
+                "title": "\ubc18\ub3d9\uc774 \uc5c6\ub294 \uac83 \uac19\uc740 \uc774\ubc88 \uc2e0\uc2a4\ud0a8? #\ubc1c\ub85c\ub780\ud2b8 #valorant #shorts #\uc2e0\uc2a4\ud0a8",
+                "description": "\uad11\uace0\ud611\ucc2c / \ud300 \uad00\ub828 \ubb38\uc758 : biz@onsidecompany.co.kr \u00b7 \uad11\uace0 / \uac1c\uc778 \ubb38\uc758 : engur15963@naver.com \u00b7 \uc232 \uc0dd\ubc29\uc1a1 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WflazhePpOE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WflazhePpOE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WflazhePpOE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\ubc84\ub2c8\ubc84\ub2c8",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0zGvBngNuQkyFCtr4l6mSUOOrxA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z8Sguy1PGxk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T15:49:41Z",
+                "channelId": "UCkF3OMV601tcm7agVLlurzA",
+                "title": "New Valorant Map Summit Cypher #valorant #valorantclips #funnygaming #valoranthighlights #cypher",
+                "description": "I feel like this map is made for cypher = Defense Map.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z8Sguy1PGxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z8Sguy1PGxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z8Sguy1PGxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Season 1 Act 1 Gold Cypher",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T15:49:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zBchiyTGUprOXCoa1vndHbaKXAQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lE1eESRfnRw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T15:34:05Z",
+                "channelId": "UC1eoVGI0W25fqRLMygDwwEA",
+                "title": "where was bro looking\ud83d\udc40?  #gaming #valorant #valorantclips",
+                "description": "valorant #valorantclips #gamer #gaming i make make shorts to make people happy and show my fun or clutch moments with youn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lE1eESRfnRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lE1eESRfnRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lE1eESRfnRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "valx",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T15:34:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Cf1jNNav91cMAq_8W8dOPziNDZU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HhbOfxj4QaM"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T15:02:03Z",
+                "channelId": "UCw_E-7gQdm3kJiopdkPvXwA",
+                "title": "Tudo que vai mudar no VALORANT hoje! #valorant #valorantdicas #valoranttips #valorantbrasil",
+                "description": "Nesse v\u00eddeo eu te mostro todas as novidades que vir\u00e3o nessa atualiza\u00e7\u00e3o. Teve nerf no Omen, buff nos iniciadores e sentinelas, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HhbOfxj4QaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HhbOfxj4QaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HhbOfxj4QaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Freitinha",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T15:02:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ilSwYWozyZqMZ7UNKOujy54L4L4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GQ6eC4Quyiw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T15:02:44Z",
+                "channelId": "UCBU31wAwwkT92O7mXAD4TWQ",
+                "title": "This VALORANT Meta",
+                "description": "Shotgun, smoke camps, Neons and crouch peeking? let's fix that #valorant #valorantclips #esports.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GQ6eC4Quyiw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GQ6eC4Quyiw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GQ6eC4Quyiw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Oblivity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T15:02:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XXxk8r8S5C-cUKXjQTYy1Mb4LqA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SszrJFiu_m8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:53:27Z",
+                "channelId": "UCzTf0a2K01bknx_ySCeJMWw",
+                "title": "bu o\u00e7a kim hesap satt\u0131 | valorant son g\u00fcn ZOMB\u0130LER\u0130",
+                "description": "BU LINK'TEN KAYIT OLUP ALI\u015eVER\u0130\u015e YAPARSANIZ BANA DA DESTEK OLURSUNUZZZ: https://per.digital/cptnvp ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SszrJFiu_m8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SszrJFiu_m8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SszrJFiu_m8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "cptN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:53:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "b9f4DN7ip8sD0Qnf3kfVeZwd6OI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RAXLWD5UJkg"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:41:18Z",
+                "channelId": "UCjFP0fx6NfV29exe0bn8NdQ",
+                "title": "i\u00e7erik \u00e7ekmek i\u00e7in erken eri\u015fim girmi\u015fsindir ama kar\u015f\u0131ya schewesa gelmi\u015ftir #valorant #valorantedit",
+                "description": "Selam ya videonun tam halini youtube kanal\u0131mdan izleyebilirsiniz - https://www.instagram.com/schewesavl/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RAXLWD5UJkg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RAXLWD5UJkg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RAXLWD5UJkg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Schewesa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:41:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ApJ55yKk-QHYsUdazmB3J5nnkXg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qx9M9_NLs_g"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:15:35Z",
+                "channelId": "UCLPZfd-CtP6lEO3T8A1xjvQ",
+                "title": "\ubc1c\ub85c\ub780\ud2b8 \ub85c\uadf8 \ubc34\ub2ec \ub9ac\ubdf0",
+                "description": "\ubc1c\ub85c\ub780\ud2b8 #valorant #shorts \ub354\ube59: @\ub0e5\ub0e5\uaf41\ub0e5\ucad1\ub0e5.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qx9M9_NLs_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qx9M9_NLs_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qx9M9_NLs_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\uc81c\ub85c\ud551",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:15:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i-J50zbg8TbbJOQFmUdYnOoJ-IY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BtR_5Rer0Nk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:05:14Z",
+                "channelId": "UCzVgCrOcBAWYEHTtVOMPAtw",
+                "title": "VALORANT Challengers Japan 2026 Split 2 Main Stage Day 10",
+                "description": "[JP] VALORANT Challengers Japan 2026 Split 2 Main Stage Day 10 00:00 OPENING 000:16:16 RIDDLE vs AGELITE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BtR_5Rer0Nk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BtR_5Rer0Nk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BtR_5Rer0Nk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VALORANT // JAPAN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:05:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fva-usCqE9uSxyVfgHH6lItlXZQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r9sz5y8m75Q"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:00:01Z",
+                "channelId": "UCdGP2ucahm6Tp2ENGlQ2zZw",
+                "title": "How to Silent Jump in #valorant",
+                "description": "I teach you how to silent jump with a Charles inferno remix playing Join the discord in my Bio and Follow me on Twitch.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r9sz5y8m75Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r9sz5y8m75Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r9sz5y8m75Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tactical ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "I7MqUH3ItWQaYZdGIhXj-tvE2n4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cYCM4Rzuf6U"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T13:37:49Z",
+                "channelId": "UCgIriwgZBo34xOp96Xsp4Yw",
+                "title": "Career Highlights... #valorant #vct #costream #buythefutbundle",
+                "description": "Play Fantasy Valorant here: https://www.valorantfantasyleague.net My Twitch is here: https://www.twitch.tv/thinkingmansvalo Join ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cYCM4Rzuf6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cYCM4Rzuf6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cYCM4Rzuf6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thinking Man's Valorant",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T13:37:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jNk38PjOrjgaCcE0t_OV1c1Wflo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ubouyj19Wpc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T13:00:31Z",
+                "channelId": "UC-xPIaioV9oAIvBITiZyYFw",
+                "title": "MYTH busting auf der NEUEN MAP! #valorant",
+                "description": "Wenn euch das Video geholfen hat lasst gerne ein Like & Abo da! #valorant Schaut auch gerne hier vorbei Twitch: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ubouyj19Wpc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ubouyj19Wpc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ubouyj19Wpc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cronix",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T13:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y5ltdo4XgKSLJZkvUEUqQ0PQVG0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R1EODf_XhtQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T13:00:09Z",
+                "channelId": "UCCM6caRc_99BnDmAc6Qktrg",
+                "title": "Neon Summit SUPERSLIDE TUTORIAL | Neon Movement tutorial #valorant #viral #neonmain #valorantneon",
+                "description": "If you enjoyed the video remember to subscribe and like! https://discord.gg/xf5w6yAdGj Neon is the agent I play on Valorant ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R1EODf_XhtQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R1EODf_XhtQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R1EODf_XhtQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "moppi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T13:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ryvykhYdyVkRXNKYpwRegnNQm0U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7oqMSaPfq9w"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T12:53:00Z",
+                "channelId": "UCp0LY_bwFSNs5zakquhDE1A",
+                "title": "POURQUOI TU n&#39;as PAS RE\u00c7U ton BUDDY V26 ! #shorts #gaming #valorant !",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7oqMSaPfq9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7oqMSaPfq9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7oqMSaPfq9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Falka",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T12:53:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kSjAdhAupoBESRwAsOtykQnbsNY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DP98GLYrrxk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T12:45:37Z",
+                "channelId": "UCZuwdnoVj_Peb0x7gkkVg_Q",
+                "title": "\u4f55\u3067\u3082\u3067\u304d\u308b\u3084\u3093 #shorts  #valorant  #valorant\u30af\u30ea\u30c3\u30d7  #valorant\u30b7\u30e7\u30fc\u30c8  #\u30f4\u30a1\u30ed\u30e9\u30f3\u30c8 #valorant\u8b1b\u5ea7 #\u65b0\u30b7\u30fc\u30ba\u30f3 #\u65b0\u30b9\u30ad\u30f3 #\u65b0\u30de\u30c3\u30d7",
+                "description": "\u3010Delight\u3011\u307b\u307c\u6bce\u65e5\u9854\u51fa\u3057\u3067\u30dc\u30a4\u30d1\u3057\u306a\u304c\u3089VALORANT\u3057\u3066\u307e\u3059\u3002 \u529b\u7121\u3057\u3001\u91d1\u7121\u3057\u3001\u5730\u4f4d\u7121\u3057\u3001\u540d\u8a89\u7121\u3057\u3001\u4eba\u6a29\u7121\u3057\u306e\u9650\u754c ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DP98GLYrrxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DP98GLYrrxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DP98GLYrrxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u305f\u304f\u308d\u30fc",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T12:45:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "B7Q6hUShhULpKvchN3gxSkOFpEY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FvMVh2ZsHfs"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T12:15:14Z",
+                "channelId": "UCvrva5LlQ661npPHlfugYVw",
+                "title": "The reality behind the walls #valorant",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FvMVh2ZsHfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FvMVh2ZsHfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FvMVh2ZsHfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ailincia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T12:15:14Z"
             }
         }
     ]

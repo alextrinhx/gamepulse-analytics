@@ -1,13 +1,81 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "5hDc3IKxtGx50CBf5QNP38u42Zw",
-    "nextPageToken": "CAoQAA",
+    "etag": "WD99O85gkvqwuefxtYWfg3Zzxlo",
+    "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
         "totalResults": 1000000,
-        "resultsPerPage": 10
+        "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DDoZzo5PYIIvVmGodi09gmDZpFI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mXkqMFofP14"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T04:45:43Z",
+                "channelId": "UCjBCYLdTuqbOmBG8dcS96yA",
+                "title": "Why Elon Musk refuses to play League of Legends! \ud83c\udfae\ud83d\ude80",
+                "description": "Kai Trump puts Elon Musk on the spot with a simple question about his gaming habits. While most people might jump into a match ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mXkqMFofP14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mXkqMFofP14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mXkqMFofP14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AverageDayJoes",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T04:45:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7jiUOvkG5Go2yXKslAumtqHUFfA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "40HP7j_ZkSM"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T04:06:17Z",
+                "channelId": "UCAHQGIKolfBfoeXXMY79SBA",
+                "title": "\u3010 League of Legends \u3011TOP\u30ec\u30fc\u30ca\u30fc\u306e\u306f\u3058\u3081\u306e\u4e00\u6b69\uff01\uff01\uff01\uff01 w/\u308f\u3057\u3060\u3044\u3055\u3093\u3010\u767d\u90a3\u3057\u305a\u304f / \u30cd\u30aa\u30dd\u30eb\u30c6\u3011",
+                "description": "\u30b5\u30e0\u30cd\u30a4\u30eb\u30a4\u30e9\u30b9\u30c8 @ anku_alpaca \u69d8 \u30cd\u30aa\u30dd\u30eb\u30c6\u6240\u5c5e 5\u671f\u751f\u306e \u767d\u90a3\u3057\u305a\u304f \u3067\u3059 \u30e1\u30f3\u30d0\u30fc\u30b7\u30c3\u30d7\u767b\u9332\u306f\u3053\u3061\u3089\u25bd ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/40HP7j_ZkSM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/40HP7j_ZkSM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/40HP7j_ZkSM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u767d\u90a3\u3057\u305a\u304f",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-25T04:06:17Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "akVAVUXxx20G4qRexYul549M4gU",
@@ -346,6 +414,1298 @@
                 "channelTitle": "Sakhiboiha",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-24T22:31:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DJa7GRhRuVKjhtOw1wT3RVldDLM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6Lzc2bXFrok"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:15:44Z",
+                "channelId": "UCbqpZInu-pjnBIy5sbh7Eag",
+                "title": "3 Minute Locke Guide - A Guide for League of Legends",
+                "description": "Got 3 minutes spare? Why not take a quick look at how to play Locke Jungle! Locke is League of Legend's newest champion and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Lzc2bXFrok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Lzc2bXFrok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Lzc2bXFrok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3 Minute League of Legends",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:15:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QHY2lt_SdKolXQ1je0ZXAtRLa7o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nUCtYJLGog0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:10:22Z",
+                "channelId": "UCcvtUamkikliErN0pNIt7Qg",
+                "title": "The MSI 2026 got Announced for League of Legends with a NEW skin for Jhin!",
+                "description": "The MSI 2026 just got announced and with it Riot has shown off the NEW Broken Covenant Jhin Skin and it looks AMAZING!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nUCtYJLGog0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nUCtYJLGog0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nUCtYJLGog0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RedTheWolf",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:10:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ba3XuAgy6LklatleC6g5UyBh5xQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w0rHiF4jMic"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:01:38Z",
+                "channelId": "UC6zy2t6yhNyy879DjjWp3ug",
+                "title": "League of Legends random clips 855 #shorts #leagueoflegends #randomclips",
+                "description": "song name is \"It\u00b4s All Happening - Huma-Huma\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w0rHiF4jMic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w0rHiF4jMic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w0rHiF4jMic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MrAchsas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:01:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QPOIfIfjEBJeng9v2pNGFOenWU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZvNy4dB2kjk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:51:42Z",
+                "channelId": "UC7wfSA8Q-qC6ef3WLjVM-nw",
+                "title": "Zoe Lilia Renata VS Singed Lilia Senna | League Of Legends Arena",
+                "description": "SUBSCRIBE Zoe Lilia Renata VS Singed Lilia Senna | League Of Legends Arena.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZvNy4dB2kjk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZvNy4dB2kjk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZvNy4dB2kjk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GandaCu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:51:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hepWB02Zn1JyzXZILlDHmD3vL04",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dqwpIKIUCCg"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:28:25Z",
+                "channelId": "UCY3wjdTak_B-xLoK0RdhtjQ",
+                "title": "120% OMNIVAMP RAID BOSS MORDEKAISER! | League of Legends",
+                "description": "Don't forget to like and subscribe to not miss new content! \u2661 \u2193 More Info Below \u2193 Twitch: (https://www.twitch.tv/draconisx) Tiktok: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dqwpIKIUCCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dqwpIKIUCCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dqwpIKIUCCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DraconisX",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:28:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NYKVbypAh7bGJ823ZQcpfvfDic4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CC50--alan4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:25:50Z",
+                "channelId": "UC6InI7JtTDI8-npOBcamZ-g",
+                "title": "MISS FORTUNE AURA - LEAGUE OF LEGENDS #shorts #edit #aura",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CC50--alan4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CC50--alan4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CC50--alan4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Move.",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:25:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FnH6697k488vkMbxcpQrjs4eyGw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lP0EW1drIfQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:12:29Z",
+                "channelId": "UCY9v2SKcMxBl9BacY_-c7lQ",
+                "title": "#shorts \u0421\u0422\u0420\u0418\u041c League of Legends: Wild Rift",
+                "description": "wildrift #leagueoflegends #lol #moba #riotgames #stream \u0417\u0430\u043a\u0430\u0437 \u0433\u0435\u0440\u043e\u044f 350\u0440\u0443\u0431 \u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u043e\u0435 \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0435\u043d\u0438\u0435 50\u0440\u0443\u0431 \u0422\u0440\u043e\u043b\u044c ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lP0EW1drIfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lP0EW1drIfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lP0EW1drIfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WildWR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:12:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kI6fVRvh8PnT3kQfnRurOny5Es0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4HGcY8wmb88"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:00:13Z",
+                "channelId": "UCBFFs28vsi5vnEAs_85N4RA",
+                "title": "Aurora, Jhin e Shen Pacto Quebrado | O design de League of Legends",
+                "description": "REDES SOCIAIS* TikTok: https://www.tiktok.com/@diogoael Facebook: https://www.facebook.com/diogoael/ Twitter: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4HGcY8wmb88/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4HGcY8wmb88/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4HGcY8wmb88/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Diael",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g2qJHl4dbl-f1ujNQC-mC6LhAlw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jVmyZaGWtj8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:40:40Z",
+                "channelId": "UCWMhCH63je_69mfCVfQTrTw",
+                "title": "Azir skins ranking in League of Legends #lol #leagueoflegends #lolskins",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jVmyZaGWtj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jVmyZaGWtj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jVmyZaGWtj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Skycoach League of Legends Community",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:40:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2FkltYrKnB6iVNALdynDeUWO0A0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cVOd-uPGNVk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:30:19Z",
+                "channelId": "UCTqgXuCobq5i_PzreyjlN4w",
+                "title": "Como sobreviver o early game de Nasus - League of Legends #leagueoflegends #lol #wildrift #comojogar",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cVOd-uPGNVk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cVOd-uPGNVk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cVOd-uPGNVk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LoL R\u00e1pido",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:30:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ABia9VivBpTfALGVkZuYV_ugfSc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bkgoozY_PRU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:20:13Z",
+                "channelId": "UCCGr2T_MAiCUeDAfpbtwQkA",
+                "title": "DUPLICA tus FPS en LEAGUE OF LEGENDS con este TRUCO GRATIS! #leagueoflegends #riotgames",
+                "description": "Legue of Legends te va con bajones de FPS o tirones? Utilizando Chris Titus WinUtil puedes conseguir m\u00e1s estabilidad y mejor ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bkgoozY_PRU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bkgoozY_PRU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bkgoozY_PRU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "El Jostiv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:20:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TxEfNP5qx6PgCqL1ARgcgZ7PHBM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KARYfj_mLBQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:10:34Z",
+                "channelId": "UCcoH3OqxaSB9esiPENamo4A",
+                "title": "League of legends #38 - \u0644\u0648\u0644 \u0633\u064a\u0645\u0641\u0648\u0646\u064a\u0629 \u0627\u0644\u0623\u0644\u0645",
+                "description": "\u0644\u0639\u0628\u0646\u0627 \u0627\u0648\u062d\u0634 \u062c\u064a\u0645 \u0645\u0645\u0643\u0646 \u064a\u062a\u0644\u0639\u0628, \u0645\u0639 \u0627\u0646 \u0643\u0644\u0646\u0627 \u0643\u0646\u0627 \u0648\u062d\u0634\u064a\u0646 \u0627\u0644\u0627 \u0627\u0646 \u0643\u0627\u0646 \u0641\u064a\u0647 \u0648\u0627\u062d\u062f \u0627\u0645\u0628\u0648\u0633\u062a\u0631 \u0643\u062f\u0627 \u0643\u0627\u0646 \u0648\u062d\u0627\u0634\u062a\u0647 \u0644\u0627 \u0645\u062b\u064a\u0644 \u0644\u0647\u0627 ------ \u062f\u062e\u0644\u0646\u0627 League of Legends ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KARYfj_mLBQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KARYfj_mLBQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KARYfj_mLBQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vlaalv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:10:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ki2a4GkpaS1iti3NRFYMauDRecM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DnmWDEeb59o"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:00:13Z",
+                "channelId": "UCpUS8oR-IJSP3gFYrGAWEuQ",
+                "title": "LOCKE IS FINALLY HERE, AND OH MY GOD IS HE BROKEN! (BEST BUILD POSSIBLE)",
+                "description": "The Absolute BEST Locke Game You Will Ever See (I DROPPED 37 KILLS) League of Legends season 16 Locke Gameplay!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DnmWDEeb59o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DnmWDEeb59o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DnmWDEeb59o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TC Zwag",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PeuQBSwdJ7F4OTHaYfdtrBoOaMo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mRQ77zFmIGU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:52:36Z",
+                "channelId": "UCckFoY6eQVwnXzGkpR0OLEQ",
+                "title": "league of legends yone mid vs kayn zed",
+                "description": "league of legends yone mid vs kayn zed 1v2 #leagueoflegends #lol #shorts #leagueoflegendsclips #montage #edit.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mRQ77zFmIGU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mRQ77zFmIGU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mRQ77zFmIGU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Loopbreaker",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:52:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "un2QFyG3FG_5DZx2NYjyIsGS3js",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-l4wX2OqEWk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:30:12Z",
+                "channelId": "UCymj-0q6248l7-js9EDxiiA",
+                "title": "JANITOR VAYNE\ud83d\ude33In League of Legends #shorts #league #leagueoflegends #lolshorts #gaming",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-l4wX2OqEWk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-l4wX2OqEWk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-l4wX2OqEWk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Puchakii",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_1KECEWn6PXbj4qKsgmGrzwp5pQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eNk7_oY7zcU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:26:16Z",
+                "channelId": "UCIXKVF_6oj8cth7c8sJRxXg",
+                "title": "League of Legends Graves Kills #gaming #viral #trending #leagueoflegends #shorts #shortvideo #short",
+                "description": "League of Legends Graves Kills #gaming #viral #trending #leagueoflegends #shorts #shortvideo #short.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eNk7_oY7zcU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eNk7_oY7zcU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eNk7_oY7zcU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GameCrashed",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:26:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xr9EvGPuv_kHa59pfa09FOc7ICI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P4dic9H_UOk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:17:35Z",
+                "channelId": "UCwerIBamXRSFHP7oLtJamnA",
+                "title": "King nassir league of legends skin is insane #leagueoflegends #gaming",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P4dic9H_UOk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P4dic9H_UOk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P4dic9H_UOk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "leaksoflegends",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:17:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xeGIjprBcOnAqYHQT9oCgphJOEg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2GNKNhSWkzs"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:00:28Z",
+                "channelId": "UCbyNOb7pC5WD1hkRLNzUKjQ",
+                "title": "PERMA BIND SPAM + ELDER DRAGON BURN SPELLWAKE LUX! | League of Legends 3v3 Arena",
+                "description": "Twitch: https://www.twitch.tv/luminumn Twitter: https://twitter.com/Luminumn Instagram: https://www.instagram.com/luminumn/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2GNKNhSWkzs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2GNKNhSWkzs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2GNKNhSWkzs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luminum",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Zh8u3UyWpjzaGYRbSYuTCn-u520",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b_4PkUkSpIU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:45:37Z",
+                "channelId": "UClRbP7MH9IBhHe4-rFgKb9g",
+                "title": "4PhoeniX - League of Legends - []",
+                "description": "Use the Amazon link https://amzn.to/4myKuso or access it through the channel description to support content creation. Social ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b_4PkUkSpIU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b_4PkUkSpIU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b_4PkUkSpIU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BradoX",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:45:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NXu2c1egtKBaK6fhWh7QfVe7do8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xo1eIxuuXlQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:36:08Z",
+                "channelId": "UC4EAtfYWh1Px1kI-ckbBQDA",
+                "title": "League of Legends: Darius Pentakill #2",
+                "description": "League of legends, Darius pentakill.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xo1eIxuuXlQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xo1eIxuuXlQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xo1eIxuuXlQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hegemon",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:36:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ikaNn7GAAkTDuhzH7FuxigCGHRE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_fvb507ehZg"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:14:35Z",
+                "channelId": "UCg8tEQQ7G2f6PjYZ4aJZAdA",
+                "title": "\ub864 \ucc98\uc74c\ubcf4\ub294 joat\ubc84\uadf8",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_fvb507ehZg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_fvb507ehZg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_fvb507ehZg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\ub098\ubcd1\ud604",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:14:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OOwf0j9pX1DTC1UuC0Yb84smMRY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qUGvwGoB-H8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:15:13Z",
+                "channelId": "UCvZ3jeaJPpsBRrwQyRMMXjw",
+                "title": "Jynxzi is DONE With League of Legends",
+                "description": "Jynxzi is DONE With League of Legends Jynxzi has finally had enough. After countless hours grinding League of Legends on/off ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qUGvwGoB-H8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qUGvwGoB-H8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qUGvwGoB-H8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MultiNecroMan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "S4GKiGtO0_yOCy18b5ecAOMJmqU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "njhKLeHfPow"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:00:38Z",
+                "channelId": "UCS8AEoN56HGGpAU_A6CqAww",
+                "title": "Los CAMPEONES mas DOMINANTES  en la historia del MSI | League of legends",
+                "description": "El msi es el segundo torneo mas importante en el a\u00f1o de league of legends, una competencia que reune a los mejores equipos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/njhKLeHfPow/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/njhKLeHfPow/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/njhKLeHfPow/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hurac\u00e1n Gaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:00:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MpmFeKYYe6b-ZBURrDZMyEXamcw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GtWksql9jkY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:00:22Z",
+                "channelId": "UCBFFs28vsi5vnEAs_85N4RA",
+                "title": "Locke Velho Oeste | O design de League of Legends",
+                "description": "REDES SOCIAIS* TikTok: https://www.tiktok.com/@diogoael Facebook: https://www.facebook.com/diogoael/ Twitter: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GtWksql9jkY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GtWksql9jkY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GtWksql9jkY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Diael",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rcnTVNCyx6fkz8J0whNp_vLfDNc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PeryhhRW3DQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:00:24Z",
+                "channelId": "UCK2uwtFPSEHBnWxV4vCrA5w",
+                "title": "CE CHANGEMENT FAIT POL\u00c9MIQUE SUR LEAGUE OF LEGENDS!",
+                "description": "Twitch : https://www.twitch.tv/i_reaz \u25bb Twitter : https://twitter.com/I_reaz \u25bb Instagram : https://www.instagram.com/simon.irz/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PeryhhRW3DQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PeryhhRW3DQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PeryhhRW3DQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "iReaz - League of Legends",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:00:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JMNQBgrcmvxmkHLEbB55BYf_T2Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Jv0LN3k2AEk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T17:48:26Z",
+                "channelId": "UCAjoGUDYfAwj6eTzfZ19Iqg",
+                "title": "2 Autos &amp; Ultimate | League of Legends",
+                "description": "2 Autos & Ultimate | League of Legends.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jv0LN3k2AEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jv0LN3k2AEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jv0LN3k2AEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CAMSSY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T17:48:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LlkFpoiNecDRYQKV3oN7ZcmTPcc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8DjTYN0RltQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T17:00:37Z",
+                "channelId": "UCSKFGxG13q7dWpzpXcOniQg",
+                "title": "EL PALAZO DEL DESTINO!! | LEAGUE OF LEGENDS.",
+                "description": "ACTUALIZADOOO Ahoy marinero, si te gusta mis videos comenta y deja un like! activa campanita asi no te pierdes ningun ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8DjTYN0RltQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8DjTYN0RltQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8DjTYN0RltQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KyoPlank",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T17:00:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ms9MJsSO7LOiksCUtgcIlJ1GLfg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xIoJ__jl1Zs"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:31:25Z",
+                "channelId": "UCjKipsntez9MlPmCvgyngxg",
+                "title": "The Bait Was Perfect!\u26a1| League of Legends",
+                "description": "Thought I was dead here... Kennen got a little too confident under tower and took the bait. \u26a1   Volibear Jungle Ranked ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xIoJ__jl1Zs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xIoJ__jl1Zs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xIoJ__jl1Zs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cypher Swann",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:31:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UfE-SmiKVZ-b4U4fjpXbaAHmB3A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nrciqDG5yjQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:09:43Z",
+                "channelId": "UCh2dK0CUfkXAESJE2KCXSWQ",
+                "title": "Jezu Kalista Moment - Clean Triplekill | League of Legends #shorts",
+                "description": "Credit https://www.twitch.tv/jezu_lol.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nrciqDG5yjQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nrciqDG5yjQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nrciqDG5yjQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Challenger Replays LOL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:09:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "to5O0B4j7GtWhDuhvwoo00oXvJM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XAYoU2Jqick"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:11:10Z",
+                "channelId": "UCYULU7M17rCJ6PfhEvN_WcQ",
+                "title": "Random League of Legends team comp! #leagueoflegends",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XAYoU2Jqick/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XAYoU2Jqick/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XAYoU2Jqick/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jackson RoyC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:11:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uYUyDRas7NzLng-mcrm7Vj_kUXE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vq0Ml3Gfa7Q"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:16Z",
+                "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+                "title": "Locke: The Ashen Exorcist | Champion Trailer - League of Legends",
+                "description": "They're way past forgiveness. The Ashen Exorcist will be their end. \u201cBack from the Brink\u201d Cinematic: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vq0Ml3Gfa7Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vq0Ml3Gfa7Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vq0Ml3Gfa7Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "League of Legends",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ErXWspZ4i9Sd28-L_-OOQy7-f0I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ExTNWJfFP3U"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:30Z",
+                "channelId": "UCgSPTEKkw5LT-PvdFO6FOuQ",
+                "title": "\u041b\u043e\u043a\u043a, \u041f\u0435\u043f\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u043a\u0437\u043e\u0440\u0446\u0438\u0441\u0442 | \u0422\u0440\u0435\u0439\u043b\u0435\u0440 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0430 \u2013 League of Legends",
+                "description": "\u0412\u0440\u0435\u043c\u044f \u043f\u0440\u043e\u0449\u0430\u0442\u044c \u0434\u0430\u0432\u043d\u043e \u043f\u0440\u043e\u0448\u043b\u043e. \u0418\u0445 \u0441\u0443\u0434\u044c\u0431\u0443 \u0440\u0435\u0448\u0438\u0442 \u041f\u0435\u043f\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u043a\u0437\u043e\u0440\u0446\u0438\u0441\u0442. \u041a\u0438\u043d\u0435\u043c\u0430\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u043e\u043b\u0438\u043a \"\u041a\u043e\u0433\u0434\u0430 \u0436\u0438\u0437\u043d\u044c \u0432\u0438\u0441\u0438\u0442 \u043d\u0430 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ExTNWJfFP3U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ExTNWJfFP3U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ExTNWJfFP3U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "League of Legends RU",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AadcFRxfr3w11RW5K07gJ4gE5NI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s2OIm_64C1c"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:33Z",
+                "channelId": "UCU-l1ajszDLFd6lWyCs1_GA",
+                "title": "Locke : Exorciste cendr\u00e9 | Bande-annonce de champion - League of Legends",
+                "description": "Aucune r\u00e9demption pour eux ! L'Exorciste cendr\u00e9 signera leur arr\u00eat de mort. Cin\u00e9matique \u00ab In extremis ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s2OIm_64C1c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s2OIm_64C1c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s2OIm_64C1c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "League of Legends - France",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "I6lFOtMrWY5dhrj8QVNtiPrVqXI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xZ-UB3fiNJk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:21Z",
+                "channelId": "UCbcEeeL-URJrwgHFKZmQ9HQ",
+                "title": "El peor jugador de League of Legends",
+                "description": "Sube de elo - 10% DESCUENTO ITERO PREMIUM \"SAMUELUX10\" https://www.itero.gg/es El peor jugador de League of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xZ-UB3fiNJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xZ-UB3fiNJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xZ-UB3fiNJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Samuelux3757",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TjVeWBGTPS_Wp1cdZMmjKUoci3I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wwBDLbX0mC0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:32Z",
+                "channelId": "UCrh24N5HpJ_MXpIfcI7znlQ",
+                "title": "Locke: Kefaretin K\u00fclleri | \u015eampiyon \u00d6nizlemesi - League of Legends",
+                "description": "Aff\u0131 alan araf\u0131 ge\u00e7ti. Kefaretin K\u00fclleri sonlar\u0131n\u0131 getirecek. \"Back from the Brink\" Video \u00d6yk\u00fcs\u00fc: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wwBDLbX0mC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wwBDLbX0mC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wwBDLbX0mC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "League of Legends T\u00fcrkiye",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8eqQuLRLmXEwNo_4DVHBpD0EGo4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "woXplCDOTg4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:31Z",
+                "channelId": "UC6Xqz2pm50gDCORYztqhDpg",
+                "title": "Locke: O Exorcista das Cinzas | Trailer do Campe\u00e3o \u2013 League of Legends:",
+                "description": "Eles est\u00e3o muito al\u00e9m do perd\u00e3o. O Exorcista das Cinzas ser\u00e1 o fim deles. Anima\u00e7\u00e3o \"Por um fio\": ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/woXplCDOTg4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/woXplCDOTg4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/woXplCDOTg4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "League of Legends Brasil",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5kb_XONCtX4e88h_vVJQvqonCaM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZDhetMaSvTU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:14Z",
+                "channelId": "UCmvoPMHe9l0ytr9ONu5-1vw",
+                "title": "Tr\u00e1iler de Locke: El Exorcista de las Cenizas | League of Legends",
+                "description": "No merecen ser perdonados. El Exorcista de las Cenizas traer\u00e1 su fin. Cinem\u00e1tica ''Combate el Abismo'': ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZDhetMaSvTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZDhetMaSvTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZDhetMaSvTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "League of Legends Latinoamerica",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ScZc6RxqVVojtqo0CJssE5nqUgg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "frlL6ipSeN4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:37Z",
+                "channelId": "UCLrwY-46wPor7pjCaDz2NgA",
+                "title": "BEST Junglers Tier List Patch 26.13 - League of Legends",
+                "description": "https://kirei.gg/courses Jungle Courses with Permanent access and updates Discord \u25bb https://discord.com/invite/mCH5k2vPD6 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/frlL6ipSeN4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/frlL6ipSeN4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/frlL6ipSeN4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Coach Kirei",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:37Z"
             }
         }
     ]

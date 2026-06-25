@@ -1,11 +1,11 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "RaJuXY3_CFeG-DthA58vzJIFt_M",
-    "nextPageToken": "CAoQAA",
+    "etag": "5LAinwjfHuPHP1N6pf2-O-oGufI",
+    "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
         "totalResults": 1000000,
-        "resultsPerPage": 10
+        "resultsPerPage": 50
     },
     "items": [
         {
@@ -214,40 +214,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ZmTUpJ3-60QrOvHXxJ0HQdGrQl4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ip66s2Qc0Fs"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-25T02:43:12Z",
-                "channelId": "UCuSgNbUfAGmYoQWzM2PyxoA",
-                "title": "#1 UPSIDE DOWN CONTROLLER PLAYER PLAYS Apex Legends Season 29! \ud83e\udd2f\ud83d\udc40 #ApexLegends",
-                "description": "Twitter - https://twitter.com/TGravyz Twitch - https://www.twitch.tv/tgravyz Facebook ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ip66s2Qc0Fs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ip66s2Qc0Fs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ip66s2Qc0Fs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "TGravy",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-25T02:43:12Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "iE4vkNRoJ3halAx0tpqrC-w683E",
             "id": {
                 "kind": "youtube#video",
@@ -346,6 +312,1400 @@
                 "channelTitle": "jhallballer",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-25T00:27:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "95eTNXJriElJXHcIMVuCK8WhzC0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-J4RUg6sHJk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T23:39:42Z",
+                "channelId": "UCVlhSj1nXYiy4vCQlQWjybw",
+                "title": "New Pathfinder Movement ft. Aceu",
+                "description": "Watch this gameplay live on Twitch!!! : https://www.twitch.tv/extesyy Extesyy's Discord!!! https://discord.gg/cmAEKgxMZc ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-J4RUg6sHJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Extesyy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T23:39:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wB8wETQcm-jNIiawej4WZULts1g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HIkVhEaCAZM"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:00:03Z",
+                "channelId": "UC8gKWw73m-iACVF6_ncdccA",
+                "title": "How to 1v3 as VALKYRIE in APEX LEGENDS!",
+                "description": "This Apex Legends clip shows you how to clutch smart, stay calm under pressure, and play like a pro in ranked AND pubs.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HIkVhEaCAZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sonyx",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tPVa0rDONLQ7AzPrvepsDcb3u0k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y49vgpI1GNk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T22:00:09Z",
+                "channelId": "UCY_qQE1SSMciTm6qG4pgkfg",
+                "title": "\u3010\u88cf\u30a2\u30d7\u30c7\u3011\u30d5\u30e9\u30c8\u30e9\u306e\u30b5\u30a4\u30ec\u30f3\u30c8\u30d1\u30c3\u30c1\u304c\u30e4\u30d0\u3044\uff01  \u53cd\u52d5\u304c\u7121\u3055\u904e\u304e\u3066\u30ec\u30fc\u30b6\u30fc\u30d3\u30fc\u30e0\u306b\uff01 | Apex Legends",
+                "description": "TIE\u3068\u30ac\u30ec\u30ea\u30a2\u306e\u30b3\u30e9\u30dcPC\u304c\u767a\u58f2   \u3010TIE \u30b3\u30e9\u30dc\u30e2\u30c7\u30eb\u7279\u8a2d\u30da\u30fc\u30b8\u306f\u3053\u3061\u3089\u304b\u3089\u3011 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y49vgpI1GNk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y49vgpI1GNk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y49vgpI1GNk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TIE Ru",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T22:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QRaxkPm43mTYOj9sLMT5t2L6RCI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sxNc9bzSz2A"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:43:30Z",
+                "channelId": "UCDvm7YoLE5r3ZZ6MWyD2vGQ",
+                "title": "NEW SPLIT! ROAD TO APEX PREDATOR CONTINUES! (APEX LEGENDS)",
+                "description": "BECOME A MEMBER OF THE STREAM - https://www.youtube.com/TheRealNICKMERCS/join DONATE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sxNc9bzSz2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sxNc9bzSz2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sxNc9bzSz2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NICKMERCS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:43:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2uypoj8lWAv1_-KpbIx5oWVTzlM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CUqVAbatCwk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:34:53Z",
+                "channelId": "UCd1vcEfEiXpduPVKNzKnpgg",
+                "title": "Apex Legends Wattson And Loba With Wraith Vantage its Do Or Die Ep81",
+                "description": "LIKE & SUBSCRIBE IF YOU ENJOYED! Apex Legends Season 29 Apex Legends Gameplay On PC. Action & Fun Subscribe To ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CUqVAbatCwk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CUqVAbatCwk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CUqVAbatCwk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "APEX FINIX",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:34:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sVtLAEAmKpuppROx6lIey2agcX4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pf8Cp-SLwug"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:34:49Z",
+                "channelId": "UC9QYtxgdNOO94EiM6DifpMg",
+                "title": "Ranked in Apex Legends #apex #apexlegends #gaming",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pf8Cp-SLwug/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pf8Cp-SLwug/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pf8Cp-SLwug/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AVDtheGoat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:34:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GWIRO7O_yjCDpipBKtDld9-xrf8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dudjLONxEPs"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:25:59Z",
+                "channelId": "UCK7ZWyuogltgk__tsxb5Bcw",
+                "title": "\u3010APEX\u3011#apex legends #apex #\u30a8\u30fc\u30da\u30c3\u30af\u30b9\u30ec\u30b8\u30a7\u30f3\u30ba #\u30a8\u30fc\u30da\u30c3\u30af\u30b9#shorts  #\u30e9\u30f3\u30af\u30ea\u30fc\u30b0",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dudjLONxEPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dudjLONxEPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dudjLONxEPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u3059\u306c\u3093",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:25:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YfyqeCc-ETjkqN7qL6PEIyp6Mpc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "msZoMLBiyXE"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T21:25:07Z",
+                "channelId": "UCPFBljFe7PwyohfF5H1ubNg",
+                "title": "Ya puedo anunciarlo TODO \u00a1Apex Legends x CYBERPUNK 2077 es REAL! \ud83d\udd25",
+                "description": "Ya tenemos codigo de EA! Al comprar tus monedas en apex desde la pagina de EA usalo, te lo agradecer\u00eda un mont\u00f3n: RAZ Aqu\u00ed ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/msZoMLBiyXE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/msZoMLBiyXE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/msZoMLBiyXE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Raziel JR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T21:25:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LQ9MfC6jTb85zIrZQDBnIuXpSNU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6UYHPf_znA0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:33:43Z",
+                "channelId": "UCED8i3yN0uxVk0GxOxR4bTA",
+                "title": "Apex Legends- Fight For the Fittest \ud83d\ude01 #apexlegends #apexranked #apexlegendsclips #apexlegendsgame",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6UYHPf_znA0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6UYHPf_znA0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6UYHPf_znA0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DoNotDisturb24",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:33:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cXFwu-iQdV19o9HFwmhB0DXTq6U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4GlDX2juMyU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T20:12:44Z",
+                "channelId": "UCDH4iOwF3Fl6ll88UnCnBHg",
+                "title": "\ud83d\udd25 Apex Legends New Ranked Split Is CHAOS! | 100 Subs Down, 200 Next | Viewers Welcome",
+                "description": "Welcome to Perfect Nation! We officially hit 100 subscribers and today the grind to 200 begins! Join us as we dive into the new ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4GlDX2juMyU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4GlDX2juMyU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4GlDX2juMyU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MrPerfectRob",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T20:12:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LObzshIbBxNbvxE_2PYjPf5bhn0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j6J325EAllI"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:52:12Z",
+                "channelId": "UCWiOVTpGCl3fgvP_UYCG7Vg",
+                "title": "APEX LEGENDS \u9014\u4e2d\u307e\u3067\u3088\u304b\u3063\u305f\u306e\u306b\u2026 #apex",
+                "description": "APEX LEGENDS \u30d5\u30eb\u30d1\u30e9\u30f3\u30af(\u30d7\u30e9\u30c1\u30ca\u5e2f) \u592b\u5a66\u3068\u307e\u3063\u3061\u3083\u3093 \u3046\u308f\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042 #apex #\u30a8\u30da\u5973\u5b50 #\u52d5\u753b\u7de8\u96c6 #\u304a\u3069\u304a\u3069 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j6J325EAllI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j6J325EAllI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j6J325EAllI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u30e4\u30ab",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:52:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "R7bjB5r5V3WBaxKHnEnH0Q2XRz0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZUBVmhBodhQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:47:36Z",
+                "channelId": "UCQOsS5I8mof9H33QH4j49nA",
+                "title": "\u958b\u5e55\u30d7\u30ec\u30c7\u30bf\u30fc\u30e9\u30f3\u30af \u3010Apex Legends\u3011",
+                "description": "\u30c7\u30d0\u30a4\u30b9 https://note.com/tttcheekyttt412/n/na1690bf9632e \u30c1\u30fc\u30ad\u30fc\u3067\u3059\uff01 \u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u3001\u9ad8\u8a55\u4fa1\u304a\u9858\u3044\u3057\u307e\u3059 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZUBVmhBodhQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZUBVmhBodhQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZUBVmhBodhQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "tttcheekyttt",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:47:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6CBPmtPItIx-l5W4WYYX3dxFRsw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6pFAVmAUqHo"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:00:32Z",
+                "channelId": "UCuVKrQtrKu9mtpx_Tlkdfeg",
+                "title": "How Switching Keyboards Makes You An Apex Legends Professional",
+                "description": "This was streamed LIVE on my TWITCH! Drop a FOLLOW as it really helps me out, and hit the NOTIFICATION button so you don't ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6pFAVmAUqHo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6pFAVmAUqHo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6pFAVmAUqHo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "XCubaLibreX",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:00:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xrfa_QbfZhm6502G_zXT8afz83w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GNmV8URnhDk"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:29:01Z",
+                "channelId": "UCYAbapVNDJljksZxpHkXUag",
+                "title": "baru pulang gawe ku terus ngapex .. NEW PATCH !! | LIVE APEX LEGENDS \ud83d\udd34 [PART 1]",
+                "description": "Link for donate !! https://saweria.co/dioonando https://sociabuzz.com/dioonando/give HAVE FUN !!!! #apexlegend #live.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GNmV8URnhDk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GNmV8URnhDk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GNmV8URnhDk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Leandra",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:29:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2dPVD9q166BWpmP_IsbEm6eeL54",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kiqSII2C5mE"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T17:05:33Z",
+                "channelId": "UCwAJ_mVWTWU0jFLHRlfLAhA",
+                "title": "El Apex Legends esconde el secreto de la vida.",
+                "description": "Escr\u00edbeme si est\u00e1s decidido a cambiar tu fisico, tu mente y tu vida conmigo IG: https://www.instagram.com/makina_yt/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kiqSII2C5mE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kiqSII2C5mE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kiqSII2C5mE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Makina",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T17:05:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HMFh13SFAftiTWHzaQYlnKZLXyA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kGYvJ9IzF8U"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:48:34Z",
+                "channelId": "UCKB1_j8RLTcwreCqAOqX8Ug",
+                "title": "Apex Legends x Cyberpunk Collab Could Be Happening!",
+                "description": "Apex Legends x Cyberpunk Collab Could Be Happening! Apex Legends News. Split 2 of Season 29 in Apex Legends is out now, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kGYvJ9IzF8U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kGYvJ9IzF8U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kGYvJ9IzF8U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RossTheeSquirrel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:48:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LNOGFeOAeawTuajDaD1Y25Bl5xw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rvyXsF1Kwk4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:42:37Z",
+                "channelId": "UCSF2vv7HFeQHrv1DinGLBLw",
+                "title": "\u3010APEX\u30e9\u30f3\u30af\u3011\u95a2\u897f\u30d5\u30eb\u30d1\u51fa\u73fe\uff01\u30cf\u30bb\u30c8\u30ca\u30e8\u30a6\uff01\u304a\u3082\u308d\u305d\u3046\u306aPT\u3067\u96c6\u307e\u3063\u3066\u307f\u308bwww\u7de8  \u30c8\u30ca\u30ab\u30a4\u30c8, \u8449\u3010\u30cf\u30bb\u30b7\u30f3\u3011Apex Legends",
+                "description": "\u3010\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u306f\u3053\u3061\u3089\uff01\u3011 https://www.youtube.com/channel/UCSF2vv7HFeQHrv1DinGLBLw \u3010X\u3011 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rvyXsF1Kwk4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rvyXsF1Kwk4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rvyXsF1Kwk4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u30cf\u30bb\u30b7\u30f3 / HASESHIN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:42:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J5IGqmSHK7iGtAEoJZTxAVmTeUQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WScaDTbuxkc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:10:12Z",
+                "channelId": "UCpbzVnr6rDTsLEie91lRmnw",
+                "title": "It Took 7 Years, It&#39;s Here",
+                "description": "Use Code \"GRRT\" on the EA APP or https://store.ea.com/ when buying Apex coins to support the channel! #eapartner Official ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WScaDTbuxkc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WScaDTbuxkc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WScaDTbuxkc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Grrt",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:10:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7QZuH_YmKlEE5jUwLXgdKt77Wn8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nA8e07wigq4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:04:27Z",
+                "channelId": "UCAXUExVh4rPM4UAO7_4tSMg",
+                "title": "\u0627\u0628\u0643\u0633 \u0644\u064a\u062c\u0646\u062f\u0632 \u062c\u062f\u064a\u062f\u0629 \u061f",
+                "description": "\u0627\u0628\u0643\u0633 \u0644\u064a\u062c\u0646\u062f\u0632 \u062c\u062f\u064a\u062f\u0629 \u061f #EMPULSE #1047Games.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nA8e07wigq4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nA8e07wigq4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nA8e07wigq4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HEROKAYAR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:04:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OvrCwtzk_3FziatzBt6u_Af-wC4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zgFSowj16aQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T16:00:12Z",
+                "channelId": "UC8gKWw73m-iACVF6_ncdccA",
+                "title": "How to 1v4 as VALKYRIE in APEX LEGENDS!",
+                "description": "This Apex Legends clip shows you how to clutch smart, stay calm under pressure, and play like a pro in ranked AND pubs.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zgFSowj16aQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zgFSowj16aQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zgFSowj16aQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sonyx",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T16:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EVc6ZLBCHWACiTbkb1CJ1AHbf_0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C4J-KWxW25Y"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T15:34:26Z",
+                "channelId": "UCtZH18enp9h8v_sW2FpNJ3A",
+                "title": "SOME CLEAN KRABER SHOTS ! #apex #legends #kraber",
+                "description": "CapCut I made this amazing video with CapCut. Open the link to try it out: capcut.com/tools/desktop-video-editor.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C4J-KWxW25Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C4J-KWxW25Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C4J-KWxW25Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KrazyClipz99",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T15:34:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4KaF-IpYj30AL87cAkGtK81etjU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AgepunPM5pM"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T15:00:33Z",
+                "channelId": "UCVeowp6qXr_4g_JTsAsWvcQ",
+                "title": "Caustic Is ABSOLUTELY META Right Now Apex Legends",
+                "description": "Caustic 23 Kills and 5K Damage in Two Games Apex Legends Gameplay Season 29 Contact: Instagram @hv_apex ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AgepunPM5pM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AgepunPM5pM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AgepunPM5pM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "hv apex",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T15:00:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pP5jLWCvh1Q07gVIWqwzk5xn06Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "g_zhTD6yPEc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T15:01:18Z",
+                "channelId": "UCalf06FUynicGxGwrPmevsA",
+                "title": "\u30bd\u30ed\u30d7\u30ec\u30c7\u30bf\u30fc\u7dad\u6301\u304a\u75b2\u308c\u3055\u307e\u3067\u3057\u305f\u958b\u5e55\u30bd\u30ed\u30e9\u30f3\u30af\u3010APEX Legends\u3011",
+                "description": "\u3010\u914d\u4fe1\u6642\u9593\u3011 20\u6642\u958b\u59cb \u3010SNS\u3011 X\u2192https://x.com/_23fam Discord\u2192https://discord.gg/fZPbWzfy #apexlegends #\u3075\u307f\u3075\u3041\u3080 #\u30bd\u30ed ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g_zhTD6yPEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g_zhTD6yPEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g_zhTD6yPEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u3075\u307f\u3075\u3041\u3080",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T15:01:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QoQ89zlUH_Ouei6PPiy1JAJ1bSM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wD7Je8Far8g"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:56:39Z",
+                "channelId": "UCBYaYq0II3qo8-9N8a-Bdfg",
+                "title": "\u91ce\u826f\u304b\u3089\u304a\u795d\u3044\u306e\u30c1\u30e5\u30fc\u3092\u8cb0\u3046\u914d\u4fe1\u8005www\u3010APEX LEGENDS\u3011#shorts #\u308a\u30fc",
+                "description": "apexlegends #apex #\u30a8\u30fc\u30da\u30c3\u30af\u30b9\u30ec\u30b8\u30a7\u30f3\u30ba #\u30a8\u30fc\u30da\u30c3\u30af\u30b9.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wD7Je8Far8g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wD7Je8Far8g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wD7Je8Far8g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u308a\u30fc\u3048\u3075\u3074\u30fc\u3048\u3059\u3002",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:56:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QNMbwrWPK_aQJbRvwIpatu0bNNc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cIAEq0xBc4I"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:47:38Z",
+                "channelId": "UCyONhUpYpRaiEcDDnmjA5Yw",
+                "title": "WTF is solo queue\u2026\ud83d\udc94 (Apex Legends)",
+                "description": "If you haven't already yet please make sure you Follow me on Instagram: https://www.instagram.com/907.bridges/ Drop a Like ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cIAEq0xBc4I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cIAEq0xBc4I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cIAEq0xBc4I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SirBridges",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:47:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "czbf_QW1LGD9hID2spdjXLbAcrQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0-BE0T0e91M"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:13:20Z",
+                "channelId": "UCS0VlyoILyu_mnhfBbSzjKw",
+                "title": "KILLING IN THE STORM! \ud83c\udf2a\ufe0f Apex Legends Clutch While The Ring Closed In",
+                "description": "The ring was closing fast, my health was disappearing, and I should have been running... Instead, I found a player in the storm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0-BE0T0e91M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0-BE0T0e91M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0-BE0T0e91M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Madevil4205",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:13:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RFjYRiKAPG3q5WwsfthL2i6L1Mk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8wuel9jSWA8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:00:14Z",
+                "channelId": "UCpO6Jl1JPo1Mhqgv3z3NMuQ",
+                "title": "Apex Legends Cyberpunk 2077 Event Collab &amp; Skins Is Insane",
+                "description": "Apex Legends Cyberpunk 2077 Event Collab & Skins Is Insane #apexlegendsnews #apexlegendsheirloom ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8wuel9jSWA8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8wuel9jSWA8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8wuel9jSWA8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thordan Smash",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YCFX5QwbRDKsAqgkJu3s0DoFW08",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dWykg8C-wOY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T13:25:51Z",
+                "channelId": "UCHqUb_awGVW1_nE_d0w0Ucw",
+                "title": "This R99 Always Be Finding Me In Apex Legends\ud83d\ude2d #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dWykg8C-wOY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dWykg8C-wOY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dWykg8C-wOY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "xLaurenLandx",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T13:25:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9e_064-w8k2LWNNO9s2WtBy4IGo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8VhKZeKIswc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T13:11:32Z",
+                "channelId": "UC-HoKKHKeKY4YWKnlEHecow",
+                "title": "Mande Apex Legends God Mode ON! \ud83d\udd25\ud83c\udfae",
+                "description": "Mande Apex Legends God Mode ON!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8VhKZeKIswc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8VhKZeKIswc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8VhKZeKIswc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mande",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T13:11:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "h1eU0fRRgP_atzwsNJ-dR0hmv2M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sAQf2MCmFf0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T13:00:04Z",
+                "channelId": "UCThorxUDBOK0VmZ3tstqSPA",
+                "title": "I Explored an Apex Legends Knockoff",
+                "description": "shorts #farlight84 #apexlegends Join my Discord! https://discord.gg/tF9rjwHE5z Socials: https://twitch.tv/rolifps ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sAQf2MCmFf0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sAQf2MCmFf0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sAQf2MCmFf0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roli",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T13:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "spGvhqwn7mHU5Irpg8LzWF6bLeI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r-xcPW2GnbA"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T13:00:29Z",
+                "channelId": "UCSe91_6HaK0sXk0V57sdB7A",
+                "title": "NEW PATHFINDER IS INSANE - 20 KILLS GAME (Apex Legends Gameplay)",
+                "description": "I hope you like this video. Please like and subscribe to the channel! Solo Pathfinder and movement drops 20 kills bomb and 4000 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r-xcPW2GnbA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r-xcPW2GnbA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r-xcPW2GnbA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "supernoob exe",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T13:00:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "anAYtOAD3LD3IVUTvIXsOyvwKLk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Lk-x9pvKLPo"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T13:00:21Z",
+                "channelId": "UCPvGR2Xx5AWST7er53TU6PQ",
+                "title": "peacekeeper domination (Apex Legends)  #apex #apexlegends #movement",
+                "description": "I stream on twitch everyday full time if you wanna chill and hang out https://www.twitch.tv/wujudragon #apex #apexlegends ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lk-x9pvKLPo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lk-x9pvKLPo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lk-x9pvKLPo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WujuDragon",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T13:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gdzp0VFHSY-daGMszgdAHitVc_8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q4LyuUh4rnI"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T12:57:23Z",
+                "channelId": "UCa71_AZZLin-0kSmboWT-mQ",
+                "title": "APEX LEGENDS \u592b\u5a66\u30c7\u30e5\u30aa\uff11\uff15\uff10\u3092\u8a00\u3063\u3066\u307f\u305f\u304b\u3063\u305f\u3060\u3051\u306e\u30af\u30ec\u30fc\u30d0\u30fc\u521d\u5fc3\u8005(\u30e9\u30f3\u30af\u30d7\u30e9\u30c1\u30ca) #apexlegends #apex #\u30af\u30ec\u30fc\u30d0\u30fc",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q4LyuUh4rnI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q4LyuUh4rnI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q4LyuUh4rnI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u3061\u3083\u3093\u3057\u3085\u3046",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T12:57:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rhexphMyPpALUaHxe9aapvA72Kc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4JTDVc4i3wc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T12:47:43Z",
+                "channelId": "UCwFw3xqn0iTLETB0CfNaLjQ",
+                "title": "Team mate don&#39;t help me find enemy&#39;s#apex#Legends#Team#mate#don&#39;t#mate#hel#me#find#enemy&#39;s.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4JTDVc4i3wc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4JTDVc4i3wc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4JTDVc4i3wc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Backstreet_gamers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T12:47:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wDwLIjKzuRCB8FCzuKyJu4UCSNg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lswcpKgZ_Cw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T12:38:40Z",
+                "channelId": "UCvoVpsuvDoQUADwMlddVUqQ",
+                "title": "COOLEST APEX LEGENDS WIN EVER!\ud83d\ude33 #nostalgia #hollywood #apex #apexlegends #apexclips #viralvideo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lswcpKgZ_Cw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lswcpKgZ_Cw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lswcpKgZ_Cw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alexander Mahan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T12:38:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UAlHw0D5WGSrG1EiHTOQei24MUc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KmhMBOIvTqw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T12:00:10Z",
+                "channelId": "UC5DvsaWSa_Hi4-QjOTv0eTw",
+                "title": "\u30aa\u30eb\u30bf\u30fc\u30d0\u30b0\u308a\u3059\u304e\u3066\u308b\u3010APEX LEGENDS\u3011#apex #apexlegends #\u30a8\u30fc\u30da\u30c3\u30af\u30b9\u30ec\u30b8\u30a7\u30f3\u30ba",
+                "description": "\u30b3\u30e1\u30f3\u30c8\u30fb\u9ad8\u8a55\u4fa1\u3044\u3064\u3082\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01 \u73fe\u5728\u3001\u6a2a\u52d5\u753b\uff0b\u7e26\u52d5\u753b\u3092\u6bce\u65e5\u6295\u7a3f\u4e2d\u3067\u3059   \u767b\u9332\u800515\u4e07\u4eba\u76ee\u6a19\u3067\u9811\u5f35\u3063\u3066\u3044\u307e\u3059 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KmhMBOIvTqw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KmhMBOIvTqw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KmhMBOIvTqw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u3058\u30fc\u3077\u308d\u3010APEX\u89e3\u8aac\u3011",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tByU58JuJEOQswBGXQ9LmR8jTB8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JYHS4wdV5eA"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T11:11:19Z",
+                "channelId": "UCDo6K6q-444XkhIIxP3RW-g",
+                "title": "Aceu, The &#39;Old&#39; Apex Legends Is BACK... \ud83d\udc40 And iiTzTimmy Is Returning To Pro?! \u2b50",
+                "description": "TIMELINE 0:00 Intro 0:38 The Old Apex Legends Are Back \u2014 Aceu + iiTzTimmy 2:23 iiTzTimmy: \"Would You Guys Go Back ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JYHS4wdV5eA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JYHS4wdV5eA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JYHS4wdV5eA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UBetter Apex",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T11:11:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_fort8d3PNEpSyxX71IVVpXb95k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IQi8uIZlGdY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T11:00:01Z",
+                "channelId": "UCtWqyqOF392ezyubD_Bf2bw",
+                "title": "Bamboozeling Squad Wipe - Apex Legends",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IQi8uIZlGdY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IQi8uIZlGdY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IQi8uIZlGdY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Onffline",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T11:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EE1QuBoiktjgtbjDQEStMmvN2vs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OUye9rAhu8E"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T11:00:12Z",
+                "channelId": "UCBKnI4lCzZvBSmar8ldMf8Q",
+                "title": "\u30de\u30b9\u30bf\u30fc\u307e\u3067\u6b8b\u308a162\u30dd\u30a4\u30f3\u30c8\u7537\u306e\u30bd\u30ed\u30de\u30b9\u30c1\u30e3\u30ec\u30f3\u30b8\uff01\uff01\u3010Apex Legends\u3011\u3010\u3042\u3086\u3080\u3011#shorts",
+                "description": "apex #apexlegends #\u3042\u3086\u3080 #\u30b2\u30fc\u30e0\u5b9f\u6cc1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OUye9rAhu8E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OUye9rAhu8E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OUye9rAhu8E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u3042\u3086\u3080\u3010\u3042\u3086\u3080\u306e\u79d8\u5bc6\u57fa\u5730\u3011",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T11:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XqNaZC0x5c012d6I16jnZhaURaw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LAeJbOr32uU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T10:51:52Z",
+                "channelId": "UCjhPznem4LFfUT7-nlkySZw",
+                "title": "\ud83d\udd34 MnK Predator Ranked GRIND LIVE \ud83d\udd34 Going for top 100 Apex Legends Season 29",
+                "description": "Become a MEMBER! https://www.youtube.com/channel/UCjhPznem4LFfUT7-nlkySZw/join Season 29 Apex Legends Gameplay.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LAeJbOr32uU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LAeJbOr32uU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LAeJbOr32uU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Man Vita",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T10:51:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s00nQ9vFUaJusJ_9Xx3JupNRV10",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K7PulN7_NBI"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T10:00:32Z",
+                "channelId": "UC3d9RNhlCbYHub9VjAWqrJQ",
+                "title": "\u3010APEX LEGENDS\u30112026\u5e74\u3000\u30cf\u30a4\u30e9\u30a4\u30c8\u3000No.71\u3000#apexlegends #apex #fpsgames #\u30a8\u30fc\u30da\u30c3\u30af\u30b9\u30ec\u30b8\u30a7\u30f3\u30ba #\u30a8\u30fc\u30da\u30c3\u30af\u30b9",
+                "description": "apexlegends #apex #fpsgames #\u30a8\u30fc\u30da\u30c3\u30af\u30b9\u30ec\u30b8\u30a7\u30f3\u30ba #\u30a8\u30fc\u30da\u30c3\u30af\u30b9.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K7PulN7_NBI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K7PulN7_NBI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K7PulN7_NBI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "pore",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T10:00:32Z"
             }
         }
     ]

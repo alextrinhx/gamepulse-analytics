@@ -15,6 +15,18 @@ The platform aggregates public gaming data from YouTube and Twitch to identify h
 - PostgreSQL (planned)
 - Power BI (planned)
 
-## Status
+## Architecture
 
-🚧 Currently under development.
+(architecture diagram)
+
+## Data Pipeline
+
+YouTube API
+→ Raw JSON
+→ ETL
+→ PostgreSQL
+→ SQL Views
+
+## Warehouse Design
+
+(dim/fact diagram)

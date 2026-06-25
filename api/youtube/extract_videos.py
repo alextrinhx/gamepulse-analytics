@@ -21,7 +21,7 @@ def load_games():
         return json.load(file)
 
 
-def search_videos(query: str, max_results: int = 10):
+def search_videos(query: str, max_results: int = 50):
     youtube = get_youtube_client()
 
     request = youtube.search().list(
@@ -65,7 +65,7 @@ def extract_for_game(game: dict):
 
     print(f"Extracting YouTube data for {game_name}...")
 
-    search_response = search_videos(query, max_results=10)
+    search_response = search_videos(query, max_results=50)
 
     video_ids = [
         item["id"]["videoId"]

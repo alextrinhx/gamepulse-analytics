@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "X36jzZTbTYU_vhKCeHo_dkOO178",
+    "etag": "azzypE-9QnCyhnfOxU_pxIllh-Q",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "3T_9BBxbEgN4xelg36xfuVnhAJw",
+            "etag": "ib05kiTiVeT_uYyyrh41CygFNac",
             "id": "lvGEkz2dAho",
             "snippet": {
                 "publishedAt": "2026-06-25T02:52:06Z",
@@ -58,15 +58,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "323",
-                "likeCount": "11",
+                "viewCount": "414",
+                "likeCount": "13",
                 "favoriteCount": "0",
                 "commentCount": "4"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "rLkuZOmWu-z7TbiiW42gKWmJaJw",
+            "etag": "ATsdy8MLR8pVs3mztbnxQIXqK5k",
             "id": "nPD4ACFHzOc",
             "snippet": {
                 "publishedAt": "2026-06-25T02:46:46Z",
@@ -120,15 +120,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "458",
+                "viewCount": "513",
                 "likeCount": "11",
                 "favoriteCount": "0",
-                "commentCount": "1"
+                "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ooYUeZOQEDXna9ca8b8wsxb427U",
+            "etag": "OHxLY1VYDVtLRVYF_4NXytmyPLE",
             "id": "LvO-t6B1na4",
             "snippet": {
                 "publishedAt": "2026-06-25T02:22:49Z",
@@ -217,8 +217,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "26938",
-                "likeCount": "437",
+                "viewCount": "27093",
+                "likeCount": "438",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
@@ -287,7 +287,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "vuwmuFM9WFEUXrVg5XKURe9Up-4",
+            "etag": "YSzYjueQowlbbXnsK7mpyTH4p2g",
             "id": "bdgc6AqZ2_g",
             "snippet": {
                 "publishedAt": "2026-06-25T00:30:19Z",
@@ -346,15 +346,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "10338",
-                "likeCount": "886",
+                "viewCount": "11320",
+                "likeCount": "966",
                 "favoriteCount": "0",
-                "commentCount": "21"
+                "commentCount": "24"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "sqXuQ1_rGWkbXgklXk6JDeriEwU",
+            "etag": "Bm-opP5Rv-szARB1bMywGPU9b0E",
             "id": "EQdYqXNfYDY",
             "snippet": {
                 "publishedAt": "2026-06-24T22:36:42Z",
@@ -420,15 +420,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "41427",
-                "likeCount": "2351",
+                "viewCount": "48750",
+                "likeCount": "2527",
                 "favoriteCount": "0",
-                "commentCount": "65"
+                "commentCount": "69"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "bwtK7D1ByThw6YtDebaxEJiFjgo",
+            "etag": "A80hpqoVWo2EIdEcdGY-TR0CDcY",
             "id": "SwggifEXKSU",
             "snippet": {
                 "publishedAt": "2026-06-24T22:27:17Z",
@@ -482,15 +482,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "5352",
-                "likeCount": "333",
+                "viewCount": "5741",
+                "likeCount": "337",
                 "favoriteCount": "0",
-                "commentCount": "218"
+                "commentCount": "222"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "gsJUDSKeIDY0YwHVBhVjRaGNY2c",
+            "etag": "plIOQm6aU-rTn6rJn-C-dsvAxjI",
             "id": "tLhrXsBmcRU",
             "snippet": {
                 "publishedAt": "2026-06-24T21:39:54Z",
@@ -543,8 +543,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2345",
-                "likeCount": "173",
+                "viewCount": "2529",
+                "likeCount": "179",
                 "favoriteCount": "0",
                 "commentCount": "17"
             }
@@ -628,7 +628,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "J1gw8dL2nyAJzS_4iMdVL0DrEhw",
+            "etag": "EXzz2tmBblEk0aiXO5vVdLVeDE4",
             "id": "SopAXrq_ewE",
             "snippet": {
                 "publishedAt": "2026-06-24T20:35:21Z",
@@ -682,15 +682,2987 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "6252",
+                "viewCount": "6264",
                 "likeCount": "130",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "a3T3moIm0b7mBmNoiYjURLbrNWA",
+            "id": "sESmDCnVRU4",
+            "snippet": {
+                "publishedAt": "2026-06-24T20:30:40Z",
+                "channelId": "UCcRYBqsKwBH_2yMKc5QoE0w",
+                "title": "This is FANTASTIC \ud83d\ude4c #marvelrivals #marvel #rivals",
+                "description": "#marvelrivals #marvel #rivals",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sESmDCnVRU4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sESmDCnVRU4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sESmDCnVRU4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sESmDCnVRU4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sESmDCnVRU4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Invasion Show",
+                "tags": [
+                    "Marvel rivals",
+                    "Marvel",
+                    "Rivals"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "This is FANTASTIC \ud83d\ude4c #marvelrivals #marvel #rivals",
+                    "description": "#marvelrivals #marvel #rivals"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2516",
+                "likeCount": "218",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "J8F60Z5OOphR_GqLpt9J1FGpPJY",
+            "id": "UNoDOp-n9CI",
+            "snippet": {
+                "publishedAt": "2026-06-24T20:00:24Z",
+                "channelId": "UCw6OjS4Ym-K5AcVPeHMGmAQ",
+                "title": "Support Is In Sickening Toxic SHAMBLES | Marvel Rivals Toxicity",
+                "description": "This video Grotech shows the toxic mindset of the average support player definitely is better than a Mrbeast video, And Youtube's Ai will use the algorithm to promote this vid to everyone's recommendations.  \n\nDisclaimer the content in this video is not promoting toxicity it is for entertainment purposes\nMy twitch\nhttps://www.twitch.tv/grotechgaming\n\nSecond Channel\nhttps://www.youtube.com/@UCLQe8NbMD0fYnJMHWfOqqSw \n\nMy Discord\nhttps://discord.gg/CcxC23VaQx\n\nMy Twitter\nhttps://twitter.com/Grotechgaming\n\n\n\n\n#marvelrivals #marvelrivalsgameplay #marvelrivalstoxicity #toxicmarvelrivals #marvel\n#toxic \n#marvelrivals competitive",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UNoDOp-n9CI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UNoDOp-n9CI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UNoDOp-n9CI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UNoDOp-n9CI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UNoDOp-n9CI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Grotech Gaming",
+                "tags": [
+                    "#Trolling",
+                    "#Toxicity",
+                    "#montage",
+                    "#Rage",
+                    "Toxic",
+                    "Toxicity",
+                    "Rage",
+                    "Trolling",
+                    "Ranked",
+                    "Montage",
+                    "Funny moment",
+                    "Funny",
+                    "Recommended",
+                    "#Marvel Rivals",
+                    "#MarvelRivalsToxicity"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Support Is In Sickening Toxic SHAMBLES | Marvel Rivals Toxicity",
+                    "description": "This video Grotech shows the toxic mindset of the average support player definitely is better than a Mrbeast video, And Youtube's Ai will use the algorithm to promote this vid to everyone's recommendations.  \n\nDisclaimer the content in this video is not promoting toxicity it is for entertainment purposes\nMy twitch\nhttps://www.twitch.tv/grotechgaming\n\nSecond Channel\nhttps://www.youtube.com/@UCLQe8NbMD0fYnJMHWfOqqSw \n\nMy Discord\nhttps://discord.gg/CcxC23VaQx\n\nMy Twitter\nhttps://twitter.com/Grotechgaming\n\n\n\n\n#marvelrivals #marvelrivalsgameplay #marvelrivalstoxicity #toxicmarvelrivals #marvel\n#toxic \n#marvelrivals competitive"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT15M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9247",
+                "likeCount": "671",
+                "favoriteCount": "0",
+                "commentCount": "143"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Kli7VIlHFV36YS-NiK7oxLt0OgQ",
+            "id": "_D7tR4c_W2M",
+            "snippet": {
+                "publishedAt": "2026-06-24T19:30:03Z",
+                "channelId": "UCcRYBqsKwBH_2yMKc5QoE0w",
+                "title": "Bro had one job \ud83e\udd40 #marvelrivals #marvel #rivals",
+                "description": "#marvelrivals #marvel #rivals",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_D7tR4c_W2M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_D7tR4c_W2M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_D7tR4c_W2M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_D7tR4c_W2M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_D7tR4c_W2M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Invasion Show",
+                "tags": [
+                    "Marvel rivals",
+                    "Marvel",
+                    "Rivals"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bro had one job \ud83e\udd40 #marvelrivals #marvel #rivals",
+                    "description": "#marvelrivals #marvel #rivals"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16401",
+                "likeCount": "1545",
+                "favoriteCount": "0",
+                "commentCount": "23"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5geDHeAHD3YMl_rAsA9gBfFcX0A",
+            "id": "e7jfQzDBLOA",
+            "snippet": {
+                "publishedAt": "2026-06-24T19:21:19Z",
+                "channelId": "UC4zDfrGVKK5uaNShOB0pK6w",
+                "title": "\ud83d\udd34 LIVE - MARVEL RIVALS RANKED GRIND",
+                "description": "Welcome to the channel! I typically play Hero Shooters and Battle Royales at the highest levels possible. Be sure to subscribe to watch all future content! \n\n\ud83d\udfe3 You can catch me live on Twitch! https://www.twitch.tv/DylanDubs_\n\nSocials:\nhttps://www.twitch.tv/DylanDubs_\nhttps://www.instagram.com/dylandubs_\nhttps://twitter.com/DylanDubs_\n\n#marvelrivals #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e7jfQzDBLOA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e7jfQzDBLOA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e7jfQzDBLOA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/e7jfQzDBLOA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/e7jfQzDBLOA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DylanDubs",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "\ud83d\udd34 LIVE - MARVEL RIVALS RANKED GRIND",
+                    "description": "Welcome to the channel! I typically play Hero Shooters and Battle Royales at the highest levels possible. Be sure to subscribe to watch all future content! \n\n\ud83d\udfe3 You can catch me live on Twitch! https://www.twitch.tv/DylanDubs_\n\nSocials:\nhttps://www.twitch.tv/DylanDubs_\nhttps://www.instagram.com/dylandubs_\nhttps://twitter.com/DylanDubs_\n\n#marvelrivals #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT5H9M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "201",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "O0ovuM1bVvfN5KgWlBxdW0E_FNY",
+            "id": "qN4-dmbKV1A",
+            "snippet": {
+                "publishedAt": "2026-06-24T18:00:33Z",
+                "channelId": "UCxKsh3bqvutfnG0e1PJOCTw",
+                "title": "This is the average ranked teammate in Marvel Rivals",
+                "description": "This is the average ranked teammate in Marvel Rivals #spiderman #marvelrivals #marvel #gaming #shortsfeed",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qN4-dmbKV1A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qN4-dmbKV1A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qN4-dmbKV1A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qN4-dmbKV1A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qN4-dmbKV1A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ImShmoopie",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "This is the average ranked teammate in Marvel Rivals",
+                    "description": "This is the average ranked teammate in Marvel Rivals #spiderman #marvelrivals #marvel #gaming #shortsfeed"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "12572",
+                "likeCount": "298",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dvaNsfaUUg4myNahtRneGSeIW2s",
+            "id": "ub6FwiL0lhs",
+            "snippet": {
+                "publishedAt": "2026-06-24T17:38:00Z",
+                "channelId": "UCYdNzGpnk6hAtU0eV9QOVSA",
+                "title": "NOVIDADES E EVENTOS NO MARVEL RIVALS",
+                "description": "Marvel Rivals chegou no evento de verao da temporada 8.5 e com ela outras novidades. Nesse v\u00eddeo trago novidades do marvel rivals temporada 8.5, marvel rivals skin viuva negra praia, marvel rival skin demolidor praia , marvel rivals roadmap da temporada 85, marvel rivals jubileu, marvel rivals criador de conteudo oficial, marvel rivals novidades, skins gratis marvel rivals, marvel rivals evento de verao, marvel rivals mostrando novidades.\n\n\nDiscord CKX: https://discord.gg/dGcnCPFcYX\n\nCanal do Whats: https://whatsapp.com/channel/0029Va9t2rcHltYFyvjOE42o\n\nSeja membro deste canal e ganhe benef\u00edcios:\nhttps://www.youtube.com/channel/UCYdNzGpnk6hAtU0eV9QOVSA/join\n\nHoje vamos jogar o novo jogo gr\u00e1tis, #MarvelRivals ! Um gameplay insano e com MUITA informa\u00e7\u00e3o, espero que gostem!\n\nvideo: NOVIDADES E EVENTOS NO MARVEL RIVALS\n\nAqui no CKX voc\u00ea encontra novidades, curiosidades, gameplay de jogos malucos e muito mais. Fazemos gameplays de jogos diversos e lan\u00e7amentos e jogos mais pedidos por voc\u00eas. \u00a9 2026 MARVEL #ciclope #marvelrivalspartner",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ub6FwiL0lhs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ub6FwiL0lhs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ub6FwiL0lhs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ub6FwiL0lhs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ub6FwiL0lhs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CKX",
+                "tags": [
+                    "ck x",
+                    "ck-x",
+                    "ck - x",
+                    "ckxgameplay",
+                    "ckx",
+                    "ck x gameplay",
+                    "ck",
+                    "ck gameplay",
+                    "ckx gamer",
+                    "ck gamer",
+                    "novidades do marvel rivals temporada 8.5",
+                    "marvel rivals skin viuva negra praia",
+                    "marvel rival skin demolidor praia",
+                    "marvel rivals roadmap da temporada 85",
+                    "marvel rivals jubileu",
+                    "marvel rivals criador de conteudo oficial",
+                    "marvel rivals novidades",
+                    "skins gratis marvel rivals",
+                    "marvel rivals evento de verao",
+                    "marvel rivals mostrando novidades"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt",
+                "localized": {
+                    "title": "NOVIDADES E EVENTOS NO MARVEL RIVALS",
+                    "description": "Marvel Rivals chegou no evento de verao da temporada 8.5 e com ela outras novidades. Nesse v\u00eddeo trago novidades do marvel rivals temporada 8.5, marvel rivals skin viuva negra praia, marvel rival skin demolidor praia , marvel rivals roadmap da temporada 85, marvel rivals jubileu, marvel rivals criador de conteudo oficial, marvel rivals novidades, skins gratis marvel rivals, marvel rivals evento de verao, marvel rivals mostrando novidades.\n\n\nDiscord CKX: https://discord.gg/dGcnCPFcYX\n\nCanal do Whats: https://whatsapp.com/channel/0029Va9t2rcHltYFyvjOE42o\n\nSeja membro deste canal e ganhe benef\u00edcios:\nhttps://www.youtube.com/channel/UCYdNzGpnk6hAtU0eV9QOVSA/join\n\nHoje vamos jogar o novo jogo gr\u00e1tis, #MarvelRivals ! Um gameplay insano e com MUITA informa\u00e7\u00e3o, espero que gostem!\n\nvideo: NOVIDADES E EVENTOS NO MARVEL RIVALS\n\nAqui no CKX voc\u00ea encontra novidades, curiosidades, gameplay de jogos malucos e muito mais. Fazemos gameplays de jogos diversos e lan\u00e7amentos e jogos mais pedidos por voc\u00eas. \u00a9 2026 MARVEL #ciclope #marvelrivalspartner"
+                },
+                "defaultAudioLanguage": "pt"
+            },
+            "contentDetails": {
+                "duration": "PT7M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2911",
+                "likeCount": "298",
+                "favoriteCount": "0",
+                "commentCount": "39"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3n6CpR9kHwaczOY7Ou6fgyaTB-w",
+            "id": "GtOX4MI-5aY",
+            "snippet": {
+                "publishedAt": "2026-06-24T17:34:33Z",
+                "channelId": "UCO1RaID33uvGW1EtoMSHygA",
+                "title": "Marvel Rivals Rushed Out The New Summer Skins?!",
+                "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GtOX4MI-5aY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GtOX4MI-5aY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GtOX4MI-5aY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GtOX4MI-5aY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GtOX4MI-5aY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Khyomaru",
+                "tags": [
+                    "marvel",
+                    "marvel rivals",
+                    "marvel rivals gameplay",
+                    "black widow",
+                    "iron man",
+                    "spiderman",
+                    "spider-man",
+                    "spider man",
+                    "marvel rivals trailer",
+                    "marvel rivals tier list"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Marvel Rivals Rushed Out The New Summer Skins?!",
+                    "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "24531",
+                "likeCount": "925",
+                "favoriteCount": "0",
+                "commentCount": "32"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Nv7cPsUrSHY71x8xSFmo9RFp4Cc",
+            "id": "vHay1F1z6k0",
+            "snippet": {
+                "publishedAt": "2026-06-24T17:00:26Z",
+                "channelId": "UC52xVh2VZDtLtCNAfyBAyhQ",
+                "title": "Mr Fantastic is unstoppable #marvelrivals #marvel #rivals #meme #memes #funny",
+                "description": "Subscribe!\n\nMy Twitch: https://www.twitch.tv/infamousinvictis\n\n[Donation Link]\nhttps://steamcommunity.com/tradeoffer/new/?partner=249176276&token=HopDhDXs\n\n[Channel Membership]\nhttps://www.youtube.com/channel/UC52xVh2VZDtLtCNAfyBAyhQ/join\n\n#marvelrivals #marvel #rivals #clips #gaming #meme #memes",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vHay1F1z6k0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vHay1F1z6k0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vHay1F1z6k0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vHay1F1z6k0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vHay1F1z6k0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "InfamousInvictis",
+                "tags": [
+                    "marvel rivals",
+                    "rivals",
+                    "gaming",
+                    "clips",
+                    "memes",
+                    "shorts",
+                    "rival shorts"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Mr Fantastic is unstoppable #marvelrivals #marvel #rivals #meme #memes #funny",
+                    "description": "Subscribe!\n\nMy Twitch: https://www.twitch.tv/infamousinvictis\n\n[Donation Link]\nhttps://steamcommunity.com/tradeoffer/new/?partner=249176276&token=HopDhDXs\n\n[Channel Membership]\nhttps://www.youtube.com/channel/UC52xVh2VZDtLtCNAfyBAyhQ/join\n\n#marvelrivals #marvel #rivals #clips #gaming #meme #memes"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1395",
+                "likeCount": "61",
+                "favoriteCount": "0",
+                "commentCount": "7"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "QrnH4KEQor1eJDXDSeqg3sgjBHk",
+            "id": "Uai2tbMW2m4",
+            "snippet": {
+                "publishedAt": "2026-06-24T16:59:09Z",
+                "channelId": "UCCWyZ61lxV_n13mYP-iA4Cg",
+                "title": "Demolidor tamb\u00e9m n\u00e3o liga para a identidade secreta dele em Marvel Rivals? O Matt Murdock n\u00e3o vai...",
+                "description": "#marvelrivals #deadpool #hulk #angela #demolidor #venom #marvel #marvelbrasil #marvelcomics #thor #homemaranha #loki #doutorestranho #psylocke #quartetofant\u00e1stico #shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uai2tbMW2m4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uai2tbMW2m4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uai2tbMW2m4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Uai2tbMW2m4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Uai2tbMW2m4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TONN616",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "Demolidor tamb\u00e9m n\u00e3o liga para a identidade secreta dele em Marvel Rivals? O Matt Murdock n\u00e3o vai...",
+                    "description": "#marvelrivals #deadpool #hulk #angela #demolidor #venom #marvel #marvelbrasil #marvelcomics #thor #homemaranha #loki #doutorestranho #psylocke #quartetofant\u00e1stico #shorts"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "contentDetails": {
+                "duration": "PT11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "49892",
+                "likeCount": "2568",
+                "favoriteCount": "0",
+                "commentCount": "75"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "v2-2XK1yJgdEgpsyBSqvzgClbFk",
+            "id": "Y1F7KwQIlqI",
+            "snippet": {
+                "publishedAt": "2026-06-24T17:00:38Z",
+                "channelId": "UC9UeduMNtsFEKa2lXlVbV-w",
+                "title": "MARVEL RIVALS HATES BLACK WIDOW!",
+                "description": "ok subscribe bye :)\n\n#marvel #marvelrivals #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y1F7KwQIlqI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y1F7KwQIlqI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y1F7KwQIlqI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y1F7KwQIlqI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Y1F7KwQIlqI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KaySkay",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "MARVEL RIVALS HATES BLACK WIDOW!",
+                    "description": "ok subscribe bye :)\n\n#marvel #marvelrivals #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "116358",
+                "likeCount": "4609",
+                "favoriteCount": "0",
+                "commentCount": "161"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "iVa4PzgClm27gOCZ5QT6h6Q29is",
+            "id": "ZS-R4p6hjVM",
+            "snippet": {
+                "publishedAt": "2026-06-24T16:18:43Z",
+                "channelId": "UCO1RaID33uvGW1EtoMSHygA",
+                "title": "NEW Black Widow Summer Customization is Crazy in Marvel Rivals!",
+                "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZS-R4p6hjVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZS-R4p6hjVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZS-R4p6hjVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZS-R4p6hjVM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZS-R4p6hjVM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Khyomaru",
+                "tags": [
+                    "marvel",
+                    "marvel rivals",
+                    "marvel rivals gameplay",
+                    "black widow",
+                    "iron man",
+                    "spiderman",
+                    "spider-man",
+                    "spider man",
+                    "marvel rivals trailer",
+                    "marvel rivals tier list"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "NEW Black Widow Summer Customization is Crazy in Marvel Rivals!",
+                    "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "de"
+            },
+            "contentDetails": {
+                "duration": "PT11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11181",
+                "likeCount": "701",
+                "favoriteCount": "0",
+                "commentCount": "46"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "qrY5AQk5oyIAV4iex5Dz5NIvVFY",
+            "id": "M-Y1oUNHC_0",
+            "snippet": {
+                "publishedAt": "2026-06-24T16:14:55Z",
+                "channelId": "UCcRYBqsKwBH_2yMKc5QoE0w",
+                "title": "Vibes no more \ud83e\udd23 #marvelrivals #marvel #rivals",
+                "description": "#marvelrivals #marvel #rivals",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M-Y1oUNHC_0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M-Y1oUNHC_0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M-Y1oUNHC_0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M-Y1oUNHC_0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M-Y1oUNHC_0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Invasion Show",
+                "tags": [
+                    "Marvel rivals",
+                    "Marvel",
+                    "Rivals"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Vibes no more \ud83e\udd23 #marvelrivals #marvel #rivals",
+                    "description": "#marvelrivals #marvel #rivals"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1852",
+                "likeCount": "113",
+                "favoriteCount": "0",
+                "commentCount": "9"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NWd7KVNevwkWzOZtO6tCxFnBiv4",
+            "id": "j2mfjVkbA5w",
+            "snippet": {
+                "publishedAt": "2026-06-24T16:07:28Z",
+                "channelId": "UCO1RaID33uvGW1EtoMSHygA",
+                "title": "NEW Black Widow Legendary Sound Effects in Marvel Rivals!",
+                "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j2mfjVkbA5w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j2mfjVkbA5w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j2mfjVkbA5w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j2mfjVkbA5w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j2mfjVkbA5w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Khyomaru",
+                "tags": [
+                    "marvel",
+                    "marvel rivals",
+                    "marvel rivals gameplay",
+                    "black widow",
+                    "iron man",
+                    "spiderman",
+                    "spider-man",
+                    "spider man",
+                    "marvel rivals trailer",
+                    "marvel rivals tier list"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "NEW Black Widow Legendary Sound Effects in Marvel Rivals!",
+                    "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "8527",
+                "likeCount": "394",
+                "favoriteCount": "0",
+                "commentCount": "23"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "G2uTtduUqw3f8wuDXw7EUYLX1lg",
+            "id": "aqem3biZDM8",
+            "snippet": {
+                "publishedAt": "2026-06-24T16:04:50Z",
+                "channelId": "UCyiVR4Ou-VmNQ3JNvGKrseQ",
+                "title": "NEW Black Widow Aquatic Assassin skin - Marvel Rivals",
+                "description": "Skin First Appears in Marvel Rivals Season 8.5\n\nJoin my Discord server for Weekly Skins Giveaway!!  https://discord.gg/FBfvKSmaM5\n\nThx for watching the video!\nconsider dropping a like and subscribing to the channel if you enjoy the content\n\nusually uploads around 1-2 hrs after the skins officially release in the itemstore.\n\nthis video format will remain the same, so you know what to expect every time.\n\nshowcases displayed in all Ultra graphics, and 55 brightness ingame\n\n\u272a YOUTUBE PLAYLIST \u272a\nMarvel Rivals Original Skins \u21aa https://www.youtube.com/playlist?list=PLBRxqJkvJ9cgzP68dgTVnBnT0KqbzDI0r\n\nMCU Skins \u21aa https://www.youtube.com/playlist?list=PLBRxqJkvJ9ci4CZIM5SO2UOHKHgmIXEE7\n\nComic Inspired Skins \u21aa https://www.youtube.com/playlist?list=PLBRxqJkvJ9ci4CZIM5SO2UOHKHgmIXEE7\n\nAll Before You Buy Video \u21aa https://youtube.com/playlist?list=PLBRxqJkvJ9cg1lnBdjpGyn2iOhUv9OY6M&si=cRr6FQHafgNp493o\n\n\u272a CONNECT WITH ME \u272a\nAdd me Ingame: dejuna\nSubscribe \u21aa https://www.youtube.com/@dejuna1?sub_confirmation=1\n\nDiscord \u27a4 / dejuna\nDiscord Server \u27a4 / https://discord.gg/FBfvKSmaM5\n\nTwitch \u27a4 / https://www.twitch.tv/dejuna\n\nBusiness inquiries lgr211111@gmail.com\n\nPsylocke: Chouko Takahashi The Prodigy skin Showcase Chouko Takahashi The Prodigy showcase review skin Chouko Takahashi The Prodigy skin review Chouko Takahashi The Prodigy skin spotlight showcasing the Chouko Takahashi The Prodigy in game, and comparing it to default skin and gameplay\n\nTimestamp\n00:00 Customization\n02:14 Sport Tea (Green)\n03:02 Cobalt Charm (Blue)\n03:52 Default Color\n\n\n\n\n\n\ntags:\nbefore you buy marvel rivals skins\n\n#beforeyoubuy #beforeyoubuymarvelrivals\n#beforeyoubuy #marvelrivals #marvelrivalsskin #skinreview #skinshowcase #skinspotlight #skinspotlights #MarvelRivals #RivalsCreate  #MarvelRivals \n#MarvelRivalsPartners\n#thehuntison #whitefox #blackcat #esushowdown #empirestateuniversity #esu #psylocke #psylockeesu #psylockeChoukoTakahashi #psylocketennis",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aqem3biZDM8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aqem3biZDM8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aqem3biZDM8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aqem3biZDM8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aqem3biZDM8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "dejuna | Marvel Rivals",
+                "tags": [
+                    "marvel rivals",
+                    "marvel rival skin",
+                    "Psylocke: Chouko Takahashi The Prodigy",
+                    "before you buy",
+                    "marvel rivals skin showcase",
+                    "new psylocke skin",
+                    "ESU College Life",
+                    "Takahashi The Prodigy",
+                    "Takahashi The Prodigy skin",
+                    "marvel rivals season 7.5",
+                    "marvel rivals skins tierlist",
+                    "marvel rivals tierlist",
+                    "psylocke tennis skin",
+                    "psylocke esu skin",
+                    "psylocke tennis",
+                    "new psylocke legendary skin",
+                    "dejuna",
+                    "psylocke",
+                    "recolor",
+                    "Sporty Tea",
+                    "Cobalt Charm",
+                    "psylocke tennis recolor",
+                    "psylocke recolor"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "NEW Black Widow Aquatic Assassin skin - Marvel Rivals",
+                    "description": "Skin First Appears in Marvel Rivals Season 8.5\n\nJoin my Discord server for Weekly Skins Giveaway!!  https://discord.gg/FBfvKSmaM5\n\nThx for watching the video!\nconsider dropping a like and subscribing to the channel if you enjoy the content\n\nusually uploads around 1-2 hrs after the skins officially release in the itemstore.\n\nthis video format will remain the same, so you know what to expect every time.\n\nshowcases displayed in all Ultra graphics, and 55 brightness ingame\n\n\u272a YOUTUBE PLAYLIST \u272a\nMarvel Rivals Original Skins \u21aa https://www.youtube.com/playlist?list=PLBRxqJkvJ9cgzP68dgTVnBnT0KqbzDI0r\n\nMCU Skins \u21aa https://www.youtube.com/playlist?list=PLBRxqJkvJ9ci4CZIM5SO2UOHKHgmIXEE7\n\nComic Inspired Skins \u21aa https://www.youtube.com/playlist?list=PLBRxqJkvJ9ci4CZIM5SO2UOHKHgmIXEE7\n\nAll Before You Buy Video \u21aa https://youtube.com/playlist?list=PLBRxqJkvJ9cg1lnBdjpGyn2iOhUv9OY6M&si=cRr6FQHafgNp493o\n\n\u272a CONNECT WITH ME \u272a\nAdd me Ingame: dejuna\nSubscribe \u21aa https://www.youtube.com/@dejuna1?sub_confirmation=1\n\nDiscord \u27a4 / dejuna\nDiscord Server \u27a4 / https://discord.gg/FBfvKSmaM5\n\nTwitch \u27a4 / https://www.twitch.tv/dejuna\n\nBusiness inquiries lgr211111@gmail.com\n\nPsylocke: Chouko Takahashi The Prodigy skin Showcase Chouko Takahashi The Prodigy showcase review skin Chouko Takahashi The Prodigy skin review Chouko Takahashi The Prodigy skin spotlight showcasing the Chouko Takahashi The Prodigy in game, and comparing it to default skin and gameplay\n\nTimestamp\n00:00 Customization\n02:14 Sport Tea (Green)\n03:02 Cobalt Charm (Blue)\n03:52 Default Color\n\n\n\n\n\n\ntags:\nbefore you buy marvel rivals skins\n\n#beforeyoubuy #beforeyoubuymarvelrivals\n#beforeyoubuy #marvelrivals #marvelrivalsskin #skinreview #skinshowcase #skinspotlight #skinspotlights #MarvelRivals #RivalsCreate  #MarvelRivals \n#MarvelRivalsPartners\n#thehuntison #whitefox #blackcat #esushowdown #empirestateuniversity #esu #psylocke #psylockeesu #psylockeChoukoTakahashi #psylocketennis"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5492",
+                "likeCount": "217",
+                "favoriteCount": "0",
+                "commentCount": "57"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ZWP_Xuxf77X3HCMq9qk7OrLBa_Q",
+            "id": "01aLllkvr40",
+            "snippet": {
+                "publishedAt": "2026-06-24T15:30:16Z",
+                "channelId": "UC9UeduMNtsFEKa2lXlVbV-w",
+                "title": "MARVEL RIVALS PLEASE DON'T COPY THIS FROM OVERWATCH!",
+                "description": "ok subscribe bye :)\n\n#marvel #marvelrivals #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/01aLllkvr40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/01aLllkvr40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/01aLllkvr40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/01aLllkvr40/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/01aLllkvr40/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KaySkay",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "MARVEL RIVALS PLEASE DON'T COPY THIS FROM OVERWATCH!",
+                    "description": "ok subscribe bye :)\n\n#marvel #marvelrivals #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "98012",
+                "likeCount": "3448",
+                "favoriteCount": "0",
+                "commentCount": "126"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fE_15pvsDdhSW0O2fs31fHJBnZg",
+            "id": "XOFQ4gSRF7U",
+            "snippet": {
+                "publishedAt": "2026-06-24T15:25:49Z",
+                "channelId": "UCcRYBqsKwBH_2yMKc5QoE0w",
+                "title": "Every1 gets a bad ult \ud83e\udd23 #marvelrivals #marvel #rivals",
+                "description": "#marvelrivals #marvel #rivals",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XOFQ4gSRF7U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XOFQ4gSRF7U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XOFQ4gSRF7U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XOFQ4gSRF7U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XOFQ4gSRF7U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Invasion Show",
+                "tags": [
+                    "Marvel rivals",
+                    "Marvel",
+                    "Rivals"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Every1 gets a bad ult \ud83e\udd23 #marvelrivals #marvel #rivals",
+                    "description": "#marvelrivals #marvel #rivals"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "72257",
+                "likeCount": "2666",
+                "favoriteCount": "0",
+                "commentCount": "70"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "uDmeGYkGVxBDtfVnBXfeTEYta64",
+            "id": "NJV-SQEHFY0",
+            "snippet": {
+                "publishedAt": "2026-06-24T15:16:57Z",
+                "channelId": "UCN3MIUlSFkJSkLJnTJHcgaA",
+                "title": "Ciclope no Marvel Rivals \u00e9 TUDO o que um personagem deveria ser! (Menos a Ult kk)",
+                "description": "Quer participar das lives e aparecer nos v\u00eddeos tamb\u00e9m? S\u00f3 me seguir aqui:\nCanal do Site roxo: marcusoceifeiro\nE-mail comercial: marcusceifeiro@gmail.com\nInstagram: marcusoceifeiro\nTikTok: marcusoceifeiro\nMeu canal de Cortes https://www.youtube.com/@MarcusoCeifeiroCortesOficial\nMeu outro canal no Youtube: https://www.youtube.com/channel/UChh6\nServer no Discord: https://discord.gg/hUaG5ju56w\n\n00:00 - Vamos direto ao personagem! Ciclope \n09:30 - O personagem t\u00e1 perfeito tirando a Ult. \n12:01 - \"Marcus, como assim voc\u00ea ta reclamando?! Uhm uhm uhm...\"\n15:15 - Hora das partidas de ciclope! N\u00c3\u00c3\u00c3AAAAAAAA....\n20:01 - Ciclope - Partida 1 \n25:05 - Ciclope - Partida 2 \n31:00 - Ciclope - Partida 3 \n39:40 - Cicople - Partida 4 \n48:02 - Cicople - Partida 5\n52:50 - Cicople - Partida 6\n01:01:30 - Conclus\u00f5es Finais sobre o Ciclope",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NJV-SQEHFY0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NJV-SQEHFY0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NJV-SQEHFY0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NJV-SQEHFY0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NJV-SQEHFY0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marcus O Ceifeiro",
+                "tags": [
+                    "marcus o ceifeiro",
+                    "marcusoceifeiro",
+                    "reaperdub",
+                    "voice makers",
+                    "marcus felipy",
+                    "Ciclop\u00e3o t\u00e1 incr\u00edvel!",
+                    "Ciclope",
+                    "X-Men",
+                    "Jean Grey",
+                    "Wolverine",
+                    "Scott Summers",
+                    "A mim meus X-Men",
+                    "Temporada 8.5",
+                    "Season 8.5",
+                    "Gameplay Ciclope",
+                    "Marvel Rivals",
+                    "Ciclope X-Men Marvel RIvals Gameplay",
+                    "Partidas com o chat",
+                    "X-Force",
+                    "Ciclope Skins",
+                    "Tirando a Ult... T\u00e1 PERFEITO!",
+                    "Fabulosos X-Men",
+                    "X-Men 97",
+                    "X-Men Vs. Vingadores",
+                    "Ciclope no Marvel Rivals \u00e9 TUDO o que um personagem deveria ser! (Menos a Ult kk)"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-BR",
+                "localized": {
+                    "title": "Ciclope no Marvel Rivals \u00e9 TUDO o que um personagem deveria ser! (Menos a Ult kk)",
+                    "description": "Quer participar das lives e aparecer nos v\u00eddeos tamb\u00e9m? S\u00f3 me seguir aqui:\nCanal do Site roxo: marcusoceifeiro\nE-mail comercial: marcusceifeiro@gmail.com\nInstagram: marcusoceifeiro\nTikTok: marcusoceifeiro\nMeu canal de Cortes https://www.youtube.com/@MarcusoCeifeiroCortesOficial\nMeu outro canal no Youtube: https://www.youtube.com/channel/UChh6\nServer no Discord: https://discord.gg/hUaG5ju56w\n\n00:00 - Vamos direto ao personagem! Ciclope \n09:30 - O personagem t\u00e1 perfeito tirando a Ult. \n12:01 - \"Marcus, como assim voc\u00ea ta reclamando?! Uhm uhm uhm...\"\n15:15 - Hora das partidas de ciclope! N\u00c3\u00c3\u00c3AAAAAAAA....\n20:01 - Ciclope - Partida 1 \n25:05 - Ciclope - Partida 2 \n31:00 - Ciclope - Partida 3 \n39:40 - Cicople - Partida 4 \n48:02 - Cicople - Partida 5\n52:50 - Cicople - Partida 6\n01:01:30 - Conclus\u00f5es Finais sobre o Ciclope"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "contentDetails": {
+                "duration": "PT1H7M51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "16307",
+                "likeCount": "2326",
+                "favoriteCount": "0",
+                "commentCount": "188"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2df1Sw92syiqzuaPhzAveX41PsA",
+            "id": "ANfmRRcZVuQ",
+            "snippet": {
+                "publishedAt": "2026-06-24T14:10:12Z",
+                "channelId": "UC-GECHmvQjUn5W1zMqbGvKQ",
+                "title": "We NEED to Talk About The Current State of marvel rivals..",
+                "description": "Follow my socials- im live 5 days a week on twitch 10am EST!\n(Twitch) https://www.twitch.tv/somjuu \n(ALL THE LINK) https://linktr.ee/Somjuu\n(2ND YT CHANNEL) https://www.youtube.com/channel/UCf7g-mmGjgoa9B6D2Cf5_1g",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ANfmRRcZVuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ANfmRRcZVuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ANfmRRcZVuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ANfmRRcZVuQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ANfmRRcZVuQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Somjuu",
+                "tags": [
+                    "marvel Rivals",
+                    "Marvel Rivals Leaks",
+                    "marvel rivals news",
+                    "Marvel Rival Mains",
+                    "Marvel Rivals Guide",
+                    "Marvel Rivals Beginners Guide",
+                    "Marvel Rivals Guides",
+                    "Marvel Rivals Black Panther",
+                    "Black Panther Guide",
+                    "Panther Guide",
+                    "necros",
+                    "necros black panther",
+                    "marvel rivals meta",
+                    "the #1 BLACK PANTHER",
+                    "Karkat",
+                    "1000 hours black panther",
+                    "haunt marvel rivals",
+                    "haunt marvel rivals settings",
+                    "SOMJUU",
+                    "Kingsman265",
+                    "daredevil",
+                    "daredevil marvel rivals",
+                    "rank 1 daredevil"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "We NEED to Talk About The Current State of marvel rivals..",
+                    "description": "Follow my socials- im live 5 days a week on twitch 10am EST!\n(Twitch) https://www.twitch.tv/somjuu \n(ALL THE LINK) https://linktr.ee/Somjuu\n(2ND YT CHANNEL) https://www.youtube.com/channel/UCf7g-mmGjgoa9B6D2Cf5_1g"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT20M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7707",
+                "likeCount": "601",
+                "favoriteCount": "0",
+                "commentCount": "274"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "45Z_ngMB6zJnXa41jYaR1nE7Rko",
+            "id": "snJv19sFK2E",
+            "snippet": {
+                "publishedAt": "2026-06-24T14:00:30Z",
+                "channelId": "UCXBE_QQSZueB8082ml5fslg",
+                "title": "SPECTATING CYCLOPS KILL RECORD IN MARVEL RIVALS",
+                "description": "LIKE and SUBSCRIBE with NOTIFICATIONS ON if you enjoyed the video! \ud83d\udc4d\n\n\ud83d\udc49Don't forget to choose me as your support-a-creator! Use Code - \"timthetatman\" in the Fortnite Store! #EpicPartner \n\n\ud83d\udcaaBECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join\n\ud83d\udcb0 DONATE: https://streamelements.com/timthetatman/tip\n\ud83d\udc49JOIN THE DISCORD: https://discord.gg/timthetatman\n\ud83d\udd34 You can catch me live on Twitch! https://twitch.tv/timthetatman\n\ud83c\udfa5 MoreTimTheTatman: https://www.youtube.com/moretimthetatman\n\ud83c\udfa5 TimTheTatman Two: https://youtube.com/TimTheTatmanTwo\n\ud83c\udfa5 TimTheTatman VODs: https://www.youtube.com/timthetatmanvods\n\ud83c\udfa5 TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts\n\u25b6\ufe0f GET CONNECTED:\n\ud83d\udda5\ufe0f Website | https://timthetatman.com/\n\ud83d\udc26Twitter | https://twitter.com/timthetatman\n\ud83d\udcf7 Instagram | https://www.instagram.com/timthetatman/\n\ud83d\udcf1TikTok  | https://tiktok.com/@timthetatman\n\n\nTHANKS FOR WATCHING!! \ud83d\udc96\n\n#timthetatman #marvelrivals #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/snJv19sFK2E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/snJv19sFK2E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/snJv19sFK2E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/snJv19sFK2E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/snJv19sFK2E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TimTheTatman",
+                "tags": [
+                    "timthetatman",
+                    "tatmanarmy",
+                    "tim",
+                    "the",
+                    "tat",
+                    "man",
+                    "timthetatman ninja",
+                    "nickmercs",
+                    "funny moments",
+                    "gameplay",
+                    "compilation",
+                    "funny",
+                    "fat",
+                    "streamer",
+                    "spectating solos",
+                    "warzone hacker",
+                    "warzone cheater",
+                    "cheater",
+                    "hacker",
+                    "solos",
+                    "warzone solo",
+                    "warzone solos",
+                    "tim solos",
+                    "tim the tatman",
+                    "timthetatman spectates",
+                    "timthetatman highlights",
+                    "timthetatman moments",
+                    "warzone spectating",
+                    "best of",
+                    "best of timthetatman",
+                    "best of tim",
+                    "timthetatman funny",
+                    "timthetatman solo",
+                    "marvel rivals",
+                    "spectating"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "SPECTATING CYCLOPS KILL RECORD IN MARVEL RIVALS",
+                    "description": "LIKE and SUBSCRIBE with NOTIFICATIONS ON if you enjoyed the video! \ud83d\udc4d\n\n\ud83d\udc49Don't forget to choose me as your support-a-creator! Use Code - \"timthetatman\" in the Fortnite Store! #EpicPartner \n\n\ud83d\udcaaBECOME A MEMBER OF THE STREAM - https://youtube.com/timthetatman/join\n\ud83d\udcb0 DONATE: https://streamelements.com/timthetatman/tip\n\ud83d\udc49JOIN THE DISCORD: https://discord.gg/timthetatman\n\ud83d\udd34 You can catch me live on Twitch! https://twitch.tv/timthetatman\n\ud83c\udfa5 MoreTimTheTatman: https://www.youtube.com/moretimthetatman\n\ud83c\udfa5 TimTheTatman Two: https://youtube.com/TimTheTatmanTwo\n\ud83c\udfa5 TimTheTatman VODs: https://www.youtube.com/timthetatmanvods\n\ud83c\udfa5 TimTheTatman Shorts: https://youtube.com/TimTheTatmanShorts\n\u25b6\ufe0f GET CONNECTED:\n\ud83d\udda5\ufe0f Website | https://timthetatman.com/\n\ud83d\udc26Twitter | https://twitter.com/timthetatman\n\ud83d\udcf7 Instagram | https://www.instagram.com/timthetatman/\n\ud83d\udcf1TikTok  | https://tiktok.com/@timthetatman\n\n\nTHANKS FOR WATCHING!! \ud83d\udc96\n\n#timthetatman #marvelrivals #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT25M55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "47084",
+                "likeCount": "1485",
+                "favoriteCount": "0",
+                "commentCount": "105"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "JCScPXQLCZVovW7oy46Wd2i6i34",
+            "id": "-WX9vW5dXo4",
+            "snippet": {
+                "publishedAt": "2026-06-24T12:00:29Z",
+                "channelId": "UCPt4FISO_oZ7ALfDUjEmOwg",
+                "title": "Cyclops rejects Scarlet Witch in Marvel Rivals",
+                "description": "In Marvel Rivals, Cyclops and Scarlet Witch share a poignant voice interaction when paired on the same team. Wanda offers to use her magic to ease Scott's past trauma, but Cyclops declines, stating that remembering the pain only makes him fight harder.\n\nScarlet Witch: \"I have a spell that could remove the trauma you experienced from your mind, you know.\"\n\nCyclops: \"No thanks, Wanda. Remembering only makes me want to fight harder.\"\n\nThis interaction is especially meaningful for long-time Marvel fans because it subverts the heavy history between the two. In the comics\u2014most notably during Avengers vs. X-Men\u2014Wanda's reality-warping powers were a direct source of immense mutant trauma (and a lot of bad blood). This exchange showcases a more mature, respectful dynamic where they acknowledge each other's hardships and channel that resilience into fighting the current crisis.\n#shorts #marvelrivals #gaming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-WX9vW5dXo4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-WX9vW5dXo4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-WX9vW5dXo4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-WX9vW5dXo4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-WX9vW5dXo4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Shotsoma",
+                "tags": [
+                    "Marvel rivals wanda",
+                    "Scarlet witch",
+                    "Short",
+                    "X men",
+                    "X men 97",
+                    "cyclops",
+                    "cyclops marvel rivals",
+                    "marvel",
+                    "marvel rivals",
+                    "marvel rivals cyclops",
+                    "marvel rivals cyclops gameplay",
+                    "marvel rivals cyclops guide",
+                    "marvel rivals gameplay",
+                    "marvel rivals scarlet witch",
+                    "marvel rivals season 8",
+                    "marvel rivals season 8.5",
+                    "marvel rivals tier list",
+                    "overwatch",
+                    "scarlet witch marvel rivals",
+                    "shorts",
+                    "shorts video",
+                    "trending",
+                    "trending shorts",
+                    "viral shorts",
+                    "wanda",
+                    "wanda marvel rivals",
+                    "youtube shorts",
+                    "yt shorts"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Cyclops rejects Scarlet Witch in Marvel Rivals",
+                    "description": "In Marvel Rivals, Cyclops and Scarlet Witch share a poignant voice interaction when paired on the same team. Wanda offers to use her magic to ease Scott's past trauma, but Cyclops declines, stating that remembering the pain only makes him fight harder.\n\nScarlet Witch: \"I have a spell that could remove the trauma you experienced from your mind, you know.\"\n\nCyclops: \"No thanks, Wanda. Remembering only makes me want to fight harder.\"\n\nThis interaction is especially meaningful for long-time Marvel fans because it subverts the heavy history between the two. In the comics\u2014most notably during Avengers vs. X-Men\u2014Wanda's reality-warping powers were a direct source of immense mutant trauma (and a lot of bad blood). This exchange showcases a more mature, respectful dynamic where they acknowledge each other's hardships and channel that resilience into fighting the current crisis.\n#shorts #marvelrivals #gaming"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT14S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "24419",
+                "likeCount": "836",
+                "favoriteCount": "0",
+                "commentCount": "14"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "MkqEbWtcfpOBX0O3ZnSUBJl4XAA",
+            "id": "TWkCdZOKkR0",
+            "snippet": {
+                "publishedAt": "2026-06-24T10:17:56Z",
+                "channelId": "UCZY0WUSzhWAvMSF7aKmypkA",
+                "title": "[ \ud83d\udd34 LIVE ] #1 LUNA SNOW ON CONSOLE ( TOP 500  ) Marvel Rivals Season 8.5",
+                "description": "#marvelrivals   #marvel #LunaSnow",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TWkCdZOKkR0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TWkCdZOKkR0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TWkCdZOKkR0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TWkCdZOKkR0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TWkCdZOKkR0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Luna Webcore",
+                "tags": [
+                    "Overwatch2",
+                    "Overwatch",
+                    "#overwatch2season12",
+                    "Overwatchranked",
+                    "Overwatchcompetetive",
+                    "Overwatchgameplay",
+                    "widowmaker",
+                    "widowmakergameplay",
+                    "gaming",
+                    "videogames",
+                    "games",
+                    "sniper",
+                    "fps",
+                    "console",
+                    "controller",
+                    "playstation5",
+                    "playstation4",
+                    "playstation",
+                    "xbox",
+                    "nintendoswitch",
+                    "ranked",
+                    "gamergirl",
+                    "nerd",
+                    "cutegirl",
+                    "worldofwarcraft",
+                    "Overwatchseason13",
+                    "Marvel",
+                    "BlackWidow",
+                    "MarvelRivals",
+                    "Comics"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[ \ud83d\udd34 LIVE ] #1 LUNA SNOW ON CONSOLE ( TOP 500  ) Marvel Rivals Season 8.5",
+                    "description": "#marvelrivals   #marvel #LunaSnow"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT4H16M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3034",
+                "likeCount": "111",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "JHHI5yaBnDaUB1CUs6tOKD6LIfs",
+            "id": "g1qgusPwVEU",
+            "snippet": {
+                "publishedAt": "2026-06-24T10:17:25Z",
+                "channelId": "UCQlrcMSYXUATZA0xKwKWRwA",
+                "title": "WHY IS THIS STILL HAPPENING - MARVEL RIVALS",
+                "description": "0:00 EGO AND THROWERS\n7:07 Negative Content Online\n11:49 The Bottom Line\n\n\ud83d\udd25 Watch Me Play LIVE: https://twitch.tv/nugnug_tv\n\ud83d\udcac Join the Community on Discord: https://discord.gg/ekSvkJxCWF\n\nI talk about and play games\n\n#MarvelRivals #Season8.5 #Ranked #GamingRant #netease \n\n-------------------------------------------------------------------------------------------------------\n\nMarvel Rivals, Marvel Rivals Season 8.5, Marvel Rivals Ranked, Throwers, Matchmaking, Season 8.5 Meta, Marvel Rivals Rant, Ranked Sabotage, NugnugTV, High Rank, NetEase Games, Ranked Competitive, Marvel Rivals Fix",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g1qgusPwVEU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g1qgusPwVEU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g1qgusPwVEU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g1qgusPwVEU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g1qgusPwVEU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NugnugTV",
+                "tags": [
+                    "Marvel Rivals",
+                    "Season 8.5",
+                    "Ranked Throwers",
+                    "Marvel Rivals Competitive",
+                    "Matchmaking",
+                    "Season 8.5 Meta",
+                    "Marvel Rivals Rant",
+                    "Ranked Sabotage",
+                    "High Rank Rivals",
+                    "NetEase",
+                    "Marvel Rivals Gameplay",
+                    "Competitive Integrity",
+                    "Ranked Grind."
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "WHY IS THIS STILL HAPPENING - MARVEL RIVALS",
+                    "description": "0:00 EGO AND THROWERS\n7:07 Negative Content Online\n11:49 The Bottom Line\n\n\ud83d\udd25 Watch Me Play LIVE: https://twitch.tv/nugnug_tv\n\ud83d\udcac Join the Community on Discord: https://discord.gg/ekSvkJxCWF\n\nI talk about and play games\n\n#MarvelRivals #Season8.5 #Ranked #GamingRant #netease \n\n-------------------------------------------------------------------------------------------------------\n\nMarvel Rivals, Marvel Rivals Season 8.5, Marvel Rivals Ranked, Throwers, Matchmaking, Season 8.5 Meta, Marvel Rivals Rant, Ranked Sabotage, NugnugTV, High Rank, NetEase Games, Ranked Competitive, Marvel Rivals Fix"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT13M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3655",
+                "likeCount": "196",
+                "favoriteCount": "0",
+                "commentCount": "100"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "VuddHRr5vtcoWCDgDM7kx3Vq63g",
+            "id": "pPIppbNSKzc",
+            "snippet": {
+                "publishedAt": "2026-06-24T09:00:11Z",
+                "channelId": "UCBVw8AnAy8ifXpysv2fiVYQ",
+                "title": "\u3010Marvel Rivals\u3011\u7121\u9650\u5f37\u5316\u7d99\u7d9a\u4e2d\u306e\u30d6\u30ec\u30a4\u30c9\u3001\u6d41\u77f3\u306e\u6d41\u77f3\u306b\u5f37\u3044\u3060\u308d\uff01\u3010\u3086\u3063\u304f\u308a\u5b9f\u6cc1/\u30de\u30fc\u30d9\u30eb\u30e9\u30a4\u30d0\u30eb\u30ba\u3011",
+                "description": "#marvelrivals  #\u30de\u30fc\u30d9\u30eb\u30e9\u30a4\u30d0\u30eb\u30ba \u3000#\u3086\u3063\u304f\u308a\u5b9f\u6cc1\n\n\u25cfX\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\nhttps://twitter.com/HEIDEN_CHANNEL\n\n\u25cfTwich\u30a2\u30ab\u30a6\u30f3\u30c8\nhttps://www.twitch.tv/he1den_yukkuri\n\n\u25cf\u30c1\u30e3\u30f3\u30cd\u30eb\u30e1\u30f3\u30d0\u30fc\u30b7\u30c3\u30d7\nyoutube.com/channel/UCBVw8AnAy8ifXpysv2fiVYQ/join\n\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\n\u25cf\u4f7f\u7528\u3057\u3066\u3044\u308b\u52b9\u679c\u97f3\n\u52b9\u679c\u97f3\u30e9\u30dc\u69d8\u3010https://soundeffect-lab.info/\u3011\n\u30cb\u30b3\u30cb\u30b3\u30e2\u30f3\u30ba\u69d8\n\n\u25cf\u4f7f\u7528\u3057\u3066\u3044\u308bBGM\nDOVA\u2010syndrome\u69d8\u3010https://dova-s.jp/\u3011\n\u9a12\u97f3\u306e\u306a\u3044\u4e16\u754c\u69d8\u3010https://noiselessworld.net/\u3011\n\u8336\u8449\u306e\u304e\u304b\u69d8\u3010https://www.youtube.com/@nogika_chaba\u3011\n\n\u25cf\u4f7f\u7528\u3057\u3066\u3044\u308b\u30bd\u30d5\u30c8\n\u3086\u3063\u304f\u308a\u30e0\u30fc\u30d3\u30fc\u30e1\u30fc\u30ab\u30fc\uff14\u69d8\nVOICEBOX\u69d8",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pPIppbNSKzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pPIppbNSKzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pPIppbNSKzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pPIppbNSKzc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pPIppbNSKzc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u30d8\u30a4\u30c7\u30f3Game",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "\u3010Marvel Rivals\u3011\u7121\u9650\u5f37\u5316\u7d99\u7d9a\u4e2d\u306e\u30d6\u30ec\u30a4\u30c9\u3001\u6d41\u77f3\u306e\u6d41\u77f3\u306b\u5f37\u3044\u3060\u308d\uff01\u3010\u3086\u3063\u304f\u308a\u5b9f\u6cc1/\u30de\u30fc\u30d9\u30eb\u30e9\u30a4\u30d0\u30eb\u30ba\u3011",
+                    "description": "#marvelrivals  #\u30de\u30fc\u30d9\u30eb\u30e9\u30a4\u30d0\u30eb\u30ba \u3000#\u3086\u3063\u304f\u308a\u5b9f\u6cc1\n\n\u25cfX\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\nhttps://twitter.com/HEIDEN_CHANNEL\n\n\u25cfTwich\u30a2\u30ab\u30a6\u30f3\u30c8\nhttps://www.twitch.tv/he1den_yukkuri\n\n\u25cf\u30c1\u30e3\u30f3\u30cd\u30eb\u30e1\u30f3\u30d0\u30fc\u30b7\u30c3\u30d7\nyoutube.com/channel/UCBVw8AnAy8ifXpysv2fiVYQ/join\n\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\n\u25cf\u4f7f\u7528\u3057\u3066\u3044\u308b\u52b9\u679c\u97f3\n\u52b9\u679c\u97f3\u30e9\u30dc\u69d8\u3010https://soundeffect-lab.info/\u3011\n\u30cb\u30b3\u30cb\u30b3\u30e2\u30f3\u30ba\u69d8\n\n\u25cf\u4f7f\u7528\u3057\u3066\u3044\u308bBGM\nDOVA\u2010syndrome\u69d8\u3010https://dova-s.jp/\u3011\n\u9a12\u97f3\u306e\u306a\u3044\u4e16\u754c\u69d8\u3010https://noiselessworld.net/\u3011\n\u8336\u8449\u306e\u304e\u304b\u69d8\u3010https://www.youtube.com/@nogika_chaba\u3011\n\n\u25cf\u4f7f\u7528\u3057\u3066\u3044\u308b\u30bd\u30d5\u30c8\n\u3086\u3063\u304f\u308a\u30e0\u30fc\u30d3\u30fc\u30e1\u30fc\u30ab\u30fc\uff14\u69d8\nVOICEBOX\u69d8"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT8M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2664",
+                "likeCount": "57",
+                "favoriteCount": "0",
+                "commentCount": "15"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wR6h79UoQTiV_rNvzAkNBfGzTbU",
+            "id": "4KKw-b7_B04",
+            "snippet": {
+                "publishedAt": "2026-06-24T08:53:59Z",
+                "channelId": "UCvFyUZLdhX3glMa9BzWiiew",
+                "title": "The Captain America Situation Is Crazy | Marvel Rivals ",
+                "description": "In this video I go over the recent trend of content creators calling Captain America S tier. However, despite the disagreements I remind viewers that individual experiences influence character placements. This also goes into the concept of specific divisions having different metas. \n\n#marvelrivals #marvelgames #gaming #gamingvideos",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4KKw-b7_B04/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4KKw-b7_B04/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4KKw-b7_B04/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4KKw-b7_B04/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4KKw-b7_B04/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kodlaq",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Captain America Situation Is Crazy | Marvel Rivals ",
+                    "description": "In this video I go over the recent trend of content creators calling Captain America S tier. However, despite the disagreements I remind viewers that individual experiences influence character placements. This also goes into the concept of specific divisions having different metas. \n\n#marvelrivals #marvelgames #gaming #gamingvideos"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2023",
+                "likeCount": "75",
+                "favoriteCount": "0",
+                "commentCount": "54"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Opm50GNssZ0ooXfskOCcV5Q_1vU",
+            "id": "0zsy01WaqJ8",
+            "snippet": {
+                "publishedAt": "2026-06-24T07:04:45Z",
+                "channelId": "UCf_ENZSDQ6xoGOKp0pIcHmw",
+                "title": "ROAD To ETERNITY on CONSOLE *NEW SEASON* - (Marvel Rivals)",
+                "description": "Join And Chat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0zsy01WaqJ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0zsy01WaqJ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0zsy01WaqJ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0zsy01WaqJ8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0zsy01WaqJ8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Vomero",
+                "tags": [
+                    "#PS5Live",
+                    "Marvel Rivals",
+                    "Marvel_Rivals",
+                    "PlayStation 5",
+                    "Sony Interactive Entertainment"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "ROAD To ETERNITY on CONSOLE *NEW SEASON* - (Marvel Rivals)",
+                    "description": "Join And Chat"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3H55M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "568",
+                "likeCount": "23",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "12ZvwEQXJA1eMBUIQR4EDT8Twzk",
+            "id": "9CZEe0zXang",
+            "snippet": {
+                "publishedAt": "2026-06-24T02:06:09Z",
+                "channelId": "UCDnVo_35vewJG47ZMIMi_kw",
+                "title": "I'm Worried About Season 9 of Marvel Rivals",
+                "description": "#marvelrivals #netease #gaming",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9CZEe0zXang/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9CZEe0zXang/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9CZEe0zXang/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9CZEe0zXang/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9CZEe0zXang/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nenn",
+                "tags": [
+                    "Marvel Rivals",
+                    "Netease"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I'm Worried About Season 9 of Marvel Rivals",
+                    "description": "#marvelrivals #netease #gaming"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "7008",
+                "likeCount": "369",
+                "favoriteCount": "0",
+                "commentCount": "169"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "59CSE9cdd5p6s_HnrC_aRZd2Wzc",
+            "id": "3ukNtGHsPk8",
+            "snippet": {
+                "publishedAt": "2026-06-24T01:27:36Z",
+                "channelId": "UCoKKe0XN5Zc1lSTi1_utNOw",
+                "title": "Yooo, what did I miss??? (NEW DROPS ON MY TWITCH)",
+                "description": "SUB NOW!!!\n\n\ud83d\udd14 Make sure to SUBSCRIBE and HIT THE BELL \ud83d\udd14\n\ud83d\ude0e Become a MEMBER: https://www.youtube.com/@Jay3/join\n\nI'm probably LIVE right now... make sure to stop by and say hi!\n\ud83d\udd34 https://twitch.tv/jay3\n\nMy YouTube channels:\n\ud83d\udcfd\ufe0f Jay3 Two: https://www.youtube.com/@Jay3Two\n\ud83d\udcfd\ufe0f More Jay3: https://www.youtube.com/@MoreJay3\n\ud83d\udcfd\ufe0f Jay3 IRL: https://www.youtube.com/@UCQkChmIJ-qIZThQIGSQu1og \n\nJay3 Socials:\n\ud83d\udc26 Twitter: https://twitter.com/jay3ow\n\ud83d\udcfd\ufe0f TikTok: https://tiktok.com/@jay3twitch\n\ud83d\udcf7 Instagram: https://www.instagram.com/jay3twitch\n\ud83d\udcac Discord: https://discord.gg/jay3\n\n\ud83d\udcbc Business inquiries - business@jay3.gg\n\n#jay3 #overwatch2 #marvelrivals",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3ukNtGHsPk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3ukNtGHsPk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3ukNtGHsPk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3ukNtGHsPk8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3ukNtGHsPk8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jay3",
+                "tags": [
+                    "spectating",
+                    "spectate",
+                    "spectates",
+                    "overwatch",
+                    "overwatch pro player",
+                    "overwatch pro",
+                    "overwatch funny moments",
+                    "funny overwatch moments",
+                    "OW",
+                    "overwatch2",
+                    "overwatch rage",
+                    "overwatch jay3",
+                    "jay3 overwatch",
+                    "Jay3",
+                    "jay3 highlights",
+                    "grandmaster",
+                    "overwatch spectate",
+                    "overwatch moments",
+                    "best of overwatch",
+                    "widowmaker",
+                    "grandmaster overwatch",
+                    "gm overwatch",
+                    "overwatch gm",
+                    "ow2",
+                    "marvel",
+                    "marvel rivals",
+                    "one above all",
+                    "top 500",
+                    "rank 1",
+                    "eternity",
+                    "marvel rivals guide",
+                    "marvel rival tips",
+                    "marvel rival guides"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Yooo, what did I miss??? (NEW DROPS ON MY TWITCH)",
+                    "description": "SUB NOW!!!\n\n\ud83d\udd14 Make sure to SUBSCRIBE and HIT THE BELL \ud83d\udd14\n\ud83d\ude0e Become a MEMBER: https://www.youtube.com/@Jay3/join\n\nI'm probably LIVE right now... make sure to stop by and say hi!\n\ud83d\udd34 https://twitch.tv/jay3\n\nMy YouTube channels:\n\ud83d\udcfd\ufe0f Jay3 Two: https://www.youtube.com/@Jay3Two\n\ud83d\udcfd\ufe0f More Jay3: https://www.youtube.com/@MoreJay3\n\ud83d\udcfd\ufe0f Jay3 IRL: https://www.youtube.com/@UCQkChmIJ-qIZThQIGSQu1og \n\nJay3 Socials:\n\ud83d\udc26 Twitter: https://twitter.com/jay3ow\n\ud83d\udcfd\ufe0f TikTok: https://tiktok.com/@jay3twitch\n\ud83d\udcf7 Instagram: https://www.instagram.com/jay3twitch\n\ud83d\udcac Discord: https://discord.gg/jay3\n\n\ud83d\udcbc Business inquiries - business@jay3.gg\n\n#jay3 #overwatch2 #marvelrivals"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT7H34M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "25394",
+                "likeCount": "430",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Jb4AX277SzPN-aKd1KlyEhYlSyA",
+            "id": "9CjU6UgKGos",
+            "snippet": {
+                "publishedAt": "2026-06-23T23:54:54Z",
+                "channelId": "UCcQ8kOXTNnd8JEJ0yXeJn9w",
+                "title": "Can i Hit Eternity? Marvel Rivals Ranked Grind | Noob to Eternity pt.5 #gaming #marvelrivals #marvel",
+                "description": "Like\nSubscribe\nComment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9CjU6UgKGos/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9CjU6UgKGos/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9CjU6UgKGos/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9CjU6UgKGos/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9CjU6UgKGos/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kenwaltzon",
+                "tags": [
+                    "game",
+                    "gamming",
+                    "funny",
+                    "fails",
+                    "punisher",
+                    "spider",
+                    "man",
+                    "marvel",
+                    "rivals",
+                    "ranked",
+                    "noob",
+                    "eternity"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Can i Hit Eternity? Marvel Rivals Ranked Grind | Noob to Eternity pt.5 #gaming #marvelrivals #marvel",
+                    "description": "Like\nSubscribe\nComment"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "956",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "U4fzMI0JuyPLi73RfIhv43Lr1d0",
+            "id": "pE8jXcta32M",
+            "snippet": {
+                "publishedAt": "2026-06-23T23:35:40Z",
+                "channelId": "UCO1RaID33uvGW1EtoMSHygA",
+                "title": "Why Would Marvel Rivals Do This To Dagger?!",
+                "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pE8jXcta32M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pE8jXcta32M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pE8jXcta32M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pE8jXcta32M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pE8jXcta32M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Khyomaru",
+                "tags": [
+                    "marvel",
+                    "marvel rivals",
+                    "marvel rivals gameplay",
+                    "black widow",
+                    "iron man",
+                    "spiderman",
+                    "spider-man",
+                    "spider man",
+                    "marvel rivals trailer",
+                    "marvel rivals tier list"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Why Would Marvel Rivals Do This To Dagger?!",
+                    "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "513305",
+                "likeCount": "9402",
+                "favoriteCount": "0",
+                "commentCount": "189"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Y1meep1p5tTJqkabjFqA61gBnKQ",
+            "id": "9U_Q75MsiYc",
+            "snippet": {
+                "publishedAt": "2026-06-23T23:30:49Z",
+                "channelId": "UC9mpbcyY7E4jQIBNNPUYO2Q",
+                "title": "Gorr And Nightcrawler Will Bring True Suffering To Marvel Rivals #shorts #meme",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9U_Q75MsiYc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9U_Q75MsiYc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9U_Q75MsiYc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9U_Q75MsiYc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9U_Q75MsiYc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ClassicMan D",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Gorr And Nightcrawler Will Bring True Suffering To Marvel Rivals #shorts #meme",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "310670",
+                "likeCount": "38035",
+                "favoriteCount": "0",
+                "commentCount": "640"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wjGI8VaBOqhIjMfA5SMQZUZ6D2o",
+            "id": "xmelYkwY7Io",
+            "snippet": {
+                "publishedAt": "2026-06-23T23:20:15Z",
+                "channelId": "UCGsiYLUcAaLt59KF4-QXiVQ",
+                "title": "New Daredevil Lifeguard Skin In Marvel Rivals",
+                "description": "#marvelrivals #marvel #vanexx",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xmelYkwY7Io/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xmelYkwY7Io/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xmelYkwY7Io/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xmelYkwY7Io/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xmelYkwY7Io/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Also Vanexx",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "New Daredevil Lifeguard Skin In Marvel Rivals",
+                    "description": "#marvelrivals #marvel #vanexx"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "17144",
+                "likeCount": "943",
+                "favoriteCount": "0",
+                "commentCount": "32"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "koM8sFLY7D39AyMZkjqd5UAKP0o",
+            "id": "bD372a7u7zo",
+            "snippet": {
+                "publishedAt": "2026-06-23T23:00:24Z",
+                "channelId": "UCp1We4MWV9_WLg_R6d47-2w",
+                "title": "PLAYING CYCLOPS, BUT I'M IN SILVER... (Marvel Rivals)",
+                "description": "DPS UNRANKED TO ETERNITY CHALLENGE - GAME 1\n\nEverything is streamed live @ https://www.twitch.tv/bogur\n\n\ud83d\udcfd\ufe0f Main Channel: https://www.youtube.com/@bogur\n\ud83d\udcfd\ufe0f Bogur 2: https://www.youtube.com/@bogur2\n\ud83d\udcfd\ufe0f Bogur Uncut: https://www.youtube.com/@notbogur\n\nFollow Me\n\u25baDiscord: https://discord.com/bogcord\n\u25baTwitch: https://www.twitch.tv/bogur\n\u25baTwitter: https://twitter.com/b0gur\n\u25baTikTok: https://www.tiktok.com/@bogur47\n\n#bogur #marvelrivals",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bD372a7u7zo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bD372a7u7zo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bD372a7u7zo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bD372a7u7zo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bD372a7u7zo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bogur Uncut",
+                "tags": [
+                    "bogur",
+                    "bogur dr strange",
+                    "marvel rivals",
+                    "marvel rivals streamer",
+                    "bogur marvel rivals",
+                    "overwatch 2 bogur",
+                    "rank 1 dr strange",
+                    "marvel rivals bogur",
+                    "marvel rivals one above all",
+                    "bogur tank",
+                    "marvel rivals top 500"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "PLAYING CYCLOPS, BUT I'M IN SILVER... (Marvel Rivals)",
+                    "description": "DPS UNRANKED TO ETERNITY CHALLENGE - GAME 1\n\nEverything is streamed live @ https://www.twitch.tv/bogur\n\n\ud83d\udcfd\ufe0f Main Channel: https://www.youtube.com/@bogur\n\ud83d\udcfd\ufe0f Bogur 2: https://www.youtube.com/@bogur2\n\ud83d\udcfd\ufe0f Bogur Uncut: https://www.youtube.com/@notbogur\n\nFollow Me\n\u25baDiscord: https://discord.com/bogcord\n\u25baTwitch: https://www.twitch.tv/bogur\n\u25baTwitter: https://twitter.com/b0gur\n\u25baTikTok: https://www.tiktok.com/@bogur47\n\n#bogur #marvelrivals"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT8M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1498",
+                "likeCount": "43",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "lG_QH2h2uiwjSjvZmr4O8rp2zQM",
+            "id": "S2Iz4T-kdHw",
+            "snippet": {
+                "publishedAt": "2026-06-23T21:58:27Z",
+                "channelId": "UCUEgvWJ8u5P9XDFuCBNEMfA",
+                "title": "We Need To Go Back In Marvel Rivals!  #gaming #envtuber #marvelrivals #marvel #vtuber",
+                "description": "Twitch: https://www.twitch.tv/thetarians\nDiscord: https://discord.gg/w3qhWNT7P6\nNeed Voice Over? Email Me At: thetarians2@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S2Iz4T-kdHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S2Iz4T-kdHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S2Iz4T-kdHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S2Iz4T-kdHw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S2Iz4T-kdHw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TheTarians",
+                "tags": [
+                    "TheTarians",
+                    "Tarian",
+                    "VideoGames"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "We Need To Go Back In Marvel Rivals!  #gaming #envtuber #marvelrivals #marvel #vtuber",
+                    "description": "Twitch: https://www.twitch.tv/thetarians\nDiscord: https://discord.gg/w3qhWNT7P6\nNeed Voice Over? Email Me At: thetarians2@gmail.com"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT1M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "30172",
+                "likeCount": "1917",
+                "favoriteCount": "0",
+                "commentCount": "244"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gM2tMwVhCgsspnCPdTtPhd3zYN0",
+            "id": "frXFxFdhl7E",
+            "snippet": {
+                "publishedAt": "2026-06-23T21:12:14Z",
+                "channelId": "UCoXK491GucYxmG-avIo8pnQ",
+                "title": "Black Cat ha Muerto en MARVEL RIVALS  #marvelrivals #marvelrivalsespa\u00f1ol",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/frXFxFdhl7E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/frXFxFdhl7E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/frXFxFdhl7E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/frXFxFdhl7E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/frXFxFdhl7E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Omega",
+                "tags": [
+                    "Marvelrivals",
+                    "Marvelrivalsespa\u00f1ol"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "Black Cat ha Muerto en MARVEL RIVALS  #marvelrivals #marvelrivalsespa\u00f1ol",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "es-MX"
+            },
+            "contentDetails": {
+                "duration": "PT28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9382",
+                "likeCount": "855",
+                "favoriteCount": "0",
+                "commentCount": "74"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8O9Lbyt-faXS8QKVCsQvXKIeybY",
+            "id": "mZuVlOjgims",
+            "snippet": {
+                "publishedAt": "2026-06-23T20:19:53Z",
+                "channelId": "UC4zDfrGVKK5uaNShOB0pK6w",
+                "title": "Rank 1 Mantis Gameplay \ud83e\udd2f | Marvel Rivals",
+                "description": "Rank 1 Mantis Gameplay \ud83e\udd2f | Marvel Rivals\n\n#marvelrivals #marvelrivalsclips #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mZuVlOjgims/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mZuVlOjgims/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mZuVlOjgims/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mZuVlOjgims/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mZuVlOjgims/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DylanDubs",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Rank 1 Mantis Gameplay \ud83e\udd2f | Marvel Rivals",
+                    "description": "Rank 1 Mantis Gameplay \ud83e\udd2f | Marvel Rivals\n\n#marvelrivals #marvelrivalsclips #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "21029",
+                "likeCount": "1366",
+                "favoriteCount": "0",
+                "commentCount": "19"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "d2GaprnyBUt8onX1QtB7bJ5BvgU",
+            "id": "LRZMqDlDnAY",
+            "snippet": {
+                "publishedAt": "2026-06-23T19:27:27Z",
+                "channelId": "UCcRYBqsKwBH_2yMKc5QoE0w",
+                "title": "LMAOOOOO \ud83e\udd23\ud83e\udd23 #marvelrivals #marvel #rivals",
+                "description": "#marvelrivals #marvel #rivals",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LRZMqDlDnAY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LRZMqDlDnAY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LRZMqDlDnAY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LRZMqDlDnAY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LRZMqDlDnAY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Invasion Show",
+                "tags": [
+                    "Marvel rivals",
+                    "Marvel",
+                    "Rivals"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "LMAOOOOO \ud83e\udd23\ud83e\udd23 #marvelrivals #marvel #rivals",
+                    "description": "#marvelrivals #marvel #rivals"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "19218",
+                "likeCount": "770",
+                "favoriteCount": "0",
+                "commentCount": "26"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "a0neSqKcp5lqLc0wkQnwlAI1hvc",
+            "id": "pzhxD4RvXIM",
+            "snippet": {
+                "publishedAt": "2026-06-23T19:21:28Z",
+                "channelId": "UCJ08K-QD5Ks5dLMGZMV6T-Q",
+                "title": "Poorly Explaining Each Hero In Marvel Rivals - Strategists editions  #marvelrivals  #gaming  #marvel",
+                "description": "Try Flowstate here for a science-backed way to improve your focus: https://tinyurl.com/5n6s8cdh\nDon't forget to use code \"Frost\" at checkout for 10% off all purchases!\n\nMy socials - \nTwitter: https://x.com/EliMorris_VO\nInsta: https://www.instagram.com/elimorrisvo/\nTwitch: https://www.twitch.tv/SgtFrozt\nTikTok: https://www.tiktok.com/@sgtfrost7?lang=en\nDiscord : https://discord.gg/x9FX7Yg\nWebsite: https://www.elimorris.net/\n\nBusiness Inquires - elimorrisacting@gmail.com\n\nStreaming on twitch every weekday after 8pm CST",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pzhxD4RvXIM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pzhxD4RvXIM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pzhxD4RvXIM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pzhxD4RvXIM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pzhxD4RvXIM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SgtFrost",
+                "tags": [
+                    "marvel rivals",
+                    "marvel rivals strategists"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "Poorly Explaining Each Hero In Marvel Rivals - Strategists editions  #marvelrivals  #gaming  #marvel",
+                    "description": "Try Flowstate here for a science-backed way to improve your focus: https://tinyurl.com/5n6s8cdh\nDon't forget to use code \"Frost\" at checkout for 10% off all purchases!\n\nMy socials - \nTwitter: https://x.com/EliMorris_VO\nInsta: https://www.instagram.com/elimorrisvo/\nTwitch: https://www.twitch.tv/SgtFrozt\nTikTok: https://www.tiktok.com/@sgtfrost7?lang=en\nDiscord : https://discord.gg/x9FX7Yg\nWebsite: https://www.elimorris.net/\n\nBusiness Inquires - elimorrisacting@gmail.com\n\nStreaming on twitch every weekday after 8pm CST"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT1M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11920",
+                "likeCount": "2235",
+                "favoriteCount": "0",
+                "commentCount": "26"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "DW5qUv8tX_90kCpegCl8-ol8agg",
+            "id": "z7xBYgSpWRo",
+            "snippet": {
+                "publishedAt": "2026-06-23T19:15:55Z",
+                "channelId": "UCpEXWiOBUZ3GtqOq-2FCmig",
+                "title": "How to force bad enemy plays in Marvel Rivals",
+                "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCpEXWiOBUZ3GtqOq-2FCmig/join\n\nEnjoy our POV and follow us on our other platforms!\n\nTikTok : https://www.tiktok.com/@neko_and_tora?\nThreads: https://www.threads.net/@neko_meda?hl=en\nInstagram: https://www.instagram.com/nekoandtorattv\n\n#marvelrivals #marvel #marvelrivalsgameplay #marvelrivalsclips",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z7xBYgSpWRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z7xBYgSpWRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z7xBYgSpWRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z7xBYgSpWRo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z7xBYgSpWRo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Neko and Tora",
+                "tags": [
+                    "marvel",
+                    "rivals",
+                    "wars",
+                    "pheonix",
+                    "force",
+                    "jean",
+                    "grey",
+                    "klyntar",
+                    "map",
+                    "symbiote",
+                    "studios",
+                    "comcis",
+                    "legends",
+                    "gameplay",
+                    "shorts",
+                    "gaming",
+                    "community",
+                    "pc",
+                    "shooter",
+                    "team",
+                    "based",
+                    "super",
+                    "hero",
+                    "multiplayer",
+                    "pvp",
+                    "fan",
+                    "service",
+                    "moments",
+                    "spiderman",
+                    "spider",
+                    "man",
+                    "peter",
+                    "parker",
+                    "eddie",
+                    "brock",
+                    "knull",
+                    "battle",
+                    "pass",
+                    "dps",
+                    "strategist",
+                    "tank",
+                    "healer",
+                    "support",
+                    "duelist",
+                    "ranked",
+                    "competitive",
+                    "cloak",
+                    "and",
+                    "dagger",
+                    "cnd",
+                    "c&d",
+                    "angela",
+                    "gambit",
+                    "rogue",
+                    "x-men",
+                    "deadpool",
+                    "cloak and dagger",
+                    "new map",
+                    "elsa bloodstone",
+                    "white fox",
+                    "black cat",
+                    "guide",
+                    "tips",
+                    "season 8.5",
+                    "cyclops"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "How to force bad enemy plays in Marvel Rivals",
+                    "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCpEXWiOBUZ3GtqOq-2FCmig/join\n\nEnjoy our POV and follow us on our other platforms!\n\nTikTok : https://www.tiktok.com/@neko_and_tora?\nThreads: https://www.threads.net/@neko_meda?hl=en\nInstagram: https://www.instagram.com/nekoandtorattv\n\n#marvelrivals #marvel #marvelrivalsgameplay #marvelrivalsclips"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT3M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1465",
+                "likeCount": "155",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sSEOiQnjygWU_PpD8JDg4ZWeXNY",
+            "id": "vZktGG6PjRs",
+            "snippet": {
+                "publishedAt": "2026-06-23T19:10:50Z",
+                "channelId": "UCxuivsmebyOOXZZGsk-eN0A",
+                "title": "WHAT DO YOU WANT FROM ME? #marvel  #rivals  #gaming  #twitch  #streamer  #clips  #explorepage",
+                "description": "More of me here: alildore.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Alildore",
+                "tags": [
+                    "gaming",
+                    "games",
+                    "marvel",
+                    "rivals",
+                    "twitch",
+                    "streamer",
+                    "streaming",
+                    "wtf",
+                    "voicechat",
+                    "venom",
+                    "black panther",
+                    "bp",
+                    "teammates"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "WHAT DO YOU WANT FROM ME? #marvel  #rivals  #gaming  #twitch  #streamer  #clips  #explorepage",
+                    "description": "More of me here: alildore.com"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1391",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-OUCsts2Q0iq3ga_zqr1FeqEIQ0",
+            "id": "EwUfnMwaa-k",
+            "snippet": {
+                "publishedAt": "2026-06-23T19:06:51Z",
+                "channelId": "UCO1RaID33uvGW1EtoMSHygA",
+                "title": "NO WAY MARVEL RIVALS DID THIS TO DAREDEVIL",
+                "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Khyomaru",
+                "tags": [
+                    "marvel",
+                    "marvel rivals",
+                    "marvel rivals gameplay",
+                    "black widow",
+                    "iron man",
+                    "spiderman",
+                    "spider-man",
+                    "spider man",
+                    "marvel rivals trailer",
+                    "marvel rivals tier list"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "NO WAY MARVEL RIVALS DID THIS TO DAREDEVIL",
+                    "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "570159",
+                "likeCount": "14193",
+                "favoriteCount": "0",
+                "commentCount": "197"
+            }
         }
     ],
     "pageInfo": {
-        "totalResults": 10,
-        "resultsPerPage": 10
+        "totalResults": 50,
+        "resultsPerPage": 50
     }
 }

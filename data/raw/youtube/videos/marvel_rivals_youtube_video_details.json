@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "azzypE-9QnCyhnfOxU_pxIllh-Q",
+    "etag": "tf-bi4WqUQfWu9egBuC1eWkTrYQ",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "ib05kiTiVeT_uYyyrh41CygFNac",
+            "etag": "tjrEzffaFFwu6kI-jZ_dgnDRxiI",
             "id": "lvGEkz2dAho",
             "snippet": {
                 "publishedAt": "2026-06-25T02:52:06Z",
@@ -58,15 +58,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "414",
-                "likeCount": "13",
+                "viewCount": "458",
+                "likeCount": "15",
                 "favoriteCount": "0",
                 "commentCount": "4"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ATsdy8MLR8pVs3mztbnxQIXqK5k",
+            "etag": "JuFe8W8gR5ju2QLrEfGdNUXSOeA",
             "id": "nPD4ACFHzOc",
             "snippet": {
                 "publishedAt": "2026-06-25T02:46:46Z",
@@ -120,15 +120,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "513",
-                "likeCount": "11",
+                "viewCount": "681",
+                "likeCount": "15",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "OHxLY1VYDVtLRVYF_4NXytmyPLE",
+            "etag": "udD87zyRmIzWnId1xSrW_bzYPZc",
             "id": "LvO-t6B1na4",
             "snippet": {
                 "publishedAt": "2026-06-25T02:22:49Z",
@@ -217,15 +217,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "27093",
-                "likeCount": "438",
+                "viewCount": "27340",
+                "likeCount": "440",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "NOTOsSdv5uHAKIyyWcD-1kk-VZI",
+            "etag": "QlPYigEc4ss9uXKhpfo1kWNeG0U",
             "id": "FN9u8dkOd80",
             "snippet": {
                 "publishedAt": "2026-06-25T00:38:32Z",
@@ -279,15 +279,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "300",
-                "likeCount": "11",
+                "viewCount": "400",
+                "likeCount": "13",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YSzYjueQowlbbXnsK7mpyTH4p2g",
+            "etag": "C4eJJFx4zDkX-oCSbaMOhrIgWTQ",
             "id": "bdgc6AqZ2_g",
             "snippet": {
                 "publishedAt": "2026-06-25T00:30:19Z",
@@ -346,15 +346,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "11320",
-                "likeCount": "966",
+                "viewCount": "13586",
+                "likeCount": "1116",
                 "favoriteCount": "0",
-                "commentCount": "24"
+                "commentCount": "26"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Bm-opP5Rv-szARB1bMywGPU9b0E",
+            "etag": "8f9gFYn0kMUSgWuW3YzjVd1bZt4",
             "id": "EQdYqXNfYDY",
             "snippet": {
                 "publishedAt": "2026-06-24T22:36:42Z",
@@ -420,15 +420,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "48750",
-                "likeCount": "2527",
+                "viewCount": "62366",
+                "likeCount": "2923",
                 "favoriteCount": "0",
-                "commentCount": "69"
+                "commentCount": "78"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "A80hpqoVWo2EIdEcdGY-TR0CDcY",
+            "etag": "4-RgXiJIhLD08ydSketQbbuP-kE",
             "id": "SwggifEXKSU",
             "snippet": {
                 "publishedAt": "2026-06-24T22:27:17Z",
@@ -482,15 +482,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "5741",
-                "likeCount": "337",
+                "viewCount": "6316",
+                "likeCount": "357",
                 "favoriteCount": "0",
-                "commentCount": "222"
+                "commentCount": "234"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "plIOQm6aU-rTn6rJn-C-dsvAxjI",
+            "etag": "lfWcXOkcHlQ_wiu7jJq77LXnMmE",
             "id": "tLhrXsBmcRU",
             "snippet": {
                 "publishedAt": "2026-06-24T21:39:54Z",
@@ -543,15 +543,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2529",
-                "likeCount": "179",
+                "viewCount": "2810",
+                "likeCount": "188",
                 "favoriteCount": "0",
                 "commentCount": "17"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "kA_5dumfWFfUaHJwb4i4xRucwII",
+            "etag": "Z5RCV1dokA5muA9JNlfYSuxbllo",
             "id": "rwWCjQrgyjY",
             "snippet": {
                 "publishedAt": "2026-06-24T21:09:06Z",
@@ -620,7 +620,7 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2512",
+                "viewCount": "2561",
                 "likeCount": "40",
                 "favoriteCount": "0",
                 "commentCount": "1"
@@ -628,7 +628,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "EXzz2tmBblEk0aiXO5vVdLVeDE4",
+            "etag": "Q3uj_8l2Ogsf8Ja68Q2yU3ukTNM",
             "id": "SopAXrq_ewE",
             "snippet": {
                 "publishedAt": "2026-06-24T20:35:21Z",
@@ -682,15 +682,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "6264",
-                "likeCount": "130",
+                "viewCount": "6293",
+                "likeCount": "129",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "a3T3moIm0b7mBmNoiYjURLbrNWA",
+            "etag": "4JumBvoHFL9Rs67Yfq9xAHOKiAw",
             "id": "sESmDCnVRU4",
             "snippet": {
                 "publishedAt": "2026-06-24T20:30:40Z",
@@ -749,15 +749,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2516",
-                "likeCount": "218",
+                "viewCount": "2623",
+                "likeCount": "227",
                 "favoriteCount": "0",
-                "commentCount": "8"
+                "commentCount": "9"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "J8F60Z5OOphR_GqLpt9J1FGpPJY",
+            "etag": "pG2CpRRXunpwlrDk8EpUXeYhPMc",
             "id": "UNoDOp-n9CI",
             "snippet": {
                 "publishedAt": "2026-06-24T20:00:24Z",
@@ -828,15 +828,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "9247",
-                "likeCount": "671",
+                "viewCount": "9803",
+                "likeCount": "695",
                 "favoriteCount": "0",
-                "commentCount": "143"
+                "commentCount": "150"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Kli7VIlHFV36YS-NiK7oxLt0OgQ",
+            "etag": "PrSyVCRx9bXcQaVqfcv57B7zseE",
             "id": "_D7tR4c_W2M",
             "snippet": {
                 "publishedAt": "2026-06-24T19:30:03Z",
@@ -895,10 +895,10 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "16401",
-                "likeCount": "1545",
+                "viewCount": "18654",
+                "likeCount": "1673",
                 "favoriteCount": "0",
-                "commentCount": "23"
+                "commentCount": "19"
             }
         },
         {
@@ -965,7 +965,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "O0ovuM1bVvfN5KgWlBxdW0E_FNY",
+            "etag": "ZWT1XwCRNRj1BsZLu08pajxjICc",
             "id": "qN4-dmbKV1A",
             "snippet": {
                 "publishedAt": "2026-06-24T18:00:33Z",
@@ -1019,15 +1019,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "12572",
-                "likeCount": "298",
+                "viewCount": "13857",
+                "likeCount": "333",
                 "favoriteCount": "0",
                 "commentCount": "10"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "dvaNsfaUUg4myNahtRneGSeIW2s",
+            "etag": "ozUtVgmgtk8zAeb-xvK-uvP0M_I",
             "id": "ub6FwiL0lhs",
             "snippet": {
                 "publishedAt": "2026-06-24T17:38:00Z",
@@ -1103,15 +1103,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2911",
-                "likeCount": "298",
+                "viewCount": "3008",
+                "likeCount": "304",
                 "favoriteCount": "0",
-                "commentCount": "39"
+                "commentCount": "40"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3n6CpR9kHwaczOY7Ou6fgyaTB-w",
+            "etag": "Ir7rNYGf3OG0muQUrRylNXDj4w4",
             "id": "GtOX4MI-5aY",
             "snippet": {
                 "publishedAt": "2026-06-24T17:34:33Z",
@@ -1177,15 +1177,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "24531",
-                "likeCount": "925",
+                "viewCount": "28283",
+                "likeCount": "987",
                 "favoriteCount": "0",
                 "commentCount": "32"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Nv7cPsUrSHY71x8xSFmo9RFp4Cc",
+            "etag": "48y2NH-8K1VVJf7eDNZArjMYsa8",
             "id": "vHay1F1z6k0",
             "snippet": {
                 "publishedAt": "2026-06-24T17:00:26Z",
@@ -1248,7 +1248,7 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1395",
+                "viewCount": "1429",
                 "likeCount": "61",
                 "favoriteCount": "0",
                 "commentCount": "7"
@@ -1256,7 +1256,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "QrnH4KEQor1eJDXDSeqg3sgjBHk",
+            "etag": "JyrWOjxYwE44XYpUlJVFvDApeXg",
             "id": "Uai2tbMW2m4",
             "snippet": {
                 "publishedAt": "2026-06-24T16:59:09Z",
@@ -1310,15 +1310,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "49892",
-                "likeCount": "2568",
+                "viewCount": "51560",
+                "likeCount": "2601",
                 "favoriteCount": "0",
                 "commentCount": "75"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "v2-2XK1yJgdEgpsyBSqvzgClbFk",
+            "etag": "_zIUOuVQF_5BqROOyYPrfS4Obhs",
             "id": "Y1F7KwQIlqI",
             "snippet": {
                 "publishedAt": "2026-06-24T17:00:38Z",
@@ -1372,15 +1372,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "116358",
-                "likeCount": "4609",
+                "viewCount": "120412",
+                "likeCount": "4833",
                 "favoriteCount": "0",
-                "commentCount": "161"
+                "commentCount": "163"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "iVa4PzgClm27gOCZ5QT6h6Q29is",
+            "etag": "xkam-yvH3JYL8zI4JwxAeGvhqRM",
             "id": "ZS-R4p6hjVM",
             "snippet": {
                 "publishedAt": "2026-06-24T16:18:43Z",
@@ -1446,15 +1446,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "11181",
-                "likeCount": "701",
+                "viewCount": "11669",
+                "likeCount": "717",
                 "favoriteCount": "0",
                 "commentCount": "46"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "qrY5AQk5oyIAV4iex5Dz5NIvVFY",
+            "etag": "PImiQgjJLQyhKZwCgGpgSAzxjiM",
             "id": "M-Y1oUNHC_0",
             "snippet": {
                 "publishedAt": "2026-06-24T16:14:55Z",
@@ -1513,15 +1513,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1852",
-                "likeCount": "113",
+                "viewCount": "1922",
+                "likeCount": "115",
                 "favoriteCount": "0",
                 "commentCount": "9"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "NWd7KVNevwkWzOZtO6tCxFnBiv4",
+            "etag": "5SK3PtxlLR9sLl5EbLCXeyVnPLs",
             "id": "j2mfjVkbA5w",
             "snippet": {
                 "publishedAt": "2026-06-24T16:07:28Z",
@@ -1587,15 +1587,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "8527",
-                "likeCount": "394",
+                "viewCount": "8909",
+                "likeCount": "409",
                 "favoriteCount": "0",
                 "commentCount": "23"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "G2uTtduUqw3f8wuDXw7EUYLX1lg",
+            "etag": "yM5O8lbSN9h8N8TSjQvhD5CGBeM",
             "id": "aqem3biZDM8",
             "snippet": {
                 "publishedAt": "2026-06-24T16:04:50Z",
@@ -1674,15 +1674,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "5492",
-                "likeCount": "217",
+                "viewCount": "5658",
+                "likeCount": "222",
                 "favoriteCount": "0",
                 "commentCount": "57"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ZWP_Xuxf77X3HCMq9qk7OrLBa_Q",
+            "etag": "GkaBHndtYMXATBtuzewVCzSi1_A",
             "id": "01aLllkvr40",
             "snippet": {
                 "publishedAt": "2026-06-24T15:30:16Z",
@@ -1736,15 +1736,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "98012",
-                "likeCount": "3448",
+                "viewCount": "102358",
+                "likeCount": "3574",
                 "favoriteCount": "0",
-                "commentCount": "126"
+                "commentCount": "128"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "fE_15pvsDdhSW0O2fs31fHJBnZg",
+            "etag": "qBWCI0IJwvShqykM8qzadqXTkxc",
             "id": "XOFQ4gSRF7U",
             "snippet": {
                 "publishedAt": "2026-06-24T15:25:49Z",
@@ -1803,15 +1803,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "72257",
-                "likeCount": "2666",
+                "viewCount": "80614",
+                "likeCount": "3054",
                 "favoriteCount": "0",
-                "commentCount": "70"
+                "commentCount": "73"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "uDmeGYkGVxBDtfVnBXfeTEYta64",
+            "etag": "v1gu8I0BKbr3LZpeK6Y_0jt8gCQ",
             "id": "NJV-SQEHFY0",
             "snippet": {
                 "publishedAt": "2026-06-24T15:16:57Z",
@@ -1892,15 +1892,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "16307",
-                "likeCount": "2326",
+                "viewCount": "16556",
+                "likeCount": "2339",
                 "favoriteCount": "0",
                 "commentCount": "188"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2df1Sw92syiqzuaPhzAveX41PsA",
+            "etag": "gJ5ji8ty8aLu6UE-d9OK4SDrEQc",
             "id": "ANfmRRcZVuQ",
             "snippet": {
                 "publishedAt": "2026-06-24T14:10:12Z",
@@ -1979,15 +1979,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "7707",
-                "likeCount": "601",
+                "viewCount": "7987",
+                "likeCount": "619",
                 "favoriteCount": "0",
-                "commentCount": "274"
+                "commentCount": "281"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "45Z_ngMB6zJnXa41jYaR1nE7Rko",
+            "etag": "U7k8MkO0Mq5Q3MG_18-8x1XsRIU",
             "id": "snJv19sFK2E",
             "snippet": {
                 "publishedAt": "2026-06-24T14:00:30Z",
@@ -2078,15 +2078,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "47084",
-                "likeCount": "1485",
+                "viewCount": "50180",
+                "likeCount": "1533",
                 "favoriteCount": "0",
-                "commentCount": "105"
+                "commentCount": "108"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JCScPXQLCZVovW7oy46Wd2i6i34",
+            "etag": "xySO88L2FYuy1lVJ4iieW8QmH94",
             "id": "-WX9vW5dXo4",
             "snippet": {
                 "publishedAt": "2026-06-24T12:00:29Z",
@@ -2170,8 +2170,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "24419",
-                "likeCount": "836",
+                "viewCount": "24845",
+                "likeCount": "844",
                 "favoriteCount": "0",
                 "commentCount": "14"
             }
@@ -2272,7 +2272,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "JHHI5yaBnDaUB1CUs6tOKD6LIfs",
+            "etag": "oMTUVRYickDHkqtAm4KZtxnEUGg",
             "id": "g1qgusPwVEU",
             "snippet": {
                 "publishedAt": "2026-06-24T10:17:25Z",
@@ -2341,15 +2341,101 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3655",
-                "likeCount": "196",
+                "viewCount": "3712",
+                "likeCount": "197",
                 "favoriteCount": "0",
                 "commentCount": "100"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "VuddHRr5vtcoWCDgDM7kx3Vq63g",
+            "etag": "XjS4l5A3dxoq8uEjLin2BgxF1xc",
+            "id": "JclTkBxl3Sc",
+            "snippet": {
+                "publishedAt": "2026-06-24T09:24:32Z",
+                "channelId": "UCd3pdXO7k8yUm1K0CZ6-jDQ",
+                "title": "\u041f\u0420\u0410\u0412\u0418\u041b\u042c\u041d\u0410\u042f \u041f\u041e\u0417\u0418\u0426\u0418\u041e\u041d\u041a\u0410 \u041d\u0410 \u0426\u0418\u041a\u041b\u041e\u041f\u0415 - MARVEL RIVALS CYCLOPS SEASON 8.5",
+                "description": "Marvel Rivals Cyclops - \u041a\u0430\u043a \u044f \u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u043b, \u043d\u0430 \u0446\u0438\u043a\u043b\u043e\u043f\u0435 \u043d\u0443\u0436\u043d\u043e \u0444\u043b\u0430\u043d\u0433\u043e\u0432\u0430\u0442\u044c \u0432 8.5 \u0441\u0435\u0437\u043e\u043d\u0435 Marvel Rivals. \u0412\u0441\u0435\u043c \u043f\u0440\u0438\u044f\u0442\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430!\n\n\u25ba\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0441 \u0434\u043e\u043d\u0430\u0442\u043e\u043c - https://donatov.net/ref/HAART\n\n\u25ba\u0421\u0430\u0439\u0442 - https://xxhaartxx.pro\n\u25ba\u0422\u0432\u0438\u0447 - https://www.twitch.tv/xxhaartxx\n\u25ba\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0434\u043e\u043d\u0430\u0442\u043e\u043c - http://www.donationalerts.ru/r/haartcore\n\u25ba\u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0441\u0441\u044b\u043b\u043a\u0430 - https://donatepay.ru/don/363215\n\u25ba\u0421\u043f\u043e\u043d\u0441\u043e\u0440\u0441\u0442\u0432\u043e \u0425\u0430\u0430\u0440\u0442\u0430 \u043d\u0430 Boosti - https://boosty.to/haart\n\u25ba\u041d\u0430\u0448 \u0434\u0438\u0441\u043a\u043e\u0440\u0434 - discord.gg/ycnhE67\n\u25ba\u0422\u0435\u043b\u0435\u0433\u0430 - https://t.me/xhaartx\n\nMarvel Rivals \u2014 \u0433\u0435\u0440\u043e\u0439\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u044b\u0439 PVP-\u0448\u0443\u0442\u0435\u0440, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0439 \u0438 \u0438\u0437\u0434\u0430\u043d\u043d\u044b\u0439 NetEase Games \u0432 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0435 \u0441 Marvel Games.\n\nMarvel Rivals \u0431\u0443\u0434\u0435\u0442 \u0433\u0435\u0440\u043e\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0448\u0443\u0442\u0435\u0440\u043e\u043c \u043e\u0442 \u0442\u0440\u0435\u0442\u044c\u0435\u0433\u043e \u043b\u0438\u0446\u0430 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 6\u04456 \u0438\u0433\u0440\u043e\u043a \u043f\u0440\u043e\u0442\u0438\u0432 \u0438\u0433\u0440\u043e\u043a\u0430[3]. \u041f\u0440\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u043c \u0441\u043e\u0447\u0435\u0442\u0430\u043d\u0438\u0438 \u0434\u0432\u0443\u0445 \u0438\u043b\u0438 \u0442\u0440\u0451\u0445 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u0439 \u0438\u0433\u0440\u043e\u043a\u0438 \u043c\u043e\u0433\u0443\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u00ab\u0414\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0441\u0438\u043d\u0435\u0440\u0433\u0438\u044e \u0433\u0435\u0440\u043e\u0435\u0432\u00bb, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0435\u0449\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0431\u043e\u0435\u0432\u0443\u044e \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438\u0445 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430. \u0412 \u0438\u0433\u0440\u0435 \u0442\u0430\u043a\u0436\u0435 \u0435\u0441\u0442\u044c \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u043c\u043e\u0435 \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0435\u0435 \u0438\u0433\u0440\u043e\u043a\u0430\u043c \u0438\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u043f\u043e\u043b\u0435 \u0431\u043e\u044f (\u043f\u043e\u0434 \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435\u043c \u0413\u0430\u043b\u0430\u043a\u0442\u044b) \u0432 \u0441\u0432\u043e\u0438\u0445 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0430\u0445.\n\nMarvel Rivals is a Super Hero Team-Based PVP Shooter! ... With intricate environments, fast-paced gameplay, and ever-changing battlefields, there's never a dull moment in Marvel Rivals!\n\n#marvelrivals   #\u0425\u0430\u0430\u0440\u0442 #Haart #MarveRivalsSeason8 #MarvelRivalsPartners #MArvelRivalsDevilDinosaur #DevilDinosaur #season8 #cyclops #SinsofAlchemax",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JclTkBxl3Sc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JclTkBxl3Sc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JclTkBxl3Sc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JclTkBxl3Sc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JclTkBxl3Sc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "\u0425\u0430\u0430\u0440\u0442",
+                "tags": [
+                    "marvel rivals",
+                    "marvel rivals \u043e\u0431\u0437\u043e\u0440",
+                    "marvel rivals gameplay",
+                    "marvel rivals all characters",
+                    "marvel rivals \u0433\u0435\u0440\u043e\u0438",
+                    "marvel rivals \u043d\u043e\u0432\u043e\u0441\u0442\u0438",
+                    "marvel rivals \u043d\u043e\u0432\u044b\u0439 \u0433\u0435\u0440\u043e\u0439",
+                    "\u043c\u0430\u0440\u0432\u0435\u043b \u0440\u0438\u0432\u0430\u043b\u0441",
+                    "\u043c\u0430\u0440\u0432\u0435\u043b \u0440\u0430\u0439\u0432\u0430\u043b\u0441",
+                    "\u043c\u0430\u0440\u0432\u0435\u043b \u0440\u0438\u0432\u0430\u043b\u0441 \u043e\u0431\u0437\u043e\u0440",
+                    "marvel rivals \u0433\u0430\u0439\u0434",
+                    "\u043c\u0430\u0440\u0432\u0435\u043b \u0440\u0430\u0439\u0432\u0430\u043b\u0441 \u0433\u0430\u0439\u0434",
+                    "\u0425\u0430\u0430\u0440\u0442",
+                    "Marvel Rivals HAART",
+                    "Marvel Rivals \u0425\u0430\u0430\u0440\u0442",
+                    "marvel rivals \u0441\u043e\u0432\u0435\u0442\u044b",
+                    "Marvel Rivals season 8.5",
+                    "\u041c\u0430\u0440\u0432\u0435\u043b \u0440\u0438\u0432\u0430\u043b\u0441 8.5 \u0441\u0435\u0437\u043e\u043d",
+                    "Marvel rivals cyclops",
+                    "\u041c\u0430\u0440\u0432\u0435\u043b \u0440\u0438\u0432\u0430\u043b\u0441 \u0446\u0438\u043a\u043b\u043e\u043f",
+                    "Marvel rivals cyclop",
+                    "Marvel rivals tips"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ru",
+                "localized": {
+                    "title": "\u041f\u0420\u0410\u0412\u0418\u041b\u042c\u041d\u0410\u042f \u041f\u041e\u0417\u0418\u0426\u0418\u041e\u041d\u041a\u0410 \u041d\u0410 \u0426\u0418\u041a\u041b\u041e\u041f\u0415 - MARVEL RIVALS CYCLOPS SEASON 8.5",
+                    "description": "Marvel Rivals Cyclops - \u041a\u0430\u043a \u044f \u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u043b, \u043d\u0430 \u0446\u0438\u043a\u043b\u043e\u043f\u0435 \u043d\u0443\u0436\u043d\u043e \u0444\u043b\u0430\u043d\u0433\u043e\u0432\u0430\u0442\u044c \u0432 8.5 \u0441\u0435\u0437\u043e\u043d\u0435 Marvel Rivals. \u0412\u0441\u0435\u043c \u043f\u0440\u0438\u044f\u0442\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430!\n\n\u25ba\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0441 \u0434\u043e\u043d\u0430\u0442\u043e\u043c - https://donatov.net/ref/HAART\n\n\u25ba\u0421\u0430\u0439\u0442 - https://xxhaartxx.pro\n\u25ba\u0422\u0432\u0438\u0447 - https://www.twitch.tv/xxhaartxx\n\u25ba\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0434\u043e\u043d\u0430\u0442\u043e\u043c - http://www.donationalerts.ru/r/haartcore\n\u25ba\u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0441\u0441\u044b\u043b\u043a\u0430 - https://donatepay.ru/don/363215\n\u25ba\u0421\u043f\u043e\u043d\u0441\u043e\u0440\u0441\u0442\u0432\u043e \u0425\u0430\u0430\u0440\u0442\u0430 \u043d\u0430 Boosti - https://boosty.to/haart\n\u25ba\u041d\u0430\u0448 \u0434\u0438\u0441\u043a\u043e\u0440\u0434 - discord.gg/ycnhE67\n\u25ba\u0422\u0435\u043b\u0435\u0433\u0430 - https://t.me/xhaartx\n\nMarvel Rivals \u2014 \u0433\u0435\u0440\u043e\u0439\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u044b\u0439 PVP-\u0448\u0443\u0442\u0435\u0440, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0439 \u0438 \u0438\u0437\u0434\u0430\u043d\u043d\u044b\u0439 NetEase Games \u0432 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0435 \u0441 Marvel Games.\n\nMarvel Rivals \u0431\u0443\u0434\u0435\u0442 \u0433\u0435\u0440\u043e\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0448\u0443\u0442\u0435\u0440\u043e\u043c \u043e\u0442 \u0442\u0440\u0435\u0442\u044c\u0435\u0433\u043e \u043b\u0438\u0446\u0430 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 6\u04456 \u0438\u0433\u0440\u043e\u043a \u043f\u0440\u043e\u0442\u0438\u0432 \u0438\u0433\u0440\u043e\u043a\u0430[3]. \u041f\u0440\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u043c \u0441\u043e\u0447\u0435\u0442\u0430\u043d\u0438\u0438 \u0434\u0432\u0443\u0445 \u0438\u043b\u0438 \u0442\u0440\u0451\u0445 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u0439 \u0438\u0433\u0440\u043e\u043a\u0438 \u043c\u043e\u0433\u0443\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u00ab\u0414\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0441\u0438\u043d\u0435\u0440\u0433\u0438\u044e \u0433\u0435\u0440\u043e\u0435\u0432\u00bb, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0435\u0449\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0431\u043e\u0435\u0432\u0443\u044e \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438\u0445 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430. \u0412 \u0438\u0433\u0440\u0435 \u0442\u0430\u043a\u0436\u0435 \u0435\u0441\u0442\u044c \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u043c\u043e\u0435 \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0435\u0435 \u0438\u0433\u0440\u043e\u043a\u0430\u043c \u0438\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u043f\u043e\u043b\u0435 \u0431\u043e\u044f (\u043f\u043e\u0434 \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435\u043c \u0413\u0430\u043b\u0430\u043a\u0442\u044b) \u0432 \u0441\u0432\u043e\u0438\u0445 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0430\u0445.\n\nMarvel Rivals is a Super Hero Team-Based PVP Shooter! ... With intricate environments, fast-paced gameplay, and ever-changing battlefields, there's never a dull moment in Marvel Rivals!\n\n#marvelrivals   #\u0425\u0430\u0430\u0440\u0442 #Haart #MarveRivalsSeason8 #MarvelRivalsPartners #MArvelRivalsDevilDinosaur #DevilDinosaur #season8 #cyclops #SinsofAlchemax"
+                },
+                "defaultAudioLanguage": "ru"
+            },
+            "contentDetails": {
+                "duration": "PT11M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1728",
+                "likeCount": "76",
+                "favoriteCount": "0",
+                "commentCount": "8"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "CxL5Llj_6VZd9sMOq_DJRfbR31w",
             "id": "pPIppbNSKzc",
             "snippet": {
                 "publishedAt": "2026-06-24T09:00:11Z",
@@ -2403,15 +2489,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2664",
-                "likeCount": "57",
+                "viewCount": "2712",
+                "likeCount": "58",
                 "favoriteCount": "0",
-                "commentCount": "15"
+                "commentCount": "16"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "wR6h79UoQTiV_rNvzAkNBfGzTbU",
+            "etag": "YW_-_VlQO7gnW_juX2gzVTJuboo",
             "id": "4KKw-b7_B04",
             "snippet": {
                 "publishedAt": "2026-06-24T08:53:59Z",
@@ -2465,8 +2551,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2023",
-                "likeCount": "75",
+                "viewCount": "2093",
+                "likeCount": "76",
                 "favoriteCount": "0",
                 "commentCount": "54"
             }
@@ -2542,7 +2628,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "12ZvwEQXJA1eMBUIQR4EDT8Twzk",
+            "etag": "pPmejPpz9Obmo2icXsZF-iaD8B8",
             "id": "9CZEe0zXang",
             "snippet": {
                 "publishedAt": "2026-06-24T02:06:09Z",
@@ -2600,8 +2686,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "7008",
-                "likeCount": "369",
+                "viewCount": "7067",
+                "likeCount": "371",
                 "favoriteCount": "0",
                 "commentCount": "169"
             }
@@ -2781,7 +2867,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "U4fzMI0JuyPLi73RfIhv43Lr1d0",
+            "etag": "4h1_Agre0fqL36WxingLZbQUc0Y",
             "id": "pE8jXcta32M",
             "snippet": {
                 "publishedAt": "2026-06-23T23:35:40Z",
@@ -2847,15 +2933,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "513305",
-                "likeCount": "9402",
+                "viewCount": "517769",
+                "likeCount": "9456",
                 "favoriteCount": "0",
-                "commentCount": "189"
+                "commentCount": "190"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Y1meep1p5tTJqkabjFqA61gBnKQ",
+            "etag": "QPHZzfJARFHapMqMNFtsTJztbRg",
             "id": "9U_Q75MsiYc",
             "snippet": {
                 "publishedAt": "2026-06-23T23:30:49Z",
@@ -2909,15 +2995,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "310670",
-                "likeCount": "38035",
+                "viewCount": "313425",
+                "likeCount": "38252",
                 "favoriteCount": "0",
-                "commentCount": "640"
+                "commentCount": "642"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "wjGI8VaBOqhIjMfA5SMQZUZ6D2o",
+            "etag": "b6xAAaMBMQijxDy0osHRlVVk2Co",
             "id": "xmelYkwY7Io",
             "snippet": {
                 "publishedAt": "2026-06-23T23:20:15Z",
@@ -2971,15 +3057,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "17144",
-                "likeCount": "943",
+                "viewCount": "17231",
+                "likeCount": "950",
                 "favoriteCount": "0",
                 "commentCount": "32"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "koM8sFLY7D39AyMZkjqd5UAKP0o",
+            "etag": "iM15XlPQr-aREVFYTu7HjF9KsFc",
             "id": "bD372a7u7zo",
             "snippet": {
                 "publishedAt": "2026-06-23T23:00:24Z",
@@ -3046,7 +3132,7 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1498",
+                "viewCount": "1537",
                 "likeCount": "43",
                 "favoriteCount": "0",
                 "commentCount": "8"
@@ -3054,7 +3140,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "lG_QH2h2uiwjSjvZmr4O8rp2zQM",
+            "etag": "kep4BdcOcj26DvwlxcSZOTyMqd4",
             "id": "S2Iz4T-kdHw",
             "snippet": {
                 "publishedAt": "2026-06-23T21:58:27Z",
@@ -3113,15 +3199,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "30172",
-                "likeCount": "1917",
+                "viewCount": "30954",
+                "likeCount": "1961",
                 "favoriteCount": "0",
-                "commentCount": "244"
+                "commentCount": "246"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "gM2tMwVhCgsspnCPdTtPhd3zYN0",
+            "etag": "RkjoLF7PZC9Txm6xNHe6n4NzHeE",
             "id": "frXFxFdhl7E",
             "snippet": {
                 "publishedAt": "2026-06-23T21:12:14Z",
@@ -3179,15 +3265,77 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "9382",
-                "likeCount": "855",
+                "viewCount": "9430",
+                "likeCount": "858",
                 "favoriteCount": "0",
                 "commentCount": "74"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "8O9Lbyt-faXS8QKVCsQvXKIeybY",
+            "etag": "SYekqa_Y-QBKY-9t8ClbdxQbDXw",
+            "id": "Lk8h0Ce1tCo",
+            "snippet": {
+                "publishedAt": "2026-06-23T20:30:38Z",
+                "channelId": "UC9UeduMNtsFEKa2lXlVbV-w",
+                "title": "THE HOME SCREEN CLUTTER IS INSANE IN MARVEL RIVALS!",
+                "description": "ok subscribe bye :)\n\n#marvel #marvelrivals #marvelrivalsgameplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lk8h0Ce1tCo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lk8h0Ce1tCo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lk8h0Ce1tCo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Lk8h0Ce1tCo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Lk8h0Ce1tCo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KaySkay",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "THE HOME SCREEN CLUTTER IS INSANE IN MARVEL RIVALS!",
+                    "description": "ok subscribe bye :)\n\n#marvel #marvelrivals #marvelrivalsgameplay"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "30190",
+                "likeCount": "1103",
+                "favoriteCount": "0",
+                "commentCount": "20"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jUOMEazrP33lHWtAJa_07OT3HYw",
             "id": "mZuVlOjgims",
             "snippet": {
                 "publishedAt": "2026-06-23T20:19:53Z",
@@ -3241,15 +3389,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "21029",
-                "likeCount": "1366",
+                "viewCount": "22325",
+                "likeCount": "1445",
                 "favoriteCount": "0",
-                "commentCount": "19"
+                "commentCount": "20"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "d2GaprnyBUt8onX1QtB7bJ5BvgU",
+            "etag": "aXdqQDQ3bPENYEPsyoCdMJib260",
             "id": "LRZMqDlDnAY",
             "snippet": {
                 "publishedAt": "2026-06-23T19:27:27Z",
@@ -3308,15 +3456,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "19218",
-                "likeCount": "770",
+                "viewCount": "19251",
+                "likeCount": "771",
                 "favoriteCount": "0",
                 "commentCount": "26"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "a0neSqKcp5lqLc0wkQnwlAI1hvc",
+            "etag": "75NBcvM1ARNvOMrGtZJIc3HOd-w",
             "id": "pzhxD4RvXIM",
             "snippet": {
                 "publishedAt": "2026-06-23T19:21:28Z",
@@ -3374,8 +3522,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "11920",
-                "likeCount": "2235",
+                "viewCount": "12332",
+                "likeCount": "2274",
                 "favoriteCount": "0",
                 "commentCount": "26"
             }
@@ -3507,157 +3655,6 @@
                 "likeCount": "155",
                 "favoriteCount": "0",
                 "commentCount": "3"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "sSEOiQnjygWU_PpD8JDg4ZWeXNY",
-            "id": "vZktGG6PjRs",
-            "snippet": {
-                "publishedAt": "2026-06-23T19:10:50Z",
-                "channelId": "UCxuivsmebyOOXZZGsk-eN0A",
-                "title": "WHAT DO YOU WANT FROM ME? #marvel  #rivals  #gaming  #twitch  #streamer  #clips  #explorepage",
-                "description": "More of me here: alildore.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Alildore",
-                "tags": [
-                    "gaming",
-                    "games",
-                    "marvel",
-                    "rivals",
-                    "twitch",
-                    "streamer",
-                    "streaming",
-                    "wtf",
-                    "voicechat",
-                    "venom",
-                    "black panther",
-                    "bp",
-                    "teammates"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "WHAT DO YOU WANT FROM ME? #marvel  #rivals  #gaming  #twitch  #streamer  #clips  #explorepage",
-                    "description": "More of me here: alildore.com"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT30S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "1391",
-                "likeCount": "20",
-                "favoriteCount": "0",
-                "commentCount": "3"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "-OUCsts2Q0iq3ga_zqr1FeqEIQ0",
-            "id": "EwUfnMwaa-k",
-            "snippet": {
-                "publishedAt": "2026-06-23T19:06:51Z",
-                "channelId": "UCO1RaID33uvGW1EtoMSHygA",
-                "title": "NO WAY MARVEL RIVALS DID THIS TO DAREDEVIL",
-                "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Khyomaru",
-                "tags": [
-                    "marvel",
-                    "marvel rivals",
-                    "marvel rivals gameplay",
-                    "black widow",
-                    "iron man",
-                    "spiderman",
-                    "spider-man",
-                    "spider man",
-                    "marvel rivals trailer",
-                    "marvel rivals tier list"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "NO WAY MARVEL RIVALS DID THIS TO DAREDEVIL",
-                    "description": "Nice\n10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo \n\nFIND ME IN THESE PLACES:\nlinktr.ee/Khyo\n\n#marvel   #marvelrivals     #marvelrivalsgameplay"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT10S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "570159",
-                "likeCount": "14193",
-                "favoriteCount": "0",
-                "commentCount": "197"
             }
         }
     ],

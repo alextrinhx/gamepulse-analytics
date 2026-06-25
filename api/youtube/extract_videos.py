@@ -4,7 +4,7 @@ from pathlib import Path
 from api.youtube.client import get_youtube_client
 
 BASE_DIR = Path(__file__).resolve().parents[2]
-RAW_DIR = BASE_DIR / "data" / "raw" / "youtube"
+RAW_DIR = BASE_DIR / "data" / "raw" / "youtube" / "videos"
 CONFIG_DIR = BASE_DIR / "config"
 
 RAW_DIR.mkdir(parents=True, exist_ok=True)

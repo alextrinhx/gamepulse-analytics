@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "5jMjz3H9Dc42tHSVZbowVIETKAE",
+    "etag": "R2AvevfQvkK3gmvSHOEsfXoZ4i4",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -8,6 +8,74 @@
         "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O4n2HdNWD4SO--9wci260cVdoyc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bYxtbGqhlLA"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T05:34:59Z",
+                "channelId": "UCcziMNOsJ2RoegHivsG71Qg",
+                "title": "1.16.1 Minecraft Speedrunning! (mcsr ranked)",
+                "description": "join the chat! https://www.twitch.tv/airkirby_ \u25bd Social Media \u25bd Discord: https://discord.gg/N8H8RsJhTV Twitter: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bYxtbGqhlLA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bYxtbGqhlLA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bYxtbGqhlLA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AirKirby",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-25T05:34:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZG80tRv8oJgyRx_0RPFmvJXKEVI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gqaR_mmI2V8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T05:25:12Z",
+                "channelId": "UCtdbt7sSw5AYsT1Kf22gQRQ",
+                "title": "MINECRAFT TNT CHALLENGE",
+                "description": "usa #shorts #shortfeed.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gqaR_mmI2V8/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gqaR_mmI2V8/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gqaR_mmI2V8/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ingot MC",
+                "liveBroadcastContent": "live",
+                "publishTime": "2026-06-25T05:25:12Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "r7ckoqYzR5hPiurxnxxpJH616oM",
@@ -44,7 +112,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "46rix0MN5F7XOq4a_XtIqqYHLkk",
+            "etag": "HdNa6e21zE4DWZiycYbJh1w5BHE",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "dZJQaGc-TAQ"
@@ -53,7 +121,7 @@
                 "publishedAt": "2026-06-25T02:33:12Z",
                 "channelId": "UCKpKC3M5fkcEvtOr06dmYlA",
                 "title": "\u3010MINECRAFT HARDCORE\u3011KRISIS REVENGE\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
-                "description": "\u3010DONATIONS\u3011 https://streamlabs.com/yuqwilson #NIJISANJI #nijisanji_en \u3010Chat Rules\u3011 Don't spam or troll.",
+                "description": "\u3010DONATIONS\u3011 https://streamlabs.com/yuqwilson #NIJISANJI #nijisanji_en \u3010Chat Rules\u3011 Don't spam or troll. Don't ...",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/dZJQaGc-TAQ/default_live.jpg",
@@ -180,7 +248,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "clGM92XGRYUBC9lReP92Rg81zQg",
+            "etag": "8QqUh2of1f5zUp_wEm4awDzjY3Y",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "dc7urqMxkwI"
@@ -282,7 +350,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "jscV4cKjcVpuDpYuv8MHTx6h1Sc",
+            "etag": "gwdPZPDpoLp0Oq0BKehS-6Nd1xM",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "IVzGEaNfFCI"
@@ -350,6 +418,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "4gX_2zp3AEq7X8P6wlYSi8WLbmQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GG_ySsTC-YU"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:05:45Z",
+                "channelId": "UCnIR-Cipbu7P7uGCm-Sk0hw",
+                "title": "Minecraft Horror, But Drops are Random..!",
+                "description": "Minecraft Horror, But Drops are Random..! Instagram:- https://www.instagram.com/yugthakkar_/ Discord:- ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GG_ySsTC-YU/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GG_ySsTC-YU/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GG_ySsTC-YU/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yug Playz",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2026-06-24T18:05:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "POD8pFs1U9lDw7fVpT2yObPMoqs",
             "id": {
                 "kind": "youtube#video",
@@ -380,40 +482,6 @@
                 "channelTitle": "JumperWho",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-24T16:44:40Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "FK9NfeZ_8d-CORrYLEJ5PEzOvJ8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "PYlOfGdnJTo"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T16:44:19Z",
-                "channelId": "UC0xry7czPasj1wPxR8L0MZg",
-                "title": "\u3010\u671d\u6d3b\u96d1\u8ac7\u3011\u96e8\u3058\u3083\u306a\u304f\u3066\u98f4\u304c\u964d\u3063\u3066\u6b32\u3057\u3044\u6885\u96e8\u3010\u65e9\u4e59\u5973\u30d9\u30ea\u30fc/\u306b\u3058\u3055\u3093\u3058\u3011",
-                "description": "\u3058\u3081\u3058\u3081\u3092\u3057\u3083\u3089\u30fc\u3093\u3057\u305f\u3044 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u30b5\u30e0\u30cd\u30a4\u30eb\u306e\u7d75\u5e2b\u69d8\uffe4 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PYlOfGdnJTo/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PYlOfGdnJTo/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PYlOfGdnJTo/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "\u65e9\u4e59\u5973 \u30d9\u30ea\u30fc / Saotome Berry\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-                "liveBroadcastContent": "upcoming",
-                "publishTime": "2026-06-24T16:44:19Z"
             }
         },
         {
@@ -520,7 +588,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "RgLv-H8BK3jKbszFkEBSUUDArQk",
+            "etag": "zr9qsEDsrZAPRUMxqpc6s4H55hM",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "HXvlOToLL8k"
@@ -618,40 +686,6 @@
                 "channelTitle": "Kass & KR",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-24T14:45:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "fbOlN6vxfo4Aqxxm779DvgeVcsk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "UpAqnj6MdEk"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T14:15:24Z",
-                "channelId": "UC40B1IOUytiN6AmnlR3BRaw",
-                "title": "Minecraft... MAS Temos RA\u00c7AS de DRAG\u00d5ES",
-                "description": "Acompanhe as aventuras da Fam\u00edlia Creeper com Xey no Minecraft.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/UpAqnj6MdEk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/UpAqnj6MdEk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/UpAqnj6MdEk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Xey",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T14:15:24Z"
             }
         },
         {
@@ -792,6 +826,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "XcxUBuORsxYuzqn0ikJwt6NbiJU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SpJAvfkbOeY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T12:08:30Z",
+                "channelId": "UCW3Ms3ZxVaZUniP-HifWCDg",
+                "title": "My GIRLFRIEND become FAT and tried to EAT ME in Minecraft!",
+                "description": "in this video mennu become fat in minecraft.. #minecraft #karrykraft.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Karry Kraft",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T12:08:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "1GeUBbkHu51BJCL3wiLsYAL2X3I",
             "id": {
                 "kind": "youtube#video",
@@ -856,40 +924,6 @@
                 "channelTitle": "MiracBt",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-24T12:19:27Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "XcxUBuORsxYuzqn0ikJwt6NbiJU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "SpJAvfkbOeY"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T12:08:30Z",
-                "channelId": "UCW3Ms3ZxVaZUniP-HifWCDg",
-                "title": "My GIRLFRIEND become FAT and tried to EAT ME in Minecraft!",
-                "description": "in this video mennu become fat in minecraft.. #minecraft #karrykraft.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Karry Kraft",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T12:08:30Z"
             }
         },
         {
@@ -1030,40 +1064,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "QRGjYBUhaLgn7f0bB_9A4r_jVjw",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "jfEbs7PSu5E"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T11:15:08Z",
-                "channelId": "UCIxsIDzsf5UXH8dlJy_OzDA",
-                "title": "Hunting the REAL Verity Mod...",
-                "description": "ENEBA: Get the best deals for the games, add-ons, gift cards, and anything games-related:https://ene.ba/Burps-Minecraft Snakzy ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Burps",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T11:15:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "4Hdp040ypaElKn1hLKzGcmig-kw",
             "id": {
                 "kind": "youtube#video",
@@ -1098,7 +1098,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "kWazXjzclky4IeJa3QZ-PtWe9r8",
+            "etag": "AnfVyILVchXfZVpJqTMSDn9d46I",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "0YDk5hdI1j0"
@@ -1268,6 +1268,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "RZx55vP7yK1vlPXvlyx6rNkN6S8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j43A1TIpU1A"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T09:56:39Z",
+                "channelId": "UCiK16OtSksO7Mt6iTCGYqWw",
+                "title": "Ga nyangka Aku Bisa Pergi Ke bulan Di Minecraft",
+                "description": "Terimakasih buat kalian semua yang sudah menonton video aku jangan lupa like dan subscribe YouTube aku yah, Addon ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j43A1TIpU1A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j43A1TIpU1A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j43A1TIpU1A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pastaz ID",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T09:56:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "5S7me69IGT-NaNWlTvg1vArV00E",
             "id": {
                 "kind": "youtube#video",
@@ -1400,40 +1434,6 @@
                 "channelTitle": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-24T07:25:14Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "yeA8MGT5pyWn9XZQvbJ4wgxtzTs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "aMCSfgF0CA8"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T07:00:16Z",
-                "channelId": "UCSgkg1FWPfL7blqg0Juw6Dw",
-                "title": "I Trapped My Friends in a TINY CHUNK in Minecraft!",
-                "description": "I Trapped My Friends in a MINI CHUNK in Minecraft! I Trapped My Friends in a TINY CHUNK in Minecraft! 2nd Channel ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aMCSfgF0CA8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aMCSfgF0CA8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aMCSfgF0CA8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "RaHul iS liT",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T07:00:16Z"
             }
         },
         {

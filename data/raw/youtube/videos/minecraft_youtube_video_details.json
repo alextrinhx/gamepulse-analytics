@@ -1,10 +1,139 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "zGwebVVIvkxbPKuZrcGSwVsytj4",
+    "etag": "XGxclhooRJlHr0hy-_KXuq-RxDY",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "SEDe4t32JbkyL_TsBcv9vW92qWU",
+            "etag": "kMNwUqwLk4vl1JePW2hDjcHUCIM",
+            "id": "bYxtbGqhlLA",
+            "snippet": {
+                "publishedAt": "2026-06-25T05:34:59Z",
+                "channelId": "UCcziMNOsJ2RoegHivsG71Qg",
+                "title": "1.16.1 Minecraft Speedrunning! (mcsr ranked)",
+                "description": "join the chat! https://www.twitch.tv/airkirby_\n\n\u25bc Social Media \u25bc\nDiscord: https://discord.gg/N8H8RsJhTV\nTwitter: https://x.com/AirKirby_\nTikTok: https://x.com/AirKirby_\n\n\ud83d\udce7 Business: airkirby.business@gmail.com\n\nDonations:\nhttps://streamlabs.com/airkirby_/tip\n\nRules:\n\u22b9 No hate speech or discrimination of any kind\n\u22b9 Be respectful to josh and the community\n\u22b9 No spamming, back seating, self promoting, trauma dumping\n\u22b9 Please keep the chat in english, this helps the mods do their jobs\n\nTags:\n#AirKirby #gaming #live #streamer",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bYxtbGqhlLA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bYxtbGqhlLA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bYxtbGqhlLA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bYxtbGqhlLA/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bYxtbGqhlLA/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AirKirby",
+                "tags": [
+                    "AirKirby",
+                    "Gaming",
+                    "Minecraft"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "live",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "1.16.1 Minecraft Speedrunning! (mcsr ranked)",
+                    "description": "join the chat! https://www.twitch.tv/airkirby_\n\n\u25bc Social Media \u25bc\nDiscord: https://discord.gg/N8H8RsJhTV\nTwitter: https://x.com/AirKirby_\nTikTok: https://x.com/AirKirby_\n\n\ud83d\udce7 Business: airkirby.business@gmail.com\n\nDonations:\nhttps://streamlabs.com/airkirby_/tip\n\nRules:\n\u22b9 No hate speech or discrimination of any kind\n\u22b9 Be respectful to josh and the community\n\u22b9 No spamming, back seating, self promoting, trauma dumping\n\u22b9 Please keep the chat in english, this helps the mods do their jobs\n\nTags:\n#AirKirby #gaming #live #streamer"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3014",
+                "likeCount": "104",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "DtXZLWx9KEJHMl0tiEP2PTV8z1g",
+            "id": "gqaR_mmI2V8",
+            "snippet": {
+                "publishedAt": "2026-06-25T05:25:12Z",
+                "channelId": "UCtdbt7sSw5AYsT1Kf22gQRQ",
+                "title": "MINECRAFT TNT CHALLENGE",
+                "description": "#usa #shorts #shortfeed",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gqaR_mmI2V8/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gqaR_mmI2V8/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gqaR_mmI2V8/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gqaR_mmI2V8/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gqaR_mmI2V8/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ingot MC",
+                "categoryId": "20",
+                "liveBroadcastContent": "live",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "MINECRAFT TNT CHALLENGE",
+                    "description": "#usa #shorts #shortfeed"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "14490",
+                "likeCount": "2223",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-vnvqRu3mtCUphUVwfd0Y6b46is",
             "id": "v5ckZdFqdLk",
             "snippet": {
                 "publishedAt": "2026-06-25T04:41:40Z",
@@ -70,15 +199,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1552",
-                "likeCount": "261",
+                "viewCount": "2625",
+                "likeCount": "463",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "J_5dh-i0MBDk4CTOWqnI0VTnhbk",
+            "etag": "udhx4tKe3raFJDouk_CRb3fCg-s",
             "id": "dZJQaGc-TAQ",
             "snippet": {
                 "publishedAt": "2026-06-25T02:33:12Z",
@@ -161,15 +290,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1682",
-                "likeCount": "405",
+                "viewCount": "3159",
+                "likeCount": "602",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "JlEZTT-qZje1XodWvHLOwuyrEgs",
+            "etag": "sVw3opkPzj3KCwMIAJ8kTIYUD60",
             "id": "6trelTmZh8U",
             "snippet": {
                 "publishedAt": "2026-06-25T00:52:27Z",
@@ -253,15 +382,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "7173",
-                "likeCount": "838",
+                "viewCount": "9013",
+                "likeCount": "919",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YCPhBsn7LlsxWdd8DoJ8QBzyQz8",
+            "etag": "31UE3CTBYRLHTQD000n9eYFfXdc",
             "id": "omuuQxHmBB4",
             "snippet": {
                 "publishedAt": "2026-06-24T23:30:06Z",
@@ -347,15 +476,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "26878",
-                "likeCount": "1370",
+                "viewCount": "29358",
+                "likeCount": "1402",
                 "favoriteCount": "0",
                 "commentCount": "11"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "qusMOZLU9nrx_6FOWTxvfKbZW-Y",
+            "etag": "_OBxmMpAFuEfkWA0XhdgmmbdAKg",
             "id": "6_5m9-GKMsI",
             "snippet": {
                 "publishedAt": "2026-06-24T19:30:16Z",
@@ -442,15 +571,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "34570",
-                "likeCount": "1415",
+                "viewCount": "35234",
+                "likeCount": "1442",
                 "favoriteCount": "0",
                 "commentCount": "26"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Ie5VJ9WBelYlvqe_chX8vIuRIM0",
+            "etag": "Z0TwGRbCjdQ2i9Xq0huknFxCsRw",
             "id": "dc7urqMxkwI",
             "snippet": {
                 "publishedAt": "2026-06-24T19:29:59Z",
@@ -507,15 +636,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1548",
-                "likeCount": "384",
+                "viewCount": "2154",
+                "likeCount": "517",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TBQFGxF0TGK8hrDZwZOsviCMbbI",
+            "etag": "zhdGIDIdfCNg0oEGl80ob9uKTXQ",
             "id": "HOJ92annVhg",
             "snippet": {
                 "publishedAt": "2026-06-24T19:00:31Z",
@@ -577,15 +706,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "74266",
-                "likeCount": "1297",
+                "viewCount": "75759",
+                "likeCount": "1402",
                 "favoriteCount": "0",
                 "commentCount": "6"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "_POgSrpVKZ9zjMJ-gx8bBKKIalc",
+            "etag": "uD6ameF4Y9ckMw9NEgDpQu3wZH4",
             "id": "Fvoe3nOeIgQ",
             "snippet": {
                 "publishedAt": "2026-06-24T18:31:04Z",
@@ -654,15 +783,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "273105",
-                "likeCount": "6557",
+                "viewCount": "285163",
+                "likeCount": "6850",
                 "favoriteCount": "0",
-                "commentCount": "52"
+                "commentCount": "54"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0WwCTWZ1VQclhllfZUnt5YuXoxQ",
+            "etag": "dhMQVuVr0B1bT4PSQRiOXgezVRE",
             "id": "IVzGEaNfFCI",
             "snippet": {
                 "publishedAt": "2026-06-24T18:29:50Z",
@@ -744,15 +873,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "65249",
-                "likeCount": "3321",
+                "viewCount": "68559",
+                "likeCount": "3350",
                 "favoriteCount": "0",
                 "commentCount": "17"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "P3BHM_iB2PM2NlGyNa3D_oHMnQo",
+            "etag": "-bnySNKS9HSvDfLckEKe1M_viXg",
             "id": "U6xQLDj7lj8",
             "snippet": {
                 "publishedAt": "2026-06-24T18:13:59Z",
@@ -806,15 +935,103 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "4052",
-                "likeCount": "129",
+                "viewCount": "4480",
+                "likeCount": "232",
                 "favoriteCount": "0",
                 "commentCount": "1"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "rA9KHtvtljy-9y6eBdRaEDI-LkU",
+            "etag": "wfdXSyOqWcrDBzYuDS4zadLPmL8",
+            "id": "GG_ySsTC-YU",
+            "snippet": {
+                "publishedAt": "2026-06-24T18:05:45Z",
+                "channelId": "UCnIR-Cipbu7P7uGCm-Sk0hw",
+                "title": "Minecraft Horror, But Drops are Random..!",
+                "description": "Minecraft Horror, But Drops are Random..!\n\nInstagram:- https://www.instagram.com/yugthakkar_/\nDiscord:- https://discord.com/invite/yugplayz \n\nThinking of hosting your own server? Start here: https://shockbyte.com/partner/yug\n \u2014 Don\u2019t forget to use the Referral Code: Yug25.\n\nFor business inquiries - \nyugplayz.business@gmail.com\n\nThanks for Watching..!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GG_ySsTC-YU/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GG_ySsTC-YU/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GG_ySsTC-YU/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GG_ySsTC-YU/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GG_ySsTC-YU/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yug Playz",
+                "tags": [
+                    "minecraft",
+                    "Minecraft Horror but The Drops are Random..!",
+                    "minecraft scary",
+                    "scariest mods",
+                    "I Added Every Horror mod in minecraft",
+                    "tax man",
+                    "minecraft scary myths",
+                    "minecraft scary live",
+                    "minecraft live stream",
+                    "minecraft in hindi",
+                    "minecraft smp",
+                    "minecraft pocket edition",
+                    "gamerfleet",
+                    "anshubisht",
+                    "proboiz 95",
+                    "Surviving the Haunted Island in minecraft",
+                    "scary mods",
+                    "We Survived ONE BLOCK with Horror mods",
+                    "skyblock",
+                    "oneblock",
+                    "hardcore minecraft",
+                    "yug playz live",
+                    "yug playz new video",
+                    "yug playz"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "upcoming",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Minecraft Horror, But Drops are Random..!",
+                    "description": "Minecraft Horror, But Drops are Random..!\n\nInstagram:- https://www.instagram.com/yugthakkar_/\nDiscord:- https://discord.com/invite/yugplayz \n\nThinking of hosting your own server? Start here: https://shockbyte.com/partner/yug\n \u2014 Don\u2019t forget to use the Referral Code: Yug25.\n\nFor business inquiries - \nyugplayz.business@gmail.com\n\nThanks for Watching..!"
+                },
+                "defaultAudioLanguage": "en-IN"
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "0",
+                "likeCount": "157",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "oHH33ZiOy88MEKeHLV7l-TRCtKU",
             "id": "11oxApuoUeo",
             "snippet": {
                 "publishedAt": "2026-06-24T16:44:40Z",
@@ -887,119 +1104,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "292585",
-                "likeCount": "12666",
+                "viewCount": "305668",
+                "likeCount": "13075",
                 "favoriteCount": "0",
-                "commentCount": "1498"
+                "commentCount": "1537"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "k1ZZGgkK-t_weyXHDFnQX0_QcJk",
-            "id": "PYlOfGdnJTo",
-            "snippet": {
-                "publishedAt": "2026-06-24T16:44:19Z",
-                "channelId": "UC0xry7czPasj1wPxR8L0MZg",
-                "title": "\u3010\u671d\u6d3b\u96d1\u8ac7\u3011\u96e8\u3058\u3083\u306a\u304f\u3066\u98f4\u304c\u964d\u3063\u3066\u6b32\u3057\u3044\u6885\u96e8\u3010\u65e9\u4e59\u5973\u30d9\u30ea\u30fc/\u306b\u3058\u3055\u3093\u3058\u3011",
-                "description": "\u3058\u3081\u3058\u3081\u3092\u3057\u3083\u3089\u30fc\u3093\u3057\u305f\u3044\n\n\u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67\n\n\u30b5\u30e0\u30cd\u30a4\u30eb\u306e\u7d75\u5e2b\u69d8\uffe4\u304b\u304b\u308a\u69d8\n\n\u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67\n\n\ud83c\udf70\u30e1\u30f3\u30d0\u30fc\u30b7\u30c3\u30d7\u52a0\u5165\ud83e\uddc1\nhttps://www.youtube.com/channel/UC0xry7czPasj1wPxR8L0MZg/join\n\u029a\u7279\u5178\u025e\n\u2460\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30d0\u30c3\u30b8\u304c\u304a\u540d\u524d\u306e\u6a2a\u306b\u4ed8\u304f\u3088\uff01\u9032\u5316\u3057\u307e\u3059\uff01\uff01\n\u2461\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30b9\u30bf\u30f3\u30d7\u304c\u4f7f\u3048\u308b\uff01\n\u2462\u9650\u5b9a\u306e\u4e0d\u5b9a\u671f\u914d\u4fe1\u3084\u6295\u7a3f\u304c\u898b\u308c\u308b\uff01\uff01(\u98f2\u9152\u914d\u4fe1\u306f\u57fa\u672c\u30e1\u30f3\u9650\ud83e\udd42)\n\u2463\u30b9\u30d1\u30c1\u30e3\u306e\u304a\u540d\u524d\u306f\u547c\u3073\u6368\u3066\u3067\u304a\u547c\u3073\u3057\u3066\u3044\u308b\u3088\uff01\uff01\n\u2464\u6b4c\u3063\u3066\u307f\u305f\u306e\u30a4\u30e9\u30b9\u30c8\u306b\u30aa\u30ea\u30b8\u30ca\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u66f8\u3044\u305f\u58c1\u7d19\u3092\u4e0d\u5b9a\u671f\u3067\u914d\u5e03\u3059\u308b\u3088\ud83d\udc8c\n\n\n\u0b68\u0b67 \u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u202a \u0b68\u0b67\n\n\ud83c\udf53X(\u65e7Twitter)\ud83e\uded0\nhttp://twitter.com/Saotome_Berry\n\n\ud83c\udf53\u30d9\u30ea\u30fc\u306e\u30b0\u30c3\u30ba\ud83e\uddc1\nhttps://shop.nijisanji.jp/1164\n\n\ud83c\udf7d\ufe0fSpeciale\u516c\u5f0fX(\u65e7Twitter)\ud83c\udf7d\ufe0f\nhttps://twitter.com/Speciale_info\n\n\ud83c\udf7d\ufe0fSpeciale\u516c\u5f0f\u30c1\u30e3\u30f3\u30cd\u30eb\ud83c\udf7d\ufe0f\n @Speciale_nijisanji  \n\n\u202a\u0b68\u0b67 \u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u202a \u0b68\u0b67\n\n\ud83d\udc9d\u30d9\u30ea\u30fc\u304b\u3089\u306e\u304a\u306d\u304c\u3044\ud83d\udc9d\n\u30fb\u4ed6\u306e\u65b9\u306e\u914d\u4fe1\u3067\u540d\u524d\u304c\u51fa\u3066\u3044\u306a\u3044\u306e\u306b\u30d9\u30ea\u30fc\u306e\u540d\u524d\u3092\u51fa\u3055\u306a\u3044\u3067\u306d\uff01\n\u30fb\u914d\u4fe1\u306b\u95a2\u4fc2\u306a\u3044\u30b3\u30e1\u30f3\u30c8\u3001\u5f37\u3044\u53e3\u8abf\u306b\u306f\u6ce8\u610f\uff01\uff01\uff01\n\u30fb\u30b2\u30fc\u30e0\u306a\u3069\u3067\u306e\u6307\u793a\u3001\u30cd\u30bf\u30d0\u30ec\u30b3\u30e1\u30f3\u30c8\u306f\u30c0\u30e1\u3060\u3088\uff01\u305f\u3059\u3051\u3066\u3063\u3066\u8a00\u3046\u307e\u3067\u512a\u3057\u304f\u898b\u5b88\u3063\u3066\u3066\u306d\uff01\uff01\n\u30fb\u4e0a\u8a18\u3092\u6c17\u4ed8\u304b\u305a\u306b\u3084\u3063\u3066\u3057\u307e\u3046\u4eba\u304c\u3044\u3066\u3082\u3001\u6307\u6458\u3084\u6ce8\u610f\u306a\u3069\u306f\u3057\u306a\u3044\u3067\u306d\uff01\n\n\u0b68\u0b67 \u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u202a \u0b68\u0b67\n\n\ud83c\udf08\ud83d\udd52\u306b\u3058\u3055\u3093\u3058\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b9\u30c8\u30a2\ud83c\udf08\ud83d\udd52\nhttps://shop.nijisanji.jp/s/niji/\n\u2765\u2765\u30b0\u30c3\u30ba\u3084\u30dc\u30a4\u30b9\u767a\u58f2\u4e2d\uff01\uff01\n\n\ud83c\udf08\ud83d\udd52\u306b\u3058\u3055\u3093\u3058\u516c\u5f0fX\ud83c\udf08\ud83d\udd52\nhttps://twitter.com/nijisanji_app\n\n\ud83c\udf08\ud83d\udd52\u306b\u3058\u3055\u3093\u3058\u516c\u5f0fHP\ud83c\udf08\ud83d\udd52\nhttps://www.nijisanji.jp/\n\n\ud83c\udf70\u304a\u554f\u3044\u5408\u308f\u305b\u3084\u304a\u624b\u7d19\u306f\u3053\u3061\u3089\u307e\u3067\ud83e\uddc1\nhttps://www.nijisanji.jp/contact\n\n\u203b\u672a\u6210\u5e74\u8005\u306e\u8996\u8074\u8005\u306e\u65b9\u3005\u306f\u3001\u4e0b\u8a18\u30ea\u30f3\u30af\u5148\u306e\u6ce8\u610f\u4e8b\u9805\u3082\u3054\u89a7\u304f\u3060\u3055\u3044\u3002\nhttps://www.anycolor.co.jp/notice-for-minors\n\n\n\u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PYlOfGdnJTo/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PYlOfGdnJTo/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PYlOfGdnJTo/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/PYlOfGdnJTo/sddefault_live.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/PYlOfGdnJTo/maxresdefault_live.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "\u65e9\u4e59\u5973 \u30d9\u30ea\u30fc / Saotome Berry\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-                "tags": [
-                    "\u306b\u3058\u3055\u3093\u3058",
-                    "\u521d\u914d\u4fe1",
-                    "\u30d9\u30ea\u30fc",
-                    "VTuber",
-                    "Vtuber",
-                    "\u65e9\u4e59\u5973\u30d9\u30ea\u30fc",
-                    "ANYCOLOR",
-                    "\u65b0\u4eba\u30e9\u30a4\u30d0\u30fc",
-                    "\u65b0\u4eba\u30c7\u30d3\u30e5\u30fc",
-                    "\u306b\u3058\u3055\u3093\u3058\u65b0\u4eba",
-                    "\u3059\u307a\u3057\u3083\u30fc\u308c",
-                    "Speciale",
-                    "\u30d1\u30c6\u30a3\u30b7\u30a8",
-                    "\u304a\u6599\u7406",
-                    "\u306b\u3058\u3055\u3093\u3058\u914d\u4fe1\u4e2d",
-                    "\u6b4c",
-                    "\u5143\u6c17",
-                    "\u5973\u6027",
-                    "\u914d\u4fe1\u8005",
-                    "\u306b\u3058\u9bd6",
-                    "\u30de\u30a4\u30af\u30e9",
-                    "\u671d\u6d3b",
-                    "\u96d1\u8ac7",
-                    "\u671d\u6d3b\u96d1\u8ac7",
-                    "\u97f3\u697d",
-                    "\u8a18\u5ff5",
-                    "NIJISANJI",
-                    "\u6b4c\u67a0",
-                    "\u30d9\u30ea\u30fc\u3061\u3083\u3093",
-                    "\u6708\u66dc\u65e5",
-                    "\u6b4c\u3063\u3066\u307f\u305f",
-                    "\u6b4c\u307f\u305f",
-                    "Get Ready With Me",
-                    "GRWM",
-                    "\u30b3\u30b9\u30e1\u96d1\u8ac7",
-                    "\u30b3\u30b9\u30e1",
-                    "\u30e1\u30a4\u30af\u52d5\u753b",
-                    "\u30e1\u30a4\u30af",
-                    "\u632f\u308a\u8fd4\u308a",
-                    "\u632f\u308a\u8fd4\u308a\u914d\u4fe1",
-                    "\u306b\u3058\u30d5\u30a7\u30b9"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "upcoming",
-                "defaultLanguage": "ja",
-                "localized": {
-                    "title": "\u3010\u671d\u6d3b\u96d1\u8ac7\u3011\u96e8\u3058\u3083\u306a\u304f\u3066\u98f4\u304c\u964d\u3063\u3066\u6b32\u3057\u3044\u6885\u96e8\u3010\u65e9\u4e59\u5973\u30d9\u30ea\u30fc/\u306b\u3058\u3055\u3093\u3058\u3011",
-                    "description": "\u3058\u3081\u3058\u3081\u3092\u3057\u3083\u3089\u30fc\u3093\u3057\u305f\u3044\n\n\u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67\n\n\u30b5\u30e0\u30cd\u30a4\u30eb\u306e\u7d75\u5e2b\u69d8\uffe4\u304b\u304b\u308a\u69d8\n\n\u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67\n\n\ud83c\udf70\u30e1\u30f3\u30d0\u30fc\u30b7\u30c3\u30d7\u52a0\u5165\ud83e\uddc1\nhttps://www.youtube.com/channel/UC0xry7czPasj1wPxR8L0MZg/join\n\u029a\u7279\u5178\u025e\n\u2460\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30d0\u30c3\u30b8\u304c\u304a\u540d\u524d\u306e\u6a2a\u306b\u4ed8\u304f\u3088\uff01\u9032\u5316\u3057\u307e\u3059\uff01\uff01\n\u2461\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30b9\u30bf\u30f3\u30d7\u304c\u4f7f\u3048\u308b\uff01\n\u2462\u9650\u5b9a\u306e\u4e0d\u5b9a\u671f\u914d\u4fe1\u3084\u6295\u7a3f\u304c\u898b\u308c\u308b\uff01\uff01(\u98f2\u9152\u914d\u4fe1\u306f\u57fa\u672c\u30e1\u30f3\u9650\ud83e\udd42)\n\u2463\u30b9\u30d1\u30c1\u30e3\u306e\u304a\u540d\u524d\u306f\u547c\u3073\u6368\u3066\u3067\u304a\u547c\u3073\u3057\u3066\u3044\u308b\u3088\uff01\uff01\n\u2464\u6b4c\u3063\u3066\u307f\u305f\u306e\u30a4\u30e9\u30b9\u30c8\u306b\u30aa\u30ea\u30b8\u30ca\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u66f8\u3044\u305f\u58c1\u7d19\u3092\u4e0d\u5b9a\u671f\u3067\u914d\u5e03\u3059\u308b\u3088\ud83d\udc8c\n\n\n\u0b68\u0b67 \u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u202a \u0b68\u0b67\n\n\ud83c\udf53X(\u65e7Twitter)\ud83e\uded0\nhttp://twitter.com/Saotome_Berry\n\n\ud83c\udf53\u30d9\u30ea\u30fc\u306e\u30b0\u30c3\u30ba\ud83e\uddc1\nhttps://shop.nijisanji.jp/1164\n\n\ud83c\udf7d\ufe0fSpeciale\u516c\u5f0fX(\u65e7Twitter)\ud83c\udf7d\ufe0f\nhttps://twitter.com/Speciale_info\n\n\ud83c\udf7d\ufe0fSpeciale\u516c\u5f0f\u30c1\u30e3\u30f3\u30cd\u30eb\ud83c\udf7d\ufe0f\n @Speciale_nijisanji  \n\n\u202a\u0b68\u0b67 \u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u202a \u0b68\u0b67\n\n\ud83d\udc9d\u30d9\u30ea\u30fc\u304b\u3089\u306e\u304a\u306d\u304c\u3044\ud83d\udc9d\n\u30fb\u4ed6\u306e\u65b9\u306e\u914d\u4fe1\u3067\u540d\u524d\u304c\u51fa\u3066\u3044\u306a\u3044\u306e\u306b\u30d9\u30ea\u30fc\u306e\u540d\u524d\u3092\u51fa\u3055\u306a\u3044\u3067\u306d\uff01\n\u30fb\u914d\u4fe1\u306b\u95a2\u4fc2\u306a\u3044\u30b3\u30e1\u30f3\u30c8\u3001\u5f37\u3044\u53e3\u8abf\u306b\u306f\u6ce8\u610f\uff01\uff01\uff01\n\u30fb\u30b2\u30fc\u30e0\u306a\u3069\u3067\u306e\u6307\u793a\u3001\u30cd\u30bf\u30d0\u30ec\u30b3\u30e1\u30f3\u30c8\u306f\u30c0\u30e1\u3060\u3088\uff01\u305f\u3059\u3051\u3066\u3063\u3066\u8a00\u3046\u307e\u3067\u512a\u3057\u304f\u898b\u5b88\u3063\u3066\u3066\u306d\uff01\uff01\n\u30fb\u4e0a\u8a18\u3092\u6c17\u4ed8\u304b\u305a\u306b\u3084\u3063\u3066\u3057\u307e\u3046\u4eba\u304c\u3044\u3066\u3082\u3001\u6307\u6458\u3084\u6ce8\u610f\u306a\u3069\u306f\u3057\u306a\u3044\u3067\u306d\uff01\n\n\u0b68\u0b67 \u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u202a \u0b68\u0b67\n\n\ud83c\udf08\ud83d\udd52\u306b\u3058\u3055\u3093\u3058\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b9\u30c8\u30a2\ud83c\udf08\ud83d\udd52\nhttps://shop.nijisanji.jp/s/niji/\n\u2765\u2765\u30b0\u30c3\u30ba\u3084\u30dc\u30a4\u30b9\u767a\u58f2\u4e2d\uff01\uff01\n\n\ud83c\udf08\ud83d\udd52\u306b\u3058\u3055\u3093\u3058\u516c\u5f0fX\ud83c\udf08\ud83d\udd52\nhttps://twitter.com/nijisanji_app\n\n\ud83c\udf08\ud83d\udd52\u306b\u3058\u3055\u3093\u3058\u516c\u5f0fHP\ud83c\udf08\ud83d\udd52\nhttps://www.nijisanji.jp/\n\n\ud83c\udf70\u304a\u554f\u3044\u5408\u308f\u305b\u3084\u304a\u624b\u7d19\u306f\u3053\u3061\u3089\u307e\u3067\ud83e\uddc1\nhttps://www.nijisanji.jp/contact\n\n\u203b\u672a\u6210\u5e74\u8005\u306e\u8996\u8074\u8005\u306e\u65b9\u3005\u306f\u3001\u4e0b\u8a18\u30ea\u30f3\u30af\u5148\u306e\u6ce8\u610f\u4e8b\u9805\u3082\u3054\u89a7\u304f\u3060\u3055\u3044\u3002\nhttps://www.anycolor.co.jp/notice-for-minors\n\n\n\u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67 \u2234\u2235\u2234 \u0b68\u0b67"
-                }
-            },
-            "contentDetails": {
-                "duration": "P0D",
-                "dimension": "2d",
-                "definition": "sd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "0",
-                "likeCount": "367",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "MbH8PgkeDHpjy5mPYzECkNFYQVU",
+            "etag": "Fgeeq3PFsyR2f7d9Ap9BiATTcx4",
             "id": "EbK7TAsrmsI",
             "snippet": {
                 "publishedAt": "2026-06-24T16:00:28Z",
@@ -1073,14 +1186,14 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "108618",
+                "viewCount": "116720",
                 "favoriteCount": "0",
-                "commentCount": "17"
+                "commentCount": "18"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Oh-qjRMiMo25md0DbgRV11xoKro",
+            "etag": "oNemvOCvaJBxxNu3Db96_3tNLGs",
             "id": "hArmMoV96Y8",
             "snippet": {
                 "publishedAt": "2026-06-24T15:36:52Z",
@@ -1134,15 +1247,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "117392",
-                "likeCount": "5766",
+                "viewCount": "120671",
+                "likeCount": "5798",
                 "favoriteCount": "0",
                 "commentCount": "47"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "bCpZchYvYQzsZpf32anGls8utss",
+            "etag": "RoOKUFL2KQUD5SVokbAn7ajkD5Q",
             "id": "y7L66yrZ4ag",
             "snippet": {
                 "publishedAt": "2026-06-24T15:15:17Z",
@@ -1214,15 +1327,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "11563",
-                "likeCount": "328",
+                "viewCount": "12718",
+                "likeCount": "409",
                 "favoriteCount": "0",
-                "commentCount": "23"
+                "commentCount": "25"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "CCwtLd_vLjL5Xuo5ZNFDxf5jY6o",
+            "etag": "ZDte4k1_2dIG0ug9qfbStewnQJE",
             "id": "HXvlOToLL8k",
             "snippet": {
                 "publishedAt": "2026-06-24T15:00:27Z",
@@ -1307,15 +1420,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1712335",
-                "likeCount": "136636",
+                "viewCount": "1788453",
+                "likeCount": "142991",
                 "favoriteCount": "0",
-                "commentCount": "1720"
+                "commentCount": "1795"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "T5LLyEcVGXi5c8nZ98Ud2W530Go",
+            "etag": "gAgAa9QKJYLQAmeXKfOyiBI9mj0",
             "id": "omqgDNUqioM",
             "snippet": {
                 "publishedAt": "2026-06-24T14:59:02Z",
@@ -1383,15 +1496,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "8019",
-                "likeCount": "334",
+                "viewCount": "10111",
+                "likeCount": "399",
                 "favoriteCount": "0",
                 "commentCount": "3"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ncSjaa1VN3ZrLYtGehsQCnvvrHM",
+            "etag": "ZCDmzoNoSLSkGJuDd05lapnhmjI",
             "id": "gI19HS_L1Zs",
             "snippet": {
                 "publishedAt": "2026-06-24T14:45:04Z",
@@ -1445,85 +1558,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "80211",
-                "likeCount": "1941",
+                "viewCount": "80930",
+                "likeCount": "1958",
                 "favoriteCount": "0",
                 "commentCount": "34"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "vuY6pUkeSiafdPZTqrRsYn8VrRE",
-            "id": "UpAqnj6MdEk",
-            "snippet": {
-                "publishedAt": "2026-06-24T14:15:24Z",
-                "channelId": "UC40B1IOUytiN6AmnlR3BRaw",
-                "title": "Minecraft... MAS Temos RA\u00c7AS de DRAG\u00d5ES",
-                "description": "Acompanhe as aventuras da Fam\u00edlia Creeper com Xey no Minecraft.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/UpAqnj6MdEk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/UpAqnj6MdEk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/UpAqnj6MdEk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/UpAqnj6MdEk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/UpAqnj6MdEk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Xey",
-                "tags": [
-                    "xey",
-                    "xey games",
-                    "familia creeper",
-                    "skye",
-                    "pietrinho",
-                    "xey minecraft"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "pt-BR",
-                "localized": {
-                    "title": "Minecraft... MAS Temos RA\u00c7AS de DRAG\u00d5ES",
-                    "description": "Acompanhe as aventuras da Fam\u00edlia Creeper com Xey no Minecraft."
-                },
-                "defaultAudioLanguage": "pt-BR"
-            },
-            "contentDetails": {
-                "duration": "PT15M10S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "49156",
-                "likeCount": "1140",
-                "favoriteCount": "0",
-                "commentCount": "13"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "4A-mjdv8-ZBfvO68ZiV6TQrBxXU",
+            "etag": "EwS82gwgjo2bI6AX4qZ9vzqbNH0",
             "id": "hYergfei57I",
             "snippet": {
                 "publishedAt": "2026-06-24T14:00:14Z",
@@ -1577,15 +1620,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "345980",
-                "likeCount": "18380",
+                "viewCount": "360958",
+                "likeCount": "19201",
                 "favoriteCount": "0",
-                "commentCount": "163"
+                "commentCount": "168"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "BDCKG3YqChzt54SWj0Xj1rtfR44",
+            "etag": "kwJmgFXtYUuGMxhH9KdYenpcGew",
             "id": "2K_IJomAgjo",
             "snippet": {
                 "publishedAt": "2026-06-24T13:22:20Z",
@@ -1656,15 +1699,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "28832",
-                "likeCount": "545",
+                "viewCount": "31285",
+                "likeCount": "641",
                 "favoriteCount": "0",
                 "commentCount": "11"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GW1Q9l4JcVUzj21NfLpnMvDSm3o",
+            "etag": "7cXYtENrstWFUG-vXperhFifI1Y",
             "id": "7XCDlu81Nhc",
             "snippet": {
                 "publishedAt": "2026-06-24T13:00:04Z",
@@ -1729,15 +1772,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "203660",
-                "likeCount": "4861",
+                "viewCount": "210335",
+                "likeCount": "4993",
                 "favoriteCount": "0",
                 "commentCount": "42"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "c2CmKWUGmgMmRPtDSPBMs5kq2G8",
+            "etag": "3sgNR8FiaSHB9oKlIXdzXDOgZW4",
             "id": "hoMMvr_XfQI",
             "snippet": {
                 "publishedAt": "2026-06-24T13:00:02Z",
@@ -1813,15 +1856,83 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "6426",
-                "likeCount": "74",
+                "viewCount": "6585",
+                "likeCount": "77",
                 "favoriteCount": "0",
                 "commentCount": "13"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "lrovU8baXsDakGthBRQBb_weWI8",
+            "etag": "--m_oJ4RAaKK0vnNpzY8rogX8gg",
+            "id": "SpJAvfkbOeY",
+            "snippet": {
+                "publishedAt": "2026-06-24T12:08:30Z",
+                "channelId": "UCW3Ms3ZxVaZUniP-HifWCDg",
+                "title": "My GIRLFRIEND become FAT and tried to EAT ME in Minecraft!",
+                "description": "in this video mennu become fat in minecraft..\n\n#minecraft \n#karrykraft",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Karry Kraft",
+                "tags": [
+                    "mennu",
+                    "carry depie",
+                    "minecrat",
+                    "minecraft"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "My GIRLFRIEND become FAT and tried to EAT ME in Minecraft!",
+                    "description": "in this video mennu become fat in minecraft..\n\n#minecraft \n#karrykraft"
+                },
+                "defaultAudioLanguage": "en-IN"
+            },
+            "contentDetails": {
+                "duration": "PT11M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "465753",
+                "likeCount": "7979",
+                "favoriteCount": "0",
+                "commentCount": "398"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sX0UvGgsClREIk8tfSH6KPLbqwI",
             "id": "qGv9sZyWu5c",
             "snippet": {
                 "publishedAt": "2026-06-24T13:00:02Z",
@@ -1908,15 +2019,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "91602",
-                "likeCount": "2183",
+                "viewCount": "93105",
+                "likeCount": "2359",
                 "favoriteCount": "0",
                 "commentCount": "12"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "iz4vQEyayqpGqM0n4_jGAMtfKAg",
+            "etag": "54C9GV1xL7yVfLLVKgX4w0I-Qwk",
             "id": "zYwCFh3gViw",
             "snippet": {
                 "publishedAt": "2026-06-24T12:19:27Z",
@@ -1977,83 +2088,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "112929",
-                "likeCount": "1853",
+                "viewCount": "116137",
+                "likeCount": "2002",
                 "favoriteCount": "0",
-                "commentCount": "25"
+                "commentCount": "26"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2CK4_RKiQxUyYFxnV05xJfyv1_Y",
-            "id": "SpJAvfkbOeY",
-            "snippet": {
-                "publishedAt": "2026-06-24T12:08:30Z",
-                "channelId": "UCW3Ms3ZxVaZUniP-HifWCDg",
-                "title": "My GIRLFRIEND become FAT and tried to EAT ME in Minecraft!",
-                "description": "in this video mennu become fat in minecraft..\n\n#minecraft \n#karrykraft",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/SpJAvfkbOeY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Karry Kraft",
-                "tags": [
-                    "mennu",
-                    "carry depie",
-                    "minecrat",
-                    "minecraft"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "My GIRLFRIEND become FAT and tried to EAT ME in Minecraft!",
-                    "description": "in this video mennu become fat in minecraft..\n\n#minecraft \n#karrykraft"
-                },
-                "defaultAudioLanguage": "en-IN"
-            },
-            "contentDetails": {
-                "duration": "PT11M35S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "440486",
-                "likeCount": "7677",
-                "favoriteCount": "0",
-                "commentCount": "383"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "wypfKYHZutWf6Ogybc9EP1sXUOk",
+            "etag": "_Npa8QXQPQgIA7fcDx-xNRK8avM",
             "id": "5Xub75zJ4F8",
             "snippet": {
                 "publishedAt": "2026-06-24T12:00:30Z",
@@ -2131,15 +2174,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "152266",
-                "likeCount": "1116",
+                "viewCount": "161508",
+                "likeCount": "1188",
                 "favoriteCount": "0",
-                "commentCount": "53"
+                "commentCount": "54"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "q-qdmi8MiOCfTO4DYtXPVWfW3fM",
+            "etag": "G0sFFW7PvzIl0SxRYWe7gEbLLZk",
             "id": "rqRxpYPM6-M",
             "snippet": {
                 "publishedAt": "2026-06-24T12:00:31Z",
@@ -2193,15 +2236,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "99577",
-                "likeCount": "3886",
+                "viewCount": "101313",
+                "likeCount": "3929",
                 "favoriteCount": "0",
                 "commentCount": "14"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GxdGriLl0wZgwJWL2p8pAogUOGg",
+            "etag": "9UmR75cV18F2hVw9gU_VgP5pmGQ",
             "id": "PacRhg8yDQg",
             "snippet": {
                 "publishedAt": "2026-06-24T11:33:06Z",
@@ -2284,15 +2327,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "19750",
-                "likeCount": "633",
+                "viewCount": "20018",
+                "likeCount": "649",
                 "favoriteCount": "0",
                 "commentCount": "53"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "vOJFWSr2C-Da3MdoPIQGryLO8eY",
+            "etag": "B2J7eFjtKwNrjblj_riLxX1Nbqk",
             "id": "ModZCbIetwM",
             "snippet": {
                 "publishedAt": "2026-06-24T11:20:29Z",
@@ -2346,77 +2389,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "446",
-                "likeCount": "5",
+                "viewCount": "599",
+                "likeCount": "6",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "PS8Z0qIVK9QCm4bVTe6RCxXs4SQ",
-            "id": "jfEbs7PSu5E",
-            "snippet": {
-                "publishedAt": "2026-06-24T11:15:08Z",
-                "channelId": "UCIxsIDzsf5UXH8dlJy_OzDA",
-                "title": "Hunting the REAL Verity Mod...",
-                "description": "ENEBA: Get the best deals for the games, add-ons, gift cards, and anything games-related:https://ene.ba/Burps-Minecraft\nSnakzy Play-to-earn app, get a $10 welcome bonus using my promo code: BURPSYT http://snakzy.me/BurpsYT\n\nIn this Minecraft video, I face a unique minecraft challenge where I am hunting the REAL Verity mod. Can I conquer this minecraft but challenging run? Watch to find out! \ud83d\ude09\n\nWorld Save - https://www.patreon.com/15043898/join\n\nFor any questions or inquiries regarding this video, please reach out to walktheplank@screenwavemedia.com\n\nmods:\n[TaCZ] Guns - https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero\nVerity Mod - https://www.curseforge.com/minecraft/mc-mods/verity-mod\n\nOne of these mods has been added by me, they are animations and are used to heighten the scary atmosphere and storytelling.\n\nThis video is a Minecraft Horror Mod or Horror Mods, from creators like Swayle, Calvin, Wisp, CaylusCraft, or Forge Labs where players survive 100 days in Hardcore Horror Minecraft... Lets see what happens...\n\nEven though these are survival/hardcore videos they are lightly scripted for pacing and entertainment purposes. \n\n#minecraft #100days #minecraftmods  \n\n---------------------------------------------",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/jfEbs7PSu5E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Burps",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en-GB",
-                "localized": {
-                    "title": "Hunting the REAL Verity Mod...",
-                    "description": "ENEBA: Get the best deals for the games, add-ons, gift cards, and anything games-related:https://ene.ba/Burps-Minecraft\nSnakzy Play-to-earn app, get a $10 welcome bonus using my promo code: BURPSYT http://snakzy.me/BurpsYT\n\nIn this Minecraft video, I face a unique minecraft challenge where I am hunting the REAL Verity mod. Can I conquer this minecraft but challenging run? Watch to find out! \ud83d\ude09\n\nWorld Save - https://www.patreon.com/15043898/join\n\nFor any questions or inquiries regarding this video, please reach out to walktheplank@screenwavemedia.com\n\nmods:\n[TaCZ] Guns - https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero\nVerity Mod - https://www.curseforge.com/minecraft/mc-mods/verity-mod\n\nOne of these mods has been added by me, they are animations and are used to heighten the scary atmosphere and storytelling.\n\nThis video is a Minecraft Horror Mod or Horror Mods, from creators like Swayle, Calvin, Wisp, CaylusCraft, or Forge Labs where players survive 100 days in Hardcore Horror Minecraft... Lets see what happens...\n\nEven though these are survival/hardcore videos they are lightly scripted for pacing and entertainment purposes. \n\n#minecraft #100days #minecraftmods  \n\n---------------------------------------------"
-                },
-                "defaultAudioLanguage": "en-GB"
-            },
-            "contentDetails": {
-                "duration": "PT33M40S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "23375",
-                "likeCount": "780",
-                "favoriteCount": "0",
-                "commentCount": "120"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "P1s-Q4SaqVp8qSf8JdmaIk7Uw-E",
+            "etag": "vpq7v0UuxB6X5j5oV0NMAG_EI-A",
             "id": "YamEPW_ulyc",
             "snippet": {
                 "publishedAt": "2026-06-24T11:08:46Z",
@@ -2493,15 +2474,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "15813",
-                "likeCount": "1289",
+                "viewCount": "16441",
+                "likeCount": "1315",
                 "favoriteCount": "0",
                 "commentCount": "36"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "MA9-7nudj_dHDQ0X_7RKpUO6w0E",
+            "etag": "f7WMr9-QHTf5kpvLSRQdMXr8QAI",
             "id": "0YDk5hdI1j0",
             "snippet": {
                 "publishedAt": "2026-06-24T11:00:03Z",
@@ -2579,15 +2560,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "6326",
-                "likeCount": "293",
+                "viewCount": "6566",
+                "likeCount": "303",
                 "favoriteCount": "0",
                 "commentCount": "226"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "n-_ix4HNl4J2bmuwlZHEBo-70xk",
+            "etag": "58UEyFWR3lXwVwLIk8JeUbKk-2k",
             "id": "C_SpkqPhFUU",
             "snippet": {
                 "publishedAt": "2026-06-24T10:30:00Z",
@@ -2651,15 +2632,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "28317",
-                "likeCount": "228",
+                "viewCount": "28453",
+                "likeCount": "229",
                 "favoriteCount": "0",
                 "commentCount": "3"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ANkDv5qaFGkVAU0g0wJnVuN74eA",
+            "etag": "2l1UuP6jaXu6_Sm5ic_9hMZCZQ4",
             "id": "VvB_Q4dG68E",
             "snippet": {
                 "publishedAt": "2026-06-24T10:13:21Z",
@@ -2713,15 +2694,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "152154",
-                "likeCount": "9512",
+                "viewCount": "160552",
+                "likeCount": "9741",
                 "favoriteCount": "0",
-                "commentCount": "105"
+                "commentCount": "109"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "oUHh-hdskn_C03j5VicTCK3ZQhs",
+            "etag": "Y2-fLPsuN8nztRfOqrqWotUTZ_A",
             "id": "N00Kr5visoQ",
             "snippet": {
                 "publishedAt": "2026-06-24T10:00:32Z",
@@ -2775,15 +2756,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "58815",
-                "likeCount": "507",
+                "viewCount": "60297",
+                "likeCount": "525",
                 "favoriteCount": "0",
                 "commentCount": "3"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "GdSnnIOMdRDLptf1U1NFDXd9PdI",
+            "etag": "-AnqgDKDfg-kTvZWEu4em0IjHpI",
             "id": "IB1-tyt_XQo",
             "snippet": {
                 "publishedAt": "2026-06-24T10:00:14Z",
@@ -2871,15 +2852,95 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "205318",
-                "likeCount": "5849",
+                "viewCount": "211238",
+                "likeCount": "5962",
                 "favoriteCount": "0",
-                "commentCount": "59"
+                "commentCount": "60"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9phxxP-ld_SukSU8bUiscOur-gM",
+            "etag": "jAchZnkJbF2rPd1jM16SAISV4LM",
+            "id": "j43A1TIpU1A",
+            "snippet": {
+                "publishedAt": "2026-06-24T09:56:39Z",
+                "channelId": "UCiK16OtSksO7Mt6iTCGYqWw",
+                "title": "Ga nyangka Aku Bisa Pergi Ke bulan Di Minecraft",
+                "description": "Terimakasih buat kalian semua yang sudah menonton video aku jangan lupa like dan subscribe YouTube aku yah,\n\n\nAddon :\nhttps://www.curseforge.com/minecraft-bedrock/addons/wans-moon-dimension\n\nminecraft funny\nMinecraft texture\nMinecraft mod\nminecraft funny moment\nminecraft meme\nfakta menarik minecraft\n\n#minecraft #shorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j43A1TIpU1A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j43A1TIpU1A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j43A1TIpU1A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j43A1TIpU1A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j43A1TIpU1A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pastaz ID",
+                "tags": [
+                    "Minecraft",
+                    "addon",
+                    "Minecraft meme",
+                    "Minecraft addons",
+                    "Minecraft funny moments",
+                    "Minecraft tutorial",
+                    "Minecraft mcpe",
+                    "Minecraft bedrock",
+                    "Minecraft 2026",
+                    "Minecraft mods",
+                    "Minecraft Shorts",
+                    "short",
+                    "Memes",
+                    "Minecraft Indonesia",
+                    "Minecraft fakta menarik",
+                    "Minecraft tapi",
+                    "Minecraft but"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "id",
+                "localized": {
+                    "title": "Ga nyangka Aku Bisa Pergi Ke bulan Di Minecraft",
+                    "description": "Terimakasih buat kalian semua yang sudah menonton video aku jangan lupa like dan subscribe YouTube aku yah,\n\n\nAddon :\nhttps://www.curseforge.com/minecraft-bedrock/addons/wans-moon-dimension\n\nminecraft funny\nMinecraft texture\nMinecraft mod\nminecraft funny moment\nminecraft meme\nfakta menarik minecraft\n\n#minecraft #shorts"
+                },
+                "defaultAudioLanguage": "id"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "66549",
+                "favoriteCount": "0",
+                "commentCount": "28"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "VtqGh2_LbkS51SWoMTkQtz4wWoM",
             "id": "9vWfixuSkyI",
             "snippet": {
                 "publishedAt": "2026-06-24T09:25:43Z",
@@ -2972,15 +3033,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "145597",
-                "likeCount": "7405",
+                "viewCount": "150736",
+                "likeCount": "7551",
                 "favoriteCount": "0",
-                "commentCount": "77"
+                "commentCount": "80"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "H-mIEqYcbonnzbPwAJXve8fzb7Y",
+            "etag": "5iIvjicTNAyAZ8z6VAM_qSDt5wI",
             "id": "cubccGwFfU8",
             "snippet": {
                 "publishedAt": "2026-06-24T08:30:11Z",
@@ -3066,8 +3127,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "11782",
-                "likeCount": "140",
+                "viewCount": "11929",
+                "likeCount": "144",
                 "favoriteCount": "0",
                 "commentCount": "4"
             }
@@ -3163,7 +3224,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "RmBC_FOW-8TbrKMv3QdGiFfzsMI",
+            "etag": "4EGqqa_c5akFNsMbNJWeH21JXKY",
             "id": "6Kl1aZXxaSg",
             "snippet": {
                 "publishedAt": "2026-06-24T07:25:14Z",
@@ -3226,96 +3287,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "142975",
-                "likeCount": "2032",
+                "viewCount": "144046",
+                "likeCount": "2077",
                 "favoriteCount": "0",
-                "commentCount": "52"
+                "commentCount": "53"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Z2hiAyOizIZ6OrERVyEQjdSALnY",
-            "id": "aMCSfgF0CA8",
-            "snippet": {
-                "publishedAt": "2026-06-24T07:00:16Z",
-                "channelId": "UCSgkg1FWPfL7blqg0Juw6Dw",
-                "title": "I Trapped My Friends in a TINY CHUNK in Minecraft!",
-                "description": "I Trapped My Friends in a MINI CHUNK in Minecraft!\n\nI Trapped My Friends in a TINY CHUNK in Minecraft!\n\n2nd Channel : @rahulcraft03  \n\n[ SOCIAL ]\nDiscord : https://discord.gg/nEZ62rDPYw\nInstagram : https://www.instagram.com/rahulislit/\nTwitter : https://twitter.com/RahulisLit?t=d7dUdmanGBy30d9_eslAQQ&s=09 (edited)",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aMCSfgF0CA8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aMCSfgF0CA8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aMCSfgF0CA8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/aMCSfgF0CA8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/aMCSfgF0CA8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "RaHul iS liT",
-                "tags": [
-                    "minecraft",
-                    "I Trapped My Friends in a TINY CHUNK in Minecraft!",
-                    "tiny chunk minecraft",
-                    "I Trapped My Friends in a MINI CHUNK in Minecraft!",
-                    "chunk in minecraft",
-                    "I Trapped My Friends in a TINY Minecraft World!",
-                    "I Put 10 YouTubers in One Minecraft Chunk",
-                    "Trapping My Friends in CHUNK",
-                    "I Trapped My Friend in a 100% Fake Minecraft World",
-                    "Minecraft But Every Drop is Avaritia!",
-                    "avaritia minecraft",
-                    "doorbin minecraft",
-                    "Minecraft roleplay",
-                    "Minecraft trolling",
-                    "dashempire",
-                    "carrydepie",
-                    "rahul is lit"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "I Trapped My Friends in a TINY CHUNK in Minecraft!",
-                    "description": "I Trapped My Friends in a MINI CHUNK in Minecraft!\n\nI Trapped My Friends in a TINY CHUNK in Minecraft!\n\n2nd Channel : @rahulcraft03  \n\n[ SOCIAL ]\nDiscord : https://discord.gg/nEZ62rDPYw\nInstagram : https://www.instagram.com/rahulislit/\nTwitter : https://twitter.com/RahulisLit?t=d7dUdmanGBy30d9_eslAQQ&s=09 (edited)"
-                },
-                "defaultAudioLanguage": "en-IN"
-            },
-            "contentDetails": {
-                "duration": "PT16M58S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "64206",
-                "likeCount": "871",
-                "favoriteCount": "0",
-                "commentCount": "47"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Uy65zU3AKlysRe6A7ie0wC4j5Cw",
+            "etag": "9cH9W7PPJx-HgeDHTNcHJIdpIn0",
             "id": "cPzoI1Ln0mU",
             "snippet": {
                 "publishedAt": "2026-06-24T06:30:26Z",
@@ -3369,15 +3349,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "5681",
-                "likeCount": "109",
+                "viewCount": "5915",
+                "likeCount": "112",
                 "favoriteCount": "0",
                 "commentCount": "10"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "S7qquKVrf89p3Eexc0X2-WAVxHI",
+            "etag": "KSRyoyS9_xtNSlmnkp85e0JyfYU",
             "id": "TYD-97BaTnY",
             "snippet": {
                 "publishedAt": "2026-06-24T06:00:25Z",
@@ -3451,15 +3431,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "22719",
-                "likeCount": "681",
+                "viewCount": "24305",
+                "likeCount": "707",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "igHUvB--VMZmbe1KuDIUgZYfnMc",
+            "etag": "_kvONRYq_WbqDbRA40GNV-P1Sw4",
             "id": "dWEROkTXu3M",
             "snippet": {
                 "publishedAt": "2026-06-24T06:00:37Z",
@@ -3533,15 +3513,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "563398",
-                "likeCount": "6369",
+                "viewCount": "590894",
+                "likeCount": "6529",
                 "favoriteCount": "0",
-                "commentCount": "183"
+                "commentCount": "184"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "n2mlPqcivHvzzEYbxppkGw6b0EQ",
+            "etag": "DddJGMpMsUirp_uhvHF1RyMvXCM",
             "id": "3do4AIT6klg",
             "snippet": {
                 "publishedAt": "2026-06-24T05:00:00Z",
@@ -3619,15 +3599,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "303535",
-                "likeCount": "5725",
+                "viewCount": "325620",
+                "likeCount": "5869",
                 "favoriteCount": "0",
-                "commentCount": "180"
+                "commentCount": "183"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Do2kaZWP7zYUCriRJE-yInotaWQ",
+            "etag": "oJdD6Psz1Yvfynt3gjljKlZGJtk",
             "id": "Vbcmngfr9fw",
             "snippet": {
                 "publishedAt": "2026-06-24T05:00:38Z",
@@ -3728,15 +3708,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "73512",
-                "likeCount": "1482",
+                "viewCount": "74278",
+                "likeCount": "1538",
                 "favoriteCount": "0",
                 "commentCount": "3"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "k_PSD9A-LyQ6YxERdeTSyuaKsmg",
+            "etag": "_ydMjKKLRlSzRI9ehlJ-VgckRYs",
             "id": "BQ8XQ1THS78",
             "snippet": {
                 "publishedAt": "2026-06-24T04:00:36Z",
@@ -3826,15 +3806,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3721249",
-                "likeCount": "30233",
+                "viewCount": "3907124",
+                "likeCount": "30693",
                 "favoriteCount": "0",
-                "commentCount": "35"
+                "commentCount": "36"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "DELbdllcW1GN4PqwtUhgFnEeG0Q",
+            "etag": "0fNlgyoHdiq7P2SkNAH5o3kh16w",
             "id": "E_Rz7QipUhs",
             "snippet": {
                 "publishedAt": "2026-06-24T04:00:39Z",
@@ -3919,15 +3899,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "994059",
-                "likeCount": "9233",
+                "viewCount": "1012007",
+                "likeCount": "9252",
                 "favoriteCount": "0",
-                "commentCount": "74"
+                "commentCount": "75"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "I_s3LijG0u_9vgjsAthO12bfIsE",
+            "etag": "C0fuk4umHHlCkVegsNjjhqv1BY0",
             "id": "-Vj9n9e27MQ",
             "snippet": {
                 "publishedAt": "2026-06-24T01:25:25Z",
@@ -3991,8 +3971,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "734175",
-                "likeCount": "6806",
+                "viewCount": "757486",
+                "likeCount": "6935",
                 "favoriteCount": "0",
                 "commentCount": "49"
             }

@@ -1,10 +1,10 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "Qmo7Z3DGSzq7vO9AcfRn855I0bY",
+    "etag": "UqYG4Nn4pVHes2HEhZL52QJfUa4",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 293078,
+        "totalResults": 293018,
         "resultsPerPage": 50
     },
     "items": [
@@ -486,7 +486,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "qBsBTlHyS84KFXl5vzxRCgnVeg0",
+            "etag": "2fUFj66R-ZUK2amg3ILNL10g2wU",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "qN4-dmbKV1A"
@@ -1098,6 +1098,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "hH4utJeGkc0TFfkjsyIrNEE32QI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JclTkBxl3Sc"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T09:24:32Z",
+                "channelId": "UCd3pdXO7k8yUm1K0CZ6-jDQ",
+                "title": "\u041f\u0420\u0410\u0412\u0418\u041b\u042c\u041d\u0410\u042f \u041f\u041e\u0417\u0418\u0426\u0418\u041e\u041d\u041a\u0410 \u041d\u0410 \u0426\u0418\u041a\u041b\u041e\u041f\u0415 - MARVEL RIVALS CYCLOPS SEASON 8.5",
+                "description": "Marvel Rivals Cyclops - \u041a\u0430\u043a \u044f \u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u043b, \u043d\u0430 \u0446\u0438\u043a\u043b\u043e\u043f\u0435 \u043d\u0443\u0436\u043d\u043e \u0444\u043b\u0430\u043d\u0433\u043e\u0432\u0430\u0442\u044c \u0432 8.5 \u0441\u0435\u0437\u043e\u043d\u0435 Marvel Rivals. \u0412\u0441\u0435\u043c \u043f\u0440\u0438\u044f\u0442\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JclTkBxl3Sc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JclTkBxl3Sc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JclTkBxl3Sc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0425\u0430\u0430\u0440\u0442",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T09:24:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "28aPq5H1lTWxRfxW0ppWOvHCaGs",
             "id": {
                 "kind": "youtube#video",
@@ -1506,6 +1540,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "Nr_GENTwJhA70tE5l94NrB9M1a8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Lk8h0Ce1tCo"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-23T20:30:38Z",
+                "channelId": "UC9UeduMNtsFEKa2lXlVbV-w",
+                "title": "THE HOME SCREEN CLUTTER IS INSANE IN MARVEL RIVALS!",
+                "description": "ok subscribe bye :) #marvel #marvelrivals #marvelrivalsgameplay.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lk8h0Ce1tCo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lk8h0Ce1tCo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lk8h0Ce1tCo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KaySkay",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-23T20:30:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "966DjYYk9qMF2AVj3JfKiPxoqsk",
             "id": {
                 "kind": "youtube#video",
@@ -1638,74 +1706,6 @@
                 "channelTitle": "Neko and Tora",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-23T19:15:55Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "kkM9v8g4bO-IQis24p5WhTf5_kc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "vZktGG6PjRs"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-23T19:10:50Z",
-                "channelId": "UCxuivsmebyOOXZZGsk-eN0A",
-                "title": "WHAT DO YOU WANT FROM ME? #marvel  #rivals  #gaming  #twitch  #streamer  #clips  #explorepage",
-                "description": "More of me here: alildore.com.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/vZktGG6PjRs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Alildore",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-23T19:10:50Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "E_5Ueodw3TEl16bSfCOa_5huyKQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "EwUfnMwaa-k"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-23T19:06:51Z",
-                "channelId": "UCO1RaID33uvGW1EtoMSHygA",
-                "title": "NO WAY MARVEL RIVALS DID THIS TO DAREDEVIL",
-                "description": "Nice 10% OFF ALL GAMERSUPPS ORDERS: https://gamersupps.gg/Khyo FIND ME IN THESE PLACES: linktr.ee/Khyo #marvel ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EwUfnMwaa-k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Khyomaru",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-23T19:06:51Z"
             }
         }
     ]

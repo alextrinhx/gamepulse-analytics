@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "HXcCrBUZcp1Dlx8L-g3Hj2_QZW0",
+    "etag": "VxjynHruJN1N_kTuG4QXW6p7cQM",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -8,6 +8,176 @@
         "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ObgsN5dbukrlP0y1_Tq8oqkPZlQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QnBS9CfiXy8"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T06:30:26Z",
+                "channelId": "UCVKTENLFbXAEfVGw3XCcnBA",
+                "title": "Rocket League Live met Red Danger",
+                "description": "Welkome to my channel Here I will post juggling video's and more cool skill stuff. Also Follow me on Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QnBS9CfiXy8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QnBS9CfiXy8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QnBS9CfiXy8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Abelatty Juggler",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T06:30:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WUzZBawOgyXJsmYt41tdqr8320A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z8WYibP9CdY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T06:25:56Z",
+                "channelId": "UCkNYoWK1LqjFhxYI6BM_kOA",
+                "title": "HALF PIPE Rocket League is INSANE! #rocketleague #rl #leth #lethamyr",
+                "description": "My Support-A-Creator Code: LETHAMYR Apply the code it in the Rocket League store to support me! (top right of the store) Check ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z8WYibP9CdY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z8WYibP9CdY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z8WYibP9CdY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lethamyr",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T06:25:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xWx0qQxe-Fzv0dc340ap2bC_H6g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cO8HP2jVIhg"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T06:06:22Z",
+                "channelId": "UCMZGkzKRiAbCWKZ8pSKE7Dg",
+                "title": "COMO SABER SI UN JUGADOR ES CARREADO EN ROCKET LEAGUE",
+                "description": "rocketleague #rlcompetitivo #n3mona10 #rocketleaguevideos.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cO8HP2jVIhg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cO8HP2jVIhg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cO8HP2jVIhg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "N3MONA10",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T06:06:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IpL24rqEbg1CLYfJANgYCPTcS8g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sUrfr4K7Oxg"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T05:39:19Z",
+                "channelId": "UCua2g5rWSzaFRahbS_BoVqw",
+                "title": "Rocket league",
+                "description": "Abonner vous!!!!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sUrfr4K7Oxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sUrfr4K7Oxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sUrfr4K7Oxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ZENOX_NODA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T05:39:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HKi4rUuJ1lhPsd5DyIJzNUQQsOQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vbC771y0SI0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T05:00:35Z",
+                "channelId": "UCVSro2lJ_LPnB_t2FWIIVJw",
+                "title": "Rocket League avec Pierrot",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vbC771y0SI0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vbC771y0SI0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vbC771y0SI0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ByBy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T05:00:35Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "qgQK74zuQ2QQCNg-i_2RWyFZ0UY",
@@ -44,7 +214,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "5v8D2-NbELFgwZebz738RrYgQjY",
+            "etag": "wo88VayxQPj6Y41T22nhymzF5do",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "dUOQ7mz6FJE"
@@ -180,36 +350,36 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "J57KOSqGbDnF5hHpbz2rKzNlBxg",
+            "etag": "H36iakoMNOUPZAp5W6SmEepgUUk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "DpDGEJIySwA"
+                "videoId": "H2Ywrp5ZYLA"
             },
             "snippet": {
-                "publishedAt": "2026-06-25T01:41:03Z",
-                "channelId": "UC5IXBvjlg5G5H1i__DFKLAA",
-                "title": "Rocket League Daily Montage - Daily RL Montage",
-                "description": "3457 #rocketleague #rocketgoal #rocketdaily #rlboosting #rocketleagueboosting #shorts #gameplay #peaking #youtubegaming ...",
+                "publishedAt": "2026-06-25T03:15:23Z",
+                "channelId": "UCeC4La9l-fWUD_FY9nZ8X0Q",
+                "title": "2026 AEL High Schools Term 2 - Rocket League - Phoenix vs Moriah Highlights",
+                "description": "Our highlights from the Playoff Stage of Term 2 Rocket League in the AEL High Schools Competition! Featuring Phoenix P-12 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/DpDGEJIySwA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/H2Ywrp5ZYLA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/DpDGEJIySwA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/H2Ywrp5ZYLA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/DpDGEJIySwA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/H2Ywrp5ZYLA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SPEEDBOOSTRL",
+                "channelTitle": "AUesportsleague",
                 "liveBroadcastContent": "none",
-                "publishTime": "2026-06-25T01:41:03Z"
+                "publishTime": "2026-06-25T03:15:23Z"
             }
         },
         {
@@ -346,40 +516,6 @@
                 "channelTitle": "Simply Sythe",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-25T00:52:47Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "EwQm_XFYfk4VGmvBoy8AfLd9ueA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "p9kXelZ6vDU"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-25T00:39:27Z",
-                "channelId": "UC5IXBvjlg5G5H1i__DFKLAA",
-                "title": "Rocket League Daily Montage - Daily RL Montage",
-                "description": "3452 #rocketleague #rocketgoal #rocketdaily #rlboosting #rocketleagueboosting #shorts #gameplay #peaking #youtubegaming ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/p9kXelZ6vDU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/p9kXelZ6vDU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/p9kXelZ6vDU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SPEEDBOOSTRL",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-25T00:39:27Z"
             }
         },
         {
@@ -622,6 +758,74 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "DEd1y90eEyjj_rx3bC0somL3oyw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F-U9M7u6bCs"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T19:14:17Z",
+                "channelId": "UCIn54hsb_0nUaSmR-xPbcJQ",
+                "title": "Rocket League ITEM SHOP JUNE 24, 2026",
+                "description": "Rocket League ITEM SHOP JUNE 24, 2026 Daily updates on the Rocket League Item Shop! See what's new and available ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F-U9M7u6bCs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F-U9M7u6bCs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F-U9M7u6bCs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Chip Champ ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T19:14:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ByboCwJKzqwmhPAyX78nuQDCBUc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TekOua-r684"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T18:28:15Z",
+                "channelId": "UCkY1fRZb9L-kBGAt2BSYTQA",
+                "title": "As\u00ed llegar\u00e1s a GC por fin en Rocket League. #Rocketleagueclips #rocketleague #highlight #rl",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TekOua-r684/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TekOua-r684/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TekOua-r684/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Albereli",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T18:28:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "ZH0oZrJX-HZ9gNeN9EGNazzKWFs",
             "id": {
                 "kind": "youtube#video",
@@ -724,40 +928,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "lssZbeiJRONKyRtdO0BlwehyzNM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "K2yh0sQjxxw"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T17:37:40Z",
-                "channelId": "UCy1kAlvTEqvUOaVLo4Dbbng",
-                "title": "POV: Tu duo de Rocket League \ud83e\udd7a #gaming #clips #funny #rocketleague",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/K2yh0sQjxxw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/K2yh0sQjxxw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/K2yh0sQjxxw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Liks",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T17:37:40Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "U3MxMUcFTloIFSHXXclNkeGVLkE",
             "id": {
                 "kind": "youtube#video",
@@ -792,41 +962,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "FX7pdMRWqiZMip6y5Z_TWvkRbdc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Unx3yI4l2As"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T17:00:02Z",
-                "channelId": "UCdcWlWLhJgom9bsJRtqOzzw",
-                "title": "Is The Sky Blue Affluenter Actually Worth The Hype In Rocket League? - Rocket League Gameplay",
-                "description": "Hey everyone, In todays episode we do have the Sky Blue Affluenter In Rocket League! As always if you guys enjoyed the video ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Unx3yI4l2As/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Unx3yI4l2As/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Unx3yI4l2As/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sportydan11",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T17:00:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "1m7XeesKhKqM5Lu72xvI0HkaHGM",
+            "etag": "im9ohfbs1RRE-qbO5a2UqkCvz08",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "KV93sJ_KCFs"
@@ -1196,40 +1332,6 @@
                 "channelTitle": "AlanVerse Clips",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-24T14:30:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "_fbgehAcwyuR2bsa2gPUNcQ0Sc8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "5B3bvyZd7I0"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T14:16:09Z",
-                "channelId": "UCYu_f30c9ccouJqgPZGLbgw",
-                "title": "Autogool pi\u00fa bello che vedrete oggi! - Rocket League Gameplay - #rocketleague #jeekonline",
-                "description": "Autogool pi\u00fa bello che vedrete oggi! Rocket League Gameplay #rocketleague #rocketleaguehighlights #rl #rlclips #jeekonline.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5B3bvyZd7I0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5B3bvyZd7I0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5B3bvyZd7I0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "JEEKonline",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T14:16:09Z"
             }
         },
         {
@@ -1604,108 +1706,6 @@
                 "channelTitle": "Adriantors",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-23T21:32:09Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "9oRH33Yb-448cqDrxJ7GHHvhRLY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "U8mv-Q36BB0"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-23T21:30:38Z",
-                "channelId": "UC2JZ7DsrbvwGCSrjq-0hjzA",
-                "title": "Sidewalls at EVERY rank in Rocket League \ud83d\udc40",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/U8mv-Q36BB0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/U8mv-Q36BB0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/U8mv-Q36BB0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Nixus Slizbury",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-23T21:30:38Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "9ZMAjHZPVwSg_JXIgQcaxBapj6A",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "IRVaZld-nPo"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-23T21:20:22Z",
-                "channelId": "UCSUKfs96qLP6YxAvG6dSGOQ",
-                "title": "Rocket League Penalty Shootout",
-                "description": "Subscribe to my channel! https://www.youtube.com/channel/UCSUKfs96qLP6YxAvG6dSGOQ?sub_confirmation=1 I stream on ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/IRVaZld-nPo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/IRVaZld-nPo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/IRVaZld-nPo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HazardRL",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-23T21:20:22Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "8ZB2vuD5YsGFqc5DppZ5cCKPJxU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "9QKL-OjhlxY"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-23T21:00:00Z",
-                "channelId": "UCrLaetOKR9oYWVbRqsT0UBQ",
-                "title": "PS5 Slim ASMR \ud83d\ude34 Rocket League Ranked \ud83c\udfc6 Satisfying 360 FPS 4K",
-                "description": "Stuck in your Rocket League rank? My 2v2 Rank Up Guide (simple, no fancy mechanics) https://payhip.com/b/fseod LIKE ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9QKL-OjhlxY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9QKL-OjhlxY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9QKL-OjhlxY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Kaneki",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-23T21:00:00Z"
             }
         }
     ]

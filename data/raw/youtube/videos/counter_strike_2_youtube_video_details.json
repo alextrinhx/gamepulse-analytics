@@ -1,10 +1,72 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "28i8YKjW8Eg5khjfpxVq1pnlpiY",
+    "etag": "WAwIBlkbnNG_VGNn62mjNS98tS0",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "IQoNJFDF-zFK12zkW0C4bZyRwow",
+            "etag": "NKAB1LZHFKX6lz8NAXdXQNEPxT0",
+            "id": "pL12MpoqjAU",
+            "snippet": {
+                "publishedAt": "2026-06-25T05:34:17Z",
+                "channelId": "UCryj5stGf6fqoawRCM8ho1g",
+                "title": "comentarios de yt - #straka #windingo #cs2 #tiktok #TOPGLOBALES #loslobos",
+                "description": "Redes:\n--https://www.twitch.tv/Strakatv\n--https://twitter.com/Strakacsgo\n--https://www.instagram.com/nahueevazquez\n\nMI EDITORES: Curita\n\nOutro: https://www.youtube.com/channel/UCIhHJonLQtwwOXTk4zDrcHw/featured",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pL12MpoqjAU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pL12MpoqjAU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pL12MpoqjAU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pL12MpoqjAU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pL12MpoqjAU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Straka",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "comentarios de yt - #straka #windingo #cs2 #tiktok #TOPGLOBALES #loslobos",
+                    "description": "Redes:\n--https://www.twitch.tv/Strakatv\n--https://twitter.com/Strakacsgo\n--https://www.instagram.com/nahueevazquez\n\nMI EDITORES: Curita\n\nOutro: https://www.youtube.com/channel/UCIhHJonLQtwwOXTk4zDrcHw/featured"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "contentDetails": {
+                "duration": "PT27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1485",
+                "likeCount": "106",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YzqxNeg7HRYOkf5NMaA_fOXM-oY",
             "id": "QHOmxQRZgF8",
             "snippet": {
                 "publishedAt": "2026-06-25T05:05:17Z",
@@ -75,15 +137,111 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "317",
-                "likeCount": "4",
+                "viewCount": "779",
+                "likeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5PNvd_5y1Vhe5xkWBvYvJSG7WCQ",
+            "id": "BtSd32yl5MU",
+            "snippet": {
+                "publishedAt": "2026-06-25T05:02:28Z",
+                "channelId": "UC5lu9RBEnMf-8GRBFfQJWVw",
+                "title": "INVISIBLE OHNE 1v4 RETAKE #cs2 #csgo #counterstrike2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BtSd32yl5MU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BtSd32yl5MU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BtSd32yl5MU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BtSd32yl5MU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BtSd32yl5MU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "dima_fanpage",
+                "tags": [
+                    "cs2",
+                    "cs",
+                    "counterstrike",
+                    "counterstrike2",
+                    "cs2 dima",
+                    "dima_wallhacks",
+                    "cs2 dima_wallhacks",
+                    "cs2 challenge",
+                    "cs2 pro player",
+                    "cs2 pros",
+                    "cs2 level 10",
+                    "cs2 faceit level 10",
+                    "faceit",
+                    "faceit level 10",
+                    "cs2 major",
+                    "cs2 magixx",
+                    "1v60 cs2",
+                    "1v60 cs2 challenge",
+                    "cs2 dima_aimbots",
+                    "dima_aimbots",
+                    "dima_aimbots challenge",
+                    "ohnepixel",
+                    "ohnepixel major",
+                    "ohnepixelcostream",
+                    "ohnepixel clips",
+                    "ohnepixel raw",
+                    "ohnepixel 1v5",
+                    "ohnepixel challenge",
+                    "ohne 1v5",
+                    "ohne 1v5 silvers",
+                    "ohnepixel and dima_wallhacks",
+                    "ohne v 5 silvers"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "de",
+                "localized": {
+                    "title": "INVISIBLE OHNE 1v4 RETAKE #cs2 #csgo #counterstrike2",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "562",
+                "likeCount": "9",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "mrLbN5N-0lHODWOwkqySmVnt7hc",
+            "etag": "XQbrbj60ioiEcx6SJOVm24GMevE",
             "id": "kFI6Qy1S3nc",
             "snippet": {
                 "publishedAt": "2026-06-25T04:58:48Z",
@@ -165,15 +323,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "260",
-                "likeCount": "8",
+                "viewCount": "459",
+                "likeCount": "16",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "KwlFE4FG2xoy76TbWx4DkO-RuZU",
+            "etag": "lFf7wGc4ZqEtcygdJHhV011zEaU",
             "id": "PXh1UQfIFUw",
             "snippet": {
                 "publishedAt": "2026-06-25T04:47:15Z",
@@ -232,15 +390,105 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "853",
-                "likeCount": "7",
+                "viewCount": "1570",
+                "likeCount": "23",
                 "favoriteCount": "0",
                 "commentCount": "1"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "1PZVID0WwHHRK6WS7BQKB3SW6lA",
+            "etag": "FgCJM0l7q4uryXCNquwsEy5zE6k",
+            "id": "OggYbq0i4KY",
+            "snippet": {
+                "publishedAt": "2026-06-25T04:16:18Z",
+                "channelId": "UCRWwsnxpZT29Gbwyg39vX-Q",
+                "title": "Unfortunate \uf97a #cs2 #cs2videos #nacs2 #cs2skins #gutknife",
+                "description": "Unfortunate \uf97a #cs2 #cs2videos #nacs2 #cs2skins #gutknife",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OggYbq0i4KY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OggYbq0i4KY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OggYbq0i4KY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OggYbq0i4KY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OggYbq0i4KY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brooke Dixon",
+                "tags": [
+                    "csgo",
+                    "cs2",
+                    "csgo2",
+                    "counterstrike",
+                    "counterstrike2",
+                    "cs2clips",
+                    "cs2funny",
+                    "cs2moments",
+                    "cs2memes",
+                    "cs2skins",
+                    "csgoclips",
+                    "csgofunny",
+                    "csgomoments",
+                    "csgomemes",
+                    "csgoskins",
+                    "csgobestmoments",
+                    "csgofunnymoments",
+                    "counterstrikeglobaloffensive",
+                    "cs2funnymoments",
+                    "csgomeme",
+                    "cs2tips",
+                    "csgotips",
+                    "cs2tricks",
+                    "cs2smokes",
+                    "csgocases",
+                    "csgoesports"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Unfortunate \uf97a #cs2 #cs2videos #nacs2 #cs2skins #gutknife",
+                    "description": "Unfortunate \uf97a #cs2 #cs2videos #nacs2 #cs2skins #gutknife"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "428",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "1"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "SVonrASStrDmq-Fc5iL15BOiItU",
             "id": "57nZFh3_3ww",
             "snippet": {
                 "publishedAt": "2026-06-25T04:00:56Z",
@@ -294,15 +542,77 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "635",
-                "likeCount": "41",
+                "viewCount": "1109",
+                "likeCount": "79",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0RRjAxItb76Wi7uAR6snEqjA6jY",
+            "etag": "egX4oVOu91N_w-Itin-mKbUKIo0",
+            "id": "8WiFcYcVfB0",
+            "snippet": {
+                "publishedAt": "2026-06-25T03:53:19Z",
+                "channelId": "UCjSl1EARQiWZGHEfYzdQMrA",
+                "title": "Counter-Strike 2 CLIP 3#CS #CS2 #shorts #reels #fy",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8WiFcYcVfB0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8WiFcYcVfB0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8WiFcYcVfB0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8WiFcYcVfB0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8WiFcYcVfB0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DevilEyesBr",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "Counter-Strike 2 CLIP 3#CS #CS2 #shorts #reels #fy",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "pt-PT"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "394",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wU2hGPS1gzX83bEsuH0LQUDWpiI",
             "id": "Tqlx2IscE-I",
             "snippet": {
                 "publishedAt": "2026-06-25T03:02:21Z",
@@ -369,15 +679,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "767",
-                "likeCount": "20",
+                "viewCount": "984",
+                "likeCount": "19",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "DZjGKkW8LewUdICyf8QobK5UrQA",
+            "etag": "wsbtxughILNFlyjQCfCTD1v-sx8",
             "id": "blT3IeAOAso",
             "snippet": {
                 "publishedAt": "2026-06-25T02:49:45Z",
@@ -431,15 +741,80 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "715",
-                "likeCount": "19",
+                "viewCount": "971",
+                "likeCount": "28",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Y7ESwWLnTTCmgER90EhF_iQmC8M",
+            "etag": "sFM9RPV0ts5hAqaFKVdFqb7yKE4",
+            "id": "DpGjiE1-EXY",
+            "snippet": {
+                "publishedAt": "2026-06-25T02:14:01Z",
+                "channelId": "UCe9UtGdf74jWxjejowR4DKQ",
+                "title": "CS2 AO VIVO COM BUXEXA \ud83d\udd25 \ud83d\udd34JEFZERA AO VIVO\ud83d\udd34",
+                "description": "\ud83d\udd25DEIXEM O LIKE E INSCREVA-SE NO CANAL\ud83d\udd25\n\n\ud83d\udc4dSEGUE EU NO INSTA: https://www.instagram.com/jefzeraxp \ud83d\udc4d\n\n\ud83d\udc7bDISCORD: https://discord.gg/9PBPaKgW \ud83d\udc7b\n\n  Email para contato: jefersonlimavda@gmail.com\n\n\ud83d\udd34 CS2 AO VIVO AGORA!\n\nGameplay de Counter-Strike 2 ao vivo, jogando ranked, trocando ideia com o chat e buscando subir de elo.\nSe curte CS2, FPS e gameplay ao vivo, se inscreve no canal e deixa o like!\n\n\ud83c\udfae Jogo: Counter-Strike 2\n\ud83d\udcc5 Live di\u00e1ria\n\ud83d\udcac Chat sempre ativo\n\n   #cs2  #counterstrike2  #csgo  #GamesClub #gc  #RoadToLevel14 #Level14 #cs2live  #live  #gaming  #fps  #brazilianplayer  #soloq  #highelo  #competitive  #valve  #AK47 #mirage  #dust2  #premier  #roadtopro  #gameplay  #twitch  #youtubegaming  #BR #global",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DpGjiE1-EXY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DpGjiE1-EXY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DpGjiE1-EXY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DpGjiE1-EXY/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DpGjiE1-EXY/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JEFZERA XP",
+                "tags": [
+                    "#Jefzera xp"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "live",
+                "defaultLanguage": "pt-PT",
+                "localized": {
+                    "title": "CS2 AO VIVO COM BUXEXA \ud83d\udd25 \ud83d\udd34JEFZERA AO VIVO\ud83d\udd34",
+                    "description": "\ud83d\udd25DEIXEM O LIKE E INSCREVA-SE NO CANAL\ud83d\udd25\n\n\ud83d\udc4dSEGUE EU NO INSTA: https://www.instagram.com/jefzeraxp \ud83d\udc4d\n\n\ud83d\udc7bDISCORD: https://discord.gg/9PBPaKgW \ud83d\udc7b\n\n  Email para contato: jefersonlimavda@gmail.com\n\n\ud83d\udd34 CS2 AO VIVO AGORA!\n\nGameplay de Counter-Strike 2 ao vivo, jogando ranked, trocando ideia com o chat e buscando subir de elo.\nSe curte CS2, FPS e gameplay ao vivo, se inscreve no canal e deixa o like!\n\n\ud83c\udfae Jogo: Counter-Strike 2\n\ud83d\udcc5 Live di\u00e1ria\n\ud83d\udcac Chat sempre ativo\n\n   #cs2  #counterstrike2  #csgo  #GamesClub #gc  #RoadToLevel14 #Level14 #cs2live  #live  #gaming  #fps  #brazilianplayer  #soloq  #highelo  #competitive  #valve  #AK47 #mirage  #dust2  #premier  #roadtopro  #gameplay  #twitch  #youtubegaming  #BR #global"
+                },
+                "defaultAudioLanguage": "pt-BR"
+            },
+            "contentDetails": {
+                "duration": "P0D",
+                "dimension": "2d",
+                "definition": "sd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1945",
+                "likeCount": "49",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hHME1a_52uP763mf1Cm-SjW1oJ8",
             "id": "IkMwf-1lRfY",
             "snippet": {
                 "publishedAt": "2026-06-25T02:00:26Z",
@@ -528,15 +903,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "696",
-                "likeCount": "10",
+                "viewCount": "715",
+                "likeCount": "12",
                 "favoriteCount": "0",
                 "commentCount": "1"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "s6Yl11sRqpFqr1DBjICJe9RWaG0",
+            "etag": "U5-Zm_i9-oEnFoPUG48ktKncIbY",
             "id": "MZ-Buz2Dprs",
             "snippet": {
                 "publishedAt": "2026-06-25T01:49:15Z",
@@ -590,15 +965,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "921",
-                "likeCount": "36",
+                "viewCount": "1364",
+                "likeCount": "57",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0RwGEcO82WIJniiYhTtEmTpnLy4",
+            "etag": "IjD3fxPn-XfIMhAzkXvuUolzj40",
             "id": "qsI8XSW6sVE",
             "snippet": {
                 "publishedAt": "2026-06-25T01:43:26Z",
@@ -681,8 +1056,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "626",
-                "likeCount": "6",
+                "viewCount": "732",
+                "likeCount": "5",
                 "favoriteCount": "0",
                 "commentCount": "1"
             }
@@ -751,7 +1126,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "aLEDeYU-O26BNjZPGI-KFPP6bzY",
+            "etag": "C36OYbFl8cEQgzE2eHbvA6antVU",
             "id": "0ecqSDetbto",
             "snippet": {
                 "publishedAt": "2026-06-24T23:56:41Z",
@@ -812,15 +1187,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "7462",
-                "likeCount": "300",
+                "viewCount": "9432",
+                "likeCount": "381",
                 "favoriteCount": "0",
-                "commentCount": "11"
+                "commentCount": "12"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4F80Q_v52VNffdTn2gLPUi49074",
+            "etag": "TsGmdFHiWA8GgeoXNQ6NbeIyOms",
             "id": "u9MB9WhJZwQ",
             "snippet": {
                 "publishedAt": "2026-06-24T23:02:24Z",
@@ -900,15 +1275,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "4595",
-                "likeCount": "88",
+                "viewCount": "5437",
+                "likeCount": "109",
                 "favoriteCount": "0",
-                "commentCount": "8"
+                "commentCount": "9"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "tafFoPv50FE3Mpvfqo2NjS2WUQ0",
+            "etag": "4QqWrHyRxoO9IHEkI21-TF6P8rs",
             "id": "5zxFRI4WSe4",
             "snippet": {
                 "publishedAt": "2026-06-24T22:24:52Z",
@@ -962,77 +1337,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1977",
-                "likeCount": "53",
+                "viewCount": "2148",
+                "likeCount": "56",
                 "favoriteCount": "0",
                 "commentCount": "3"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "saSf5OBuOpny_OWo3NFPxGPU1Ek",
-            "id": "3S_uaaKB6Yc",
-            "snippet": {
-                "publishedAt": "2026-06-24T22:00:28Z",
-                "channelId": "UCFI6Psh1awq0zP5BaVr4clw",
-                "title": "Unboxing Some CS2 Gear \u2013 AK-47 Fan Item \ud83d\udde1\ufe0f#csgo #cs2 #cs2overpass #cs2",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/3S_uaaKB6Yc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/3S_uaaKB6Yc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/3S_uaaKB6Yc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/3S_uaaKB6Yc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/3S_uaaKB6Yc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "ValorantKnifeUnboxing",
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Unboxing Some CS2 Gear \u2013 AK-47 Fan Item \ud83d\udde1\ufe0f#csgo #cs2 #cs2overpass #cs2",
-                    "description": ""
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT16S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "4538",
-                "likeCount": "58",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "rVrz1_189KTBDQ-mjJrUwVQ--o0",
+            "etag": "Sv4RwdkJ_JwaxB7x4RHO9sAeNbg",
             "id": "Nc-MWl2CSRI",
             "snippet": {
                 "publishedAt": "2026-06-24T22:00:36Z",
@@ -1093,15 +1406,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2942",
-                "likeCount": "97",
+                "viewCount": "3594",
+                "likeCount": "128",
                 "favoriteCount": "0",
-                "commentCount": "3"
+                "commentCount": "4"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "jmtDD1Fwi4hZ_aBRYNuCV6pl2vk",
+            "etag": "wWT0wLvDA1BrAEw3MWkT_KDRlFE",
             "id": "1Y0Gl9_dLgw",
             "snippet": {
                 "publishedAt": "2026-06-24T21:36:47Z",
@@ -1155,15 +1468,77 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2317",
-                "likeCount": "166",
+                "viewCount": "2524",
+                "likeCount": "181",
                 "favoriteCount": "0",
                 "commentCount": "19"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "njdpmoYjS4GLo1ccEkhDOw2jZB0",
+            "etag": "diwycHC2qOPQlNzD9PMpD9ewu94",
+            "id": "DmfSLfb4YTU",
+            "snippet": {
+                "publishedAt": "2026-06-24T21:18:20Z",
+                "channelId": "UCIfsJcLaMpjdGBNcBXYK9rQ",
+                "title": "Amur cat CS2 #cs2 #cat #ohnepixel #opencase #cs2skins #cs2clips",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DmfSLfb4YTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DmfSLfb4YTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DmfSLfb4YTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DmfSLfb4YTU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DmfSLfb4YTU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Amur",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "lt",
+                "localized": {
+                    "title": "Amur cat CS2 #cs2 #cat #ohnepixel #opencase #cs2skins #cs2clips",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "514",
+                "likeCount": "32",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FiO-HhKpmZisfK4Px-VQjfWPOK4",
             "id": "ktsElVxrbdw",
             "snippet": {
                 "publishedAt": "2026-06-24T20:26:41Z",
@@ -1222,15 +1597,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "8954",
-                "likeCount": "329",
+                "viewCount": "10676",
+                "likeCount": "431",
                 "favoriteCount": "0",
-                "commentCount": "6"
+                "commentCount": "7"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "nC__iyG4ZUnoBfoXvPQAHKzKFWY",
+            "etag": "NZoSYBGURmklGiAvf_VRYLi7Lmw",
             "id": "UL1PtejKuBs",
             "snippet": {
                 "publishedAt": "2026-06-24T20:25:24Z",
@@ -1328,15 +1703,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3719",
-                "likeCount": "58",
+                "viewCount": "4002",
+                "likeCount": "63",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "DDEqOO0uxEZtNkRr3Vsiyqve0BA",
+            "etag": "R-oc4H2QHOHgN0x7YRP3aoYOIgE",
             "id": "8jkRstA8fXA",
             "snippet": {
                 "publishedAt": "2026-06-24T19:52:11Z",
@@ -1401,10 +1776,10 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "13752",
-                "likeCount": "553",
+                "viewCount": "20935",
+                "likeCount": "814",
                 "favoriteCount": "0",
-                "commentCount": "22"
+                "commentCount": "30"
             }
         },
         {
@@ -1508,69 +1883,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "xeqLa-GUq9HmMWt2vPjdOzE1i-w",
-            "id": "k4_nTKqA6J4",
-            "snippet": {
-                "publishedAt": "2026-06-24T19:07:21Z",
-                "channelId": "UCa5-JDLt5EBb9T1N1wnUA2g",
-                "title": "ultima zi #shorts #cs2",
-                "description": "ultima zi... #ziua86 #glovehunt #cs2videos #gamingro #cs2",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/k4_nTKqA6J4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/k4_nTKqA6J4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/k4_nTKqA6J4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/k4_nTKqA6J4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/k4_nTKqA6J4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "phantommy13",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "ro",
-                "localized": {
-                    "title": "ultima zi #shorts #cs2",
-                    "description": "ultima zi... #ziua86 #glovehunt #cs2videos #gamingro #cs2"
-                },
-                "defaultAudioLanguage": "ro"
-            },
-            "contentDetails": {
-                "duration": "PT50S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "1601",
-                "likeCount": "16",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "_w1n1kHtrs3MX0TSM2IGYmpL0sY",
+            "etag": "DgRR6vIx12wYN_AI9XdBlFdTC18",
             "id": "a8UFVYhQrOc",
             "snippet": {
                 "publishedAt": "2026-06-24T19:00:35Z",
@@ -1624,15 +1937,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "19001",
-                "likeCount": "964",
+                "viewCount": "26188",
+                "likeCount": "1216",
                 "favoriteCount": "0",
-                "commentCount": "9"
+                "commentCount": "12"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "MMkebj906feBynN2oQqPbtj4eJw",
+            "etag": "dkzlwoh0gSp-0PNORHObQT4_2PE",
             "id": "QWIjcJXRhSo",
             "snippet": {
                 "publishedAt": "2026-06-24T18:43:30Z",
@@ -1690,15 +2003,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2679",
-                "likeCount": "20",
+                "viewCount": "2843",
+                "likeCount": "23",
                 "favoriteCount": "0",
                 "commentCount": "1"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "8y15yHXZluZJ-wOaqQ5GJfuJigk",
+            "etag": "QrWOS0w9gje3QaEwTDBN1z8F7jw",
             "id": "l8vSDwQbDUE",
             "snippet": {
                 "publishedAt": "2026-06-24T18:04:26Z",
@@ -1780,7 +2093,7 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1350",
+                "viewCount": "1363",
                 "likeCount": "11",
                 "favoriteCount": "0",
                 "commentCount": "0"
@@ -1788,7 +2101,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "-VqEjl-bx8lD-a69IZMS-XgGsMM",
+            "etag": "z0iUMjOhIMf6DVdx1BYMN_esmmw",
             "id": "kC-kSxEIx8A",
             "snippet": {
                 "publishedAt": "2026-06-24T17:43:19Z",
@@ -1842,15 +2155,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1808",
-                "likeCount": "44",
+                "viewCount": "1828",
+                "likeCount": "45",
                 "favoriteCount": "0",
                 "commentCount": "5"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "whR9hvlbPZwa_I7nzNUcZfFBQfE",
+            "etag": "buIvHMPq2JaNFvjREnPaUOyWQxY",
             "id": "wRu0_y36XeU",
             "snippet": {
                 "publishedAt": "2026-06-24T17:42:57Z",
@@ -1932,15 +2245,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "447",
-                "likeCount": "7",
+                "viewCount": "477",
+                "likeCount": "6",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "1Kn_ks6xlJTagW7tR6TFctDzKDM",
+            "etag": "YbsfxSFN4JA2F_ddDNbfV7rc0DI",
             "id": "80h_4bm8oRg",
             "snippet": {
                 "publishedAt": "2026-06-24T17:36:55Z",
@@ -1994,15 +2307,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3857",
-                "likeCount": "220",
+                "viewCount": "4463",
+                "likeCount": "292",
                 "favoriteCount": "0",
                 "commentCount": "5"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "me58B-kK02jwpTS_CVllq9j8wD4",
+            "etag": "LmwJp2KIkccDsbcVl2wlc4wO4J4",
             "id": "Ps5bUNPkgnc",
             "snippet": {
                 "publishedAt": "2026-06-24T17:30:11Z",
@@ -2056,15 +2369,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3066",
-                "likeCount": "186",
+                "viewCount": "3287",
+                "likeCount": "196",
                 "favoriteCount": "0",
                 "commentCount": "16"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "F0Ge7y27O5H-LyTpoI8vjCP4kMw",
+            "etag": "2ZHhfS4FG3E1UKgxdx1l6BL8Y8I",
             "id": "Vmp70VZ-7mU",
             "snippet": {
                 "publishedAt": "2026-06-24T17:18:59Z",
@@ -2178,15 +2491,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "2715",
-                "likeCount": "162",
+                "viewCount": "2931",
+                "likeCount": "171",
                 "favoriteCount": "0",
                 "commentCount": "1"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "NQKvcLVPKCCWPDM-vPGQjk-HcOE",
+            "etag": "TTvBvEG4pzRwnhiZzERth57gQOw",
             "id": "1nX_dsIJq8o",
             "snippet": {
                 "publishedAt": "2026-06-24T16:47:48Z",
@@ -2240,15 +2553,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "992",
-                "likeCount": "21",
+                "viewCount": "1303",
+                "likeCount": "26",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "25HxH3wSGvoFuTlifnGvpjf705w",
+            "etag": "1-FYBsljsNGh13qOHeHqjNlDDWs",
             "id": "lVl3l-pSjNo",
             "snippet": {
                 "publishedAt": "2026-06-24T16:45:59Z",
@@ -2313,10 +2626,10 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "27837",
-                "likeCount": "1395",
+                "viewCount": "30872",
+                "likeCount": "1749",
                 "favoriteCount": "0",
-                "commentCount": "2"
+                "commentCount": "3"
             }
         },
         {
@@ -2413,7 +2726,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "BWOihpKHofAgxG6JjSOZLT-BPV4",
+            "etag": "xV-MqdBEDE4Egj3LeW2_UII0bbU",
             "id": "PolGm2uzsjU",
             "snippet": {
                 "publishedAt": "2026-06-24T16:42:04Z",
@@ -2504,8 +2817,8 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3046",
-                "likeCount": "74",
+                "viewCount": "3203",
+                "likeCount": "85",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
@@ -2574,7 +2887,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "1s8VYzeb0LhJvXMCkzpE31_J0fw",
+            "etag": "mmIIG7r-fg6oQqMpfrT_eRAA6rw",
             "id": "YBcuVlJSVfU",
             "snippet": {
                 "publishedAt": "2026-06-24T16:10:33Z",
@@ -2628,15 +2941,77 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "7002",
-                "likeCount": "210",
+                "viewCount": "7581",
+                "likeCount": "238",
                 "favoriteCount": "0",
                 "commentCount": "11"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "jU6g6avLtpGLQmLbSCDL8WjMEKo",
+            "etag": "R-NGj5X5KId3vMA7lgCLljNn1SI",
+            "id": "BWNMzLiTmxk",
+            "snippet": {
+                "publishedAt": "2026-06-24T16:01:20Z",
+                "channelId": "UCPhpkWVUZMRJQFOec_eCeHA",
+                "title": "\u0417\u0430\u0442\u0440\u043e\u043b\u043b\u0438\u043b \u0410\u041b\u042c\u0422\u0423\u0428\u041a\u0423 1 \u043d\u0430 1!  #cs2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BWNMzLiTmxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BWNMzLiTmxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BWNMzLiTmxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BWNMzLiTmxk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BWNMzLiTmxk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "poseidonskiy",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ru",
+                "localized": {
+                    "title": "\u0417\u0430\u0442\u0440\u043e\u043b\u043b\u0438\u043b \u0410\u041b\u042c\u0422\u0423\u0428\u041a\u0423 1 \u043d\u0430 1!  #cs2",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "ru"
+            },
+            "contentDetails": {
+                "duration": "PT21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9180",
+                "likeCount": "125",
+                "favoriteCount": "0",
+                "commentCount": "2"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xa9tJOidxiNVMpwNSv4naEs8g-A",
             "id": "XtSeoxkKczs",
             "snippet": {
                 "publishedAt": "2026-06-24T15:59:26Z",
@@ -2704,15 +3079,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1737",
-                "likeCount": "45",
+                "viewCount": "1934",
+                "likeCount": "47",
                 "favoriteCount": "0",
-                "commentCount": "9"
+                "commentCount": "10"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ASHc8LroXGpkHGSmC6I21moHMs0",
+            "etag": "KumjiUGzR2iQN8vAh6ttC0KlClo",
             "id": "FHgqOLUBGqE",
             "snippet": {
                 "publishedAt": "2026-06-24T15:43:52Z",
@@ -2773,15 +3148,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "6631",
-                "likeCount": "133",
+                "viewCount": "7000",
+                "likeCount": "139",
                 "favoriteCount": "0",
                 "commentCount": "1"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Gjuae-K5zOVdmsvtU8DPNXFEAuw",
+            "etag": "QsCUEa5a8K5UUatmMh6pI2Wmjng",
             "id": "4fDl28gBnNY",
             "snippet": {
                 "publishedAt": "2026-06-24T15:34:10Z",
@@ -2835,15 +3210,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "5311",
-                "likeCount": "73",
+                "viewCount": "5984",
+                "likeCount": "88",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "7MP9N8DFZwTMFaJTSb6nEY4t4Zg",
+            "etag": "GXptooJTegiRkGMKqhb_g7tZJWs",
             "id": "lRNjjwzXOno",
             "snippet": {
                 "publishedAt": "2026-06-24T15:32:52Z",
@@ -2897,15 +3272,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1009",
-                "likeCount": "20",
+                "viewCount": "1116",
+                "likeCount": "23",
                 "favoriteCount": "0",
                 "commentCount": "0"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "oX3LRTUV0JWWN51rOZxa5WABP_Y",
+            "etag": "eEM4KiAb6UAm0ItlxfA8VV0izrI",
             "id": "qxSSmkmaQGY",
             "snippet": {
                 "publishedAt": "2026-06-24T15:31:11Z",
@@ -2959,10 +3334,10 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "20362",
-                "likeCount": "445",
+                "viewCount": "22057",
+                "likeCount": "531",
                 "favoriteCount": "0",
-                "commentCount": "15"
+                "commentCount": "18"
             }
         },
         {
@@ -3029,7 +3404,7 @@
         },
         {
             "kind": "youtube#video",
-            "etag": "4ZfqcUbESs5QVS9W6F024mWw7yk",
+            "etag": "yJ9efmL9AJchIn--D2QY1Wg94kE",
             "id": "QI-E04jfpmQ",
             "snippet": {
                 "publishedAt": "2026-06-24T15:16:38Z",
@@ -3090,15 +3465,102 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "3242",
-                "likeCount": "56",
+                "viewCount": "3282",
+                "likeCount": "65",
+                "favoriteCount": "0",
+                "commentCount": "3"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "UClv9OJL-H_gWtQ4LOU7h3hEJ1g",
+            "id": "bSuLOQFPtkE",
+            "snippet": {
+                "publishedAt": "2026-06-24T15:01:57Z",
+                "channelId": "UCfxktmxp_yhLvImtm3INq6A",
+                "title": "20.00 de YT VE K\u0130CK DE YAYINDAYIM. #counterstrike #twitch #gaming #cs2 #cs2overpass",
+                "description": "ABONE OLMAYI VE BE\u011eENMEY\u0130 UNUTMAYIN \ud83d\udca5\u200b\ud83d\udca5\u200b\n\nSOSYAL MEDYA HESAPLARIM\n\n\u0130NSTAGRAM \u2764\ufe0f\ud83e\uddf8\ninstagram.com/alijohncb\n\nK\u0130CK \ud83d\udfe9\nkick.com/alijohncb\n\n\u200b YouTube \ud83c\udf80\u200b \nhttps://www.youtube.com/@AliJohnCB\u200b \n\nBA\u011eI\u015e G\u00d6NDERMEK \u0130STERSEN \ud83d\udcb8\ud83d\udcb8\nhttps://donate.bynogame.com/alijohncb\n\nHERG\u00dcZ D\u00dcZENL\u0130 19.00 20.00 C\u0130VARLARI YT VE K\u0130CK \u00dcZER\u0130NDEN YAYINDAYIM KA\u00c7IRMAMAK \u0130\u00c7\u0130N ABONE OLUP B\u0130LD\u0130R\u0130MLER\u0130 A\u00c7MAYI UNUTMAYIN",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bSuLOQFPtkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bSuLOQFPtkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bSuLOQFPtkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bSuLOQFPtkE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bSuLOQFPtkE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AliJohnCB",
+                "tags": [
+                    "game",
+                    "oyun",
+                    "cs2",
+                    "csgo",
+                    "pubg",
+                    "valorant",
+                    "live",
+                    "yay\u0131n",
+                    "cs2moment",
+                    "espor",
+                    "AliJohn",
+                    "AliJohnCB",
+                    "Alicb",
+                    "JOHNCB",
+                    "johnCB",
+                    "L\u0130VE",
+                    "YAYIN",
+                    "YTYAYIN",
+                    "KE\u015eFET",
+                    "fyp",
+                    "seriler b\u00f6l\u00fcmler",
+                    "faceit",
+                    "rank"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "tr",
+                "localized": {
+                    "title": "20.00 de YT VE K\u0130CK DE YAYINDAYIM. #counterstrike #twitch #gaming #cs2 #cs2overpass",
+                    "description": "ABONE OLMAYI VE BE\u011eENMEY\u0130 UNUTMAYIN \ud83d\udca5\u200b\ud83d\udca5\u200b\n\nSOSYAL MEDYA HESAPLARIM\n\n\u0130NSTAGRAM \u2764\ufe0f\ud83e\uddf8\ninstagram.com/alijohncb\n\nK\u0130CK \ud83d\udfe9\nkick.com/alijohncb\n\n\u200b YouTube \ud83c\udf80\u200b \nhttps://www.youtube.com/@AliJohnCB\u200b \n\nBA\u011eI\u015e G\u00d6NDERMEK \u0130STERSEN \ud83d\udcb8\ud83d\udcb8\nhttps://donate.bynogame.com/alijohncb\n\nHERG\u00dcZ D\u00dcZENL\u0130 19.00 20.00 C\u0130VARLARI YT VE K\u0130CK \u00dcZER\u0130NDEN YAYINDAYIM KA\u00c7IRMAMAK \u0130\u00c7\u0130N ABONE OLUP B\u0130LD\u0130R\u0130MLER\u0130 A\u00c7MAYI UNUTMAYIN"
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "contentDetails": {
+                "duration": "PT55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1377",
+                "likeCount": "28",
                 "favoriteCount": "0",
                 "commentCount": "2"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "lAkjxTsjtaHVcPoqxy3ZEGziiBg",
+            "etag": "NDzuflu5Pmn2buX8K_BEgIDy6Zc",
             "id": "lyfDihVK7aM",
             "snippet": {
                 "publishedAt": "2026-06-24T15:00:14Z",
@@ -3195,10 +3657,10 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "5330",
-                "likeCount": "170",
+                "viewCount": "5540",
+                "likeCount": "181",
                 "favoriteCount": "0",
-                "commentCount": "11"
+                "commentCount": "12"
             }
         },
         {
@@ -3297,433 +3759,6 @@
                 "likeCount": "9",
                 "favoriteCount": "0",
                 "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "E2Ix13dXMJGHSOLitJivGpurAKw",
-            "id": "9OlhtCxrCYc",
-            "snippet": {
-                "publishedAt": "2026-06-24T15:00:00Z",
-                "channelId": "UCuXwcxFSgaezNe-F2r1A2kQ",
-                "title": "\u0421\u0410\u041c\u042b\u0419 \u0418\u041c\u0411\u041e\u0412\u042b\u0419 \u0411\u0410\u0413 \u0412 CS2! #cs2 #\u043a\u04412",
-                "description": "\u0421\u0410\u041c\u042b\u0419 \u0418\u041c\u0411\u041e\u0412\u042b\u0419 \u0411\u0410\u0413 \u0412 CS2\n\n\ud83d\udcac \u0422\u0413 \u041a\u0410\u041d\u0410\u041b - t.me/pluxurycs2\n\ud83d\udcda \u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e  - t.me/pluxury01\n\ud83c\udfae Steam - https://steamcommunity.com/id/pluxuryy/\n\n\ud83d\udcd0 \u0425\u0435\u0448\u0442\u0435\u0433\u0438:\n #\u043a\u0441 #cs2 #cs2clips #lifehacks #shorts \n\n\u2757\u0422\u0435\u0433\u0438\u2757:\nPluxury,Pluxury CSGO,\u041f\u043b\u0443\u043a\u0448\u0443\u0440\u0438 \u041a\u0421,\u041a\u0421 2,\u0418\u0413\u0420\u042b,\u0412\u0418\u0414\u0415\u041e\u0418\u0413\u0420\u042b,SHORTS,CS 2 SHORTS,\u041a\u0421 2 \u0428\u041e\u0420\u0422\u0421,\u041a\u0421 2 SHORTS,CS 2 TIK TOK,\u041a\u0421\u0413\u041e \u0422\u0418\u041a \u0422\u041e\u041a,Counter strike,\u041b\u0443\u0447\u0448\u0435\u0435,\u0412\u0438\u0434\u0435\u043e\u0438\u0433\u0440\u044b,Games 2022,\u0418\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e\u0435,\u0442\u043e\u043f 5,\u0442\u043e\u043f 10,\u0420\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u043c \u043c\u0438\u0444\u044b \u0432 cs 2,\u041c\u0438\u0444\u044b \u043a\u0441 2,\u0421\u0435\u043a\u0440\u0435\u0442\u044b \u0432 \u043a\u0441\u0433\u043e,\u041c\u0438\u0444\u044b,\u0424\u0430\u043a\u0442\u044b \u043a\u0441\u0433\u043e,\u041f\u0430\u0441\u0445\u0430\u043b\u043a\u0438 \u0432 \u043a\u0441 2,\u041b\u0430\u0439\u0444\u0445\u0430\u043a\u0438 \u043a\u0441 2,\u041d\u043e\u0432\u044b\u0435 \u043c\u0438\u0444\u044b \u0432 \u043a\u0441 2,\u0413\u043b\u043e\u0431\u0430\u043b,CSGO 2,\u0421\u0420\u0410\u0412\u041d\u0415\u041d\u0418\u0415 \u0421\u041a\u0418\u041d\u041e\u0412 \u0412 \u041a\u0421\u0413\u041e \u0418 \u041a\u04212,\u0421\u041a\u0418\u041d\u042b \u0412 \u041a\u04212,\u041e\u0422\u041b\u0418\u0427\u0418\u0415 \u0421\u041a\u0418\u041d\u041e\u0412 \u0412 \u041a\u04212 \u0418 \u041a\u0421\u0413\u041e,\u041e\u0411\u041d\u041e\u0412\u041b\u0415\u041d\u0418\u0415 \u0412 \u041a\u04212,NUKE CS2,OFFICE CS2,\u041d\u041e\u0412\u042b\u0415 \u041a\u0410\u0420\u0422\u042b \u0412 \u041a\u04212, pluxury, \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u043a\u04412, \u041f\u041b\u0410\u041a\u0420\u0415\u0428\u0418 \u041a\u04212",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9OlhtCxrCYc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9OlhtCxrCYc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9OlhtCxrCYc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/9OlhtCxrCYc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/9OlhtCxrCYc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "pluxuryCS2",
-                "tags": [
-                    "\u043a\u0441 2",
-                    "\u043a\u0441",
-                    "cs2",
-                    "cs 2",
-                    "Counter-Strike 2",
-                    "pluxury",
-                    "pluxurycs2",
-                    "pluxury cs2",
-                    "shorts",
-                    "shorts cs2",
-                    "\u0441\u043a\u0438\u043d\u044b",
-                    "\u0441\u043a\u0438\u043d\u044b \u043a\u04412",
-                    "\u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0438",
-                    "\u043a\u043e\u043c\u0431\u043e \u043a\u04412",
-                    "\u043a\u043e\u043c\u0431\u043e",
-                    "\u043b\u0443\u0447\u0448\u0438\u0435 \u0441\u043a\u0438\u043d\u044b \u043a\u04412",
-                    "\u043d\u043e\u0436\u0438 \u043a\u04412",
-                    "\u0442\u043e\u043f \u043d\u043e\u0436\u0435\u0439 \u043a\u04412",
-                    "\u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043a\u04412",
-                    "\u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u043a\u04412",
-                    "\u0441\u043e\u0447\u0435\u0442\u0430\u043d\u0438\u044f \u043a\u04412",
-                    "\u043d\u0430\u043a\u043b\u0435\u0439\u043a\u0438 \u043a\u04412",
-                    "\u0431\u0440\u0435\u043b\u043a\u0438 \u043a\u0441 2",
-                    "\u0431\u0440\u0435\u043b\u043e\u043a\u0438 \u043a\u0441 2",
-                    "\u0441\u0442\u0438\u043a\u0435\u0440\u044b \u043a\u04412",
-                    "pluxury shorts",
-                    "\u0448\u043e\u0440\u0442\u0441",
-                    "\u043f\u043b\u0443\u043a\u0448\u0435\u0440\u0438",
-                    "\u043f\u043b\u0430\u043a\u0448\u0435\u0440\u0438",
-                    "\u041f\u041b\u0410\u041a\u0428\u0415\u0420\u0418 \u041a\u04212",
-                    "\u043f\u043b\u0443"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "ru",
-                "localized": {
-                    "title": "\u0421\u0410\u041c\u042b\u0419 \u0418\u041c\u0411\u041e\u0412\u042b\u0419 \u0411\u0410\u0413 \u0412 CS2! #cs2 #\u043a\u04412",
-                    "description": "\u0421\u0410\u041c\u042b\u0419 \u0418\u041c\u0411\u041e\u0412\u042b\u0419 \u0411\u0410\u0413 \u0412 CS2\n\n\ud83d\udcac \u0422\u0413 \u041a\u0410\u041d\u0410\u041b - t.me/pluxurycs2\n\ud83d\udcda \u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e  - t.me/pluxury01\n\ud83c\udfae Steam - https://steamcommunity.com/id/pluxuryy/\n\n\ud83d\udcd0 \u0425\u0435\u0448\u0442\u0435\u0433\u0438:\n #\u043a\u0441 #cs2 #cs2clips #lifehacks #shorts \n\n\u2757\u0422\u0435\u0433\u0438\u2757:\nPluxury,Pluxury CSGO,\u041f\u043b\u0443\u043a\u0448\u0443\u0440\u0438 \u041a\u0421,\u041a\u0421 2,\u0418\u0413\u0420\u042b,\u0412\u0418\u0414\u0415\u041e\u0418\u0413\u0420\u042b,SHORTS,CS 2 SHORTS,\u041a\u0421 2 \u0428\u041e\u0420\u0422\u0421,\u041a\u0421 2 SHORTS,CS 2 TIK TOK,\u041a\u0421\u0413\u041e \u0422\u0418\u041a \u0422\u041e\u041a,Counter strike,\u041b\u0443\u0447\u0448\u0435\u0435,\u0412\u0438\u0434\u0435\u043e\u0438\u0433\u0440\u044b,Games 2022,\u0418\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e\u0435,\u0442\u043e\u043f 5,\u0442\u043e\u043f 10,\u0420\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u043c \u043c\u0438\u0444\u044b \u0432 cs 2,\u041c\u0438\u0444\u044b \u043a\u0441 2,\u0421\u0435\u043a\u0440\u0435\u0442\u044b \u0432 \u043a\u0441\u0433\u043e,\u041c\u0438\u0444\u044b,\u0424\u0430\u043a\u0442\u044b \u043a\u0441\u0433\u043e,\u041f\u0430\u0441\u0445\u0430\u043b\u043a\u0438 \u0432 \u043a\u0441 2,\u041b\u0430\u0439\u0444\u0445\u0430\u043a\u0438 \u043a\u0441 2,\u041d\u043e\u0432\u044b\u0435 \u043c\u0438\u0444\u044b \u0432 \u043a\u0441 2,\u0413\u043b\u043e\u0431\u0430\u043b,CSGO 2,\u0421\u0420\u0410\u0412\u041d\u0415\u041d\u0418\u0415 \u0421\u041a\u0418\u041d\u041e\u0412 \u0412 \u041a\u0421\u0413\u041e \u0418 \u041a\u04212,\u0421\u041a\u0418\u041d\u042b \u0412 \u041a\u04212,\u041e\u0422\u041b\u0418\u0427\u0418\u0415 \u0421\u041a\u0418\u041d\u041e\u0412 \u0412 \u041a\u04212 \u0418 \u041a\u0421\u0413\u041e,\u041e\u0411\u041d\u041e\u0412\u041b\u0415\u041d\u0418\u0415 \u0412 \u041a\u04212,NUKE CS2,OFFICE CS2,\u041d\u041e\u0412\u042b\u0415 \u041a\u0410\u0420\u0422\u042b \u0412 \u041a\u04212, pluxury, \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u043a\u04412, \u041f\u041b\u0410\u041a\u0420\u0415\u0428\u0418 \u041a\u04212"
-                },
-                "defaultAudioLanguage": "zxx"
-            },
-            "contentDetails": {
-                "duration": "PT26S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "1144",
-                "likeCount": "14",
-                "favoriteCount": "0",
-                "commentCount": "1"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "7yhFlunr1aF_wsNGYTVnKUHph6w",
-            "id": "-or7bR_vaxI",
-            "snippet": {
-                "publishedAt": "2026-06-24T14:36:18Z",
-                "channelId": "UCUrX-uI9URdFuEoFC9SFHCw",
-                "title": "Typowy czat g\u0142osowy w cs2. Strimy twitch: dyziek05 #dc #viral #cs2 #czat #dyziek05",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-or7bR_vaxI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-or7bR_vaxI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-or7bR_vaxI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/-or7bR_vaxI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/-or7bR_vaxI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "DyziekShoty",
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "pl",
-                "localized": {
-                    "title": "Typowy czat g\u0142osowy w cs2. Strimy twitch: dyziek05 #dc #viral #cs2 #czat #dyziek05",
-                    "description": ""
-                },
-                "defaultAudioLanguage": "pl"
-            },
-            "contentDetails": {
-                "duration": "PT20S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "5981",
-                "likeCount": "154",
-                "favoriteCount": "0",
-                "commentCount": "6"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "nEqeXFG5npvYKgNDDSJvzYZ1xvg",
-            "id": "23wpIttXKZg",
-            "snippet": {
-                "publishedAt": "2026-06-24T14:27:07Z",
-                "channelId": "UCdpYPxqna4bBy6XGSDFd_QA",
-                "title": "ANUBIS: \u0422\u041e\u041f 5 \u0418\u0414\u0415\u0419 \u041d\u0410 \u0424\u041e\u0420\u0421 \u0420\u0410\u0423\u041d\u0414 | CS2  #cs2 #anubis  #anubiscs2  #faceit",
-                "description": "\u0422\u0413 \u0441 \u0438\u043d\u0441\u0442\u0430\u043a\u0430\u043c\u0438 \u0438 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0430\u043c\u0438 - https://t.me/panas2k",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/23wpIttXKZg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/23wpIttXKZg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/23wpIttXKZg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/23wpIttXKZg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/23wpIttXKZg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "panas",
-                "tags": [
-                    "panas",
-                    "cs2",
-                    "\u0433\u0430\u0439\u0434\u044b \u043a\u04412",
-                    "guide cs2",
-                    "anubis cs2",
-                    "anubis",
-                    "smoke anubis",
-                    "\u043a\u0430\u043a \u0438\u0433\u0440\u0430\u0442\u044c \u0430\u043d\u0443\u0431\u0438\u0441",
-                    "\u043a\u04412 \u0430\u043d\u0443\u0431\u0438\u0441",
-                    "\u0438\u043d\u0441\u0442\u0430 \u0441\u043c\u043e\u043a\u0438 \u0430\u043d\u0443\u0431\u0438\u0441",
-                    "\u043b\u0443\u0447\u0448\u0438\u0435 \u0433\u0440\u0430\u043d\u0430\u0442\u044b \u043d\u0430 \u0430\u043d\u0443\u0431\u0438\u0441\u0435",
-                    "cs2 anubis smokes",
-                    "cs2 anubis insta smokes",
-                    "\u0430\u043d\u0443\u0431\u0438\u0441 \u0441\u043c\u043e\u043a\u0438 \u043a\u04412",
-                    "cs2 smokes guide",
-                    "panas cs2",
-                    "\u043a\u0430\u043a \u043a\u0438\u0434\u0430\u0442\u044c \u0441\u043c\u043e\u043a\u0438 \u043d\u0430 \u0430\u043d\u0443\u0431\u0438\u0441\u0435",
-                    "\u043b\u0443\u0447\u0448\u0438\u0435 \u0441\u043c\u043e\u043a\u0438 \u0430\u043d\u0443\u0431\u0438\u0441",
-                    "\u0430\u043d\u0443\u0431\u0438\u0441 \u0437\u0430 \u043a\u0442",
-                    "\u043a\u04412 \u0444\u0438\u0448\u043a\u0438"
-                ],
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "ru",
-                "localized": {
-                    "title": "ANUBIS: \u0422\u041e\u041f 5 \u0418\u0414\u0415\u0419 \u041d\u0410 \u0424\u041e\u0420\u0421 \u0420\u0410\u0423\u041d\u0414 | CS2  #cs2 #anubis  #anubiscs2  #faceit",
-                    "description": "\u0422\u0413 \u0441 \u0438\u043d\u0441\u0442\u0430\u043a\u0430\u043c\u0438 \u0438 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0430\u043c\u0438 - https://t.me/panas2k"
-                },
-                "defaultAudioLanguage": "ru"
-            },
-            "contentDetails": {
-                "duration": "PT57S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "2445",
-                "likeCount": "73",
-                "favoriteCount": "0",
-                "commentCount": "0"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Bjd3Rd7nNheN9lE66V0SSHtl1EE",
-            "id": "KENgXqAoX5M",
-            "snippet": {
-                "publishedAt": "2026-06-24T14:09:11Z",
-                "channelId": "UCTS6XUsAgjRravbmeZIfP6g",
-                "title": "There's no way they build this! \ud83d\ude33#cs2 #csgo #dust2",
-                "description": "https://www.twitch.tv/dima_wallhacks\n\n\n\n#dimawallhacks #cs2 #csgo #ohnepixel",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KENgXqAoX5M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KENgXqAoX5M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KENgXqAoX5M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/KENgXqAoX5M/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/KENgXqAoX5M/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "dima_goonwalls",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "ro",
-                "localized": {
-                    "title": "There's no way they build this! \ud83d\ude33#cs2 #csgo #dust2",
-                    "description": "https://www.twitch.tv/dima_wallhacks\n\n\n\n#dimawallhacks #cs2 #csgo #ohnepixel"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT56S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "4385",
-                "likeCount": "217",
-                "favoriteCount": "0",
-                "commentCount": "1"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "2BL2goGdwGZf_-01rhALU_Yw_mk",
-            "id": "aBggrMozmCw",
-            "snippet": {
-                "publishedAt": "2026-06-24T13:44:44Z",
-                "channelId": "UCc_KI-fq7xM4cqZEONsSH3Q",
-                "title": "The most honest thief  #cs2 #csgo",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aBggrMozmCw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aBggrMozmCw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aBggrMozmCw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/aBggrMozmCw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/aBggrMozmCw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "DimaLoop",
-                "categoryId": "20",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "lt",
-                "localized": {
-                    "title": "The most honest thief  #cs2 #csgo",
-                    "description": ""
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT37S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "30309",
-                "likeCount": "1290",
-                "favoriteCount": "0",
-                "commentCount": "15"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Ig8Dufw2feeTR37TGKr6sEPvX-s",
-            "id": "KUOtbq4OYpQ",
-            "snippet": {
-                "publishedAt": "2026-06-24T13:30:55Z",
-                "channelId": "UCxgyVxrx1P8JwP5wxXJbDIw",
-                "title": "xQc Tries Giving Comms On Counter-Strike \ud83d\udc80 #xqc #cs #cs2 #csgo #counterstrike",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KUOtbq4OYpQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KUOtbq4OYpQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KUOtbq4OYpQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/KUOtbq4OYpQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/KUOtbq4OYpQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "xQc Fan Page",
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "xQc Tries Giving Comms On Counter-Strike \ud83d\udc80 #xqc #cs #cs2 #csgo #counterstrike",
-                    "description": ""
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT12S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "statistics": {
-                "viewCount": "25324",
-                "likeCount": "174",
-                "favoriteCount": "0",
-                "commentCount": "1"
             }
         }
     ],

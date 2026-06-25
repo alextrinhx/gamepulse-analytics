@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "5LAinwjfHuPHP1N6pf2-O-oGufI",
+    "etag": "XUwKvtaOQvIQe0Q5UpKEWTaPf60",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -8,6 +8,40 @@
         "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EBj48HZjG7jEGn6JEw1rZTBOrzU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TdD-l-dKMMY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T05:54:55Z",
+                "channelId": "UCvvG-GtfMgbrf0CdwPNSGnw",
+                "title": "\u30a2\u30d7\u30c7\u3067\u65b0\u305f\u306a\u8a13\u7df4\u304c\u8ffd\u52a0\u3010APEX LEGENDS\u3011#shorts #apexlegends #apex",
+                "description": "\u30a2\u30d7\u30c7\u3067\u65b0\u305f\u306a\u8a13\u7df4\u304c\u8ffd\u52a0\u3010APEX LEGENDS\u3011#shorts #apexlegends #apex.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TdD-l-dKMMY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TdD-l-dKMMY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TdD-l-dKMMY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u306a\u3052\u3063\u3068",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T05:54:55Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "26Wd1FTDRAPyvAQgTWg8xAnG3XE",
@@ -44,7 +78,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "1Ik4JkUMp4h7Vyj0m1hEN-ReUpI",
+            "etag": "xEtgG3QpJV9cWpe1HPnMIID1eS4",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "vWBc1hfwrEo"
@@ -112,6 +146,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "JpiChwLBrCgnqJkuZ_WfGgVmCjM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BrH_xvSZxx4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T03:06:07Z",
+                "channelId": "UCNiaRBTrr6WkIuXxxEQWWVA",
+                "title": "Apex legends 1v3 solo clutch #apexlegends #apex #gaming",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BrH_xvSZxx4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BrH_xvSZxx4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BrH_xvSZxx4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UnemployedGaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T03:06:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "Chu3GRR_a-IBYqwHN37stad5n0s",
             "id": {
                 "kind": "youtube#video",
@@ -146,7 +214,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "8n7-esqa7OHA6ZHFDqiyC7VNWm8",
+            "etag": "JVWUnuuEdv3Ll7IvMey6dvOQg7E",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "cTKq6Z1gQMc"
@@ -316,7 +384,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "95eTNXJriElJXHcIMVuCK8WhzC0",
+            "etag": "Ev1-wHvD8f8-UnQUU-EFta532O8",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "-J4RUg6sHJk"
@@ -384,7 +452,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "tPVa0rDONLQ7AzPrvepsDcb3u0k",
+            "etag": "RGvTupiQMx5Dn4XrM0kdQ25z_m4",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "Y49vgpI1GNk"
@@ -1336,40 +1404,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "spGvhqwn7mHU5Irpg8LzWF6bLeI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "r-xcPW2GnbA"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T13:00:29Z",
-                "channelId": "UCSe91_6HaK0sXk0V57sdB7A",
-                "title": "NEW PATHFINDER IS INSANE - 20 KILLS GAME (Apex Legends Gameplay)",
-                "description": "I hope you like this video. Please like and subscribe to the channel! Solo Pathfinder and movement drops 20 kills bomb and 4000 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/r-xcPW2GnbA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/r-xcPW2GnbA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/r-xcPW2GnbA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "supernoob exe",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T13:00:29Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "anAYtOAD3LD3IVUTvIXsOyvwKLk",
             "id": {
                 "kind": "youtube#video",
@@ -1642,70 +1676,36 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "XqNaZC0x5c012d6I16jnZhaURaw",
+            "etag": "6O2TdzGfDZdfEifbbebKU07_cSU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "LAeJbOr32uU"
+                "videoId": "5PBZbWhXrss"
             },
             "snippet": {
-                "publishedAt": "2026-06-24T10:51:52Z",
-                "channelId": "UCjhPznem4LFfUT7-nlkySZw",
-                "title": "\ud83d\udd34 MnK Predator Ranked GRIND LIVE \ud83d\udd34 Going for top 100 Apex Legends Season 29",
-                "description": "Become a MEMBER! https://www.youtube.com/channel/UCjhPznem4LFfUT7-nlkySZw/join Season 29 Apex Legends Gameplay.",
+                "publishedAt": "2026-06-24T10:47:19Z",
+                "channelId": "UCKPcfoKBK8ue8_2HHsqgiuA",
+                "title": "Everything YOU Need to Know About the NEW  Apex Legends Split 2 Update! #apexlegends #apex #gaming",
+                "description": "Apex Legends Split 2 Update is Finally Here!",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/LAeJbOr32uU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5PBZbWhXrss/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/LAeJbOr32uU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5PBZbWhXrss/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/LAeJbOr32uU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5PBZbWhXrss/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "The Man Vita",
+                "channelTitle": "gl1tcheddd",
                 "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T10:51:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "s00nQ9vFUaJusJ_9Xx3JupNRV10",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "K7PulN7_NBI"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T10:00:32Z",
-                "channelId": "UC3d9RNhlCbYHub9VjAWqrJQ",
-                "title": "\u3010APEX LEGENDS\u30112026\u5e74\u3000\u30cf\u30a4\u30e9\u30a4\u30c8\u3000No.71\u3000#apexlegends #apex #fpsgames #\u30a8\u30fc\u30da\u30c3\u30af\u30b9\u30ec\u30b8\u30a7\u30f3\u30ba #\u30a8\u30fc\u30da\u30c3\u30af\u30b9",
-                "description": "apexlegends #apex #fpsgames #\u30a8\u30fc\u30da\u30c3\u30af\u30b9\u30ec\u30b8\u30a7\u30f3\u30ba #\u30a8\u30fc\u30da\u30c3\u30af\u30b9.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/K7PulN7_NBI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/K7PulN7_NBI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/K7PulN7_NBI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "pore",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T10:00:32Z"
+                "publishTime": "2026-06-24T10:47:19Z"
             }
         }
     ]

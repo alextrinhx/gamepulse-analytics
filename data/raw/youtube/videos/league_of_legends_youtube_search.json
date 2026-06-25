@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "WD99O85gkvqwuefxtYWfg3Zzxlo",
+    "etag": "YD7yOoEbZ1V2eFKJ9aaJTCo6t_I",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -10,7 +10,75 @@
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "DDoZzo5PYIIvVmGodi09gmDZpFI",
+            "etag": "Rgdlp71P4hbHsv7h4VW-zYTSdDU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dNt5ojPh4x4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T05:55:59Z",
+                "channelId": "UCR4Y097khf-Pe0FDo51ClyQ",
+                "title": "El problema de la ciclovoltaica en league of legends.",
+                "description": "En la temporada 14 adem\u00e1s de eliminar los mejores \u00edtems de la historia, a\u00f1adi\u00f3 \u00edtems much\u00edsimo m\u00e1s desbalanceados que los ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dNt5ojPh4x4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dNt5ojPh4x4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dNt5ojPh4x4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Furydamu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T05:55:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oOzPaEq8N5LaTS1WZRsyTipKMUs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PwxJPOPQDv4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T05:07:22Z",
+                "channelId": "UC4pfrtrBN0e78Ur5mTU53jg",
+                "title": "Shyvana is THE BEST jungle in LOW ELO | League Of Legends",
+                "description": "Shyvana is THE BEST jungle in LOW ELO use this pick for some easy freelo #leagueoflegends #jungle #season2026.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PwxJPOPQDv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PwxJPOPQDv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PwxJPOPQDv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "InfinityShields",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T05:07:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CzulB_V0_QLqIfIRV76l2woeeW0",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "mXkqMFofP14"
@@ -44,7 +112,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "7jiUOvkG5Go2yXKslAumtqHUFfA",
+            "etag": "JZQKjArgr8qB017Dorm27KXxBN8",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "40HP7j_ZkSM"
@@ -418,7 +486,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "DJa7GRhRuVKjhtOw1wT3RVldDLM",
+            "etag": "GdWohN9XnxO-RAr14LJrPyO93bY",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "6Lzc2bXFrok"
@@ -1064,40 +1132,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "NXu2c1egtKBaK6fhWh7QfVe7do8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "xo1eIxuuXlQ"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T18:36:08Z",
-                "channelId": "UC4EAtfYWh1Px1kI-ckbBQDA",
-                "title": "League of Legends: Darius Pentakill #2",
-                "description": "League of legends, Darius pentakill.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/xo1eIxuuXlQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/xo1eIxuuXlQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/xo1eIxuuXlQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Hegemon",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T18:36:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "ikaNn7GAAkTDuhzH7FuxigCGHRE",
             "id": {
                 "kind": "youtube#video",
@@ -1132,7 +1166,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "OOwf0j9pX1DTC1UuC0Yb84smMRY",
+            "etag": "XfCiLveWFBT7TFpYy_o4ChzdjNE",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "qUGvwGoB-H8"
@@ -1264,40 +1298,6 @@
                 "channelTitle": "iReaz - League of Legends",
                 "liveBroadcastContent": "none",
                 "publishTime": "2026-06-24T18:00:24Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "JMNQBgrcmvxmkHLEbB55BYf_T2Q",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Jv0LN3k2AEk"
-            },
-            "snippet": {
-                "publishedAt": "2026-06-24T17:48:26Z",
-                "channelId": "UCAjoGUDYfAwj6eTzfZ19Iqg",
-                "title": "2 Autos &amp; Ultimate | League of Legends",
-                "description": "2 Autos & Ultimate | League of Legends.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Jv0LN3k2AEk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Jv0LN3k2AEk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Jv0LN3k2AEk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "CAMSSY",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-06-24T17:48:26Z"
             }
         },
         {
@@ -1540,7 +1540,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "I6lFOtMrWY5dhrj8QVNtiPrVqXI",
+            "etag": "YTmLA4pfUWrTUmcDv8gCNW8yvPU",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "xZ-UB3fiNJk"
@@ -1676,7 +1676,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ScZc6RxqVVojtqo0CJssE5nqUgg",
+            "etag": "1vJFvZ-TjDEKUbtawBEi13ZvGYc",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "frlL6ipSeN4"

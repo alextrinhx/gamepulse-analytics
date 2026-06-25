@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parents[1]
-RAW_YOUTUBE_DIR = BASE_DIR / "data" / "raw" / "youtube"
+RAW_YOUTUBE_DIR = BASE_DIR / "data" / "raw" / "youtube" / "videos"
 PROCESSED_YOUTUBE_DIR = BASE_DIR / "data" / "processed" / "youtube"
 
 PROCESSED_YOUTUBE_DIR.mkdir(parents=True, exist_ok=True)

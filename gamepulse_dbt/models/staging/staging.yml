@@ -1,0 +1,41 @@
+version: 2
+
+models:
+  - name: stg_youtube_videos
+    description: "Flattened YouTube video detail records from the Snowflake RAW layer."
+
+    columns:
+      - name: video_id
+        description: "Unique YouTube video identifier."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: channel_id
+        description: "YouTube channel that published the video."
+        data_tests:
+          - not_null
+
+      - name: view_count
+        description: "Current YouTube view count."
+
+      - name: published_at
+        description: "Timestamp when the video was published."
+
+  - name: stg_youtube_creators
+    description: "Flattened YouTube creator/channel records from the Snowflake RAW layer."
+
+    columns:
+      - name: channel_id
+        description: "Unique YouTube channel identifier."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: creator_name
+        description: "YouTube channel display name."
+        data_tests:
+          - not_null
+
+      - name: subscriber_count
+        description: "Channel subscriber count reported by YouTube."

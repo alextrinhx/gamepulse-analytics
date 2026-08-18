@@ -30,13 +30,23 @@ def main():
     print("==============================")
 
     run_step(
-        "Extract YouTube Data",
+        "Extract YouTube Videos",
         [sys.executable, "-m", "api.youtube.extract_videos"]
     )
 
     run_step(
-        "Transform YouTube Data",
+        "Extract YouTube Creators",
+        [sys.executable, "-m", "api.youtube.extract_creators"]
+    )
+
+    run_step(
+        "Transform YouTube Videos",
         [sys.executable, "etl/transform_youtube.py"]
+    )
+
+    run_step(
+        "Transform YouTube Creators",
+        [sys.executable, "etl/transform_youtube_creators.py"]
     )
 
     run_step(

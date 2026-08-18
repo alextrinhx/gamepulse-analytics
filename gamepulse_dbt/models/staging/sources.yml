@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: gamepulse_raw
+    database: GAMEPULSE
+    schema: RAW
+
+    tables:
+      - name: youtube_videos_raw
+      - name: youtube_creators_raw

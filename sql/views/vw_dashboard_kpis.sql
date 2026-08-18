@@ -1,6 +1,4 @@
-DROP VIEW IF EXISTS vw_dashboard_kpis;
-
-CREATE VIEW vw_dashboard_kpis AS
+CREATE OR REPLACE VIEW vw_dashboard_kpis AS
 SELECT
     (SELECT COUNT(*) FROM dim_game) AS games_tracked,
     (SELECT COUNT(*) FROM dim_creator) AS creators_tracked,

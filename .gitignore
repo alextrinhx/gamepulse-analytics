@@ -1,5 +1,11 @@
-# Environment variables
+# Environment / secrets
 .env
+.venv/
+
+# dbt generated files
+gamepulse_dbt/target/
+gamepulse_dbt/logs/
+gamepulse_dbt/dbt_packages/
 
 # Python
 __pycache__/
@@ -15,7 +21,14 @@ venv/
 .vscode/
 
 # Raw API data
-data/raw/*.json
+data/raw/**/*.json
+
+# Processed data
+data/processed/**/*.csv
+
+# Logs
+logs/
 
 # macOS
 .DS_Store
+

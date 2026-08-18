@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 
 from api.youtube.client import get_youtube_client
+from cloud.s3 import upload_file_to_s3
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 RAW_VIDEO_DIR = BASE_DIR / "data" / "raw" / "youtube" / "videos"
@@ -54,6 +55,9 @@ def save_json(data, filename: str):
         json.dump(data, file, indent=4)
 
     print(f"Saved data to {output_path}")
+
+    s3_key = f"youtube/creators/{filename}"
+    upload_file_to_s3(str(output_path), s3_key)
 
 
 def main():

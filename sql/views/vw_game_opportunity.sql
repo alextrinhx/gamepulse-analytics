@@ -1,6 +1,4 @@
-DROP VIEW IF EXISTS vw_game_opportunity;
-
-CREATE VIEW vw_game_opportunity AS
+CREATE OR REPLACE VIEW vw_game_opportunity AS
 WITH game_metrics AS (
     SELECT
         g.game_name,
@@ -50,8 +48,8 @@ SELECT
     ) AS gamepulse_index,
 
     CASE
-        WHEN (audience_score * 0.60 + engagement_score * 0.40) >= 75 THEN 'Increase coverage'
-        WHEN (audience_score * 0.60 + engagement_score * 0.40) >= 50 THEN 'Maintain coverage'
+        WHEN (audience_score * 0.60 + engagement_score * 0.40) >= 70 THEN 'Increase Coverage'
+        WHEN (audience_score * 0.60 + engagement_score * 0.40) >= 35 THEN 'Watch Closely'
         ELSE 'Monitor'
     END AS recommendation,
 

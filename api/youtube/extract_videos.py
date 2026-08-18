@@ -2,6 +2,7 @@ import json
 import re
 from pathlib import Path
 from api.youtube.client import get_youtube_client
+from cloud.s3 import upload_file_to_s3
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 RAW_DIR = BASE_DIR / "data" / "raw" / "youtube" / "videos"
@@ -21,18 +22,31 @@ def load_games():
         return json.load(file)
 
 
-def search_videos(query: str, max_results: int = 50):
+def search_videos(query: str, max_results: int = 200):
     youtube = get_youtube_client()
 
-    request = youtube.search().list(
-        part="snippet",
-        q=query,
-        type="video",
-        maxResults=max_results,
-        order="date"
-    )
+    all_items = []
+    page_token = None
 
-    return request.execute()
+    while len(all_items) < max_results:
+        request = youtube.search().list(
+            part="snippet",
+            q=query,
+            type="video",
+            order="date",
+            maxResults=min(50, max_results - len(all_items)),
+            pageToken=page_token
+        )
+
+        response = request.execute()
+        all_items.extend(response.get("items", []))
+
+        page_token = response.get("nextPageToken")
+
+        if not page_token:
+            break
+
+    return {"items": all_items}
 
 
 def get_video_details(video_ids: list[str]):
@@ -40,13 +54,24 @@ def get_video_details(video_ids: list[str]):
         return {"items": []}
 
     youtube = get_youtube_client()
+    all_items = []
 
-    request = youtube.videos().list(
-        part="snippet,statistics,contentDetails",
-        id=",".join(video_ids)
-    )
+    # Remove duplicates while preserving order
+    unique_video_ids = list(dict.fromkeys(video_id for video_id in video_ids if video_id))
 
-    return request.execute()
+    # YouTube videos.list accepts at most 50 video IDs per request
+    for start in range(0, len(unique_video_ids), 50):
+        video_id_batch = unique_video_ids[start:start + 50]
+
+        request = youtube.videos().list(
+            part="snippet,statistics,contentDetails",
+            id=",".join(video_id_batch)
+        )
+
+        response = request.execute()
+        all_items.extend(response.get("items", []))
+
+    return {"items": all_items}
 
 
 def save_json(data, filename: str):
@@ -57,6 +82,9 @@ def save_json(data, filename: str):
 
     print(f"Saved data to {output_path}")
 
+    s3_key = f"youtube/videos/{filename}"
+    upload_file_to_s3(str(output_path), s3_key)
+
 
 def extract_for_game(game: dict):
     game_name = game["game_name"]
@@ -65,7 +93,7 @@ def extract_for_game(game: dict):
 
     print(f"Extracting YouTube data for {game_name}...")
 
-    search_response = search_videos(query, max_results=50)
+    search_response = search_videos(query, max_results=200)
 
     video_ids = [
         item["id"]["videoId"]

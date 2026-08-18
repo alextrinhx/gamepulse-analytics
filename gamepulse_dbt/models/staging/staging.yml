@@ -39,3 +39,15 @@ models:
 
       - name: subscriber_count
         description: "Channel subscriber count reported by YouTube."
+  
+  - name: stg_video_game_map
+    description: "Maps each YouTube video to every GamePulse game search in which it appeared."
+
+    columns:
+      - name: video_id
+        data_tests:
+          - not_null
+
+      - name: game_name
+        data_tests:
+          - not_null

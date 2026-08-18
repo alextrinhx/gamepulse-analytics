@@ -5,60 +5,66 @@ with videos as (
 
 ),
 
-labeled as (
+video_games as (
 
-    select
-        video_id,
-        channel_id,
-        channel_title,
-        title,
-        published_at,
-        view_count,
-        like_count,
-        comment_count,
-
-        -- Derive the game from the raw source filename
-        replace(
-            replace(
-                split_part(source_file, '/', -1),
-                '_youtube_video_details.json',
-                ''
-            ),
-            '_',
-            ' '
-        ) as game_name
-
-    from videos
+    select *
+    from {{ ref('stg_video_game_map') }}
 
 ),
 
-game_metrics as (
+game_content as (
+
+    select
+        vg.game_name,
+        v.video_id,
+        v.channel_id,
+        v.view_count as audience_size,
+
+        coalesce(v.like_count, 0)
+        + coalesce(v.comment_count, 0) as interaction_count,
+
+    case
+        when v.view_count >= 100 then
+            (
+                coalesce(v.like_count, 0)
+                + coalesce(v.comment_count, 0)
+            ) / v.view_count::float
+        else null
+    end as engagement_rate
+
+    from videos v
+    inner join video_games vg
+        on v.video_id = vg.video_id
+
+),
+
+game_performance as (
 
     select
         game_name,
 
-        count(distinct video_id) as videos_analyzed,
-        count(distinct channel_id) as creators_analyzed,
+        count(video_id) as content_count,
 
-        sum(view_count) as total_views,
-        avg(view_count) as avg_views,
+        sum(audience_size) as total_audience,
 
-        sum(like_count) as total_likes,
-        sum(comment_count) as total_comments,
+        round(
+            avg(audience_size),
+            2
+        ) as avg_audience,
 
-        avg(
-            case
-                when view_count > 0
-                then (coalesce(like_count, 0) + coalesce(comment_count, 0))
-                     / view_count::float
-                else null
-            end
+        sum(interaction_count) as total_interactions,
+
+        round(
+            avg(engagement_rate),
+            4
         ) as avg_engagement_rate
 
-    from labeled
+    from game_content
+
     group by game_name
 
 )
 
 select *
-from game_metrics
+from game_performance
+order by total_audience desc

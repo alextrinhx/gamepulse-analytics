@@ -1,0 +1,129 @@
+version: 2
+
+models:
+  - name: mart_game_performance
+    description: "Aggregates GamePulse YouTube content performance by game."
+
+    columns:
+      - name: game_name
+        description: "Game associated with the collected YouTube content."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: content_count
+        description: "Number of observed YouTube videos associated with the game."
+        data_tests:
+          - not_null
+
+      - name: total_audience
+        description: "Total YouTube views across observed videos for the game."
+        data_tests:
+          - not_null
+
+      - name: avg_engagement_rate
+        description: "Average engagement rate across qualifying videos with at least 100 views."
+
+
+  - name: mart_game_opportunity
+    description: "Scores game-level opportunities using normalized audience and engagement metrics."
+
+    columns:
+      - name: game_name
+        description: "Game being evaluated."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: audience_score
+        description: "Audience performance normalized against the strongest game."
+        data_tests:
+          - not_null
+
+      - name: engagement_score
+        description: "Engagement performance normalized against the strongest game."
+        data_tests:
+          - not_null
+
+      - name: gamepulse_index
+        description: "Composite opportunity score using 60% audience score and 40% engagement score."
+        data_tests:
+          - not_null
+
+      - name: recommendation
+        description: "GamePulse recommendation category based on the GamePulse Index."
+        data_tests:
+          - not_null
+
+
+  - name: mart_creator_performance
+    description: "Aggregates YouTube performance metrics for creators observed in the GamePulse dataset."
+
+    columns:
+      - name: channel_id
+        description: "Unique YouTube channel identifier."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: creator_name
+        description: "YouTube creator or channel name."
+        data_tests:
+          - not_null
+
+      - name: subscriber_count
+        description: "Current subscriber count reported by the YouTube API."
+
+      - name: content_count
+        description: "Number of observed videos from the creator."
+        data_tests:
+          - not_null
+
+      - name: total_audience
+        description: "Total views across the creator's observed videos."
+        data_tests:
+          - not_null
+
+      - name: avg_engagement_rate
+        description: "Average engagement rate across qualifying observed videos."
+
+
+  - name: mart_creator_intelligence
+    description: "Ranks qualified creators for potential content partnerships using creator impact and confidence scoring."
+
+    columns:
+      - name: creator_name
+        description: "YouTube creator or channel name."
+        data_tests:
+          - not_null
+
+      - name: subscriber_count
+        description: "YouTube subscriber count. Creator Intelligence includes creators with at least 10,000 subscribers."
+        data_tests:
+          - not_null
+
+      - name: content_count
+        description: "Number of observed GamePulse videos. Creator Intelligence includes creators with at least three observed videos."
+        data_tests:
+          - not_null
+
+      - name: view_efficiency_score
+        description: "Normalized score measuring average audience relative to subscriber count."
+
+      - name: engagement_score
+        description: "Normalized score based on the creator's average engagement rate."
+
+      - name: confidence_score
+        description: "Evidence-strength score based on subscriber count and observed content volume."
+        data_tests:
+          - not_null
+
+      - name: creator_impact_score
+        description: "Confidence-adjusted composite creator score."
+        data_tests:
+          - not_null
+
+      - name: recommendation
+        description: "Creator partnership recommendation based on impact score and supporting evidence."
+        data_tests:
+          - not_null

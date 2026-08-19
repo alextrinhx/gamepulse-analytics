@@ -40,7 +40,17 @@ scored as (
 )
 
 select
-    game_name,
+    CASE game_name
+        WHEN 'minecraft' THEN 'Minecraft'
+        WHEN 'counter strike 2' THEN 'Counter Strike 2'
+        WHEN 'fortnite' THEN 'Fortnite'
+        WHEN 'marvel rivals' THEN 'Marvel Rivals'
+        WHEN 'valorant' THEN 'Valorant'
+        WHEN 'rocket league' THEN 'Rocket League'
+        WHEN 'league of legends' THEN 'League of Legends'
+        WHEN 'apex legends' THEN 'Apex Legends'
+        ELSE INITCAP(game_name)
+    END AS game_name,
     content_count,
     total_audience,
     round(avg_audience, 2) as avg_audience,

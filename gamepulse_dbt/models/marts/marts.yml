@@ -127,3 +127,33 @@ models:
         description: "Creator partnership recommendation based on impact score and supporting evidence."
         data_tests:
           - not_null
+
+
+  - name: mart_platform_summary
+    description: "Summarizes content, audience, and engagement performance by platform."
+
+    columns:
+      - name: platform_name
+        description: "Content platform represented in GamePulse."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: content_count
+        description: "Number of observed content items on the platform."
+        data_tests:
+          - not_null
+
+      - name: total_audience
+        description: "Total views across observed content."
+        data_tests:
+          - not_null
+
+      - name: avg_audience
+        description: "Average views per observed content item."
+
+      - name: total_interactions
+        description: "Total likes and comments across observed content."
+
+      - name: avg_engagement_rate
+        description: "Average engagement rate across qualifying content with at least 100 views."

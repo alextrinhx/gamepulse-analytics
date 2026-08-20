@@ -148,7 +148,7 @@ YouTube API → Python → AWS S3 → Snowflake → dbt → Power BI
 
 The second version migrated the analytics workflow to a cloud-based architecture. Raw data is stored in S3, Snowflake provides the warehouse layer, and dbt manages transformations and analytics models.
 
-This migration preserved the original business logic while separating ingestion, storage, transformation, and visualization into distinct layers.
+This migration retained the core analytics approach while refining parts of the scoring and filtering logic and separating ingestion, storage, transformation, and visualization into distinct layers.
 
 ## Key Takeaways
 
